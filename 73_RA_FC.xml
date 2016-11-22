@@ -71,7 +71,7 @@
           <titlePart type="main">La Recherche de l’absolu</titlePart>
         </docTitle>
       </titlePage>
-      <div>
+      <div type="dedication">
         <salute><pb n="308" xml:id="p308"/>À MADAME JOSÉPHINE DELANNOY, NÉE DOUMERC</salute>
         <p><hi rend="i">Madame, fasse Dieu que cette œuvre ait une vie plus longue que la mienne ; la reconnaissance que je vous ai vouée, et qui, je l’espère, égalera votre affection presque maternelle pour moi, subsisterait alors au-delà du terme fixé à nos sentiments. Ce sublime privilége d’étendre ainsi par la vie de nos œuvres l’existence du cœur suffirait, s’il y avait jamais une certitude à cet égard, pour consoler de toutes les peines qu’il coûte à ceux dont l’ambition est de le conquérir. Je répéterai donc : Dieu le veuille</hi> !
         </p>

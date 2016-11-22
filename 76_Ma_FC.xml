@@ -68,7 +68,7 @@
           <titlePart type="main">Les Marana</titlePart>
         </docTitle>
       </titlePage>
-      <div>
+      <div type="dedication">
         <salute><pb n="220" xml:id="p220"/>À MADAME LA COMTESSE MERLIN</salute>
       </div>
     </front>

@@ -68,7 +68,7 @@
           <titlePart type="main">L’Enfant maudit</titlePart>
         </docTitle>
       </titlePage>
-      <div>
+      <div type="dedication">
         <salute><pb n="129" xml:id="p129"/>À MADAME LA BARONNE JAMES ROTHSCHILD</salute>
       </div>
     </front>

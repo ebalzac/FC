@@ -91,7 +91,7 @@
           <titlePart type="main">Sur Catherine de Médicis</titlePart>
         </docTitle>
       </titlePage>
-      <div>
+      <div type="dedication">
         <salute><pb n="468" xml:id="p468"/>À MONSIEUR LE MARQUIS DE PASTORET, <lb/>Membre de
           l’Académie des Beaux-Arts.</salute>
         <p><hi rend="i">Quand on songe au nombre étonnant de volumes publiés pour rechercher le

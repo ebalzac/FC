@@ -68,7 +68,7 @@
           <titlePart type="main">El Verdugo</titlePart>
         </docTitle>
       </titlePage>
-      <div>      <salute><pb n="330" xml:id="p330"/>À MARTINEZ DE LA ROSA</salute></div>
+      <div type="dedication">      <salute><pb n="330" xml:id="p330"/>À MARTINEZ DE LA ROSA</salute></div>
     </front>
     <body>
       <div>

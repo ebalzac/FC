@@ -72,7 +72,7 @@
           <titlePart type="main">Le Chef-d'œuvre inconnu</titlePart>
         </docTitle>
       </titlePage>
-      <div>
+      <div type="dedication">
         <salute><pb n="283" xml:id="p283"/>À UN LORD</salute>
         <p>……………………………………………………………………<lb/>……………………………………………………………………<lb/>……………………………………………………………………<lb/>……………………………………………………………………<lb/>……………………………………………………………………</p>
         <dateline>1845</dateline>

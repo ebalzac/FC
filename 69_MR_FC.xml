@@ -73,7 +73,7 @@
           <titlePart type="main">Melmoth réconcilié</titlePart>
         </docTitle>
       </titlePage>
-      <div>
+      <div type="dedication">
         <salute><pb n="241" xml:id="p241"/>À MONSIEUR LE GÉNÉRAL BARON DE POMMEREUL,</salute>
         <salute>En souvenir de la constante amitié qui a lié nos pères et qui subsiste entre les fils.</salute>
         <signed><hi rend="sc">De Balzac</hi>.</signed>

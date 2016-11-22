@@ -68,7 +68,7 @@
           <titlePart type="main">Les Proscrits</titlePart>
         </docTitle>
       </titlePage>
-      <div>
+      <div type="dedication">
         <salute><pb n="79" xml:id="p79"/>ALMÆ SORORI</salute>
       </div>
     </front>

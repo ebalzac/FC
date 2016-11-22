@@ -68,7 +68,7 @@
           <titlePart type="main">Séraphîta</titlePart>
         </docTitle>
       </titlePage>
-      <div>
+      <div type="dedication">
         <salute><pb n="208" xml:id="p208"/>À MADAME ÉVELINE DE HANSKA,
         <lb/>NÉE COMTESSE RZEWUSKA.</salute>
       <p rend="i">Madame, voici l’œuvre que vous m’avez demandée : je suis heureux,

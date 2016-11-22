@@ -84,7 +84,7 @@
           <titlePart type="main">Un drame au bord de la mer</titlePart>
         </docTitle>
       </titlePage>
-      <div>
+      <div type="dedication">
         <salute><pb n="340" xml:id="p340"/>À MADAME LA PRINCESSE CAROLINE GALLITZIN DE GENTHOD, <lb/>NÉE COMTESSE
           WALEWSKA</salute>
         <p rend="i">Hommage et souvenir de l’auteur.</p>

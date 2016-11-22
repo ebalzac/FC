@@ -65,7 +65,7 @@
           <titlePart type="main">Maître Cornélius</titlePart>
         </docTitle>
       </titlePage>
-      <div>
+      <div type="dedication">
         <salute><pb n="413" xml:id="p413"/>À MONSIEUR LE COMTE GEORGES MNISZECH</salute>
         <p><hi rend="i">Quelque</hi><hi rend="sc">jaloux</hi><hi rend="i"> pourrait croire en voyant briller à cette page un
           des plus vieux et plus illustres noms sarmates, que j’essaye, comme en

@@ -68,7 +68,7 @@
           <titlePart type="main">Adieu</titlePart>
         </docTitle>
       </titlePage>
-      <div>
+      <div type="dedication">
         <salute><pb n="275" xml:id="p275"/>AU PRINCE FRÉDÉRIC SCHWARZENBERG</salute>
       </div>
     </front>

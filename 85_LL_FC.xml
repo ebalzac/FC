@@ -68,7 +68,7 @@
           <titlePart type="main">Louis Lambert</titlePart>
         </docTitle>
       </titlePage>
-      <div>
+      <div type="dedication">
         <salute><pb n="109" xml:id="p109"/>DÉDICACE</salute>
         <p rend="i">Et nunc et semper dilectæ dicatum. </p>
       </div>

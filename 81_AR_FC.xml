@@ -84,7 +84,7 @@
           <titlePart type="main">L'Auberge rouge</titlePart>
         </docTitle>
       </titlePage>
-      <div>
+      <div type="dedication">
         <salute><pb n="359" xml:id="p359"/>À MONSIEUR LE MARQUIS DE CUSTINE</salute>
       </div>
     </front>

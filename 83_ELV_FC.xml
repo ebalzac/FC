@@ -75,7 +75,7 @@
           <titlePart type="main">L'Élixir de longue vie</titlePart>
         </docTitle>
       </titlePage>
-      <div>
+      <div type="dedication">
         <salute><pb n="391" xml:id="p391"/>AU LECTEUR</salute>
         <p><hi rend="i">Au début de la vie littéraire de l’auteur, un ami, mort depuislongtemps, lui
           donna le sujet de cette Étude, que plus tard il trouvadans un recueil publié vers le
