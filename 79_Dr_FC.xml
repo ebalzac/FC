@@ -93,7 +93,9 @@
     <body>
       <div>
         <head/>
-        <p>Les jeunes gens ont presque tous un compas avec lequel ils se
+        <p>        <figure>
+          <graphic url="images/balzac_67_001.jpg"/>
+        </figure>Les jeunes gens ont presque tous un compas avec lequel ils se
           plaisent à mesurer l’avenir ; quand leur volonté s’accorde avec la hardiesse de l’angle
           qu’ils ouvrent, le monde est à eux. Mais ce phénomène de la vie morale n’a lieu qu’à un
           certain âge. Cet âge, qui pour tous les hommes se trouve entre vingt-deux et vingt-huit
