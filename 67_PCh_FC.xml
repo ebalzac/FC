@@ -79,7 +79,11 @@
       <div>
         <head></head>
       <epigraph>
-        <p rend="center"><pb n="1" xml:id="p1">[$ill.]</p>
+        <p rend="center"><pb n="1" xml:id="p1">
+        <figure>
+          <graphic url="images/balzac_67_001.jpg"/>
+        </figure>
+        </p>
         <p><hi rend="sc">Sterne</hi> (<hi rend="i">Tristram Shandy</hi>, ch. CCCXXII).</p>
       </epigraph>
       <salute>
@@ -169,7 +173,11 @@
         <p>Le vieillard présenta son stylet à l’inconnu, qui le prit et tenta d’entamer la Peau à l’endroit où les paroles se trouvaient écrites ; mais, quand il eut enlevé une légère couche de cuir, les lettres y reparurent si nettes et tellement conformes à celles qui étaient imprimées sur la surface, que, pendant un moment, il crut n’en avoir rien ôté.</p>
         <p><pb n="26" xml:id="p26"/> – L’industrie du Levant a des secrets qui lui sont réellement particuliers, dit-il en regardant la sentence orientale avec une sorte d’inquiétude.</p>
         <p>– Oui, répondit le vieillard, il vaut mieux s’en prendre aux hommes qu’à Dieu !</p>
-        <p>Les paroles mystérieuses étaient disposées de la manière suivante : [$ill.]</p>
+        <p>Les paroles mystérieuses étaient disposées de la manière suivante : 
+        <figure>
+          <graphic url="images/balzac_67_026.jpg"/>
+        </figure>
+        </p>
         <p>Ce qui voulait dire en français :</p>
         <quote>
           <p rend="center">SI TU ME POSSÈDES, TU POSSÉDERAS TOUT.
