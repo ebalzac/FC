@@ -79,9 +79,9 @@
       <div>
         <head></head>
       <epigraph>
-        <p rend="center"><pb n="1" xml:id="p1">
+        <p rend="center"><pb n="1" xml:id="p1"/>
         <figure>
-          <graphic url="images/balzac_67_001.jpg"/>
+          <graphic url="67/balzac_FC67_001.jpg"/>
         </figure>
         </p>
         <p><hi rend="sc">Sterne</hi> (<hi rend="i">Tristram Shandy</hi>, ch. CCCXXII).</p>
@@ -89,8 +89,8 @@
       </div>
       <div type="dedication">
       <salute>
-        <label>———</label>À MONSIEUR SAVARY,<lb/>membre de l’académie des sciences.
-        <label>———</label></salute>
+        À MONSIEUR SAVARY,<lb/>membre de l’académie des sciences.
+        </salute>
 </div>
      </front>
     <body>
@@ -177,7 +177,7 @@
         <p>– Oui, répondit le vieillard, il vaut mieux s’en prendre aux hommes qu’à Dieu !</p>
         <p>Les paroles mystérieuses étaient disposées de la manière suivante : 
         <figure>
-          <graphic url="images/balzac_67_026.jpg"/>
+          <graphic url="67/balzac_FC67_026.jpg"/>
         </figure>
         </p>
         <p>Ce qui voulait dire en français :</p>
