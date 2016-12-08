@@ -5,22 +5,104 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
-      <titleStmt/>
-      <editionStmt/>
+      <titleStmt>
+        <title>Modeste Mignon</title>
+        <author key="Balzac, Honoré de (1799-1850)">Honoré de Balzac</author>
+        <principal>Andrea Del Lungo</principal>
+        <principal>Pierre Glaudes</principal>
+        <principal>Jean-Gabriel Ganascia</principal>
+        <editor>Maxime Perret</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Cette édition électronique de La Comédie humaine constitue la première édition en
+          ligne de l’œuvre de Balzac dans la version dite du « Furne corrigé », qui intègre les
+          corrections manuscrites apportées par l’auteur sur son exemplaire personnel de la première
+          édition de La Comédie humaine parue chez Furne de 1842 à 1847. Cette édition a été établie
+          dans le cadre du projet PHŒBUS, financé par l’Agence nationale de la recherche
+          (2015-2019).</edition>
+        <respStmt>
+          <name>Dimitri Julien</name>
+          <resp>Établissement du texte</resp>
+        </respStmt>
+        <respStmt>
+          <name>Maxime Perret</name>
+          <resp>Établissement du texte et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+        <respStmt>
+          <name>Jean-Denis Spinel</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>ALITHILA (Université Lille III)</publisher>
+        <publisher>CELLF (CNRS &amp; Université Paris IV Sorbonne)</publisher>
+        <publisher>LIP6 (Université Paris VI)</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p> Copyright © 2016 Université Charles-de-Gaulle Lille 3, agissant pour le projet ANR
+              « Projet d’hypertexte de l’œuvre de Balzac par l’utilisation de similarités »
+              (ci-après dénommé ANR Phœbus). </p>
+            <p> Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+              les bases de données (L341-1) est mise à disposition de la communauté scientifique
+              internationale par l’ANR Phœbus, selon les termes de la licence Creative Commons : «
+              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC
+              BY-NC-ND 3.0 FR) ». </p>
+            <p> Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+              de cette ressource électroniques comportera le nom de l’ANR Phœbus et surtout
+              l’adresse Internet de la ressource. </p>
+            <p> Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+              utilisation commerciale est interdite. </p>
+            <p> Pas de Modification : l’ANR Phœbus s’engage à améliorer et à corriger cette
+              ressource électronique, notamment en intégrant toutes les contributions extérieures,
+              la diffusion de versions modifiées de cette ressource n’est pas souhaitable. </p>
+          </licence>
+        </availability>
+        <idno>URL (à définir)</idno>
       </publicationStmt>
-      <sourceDesc/>
+      <sourceDesc>
+        <bibl><title>SCÈNES / DE LA / VIE PRIVÉE,</title> / TOME IV. / <title>Béatrix (dernière partie). – La Grande Bretêche. – Modeste Mignon. – Honorine. – Un début dans la vie.</title> / PARIS, / FURNE,
+          / RUE SAINT-ANDRÉ-DES-ARTS, 55 ; / J.-J. DUBOCHET ET CIE, / RUE DE SEINE, 33 ; / J. HETZEL
+          ET PAULIN, / RUE DE SEINE, 33. / <date>1845</date>, p. 113-345.</bibl>
+      </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <p>Le texte que nous donnons à lire a pour ambition d’être le plus proche de l’édition du
+        Furne : la ponctuation et l’orthographe ont été scrupuleusement respectées et sont conformes
+        aux habitudes de l’édition du XIXe siècle. Nous avons dès lors conservé la diversité des
+        formes ortho-typographiques de l’édition d’origine. Seules les coquilles manifestes ont été
+        corrigées et sont signalées en note. Il s’agissait de rendre accessible le texte de La
+        Comédie humaine dans son état du XIXe siècle, en tenant compte des corrections et
+        modifications apportées par l’auteur sur son exemplaire personnel.</p>
+    </encodingDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date when="1845">1845</date>
+      </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text>
     <front>
+      <titlePage>
+        <docAuthor>Honoré de Balzac</docAuthor>
+        <docTitle>
+          <titlePart type="main">La Comédie humaine</titlePart>
+          <titlePart type="sub">Études de mœurs</titlePart>
+          <titlePart type="sub">Scènes de la vie privée</titlePart>
+          <titlePart type="main">Modeste Mignon</titlePart>
+        </docTitle>
+      </titlePage>
       <div type="dedication">
         <salute><pb n="113" xml:id="p113"/> À UNE POLONAISE</salute>
         <p rend="i">Fille d’une terre esclave, ange par l’amour, démon par la fantaisie, enfant par
@@ -1665,6 +1747,9 @@
           Sainte-Chapelle. Au lieu de vérifier des comptes, il resta sous le coup de ses
           perplexités. – Elle n’a pas six millions, c’est évident, se disait-il ; mais la question
           n’est pas là… Six jours après, Modeste reçut la lettre suivante.</p>
+      </div>
+      <div>
+        <head/>
         <ab type="ornament">______</ab>
         <label>IV <lb/>À MADEMOISELLE O. D’ESTE-M.</label>
         <p>« Mademoiselle,</p>
@@ -1704,6 +1789,9 @@
           dire encore comme maintenant,</p>
         <salute>Votre servante,</salute>
         <signed>O. d’Este-M. »</signed>
+      </div>
+      <div>
+        <head/>
         <ab type="ornament">______</ab>
         <p><pb n="171" xml:id="p171"/> – Comme elle abuse de ses avantages, la petite personne !…
           s’écria de La Brière. Mais est-elle franche ? On n’a pas été pendant quatre ans le
@@ -2002,6 +2090,9 @@
           encore que vos confidences, pourvu qu’elles soient entières et vraies, suffiront au
           bonheur de</p>
         <signed>Votre O. d’Este-M. »</signed>
+      </div>
+      <div>
+        <head/>
         <ab type="ornament">______</ab>
         <p>– Mon Dieu ! suis-je donc amoureux déjà ? s’écria le jeune Référendaire qui s’aperçut
           d’être resté cette lettre à la main pendant une heure après l’avoir lue. Quel parti
@@ -2191,6 +2282,9 @@
         <p>J’attends vos ordres, monseigneur, et suis de grand cœur</p>
         <salute>Votre servante,</salute>
         <signed>O. d’Este-M. »</signed>
+      </div>
+      <div>
+        <head/>
         <ab type="ornament">______</ab>
         <label>X <lb/>à mademoiselle O. d’Este-M.</label>
         <p>« Tenez, vous êtes un démon, je vous aime, est-ce là ce que vous désiriez, fille
@@ -2234,6 +2328,9 @@
           /> ne m’écrivez plus, ou donnez-moi l’espérance ? que je vous entrevoie ou je quitte la
           partie. Faut-il vous dire adieu ? Me permettez-vous de signer</p>
         <signed>Votre ami ? »</signed>
+      </div>
+      <div>
+        <head/>
         <ab type="ornament">______</ab>
         <label>XI <lb/>à monsieur de Canalis</label>
         <p>« Quelle flatterie ! avec quelle rapidité le grave Anselme est devenu le beau Léandre ? À
@@ -2353,6 +2450,9 @@
         <p>Ne direz-vous pas : Elle est bien bavarde ! Autour de moi, tous disent : – Elle est bien
           taciturne, mademoiselle !</p>
         <signed>O. d’Este-M. »</signed>
+      </div>
+      <div>
+        <head/>
         <ab type="ornament">______</ab>
         <p>Ces lettres ont paru très-originales aux personnes à la bienveillance de qui la Comédie
           Humaine les doit ; mais leur admiration pour ce duel entre deux esprits croisant la plume,
@@ -2514,6 +2614,9 @@
           personnel, de quarante mille francs, est pour mes filles et ma femme, en attendant</p>
         <salute>Ton patron et ami,</salute>
         <signed>Charles Mignon. »</signed>
+      </div>
+      <div>
+        <head/>
         <p>– Ton père arrive, dit madame Mignon à sa fille.</p>
         <p>– À quoi vois-tu cela, maman ? demanda Modeste.</p>
         <p>– Il n’y a que cette nouvelle à nous apporter qui puisse faire courir Dumay.</p>
@@ -3146,6 +3249,9 @@
         <signed>Votre Modeste.</signed>
         <p><hi rend="i">P. S.</hi> – Surtout ne venez pas au Havre sans avoir obtenu l’agrément de
           mon père ; et, si vous m’aimez, vous saurez le trouver à son passage à Paris. »</p>
+      </div>
+      <div>
+        <head/>
         <ab type="ornament">______</ab>
         <p>– Que faites-vous donc à cette heure, mademoiselle Modeste ? demanda Dumay.</p>
         <p>– J’écris à mon père, répondit-elle au vieux soldat, n’avez-vous pas dit que vous partiez
@@ -6192,7 +6298,9 @@
         <p>Croyez bien, mon cher poète, que je n’en suis pas moins pour la vie,</p>
         <salute>Votre amie,</salute>
         <signed>Éléonore de M. »</signed>
-        <p/>
+      </div>
+      <div>
+        <head/>
         <p>– Tiens, Ernest, dit Canalis en jetant au nez de La Brière et à travers la table cette
           lettre qu’il reçut pendant le déjeuner, voici le deux millième billet doux que je reçois
           de cette femme, et il n’y a pas un <hi rend="i">tu</hi> ! L’illustre Éléonore ne s’est
