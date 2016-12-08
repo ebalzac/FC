@@ -2077,6 +2077,7 @@
             toute heure, dans dix ans comme demain, quoi que vous vouliez qu’il soit possible à
             l’homme de faire, ce sera fait dès que vous le demanderez à votre heureux serviteur,</p>
           <signed><hi rend="sc">Felipe Hénarez</hi>. »</signed>
+            <postscript>
           <p><hi rend="i">P.-S.</hi> Ma chère, avoue que les grands seigneurs savent aimer ! Quel
             bond de lion africain ! quelle ardeur contenue ! quelle foi ! quelle sincérité ! quelle
             grandeur d’âme dans l’abaissement ! Je me suis sentie petite et me suis demandé tout
@@ -2103,6 +2104,7 @@
             devant cette lettre comme une corde au feu. Prends ou ne prends pas tes deux camélias.
             Oui ou non, tue ou fais vivre ! Enfin, une voix me crie : Éprouve-le ! Aussi
             l’éprouverai-je !</p>
+            </postscript>
           </div>
         </div>
         <div>
@@ -2141,12 +2143,14 @@
           <dateline>Dimanche matin.</dateline>
           <p>Je n’ai dormi que très-peu, le matin. Il est midi. Je viens de faire écrire la lettre
             suivante par Griffith.</p>
-          <salute><hi rend="i">À Monsieur le baron de Macumer</hi>.</salute>
+            <quote>
+              <p rend="center"><hi rend="i">À Monsieur le baron de Macumer</hi></p>
           <p>Mademoiselle de Chaulieu me charge, monsieur le baron, de vous redemander la copie
             d’une lettre que lui a écrite une de ses amies, qui est de sa main et que vous avez
             emportée.</p>
           <p>Agréez, etc.</p>
-          <signed><hi rend="sc">Griffith</hi>.</signed>
+          <p rend="sc">Griffith.</p>
+            </quote>
           <p><pb n="69" xml:id="p69"/> Ma chère, Griffith est sortie, elle est allée rue
             Hillerin-Bertin, elle a fait remettre ce poulet à mon esclave qui m’a rendu sous
             enveloppe mon programme mouillé de larmes. Il a obéi. Oh ! ma chère, il devait y tenir !
