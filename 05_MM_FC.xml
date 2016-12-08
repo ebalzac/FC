@@ -2715,8 +2715,28 @@
           laquelle une expression délicieuse communiquait ce charme admiré dans les grands
           chanteurs, et qu’aucune typographie, fût-elle hiéroglyphique ou phonétique, ne pourra
           jamais rendre.</p>
-        <p>[$ill. #203-207 : à insérer dans le texte, et pas par l’intermédiaire de liens]</p>
-        <p><pb n="207" xml:id="p207"/> – C’est joli, dit madame Dumay, Modeste est musicienne, voilà
+        <pb n="203" xml:id="p203"/>
+        <figure>
+          <graphic url="05/balzac_05FC_203.jpg"/>
+        </figure>
+        <pb n="204" xml:id="p204"/>
+        <figure>
+          <graphic url="05/balzac_05FC_204.jpg"/>
+        </figure>
+        <pb n="205" xml:id="p205"/>
+        <figure>
+          <graphic url="05/balzac_05FC_205.jpg"/>
+        </figure>
+        <pb n="206" xml:id="p206"/>
+        <figure>
+          <graphic url="05/balzac_05FC_206.jpg"/>
+        </figure>
+        <pb n="207" xml:id="p207"/>
+        <figure>
+          <graphic url="05/balzac_05FC_207.jpg"/>
+        </figure>
+        <p>
+ – C’est joli, dit madame Dumay, Modeste est musicienne, voilà
           tout…</p>
         <p>– Elle a le diable au corps, s’écria le caissier à qui le soupçon de la mère entra dans
           le cœur et donna le frisson.</p>
