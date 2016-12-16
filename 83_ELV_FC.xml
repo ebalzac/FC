@@ -154,8 +154,6 @@
     </front>
     <body>
       <div>
-<<<<<<< HEAD
-      
       <p>Dans un somptueux palais de Ferrare, par une soirée d’hiver,
         don Juan Belvidéro régalait un prince de la maison d’Este. À cette époque, une fête était un
         merveilleux spectacle que de royales richesses ou la puissance d’un seigneur pouvaient
@@ -755,6 +753,8 @@
         cervelle, allait expirer.</p>
       <dateline>Paris, octobre 1830.</dateline>
 =======
+=======
+>>>>>>> origin/gh-pages
         <head/>
         <p>Dans un somptueux palais de Ferrare, par une soirée d’hiver, don Juan Belvidéro régalait
           un prince de la maison d’Este. À cette époque, une fête était un merveilleux spectacle que
@@ -1366,6 +1366,9 @@
         <p>– Imbécile, dis donc qu’il y a un Dieu ? cria la voix au moment où l’abbé, mordu dans sa
           cervelle, allait expirer.</p>
         <dateline>Paris, octobre 1830.</dateline>
+<<<<<<< HEAD
+>>>>>>> origin/gh-pages
+=======
 >>>>>>> origin/gh-pages
       </div>
     </body>
