@@ -87,12 +87,11 @@
       <div type="dedication">
         <salute><pb n="340" xml:id="p340"/>À MADAME LA PRINCESSE CAROLINE GALLITZIN DE GENTHOD, <lb/>NÉE COMTESSE
           WALEWSKA</salute>
-        <p rend="i">Hommage et souvenir de l’auteur.</p>
+        <p>Hommage et souvenir de l’auteur.</p>
       </div>
     </front>
     <body>
       <div>
-        
         <p>Les jeunes gens ont presque tous un compas avec lequel ils se
           plaisent à mesurer l’avenir ; quand leur volonté s’accorde avec la hardiesse de l’angle
           qu’ils ouvrent, le monde est à eux. Mais ce phénomène de la vie morale n’a lieu qu’à un
@@ -572,7 +571,7 @@
           tu vas m’aider à le mettre dans la barque. Elle s’y refusa. Cambremer l’y mit tout seul,
           l’y assujettit au fond, lui mit une pierre au cou, sortit du bassin, gagna la mer, et vint
           à la hauteur de la roche où il est. Pour lors, la pauvre mère, qui s’était fait passer ici
-          par son beau-frère, eut beau crier <hi rend="i">grâce</hi> ! ça servit comme une pierre à
+          par son beau-frère, eut beau crier <hi rend="i">grâce !</hi> ça servit comme une pierre à
           un loup. Il y avait de la lune, elle a vu le père jetant à la mer son fils qui lui tenait
           encore aux entrailles, et comme il n’y avait pas d’air, elle a entendu blouf ! puis rin,
           ni trace, ni bouillon ; la mer est d’une fameuse garde, allez ! En abordant là pour faire
@@ -628,8 +627,12 @@
           cette fièvre.</p>
         <p><pb n="358" xml:id="p358"/> Je vous ai donc écrit cette aventure, mon cher oncle ; mais
           elle m’a déjà fait perdre le calme que je devais à mes bains et à notre séjour ici.</p>
-        <dateline>Paris, 20 novembre 1834.</dateline>
       </div>
     </body>
+    <back>
+      <div>
+        <dateline>Paris, 20 novembre 1834.</dateline>
+      </div>
+    </back>
   </text>
 </TEI>

@@ -48,7 +48,7 @@
         <idno>URL (à définir)</idno>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>ÉTUDES / PHILOSOPHIQUES</title><title>Massimilla Doni. – Gambara. – L’Enfant
+        <bibl><title>ÉTUDES PHILOSOPHIQUES</title><title>Massimilla Doni. – Gambara. – L’Enfant
             maudit. – Les Marana. Adieu. – Le Réquisitionnaire. – El Verdugo. Un Drame au bord de la
             mer. – L’Auberge Rouge. – L’Élixir de longue vie. Maître Cornélius. Sur Catherine de
             Médicis (première partie) : le Martyr calviniste.</title> PARIS, FURNE, RUE
@@ -90,7 +90,6 @@
     </front>
     <body>
       <div>
-        
         <p>En je ne sais quelle année, un banquier de Paris, qui avait
           des relations commerciales très-étendues en Allemagne, fêtait un de ces amis, longtemps
           inconnus, que les négociants se font de place en place, par correspondance. Cet ami, chef
@@ -223,7 +222,7 @@
           sont saisis les hommes instruits à l’aspect des rives du Rhin et des paysages de la
           Souabe, entre Mayence et Cologne ; nature forte, riche, puissamment accidentée, pleine de
           souvenirs féodaux, verdoyante, mais qui garde en tous lieux les empreintes du fer et du
-          feu. Louis XIV et Turenne ont cautérisé cette ravissante contrée. Çà et là, des ruines
+          feu. Louis XIV et Turenne ont cautérisé cette ravissante contrée. Çà et là, des ruines
           attestent l’orgueil, ou peut-être la prévoyance du roi de Versailles qui fit abattre les
           admirables châteaux dont était jadis ornée cette partie de l’Allemagne. En voyant cette
           terre merveilleuse, couverte de forêts, et où le pittoresque du moyen âge abonde, mais en
@@ -1003,13 +1002,13 @@
           motifs de ma couardise. Je reçus, il y a deux mois, cette lettre séductrice.</p>
         <p>Je leur montrai l’invitation suivante, que je tirai de mon portefeuille.</p>
         <quote>
-          <p>« <hi rend="sc">Vous êtes prié d’assister aux convoi, service et enterrement de
+          <p><hi rend="sc">Vous êtes prié d’assister aux convoi, service et enterrement de
               monsieur JEAN-FRÉDÉRIC TAILLEFER, de la maison Taillefer et compagnie, ancien
               fournisseur des vivres-viandes, en son vivant chevalier de la Légion d’honneur et de
               l’Éperon d’or, capitaine de la première compagnie de grenadiers de la deuxième légion
               de la garde nationale de paris, décédé le premier mai dans son hôtel, rue joubert, et
               qui se feront à</hi>… etc.</p>
-          <p><hi rend="i">De la part de</hi>… etc. »</p>
+          <p><hi rend="i">De la part de</hi>… etc.</p>
         </quote>
         <p>– Maintenant, que faire ? repris-je. Je vais vous poser la question très-largement. Il y
           a bien certainement une mare de sang dans les terres de mademoiselle Taillefer, la
@@ -1042,8 +1041,12 @@
         <p>L’honnête homme, cette espèce de puritain assez semblable au père de Jenny Deans, de qui
           je vous ai déjà parlé, et qui jusque-là n’avait soufflé mot, haussa les épaules en me
           disant : – Imbécile, pourquoi lui as-tu demandé s’il était de Beauvais !</p>
-        <dateline>Paris, mai 1831.</dateline>
       </div>
     </body>
+    <back>
+      <div>
+        <dateline>Paris, mai 1831.</dateline>
+      </div>
+    </back>
   </text>
 </TEI>

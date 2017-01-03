@@ -89,7 +89,7 @@
           <p><pb n="315" xml:id="p315"/>« Tantôt ils lui voyaient, par un phénomène de vision ou de locomotion, abolir l’espace
             dans ses deux modes de Temps et de Distance, dont l’un est intellectuel et l’autre
             physique ».</p>
-          <bibl><title>Hist. intell. <hi rend="n">de <hi rend="sc">Louis Lambert</hi></hi></title></bibl>
+          <bibl><title>Hist. intell. <hi rend="n">de <hi rend="sc">Louis Lambert</hi></hi>.</title></bibl>
         </epigraph> 
       </div>
       <div type="dedication">
@@ -99,7 +99,6 @@
     </front>
     <body>
       <div>
-      
       <p>Par un soir du mois de novembre 1793, les principaux
         personnages de Carentan se trouvaient dans le salon de madame de Dey, chez laquelle l’<hi
           rend="i">assemblée</hi> se tenait tous les jours. Quelques circonstances qui n’eussent
@@ -522,8 +521,12 @@
         sur les sympathies qui méconnaissent les lois de l’espace ; documents que rassemblent avec
         une savante curiosité quelques hommes de solitude, et qui serviront un jour à asseoir les
         bases d’une science nouvelle à laquelle il a manqué jusqu’à ce jour un homme de génie.</p>
-      <dateline>Paris, février 1831.</dateline>
       </div>
     </body>
+    <back>
+      <div>
+        <dateline>Paris, février 1831.</dateline>
+      </div>
+    </back>
   </text>
 </TEI>
