@@ -49,8 +49,8 @@
       </publicationStmt>
       <sourceDesc>
         <bibl><title>ÉTUDES PHILOSOPHIQUES</title><title>Massimilla Doni. – Gambara. – L’Enfant
-            maudit. – Les Marana. Adieu. – Le Réquisitionnaire. – El Verdugo. Un Drame au bord de la
-            mer. – L’Auberge Rouge. – L’Élixir de longue vie. Maître Cornélius. Sur Catherine de
+            maudit. – Les Marana. – Adieu. – Le Réquisitionnaire. – El Verdugo. – Un Drame au bord de la
+            mer. – L’Auberge Rouge. – L’Élixir de longue vie. – Maître Cornélius. – Sur Catherine de
             Médicis (première partie) : le Martyr calviniste.</title> PARIS, FURNE, RUE
           SAINT-ANDRÉ-DES-ARTS, 55 ; J.-J. DUBOCHET ET CIE, RUE RICHELIEU, 60 ; J. HETZEL, RUE DE
           MÉNARS, 10. <date>1845</date>, p. 468-660.</bibl>
@@ -92,10 +92,10 @@
         </docTitle>
       </titlePage>
       <div type="dedication">
-        <opener>
-          <salute><pb n="468" xml:id="p468"/>À MONSIEUR LE MARQUIS DE PASTORET, <lb/>Membre de
-            l’Académie des Beaux-Arts.</salute>
-        </opener>
+        
+          <salute><pb n="468" xml:id="p468"/>À MONSIEUR LE MARQUIS DE PASTORET<lb/>Membre de
+            l’Académie des Beaux-Arts</salute>
+        
         <p>Quand on songe au nombre étonnant de volumes publiés pour rechercher le point des Alpes
           par lequel Annibal opéra son passage, sans qu’on puisse aujourd’hui savoir si ce fut,
           selon Witaker et Rivaz, par Lyon, Genève, le Saint-Bernard et le val d’Aoste ; ou, selon
@@ -131,13 +131,13 @@
           qui depuis si longtemps travaille à l’histoire de la Réformation, et que je rendrais ainsi
           au caractère et à la fidélité de l’homme monarchique, un public hommage, peut-être
           précieux par sa rareté. </p>
-        <closer>
+        
           <dateline>Paris, janvier 1842.</dateline>
-        </closer>
+        
       </div>
     </front>
     <body>
-      <div type="chapter">
+      <div type="chapter" xml:id="intro">
         <head>Introduction</head>
         <p>On crie assez généralement au paradoxe, lorsque des savants, frappés d’une erreur
           historique, essayent de la redresser ; mais pour quiconque étudie à fond l’histoire
@@ -5463,7 +5463,7 @@
           compilateur du dix-huitième siècle à prouver que la chanson sur la mort du duc de Guise,
           chantée dans toute la France par les Huguenots, était l’ouvrage de Théodore de Bèze, et il
           fut alors prouvé que la fameuse complainte sur Marlborough est un plagiat de celle de
-          Théodore de Bèze. (<hi rend="i">Voir la note à la fin.</hi>)</p>
+          Théodore de Bèze. (<hi rend="i"><ref target="#appendix" xml:id="note">Voir la note à la fin.</ref></hi>)</p>
         <p>Le jour où Théodore de Bèze et Chaudieu arrivèrent à Paris, la cour y était revenue de
           Rheims, où Charles IX avait été sacré. Cette cérémonie, que Catherine rendit
           très-éclatante et qui fut l’occasion de fêtes splendides, lui avait permis de réunir
@@ -8498,9 +8498,9 @@
       </div>
     </body>
     <back>
-      <div type="appendix">
+      <div type="appendix" xml:id="appendix">
         <pb n="661" xml:id="p661"/>
-        <head>Note</head>
+        <head><ref target="#note">Note</ref></head>
         <p>Voici cette chanson publiée par l’abbé de La Place dans son <hi rend="i">Recueil de
             pièces intéressantes</hi>, où se trouve la dissertation dont nous avons parlé.</p>
         <label>LE CONVOI DU DUC DE GUISE</label>
@@ -8510,10 +8510,9 @@
             <l>C’est du grand duc de Guise ;</l>
             <l>Et bon, bon, bon, bon,</l>
             <l>Di, dan, di, dan, bon,</l>
-            <l>C’est du grand duc de Guise !</l>
+            <l>C’est du grand duc de Guise<note type="author">(Ce dernier vers se parlait et se disait sans doute
+              comiquement.)</note> !</l>
           </lg>
-          <note type="author">(Ce dernier vers se parlait et se disait sans doute
-            comiquement.)</note>
           <lg>
             <l rend="i">Qui est mort et enterré.</l>
           </lg>
