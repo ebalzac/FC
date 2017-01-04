@@ -114,8 +114,8 @@
       </div>
     </front>
     <body>
-      <div>
-
+      <div type="chapter">
+<div>
         <p>Il existe à Douai dans la rue de Paris une maison dont la physionomie, les dispositions
           intérieures et les détails ont, plus que ceux d’aucun autre logis, gardé le caractère des
           vieilles constructions flamandes, si naïvement appropriées aux mœurs patriarcales de ce
@@ -3719,7 +3719,8 @@
           d’Afrique.</p>
         <p>Mademoiselle Claës étouffait mal ses sanglots en traversant la galerie. Elle gagna sa
           chambre, chercha la lettre de sa mère, et lut ce qui suit :</p>
-        <quote>
+      </div>
+        <div type="letter">
           <p>Mon enfant, si Dieu le permet, mon esprit sera dans ton cœur quand tu liras ces
             lignes, les dernières que j’aurai tracées ! elles sont pleines d’amour pour mes chers
             petits qui restent abandonnés à un démon auquel je n’ai pas su résister. Il aura donc
@@ -3748,8 +3749,9 @@
             eu des larmes inconnues et des douleurs qui n’éclateront qu’après ma mort. Embrasse, en
             mon nom, mes chers enfants, au moment où tu deviendras ainsi leur protection. Que Dieu
             et les saints soient avec toi.</p>
-          <p rend="right"><hi rend="sc">Joséphine</hi>.</p>
-        </quote>
+          <signed><hi rend="sc">Joséphine</hi>.</signed>
+        </div>
+        <div>
         <p>À cette lettre était jointe une reconnaissance de messieurs de Solis oncle et neveu, qui
           s’engageaient à remettre le dépôt fait entre leurs mains par madame Claës à celui de ses
           enfants qui leur représenterait cet écrit.</p>
@@ -5255,6 +5257,7 @@
           il mourut en poussant un gémissement affreux, et ses yeux convulsés exprimèrent jusqu’au
           moment où le médecin les ferma le regret de n’avoir pu léguer à la Science le mot d’une
           énigme dont le voile s’était tardivement déchiré sous les doigts décharnés de la Mort.</p>
+      </div>
       </div>
     </body>
     <back>
