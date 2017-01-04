@@ -111,8 +111,8 @@
       </div>
     </front>
     <body>
-      <div>
-      <head>Albert Savarus</head>
+      <div type="chapter">
+        <div>
       <p>Un des quelques salons où se produisait l’archevêque de Besançon sous la Restauration, et
         celui qu’il affectionnait était celui de madame la baronne de Watteville. Un mot sur cette
         dame, le personnage féminin le plus considérable peut-être de Besançon.</p>
@@ -840,6 +840,8 @@
         quelques-uns des écrivains modernes qui, faute d’invention, racontent leurs propres joies,
         leurs propres douleurs ou les événements mystérieux de leur existence.</p>
       <ab type="ornament">______</ab>
+        </div>
+          <div>
       <label>L’AMBITIEUX PAR AMOUR</label>
       <p>En 1823, deux jeunes gens qui s’étaient donné pour thème de voyage de parcourir la Suisse,
         partirent de Lucerne par une belle matinée du mois de juillet, sur un bateau que
@@ -1656,6 +1658,8 @@
         secours du dieu des sots, le Bonheur ! Et cet infatigable athlète, soutenu par l’amour,
         recommence de nouveaux combats, éclairé par un regard toujours ami, par un cœur fidèle !
         Amoureux ! priez pour lui !</p>
+          </div>
+          <div>
       <ab type="ornament">______</ab>
       <p>En achevant ce récit qu’elle dévora, mademoiselle de Watteville avait les joues en feu, la
         fièvre était dans ses veines ; elle pleurait, mais de rage. Cette Nouvelle, inspirée par la
@@ -1772,8 +1776,10 @@
         possède une des plus belles fortunes de la Lombardie. Leur villa sur le lac Majeur est une
         des curiosités de l’Italie.</p>
       <p>Deux jours après, Mariette remit la lettre suivante à Rosalie.</p>
+        </div>
+        <div type="letter">
       <label>ALBERT SAVARON À LÉOPOLD HANNEQUIN</label>
-      <p>« Eh ! bien, oui, mon cher ami, je suis à Besançon pendant que tu me croyais en voyage. Je
+      <p>Eh ! bien, oui, mon cher ami, je suis à Besançon pendant que tu me croyais en voyage. Je
         n’ai rien voulu te dire qu’au moment où le succès commencerait, et voici son aurore. Oui,
         cher Léopold, après tant d’entreprises avortées où j’ai dépensé le plus pur de mon sang, où
         j’ai jeté tant d’efforts, usé tant de courage, j’ai voulu faire comme toi : prendre une voie
@@ -1789,9 +1795,13 @@
         été contraint, à vingt ans, d’étudier le Droit. J’ai voulu devenir un homme politique,
         uniquement pour être un jour compris dans une ordonnance sur la pairie sous le titre de
         comte Albert Savaron de Savarus, et faire revivre en France un beau nom qui s’éteint en
-        Belgique, encore que je ne sois ni légitime ni légitimé ! »</p>
+        Belgique, encore que je ne sois ni légitime ni légitimé !</p>
+        </div>
+        <div>
       <p>– Ah ! j’en étais sûre, il est noble ! s’écria Rosalie en laissant tomber la lettre.</p>
-      <p>« Tu sais quelles études consciencieuses j’ai faites, quel journaliste obscur, mais dévoué,
+        </div>
+        <div type="letter">
+        <p>Tu sais quelles études consciencieuses j’ai faites, quel journaliste obscur, mais dévoué,
         mais utile, et quel admirable secrétaire je fus pour l’homme d’état qui, d’ailleurs, me fut
         fidèle en 1829. Replongé dans le néant par la révolution de juillet, alors que mon nom
         commençait à briller, au moment où maître des <pb n="462" xml:id="p462"/> requêtes j’allais
@@ -1935,7 +1945,7 @@
         grande effusion de sa substance ? Après tout, en ce moment ma vie est belle, éclairée par la
         foi, par le travail et par l’amour. Adieu, mon ami. J’embrasse tes enfants, et tu
         rappelleras au souvenir de ton excellente femme,</p>
-      <signed><hi rend="i">Votre</hi><hi rend="sc">Albert</hi>. »</signed>
+      <signed><hi rend="i">Votre </hi><hi rend="sc">Albert</hi>.</signed>
       </div>
       <div>
       <p>Rosalie lut deux fois cette lettre, dont le sens général se grava dans son cœur. Elle
@@ -1961,11 +1971,13 @@
       <p>Un soir Mariette, en venant habiller Rosalie pour une soirée, lui apporta, non sans gémir
         sur cet abus de confiance, une lettre dont la suscription fit frémir et pâlir et rougir
         mademoiselle de Watteville.</p>
-      <quote>
-      <p>À MADAME LA DUCHESSE D’ARGAIOLO <lb/><hi rend="i">(née princesse
-          Soderini),</hi></p>
-        <p rend="indent"><hi rend="sc">à Belgirate,</hi><lb/><hi rend="i">Lac Majeur.</hi><hi rend="sc">Italie.</hi></p>
-      </quote>
+      </div>
+      <div type="letter">
+      <salute>À MADAME LA DUCHESSE D’ARGAIOLO <lb/><hi rend="i">(née princesse
+          Soderini),</hi></salute>
+        <dateline><hi rend="sc">à Belgirate,</hi><lb/><hi rend="i">Lac Majeur. </hi><hi rend="sc">Italie.</hi></dateline>
+      </div>
+      <div>
       <p>À ses yeux, cette adresse brilla comme dut briller <hi rend="i">Mané, Thecel, Pharès</hi>
         aux yeux de Balthasar. Après avoir caché la lettre, elle descendit pour aller avec sa mère
         chez madame de Chavoncourt. Pendant cette soirée, elle fut assaillie de remords <pb n="468"
@@ -1987,7 +1999,7 @@
       <p>Quand Rosalie fut au lit, elle ouvrit cette lettre datée de jour en jour de manière à
         offrir à la duchesse une fidèle image de la vie et des sentiments d’Albert.</p>
       </div>
-      <div>
+      <div type="letter">
       <dateline>25</dateline>
       <p>« Ma chère âme, tout va bien. Aux conquêtes que j’ai faites je viens d’en ajouter une
         précieuse : j’ai rendu service à l’un des personnages les plus influents aux élections.
@@ -2010,8 +2022,6 @@
         portrait, à qui j’ai dit ces progrès avant de t’écrire ! Oui, mes voix à moi, celles du
         vicaire-général, celles des gens que j’obligerai et celles de ce client assurent déjà mon
         élection.</p>
-      </div>
-      <div>
       <dateline>26</dateline>
       <p>Nous sommes entrés dans la douzième année depuis l’heureuse soirée où par un regard la
         belle duchesse a ratifié les promesses de la proscrite Francesca. Ah ! chère, tu as
@@ -2026,8 +2036,6 @@
         anniversaire de mon arrivée dans ta <hi rend="i">villa</hi> du lac de Constance. Voici onze
         ans que je crie après le bonheur et que tu rayonnes comme une étoile, placée trop haut pour
         qu’un homme puisse y atteindre !</p>
-      </div>
-      <div>
       <dateline>27</dateline>
       <p>Non, chère, ne va pas à Milan, reste à Belgirate. Milan m’épouvante. Je n’aime ni ces
         affreuses habitudes milanaises de causer tous les soirs à la Scala avec une douzaine de
@@ -2036,8 +2044,6 @@
         insecte vit éternellement dans son immuable beauté. L’âme et le corps d’une femme restent
         ainsi purs et dans la forme de leur jeunesse. Est-ce ces <hi rend="i">tedeschi</hi> que tu
         regrettes ?</p>
-      </div>
-      <div>
       <dateline>28</dateline>
       <p>Ta statue ne se finira donc point ? Je voudrais t’avoir en marbre, en peinture, en
         miniature, de toutes les façons, pour tromper mon impatience. J’attends toujours la Vue de
@@ -2045,8 +2051,6 @@
         tellement occupé que je ne puis aujourd’hui te rien dire qu’un rien, mais ce rien est tout.
         N’est-ce pas d’un rien que Dieu a fait le monde ? Ce rien, c’est un mot, le mot de Dieu :
           <hi rend="i">Je t’aime</hi> !</p>
-      </div>
-      <div>
       <dateline>30</dateline>
       <p>Ah ! je reçois ton journal ! Merci de ton exactitude ! tu as donc éprouvé bien du plaisir à
         voir les détails de notre première connaissance ainsi traduits ?… Hélas ! tout en les
@@ -2083,8 +2087,6 @@
         au-dessus de l’humanité. Si je vais à la Chambre, oh ! tu viendras à Paris pour assister à
         mon début.</p>
       <dateline>30 au soir.</dateline>
-      </div>
-      <div>
       <p>Mon Dieu ! combien je t’aime. Hélas ! j’ai mis trop de choses dans mon amour et dans mes
         espérances. Un hasard qui ferait chavirer cette barque trop chargée emporterait ma vie !
         Voici trois ans que je ne t’ai vue, et à l’idée d’aller à Belgirate, mon cœur bat si fort
@@ -2100,6 +2102,8 @@
         nous a pas permis d’accepter. Adieu, mon ange, tu me pardonneras mes prochaines tristesses
         en faveur de cette gaieté tombée comme un rayon du flambeau de l’Espérance, qui jusqu’alors
         me paraissait un feu follet. »</p>
+      </div>
+        <div>
       <p>– Comme il aime ! s’écria Rosalie en laissant tomber cette lettre qui lui sembla lourde à
         tenir. Après onze ans écrire ainsi ?</p>
       <p>– Mariette, dit Rosalie à la femme de chambre le lendemain matin, allez jeter cette lettre
@@ -3024,11 +3028,11 @@
       <p>En apprenant cette nouvelle, le vicaire-général écrivit à Léopold. Voici la réponse du
         digne notaire.</p>
       </div>
-      <div>
-      <salute>À MONSIEUR L’ABBÉ DE GRANCEY, <lb/><hi rend="i">vicaire-général du diocèse de
-          Besançon.</hi></salute>
+      <div type="letter">
+      <label>À MONSIEUR L’ABBÉ DE GRANCEY, <lb/><hi rend="i">vicaire-général du diocèse de
+          Besançon.</hi></label>
       <dateline>Paris.</dateline>
-      <p>« Hélas ! monsieur, il n’est au pouvoir de personne de rendre Albert à la vie du monde : il
+      <p>Hélas ! monsieur, il n’est au pouvoir de personne de rendre Albert à la vie du monde : il
         y a renoncé. Il est novice à la Grande-Chartreuse, près Grenoble. Vous savez encore mieux
         que moi, qui viens de l’apprendre, que tout meurt sur le seuil de ce cloître. En prévoyant
         ma visite, Albert a mis le Général des Chartreux entre tous nos efforts et lui. Je connais
@@ -3049,15 +3053,18 @@
         de justification ; mais, faussement accusé de s’être marié ! que faire ? Albert est mort, et
         bien mort pour le monde. Il a voulu le repos, espérons que le profond silence et la prière,
         dans lesquels il s’est jeté, feront son bonheur sous une autre forme. Si vous l’avez connu,
-        monsieur, vous devez bien le plaindre et plaindre aussi ses amis ! Agréez, etc. »</p>
+        monsieur, vous devez bien le plaindre et plaindre aussi ses amis ! Agréez, etc.</p>
+      </div>
+        <div>
       <p>Aussitôt cette lettre reçue, le bon vicaire-général écrivit au Général des Chartreux, et
         voici quelle fut la réponse d’Albert Savarus.</p>
       </div>
-      <div>
-      <salute>LE FRÈRE ALBERT À MONSIEUR L’ABBÉ DE GRANCEY, <lb/><hi rend="i">vicaire-général du
-          diocèse de Besançon.</hi></salute>
+      <div type="letter">
+        <label>
+      LE FRÈRE ALBERT À MONSIEUR L’ABBÉ DE GRANCEY, <lb/><hi rend="i">vicaire-général du
+          diocèse de Besançon.</hi></label>
       <dateline>De la Grande-Chartreuse.</dateline>
-      <p>« J’ai reconnu, cher et bien-aimé vicaire-général, votre âme tendre et votre cœur encore
+      <p>J’ai reconnu, cher et bien-aimé vicaire-général, votre âme tendre et votre cœur encore
         jeune dans tout ce que vient de me communiquer le Révérend Père Général de notre Ordre. Vous
         avez deviné le seul vœu qui restât dans le dernier repli de mon cœur relativement aux choses
         du monde : faire rendre justice à mes sentiments par celle qui m’a si maltraité ! Mais, en
@@ -3079,10 +3086,10 @@
         et que j’aimais tant, pour me faire rompre la loi d’oubli que je me suis imposée en entrant
         dans la métropole de Saint-Bruno. Vous serez aussi, vous, particulièrement dans les prières
         de</p>
-      <signed><hi rend="i">Frère</hi><hi rend="sc">Albert</hi>. »</signed>
+      <signed><hi rend="i">Frère </hi><hi rend="sc">Albert</hi>.</signed>
+        <dateline>Novembre 1836.</dateline>
       </div>
       <div>
-      <dateline>Novembre 1836.</dateline>
       <p>– Peut-être tout est-il pour le mieux, se dit l’abbé de Grancey.</p>
       <p>Quand il eut communiqué cette lettre à Rosalie, qui baisa par un mouvement pieux le passage
         qui contenait sa grâce, il lui dit :</p>
@@ -3172,6 +3179,7 @@
         la Chartreuse des Rouxey où elle mène une vie entièrement vouée à des pratiques
         religieuses.</p>
       <dateline>Paris, mai 1842.</dateline>
+      </div>
       </div>
     </body>
   </text>

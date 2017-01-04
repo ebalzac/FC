@@ -109,7 +109,8 @@
       </div>
     </front>
     <body>
-<div>
+<div type="chapter">
+      <div>
       <p>– Allons ! encore notre vieux carrick !</p>
       <p>Cette exclamation échappait à un clerc appartenant au genre de ceux qu’on appelle dans les Études des <hi rend="i">saute-ruisseaux</hi>, et qui mordait en ce moment de fort bon appétit dans un morceau de pain ; il en arracha un peu de mie pour faire une boulette et la lança railleusement par le vasistas d’une fenêtre sur laquelle il s’appuyait. Bien dirigée, la boulette rebondit presque à la hauteur de la croisée, après avoir frappé le chapeau d’un inconnu qui traversait la cour d’une maison située rue Vivienne, où demeurait maître Derville, avoué.</p>
       <p>– Allons, Simonnin, ne faites donc pas de sottises aux gens, ou je vous mets à la porte. Quelque pauvre que soit un client, c’est toujours un homme, que diable ! dit le Maître-clerc en interrompant l’addition d’un mémoire de frais.</p>
@@ -411,11 +412,13 @@
       <p>– J’ai préparé la minute d’un acte dont les conditions pourront être discutées par vous et par monsieur Chabert, séance tenante. J’irai alternativement de vous à lui, pour vous présenter, à l’un et à l’autre, vos raisons respectives.</p>
       <p><pb n="44" xml:id="p44"/> – Voyons, monsieur, dit la comtesse en laissant échapper un geste d’impatience.</p>
       <p>Derville lut.</p>
-      <quote>
+      </div>
+      <div type="letter">
         <p>Entre les soussignés,</p>
         <p>Monsieur Hyacinthe, <hi rend="i">dit Chabert</hi>, comte, maréchal-de-camp et grand-officier de la Légion-d’Honneur, demeurant à Paris, rue du Petit-Banquier, d’une part ;</p>
         <p>Et la dame Rose Chapotel, épouse de monsieur le comte Chabert, ci-dessus nommée, née…</p>
-      </quote>
+      </div>
+  <div>
       <p>– Passez, dit-elle, laissons les préambules, arrivons aux conditions.</p>
       <p>– Madame, dit l’avoué, le préambule explique succinctement la position dans laquelle vous vous trouvez l’un et l’autre. Puis, par l’article premier, vous reconnaissez, en présence de trois témoins, qui sont deux notaires et le nourrisseur chez lequel a demeuré votre mari, auxquels j’ai confié sous le secret votre affaire, et qui garderont le plus profond silence ; vous reconnaissez, dis-je, que l’individu désigné dans les actes joints au sous-seing, mais dont l’état se trouve d’ailleurs établi par un acte de notoriété préparé chez Alexandre Crottat, votre notaire, est le comte Chabert, votre premier époux. Par l’article second, le comte Chabert, dans l’intérêt de votre bonheur, s’engage à ne faire usage de ses droits que dans les cas prévus par l’acte lui-même. – Et ces cas, dit Derville en faisant une sorte de parenthèse, ne sont autres que la non-exécution des clauses de cette convention secrète. De son côté, reprit-il, monsieur Chabert consent à poursuivre de gré à gré avec vous un jugement qui annulera son acte de décès et prononcera la dissolution de son mariage.</p>
       <p>– Ça ne me convient pas du tout, dit la comtesse étonnée, je ne veux pas de procès. Vous savez pourquoi.</p>
@@ -518,12 +521,18 @@
       <p>Chabert disparut en effet. Le nourrisseur fit faillite et devint cocher de cabriolet. Peut-être le colonel s’adonna-t-il d’abord à quelque industrie du même genre. Peut-être, semblable à une pierre lancée dans un gouffre, alla-t-il, de cascade en cascade, s’abîmer dans cette boue de haillons qui foisonne à travers les rues de Paris.</p>
       <p>Six mois après cet événement, Derville, qui n’entendait plus <pb n="55" xml:id="p55"/> parler ni du colonel Chabert ni de la comtesse Ferraud, pensa qu’il était survenu sans doute entre eux une transaction, que, par vengeance, la comtesse avait fait dresser dans une autre Étude. Alors, un matin, il supputa les sommes avancées audit Chabert, y ajouta les frais, et pria la comtesse Ferraud de réclamer à monsieur le comte Chabert le montant de ce mémoire, en présumant qu’elle savait où se trouvait son premier mari.</p>
       <p>Le lendemain même l’intendant du comte Ferraud, récemment nommé Président du Tribunal de Première Instance dans une ville importante, écrivit à Derville ce mot désolant :</p>
-      <quote>
-        <p>Monsieur,</p>
+  </div>
+    <div type="letter">
+        <opener>
+      <salute>Monsieur,</salute>
+        </opener>
         <p>Madame la comtesse Ferraud me charge de vous prévenir que votre client avait complètement abusé de votre confiance, et que l’individu qui disait être le comte Chabert a reconnu avoir indûment pris de fausses qualités.</p>
-        <p>Agréez, etc.</p>
-        <p rend="sc">Delbecq.</p>
-      </quote>
+        <closer>
+      <salute>Agréez, etc.</salute>
+          <signed><hi rend="sc">Delbecq.</hi></signed>
+        </closer>
+      </div>
+  <div>
       <p>– On rencontre des gens qui sont aussi, ma parole d’honneur, par trop bêtes. Ils ont volé le baptême, s’écria Derville. Soyez donc humain, généreux, philanthrope et avoué, vous vous faites enfoncer ! Voilà une affaire qui me coûte plus de deux billets de mille francs.</p>
       <p>Quelque temps après la réception de cette lettre, Derville cherchait au Palais un avocat auquel il voulait parler, et qui plaidait à la Police correctionnelle. Le hasard voulut que Derville entrât à la Sixième Chambre au moment où le Président condamnait comme vagabond le nommé Hyacinthe à deux mois de prison, et ordonnait qu’il fût ensuite conduit au dépôt de mendicité de Saint-Denis, sentence qui, d’après la jurisprudence des préfets de police, équivaut à une détention perpétuelle. Au nom d’Hyacinthe, Derville regarda le délinquant assis entre deux gendarmes sur le banc des prévenus, et reconnut, dans la personne du condamné, son faux colonel Chabert. Le vieux soldat était calme, immobile, presque distrait. Malgré ses haillons, malgré la misère empreinte sur sa physionomie, elle déposait d’une noble fierté. Son regard avait une expression de stoïcisme qu’un magistrat n’aurait pas dû méconnaître ; mais, dès qu’un homme tombe entre les mains de la justice, il <pb n="56" xml:id="p56"/> n’est plus qu’un être moral, une question de Droit ou de Fait, comme aux yeux des statisticiens il devient un chiffre. Quand le soldat fut reconduit au Greffe pour être emmené plus tard avec la fournée de vagabonds que l’on jugeait en ce moment, Derville usa du droit qu’ont les avoués d’entrer partout au Palais, l’accompagna au Greffe et l’y contempla pendant quelques instants, ainsi que les curieux mendiants parmi lesquels il se trouvait. L’antichambre du Greffe offrait alors un de ces spectacles que malheureusement ni les législateurs, ni les philanthropes, ni les peintres, ni les écrivains ne viennent étudier. Comme tous les laboratoires de la chicane, cette antichambre est une pièce obscure et puante, dont les murs sont garnis d’une banquette en bois noirci par le séjour perpétuel des malheureux qui viennent à ce rendez-vous de toutes les misères sociales, et auquel pas un d’eux ne manque. Un poète dirait que le jour a honte d’éclairer ce terrible égout par lequel passent tant d’infortunes ! Il n’est pas une seule place où ne se soit assis quelque crime en germe ou consommé ; pas un seul endroit où ne se soit rencontré quelque homme qui, désespéré par la légère flétrissure que la justice avait imprimée à sa première faute, n’ait commencé une existence au bout de laquelle devait se dresser la guillotine, ou détoner le pistolet du suicide. Tous ceux qui tombent sur le pavé de Paris rebondissent contre ces murailles jaunâtres, sur lesquelles un philanthrope qui ne serait pas un spéculateur pourrait déchiffrer la justification des nombreux suicides dont se plaignent des écrivains hypocrites, incapables de faire un pas pour les prévenir, et qui se trouve écrite dans cette antichambre, espèce de préface pour les drames de la Morgue ou pour ceux de la place de Grève. En ce moment le colonel Chabert s’assit au milieu de ces hommes à faces énergiques, vêtus des horribles livrées de la misère, silencieux par intervalles, ou causant à voix basse, car trois gendarmes de faction se promenaient en faisant retentir leurs sabres sur le plancher.</p>
       <p>– Me reconnaissez-vous ? dit Derville au vieux soldat en se plaçant devant lui.</p>
@@ -553,6 +562,7 @@
       <p>– Lui en enfance ! s’écria un vieux bicêtrien qui les regardait. Ah ! il y a des jours où il ne faut pas lui marcher sur le pied. C’est un vieux malin plein de philosophie et d’imagination. Mais aujourd’hui, que voulez-vous ? il a fait le lundi. Monsieur, en 1820 il était déjà ici. Pour lors, un officier prussien, dont la calèche montait la côte de Villejuif, vint à passer à pied. Nous étions, nous deux Hyacinthe et moi, sur le bord de la route. Cet officier causait en marchant avec un autre, avec un Russe, ou quelque animal de la même espèce, lorsqu’en voyant l’ancien, le Prussien, histoire de blaguer, lui dit : – Voilà un vieux voltigeur qui devait être à Rosbach. – J’étais trop jeune pour y être, lui répondit-il, mais j’ai été assez vieux pour me trouver à Iéna. Pour lors le Prussien a filé, sans faire d’autres questions.</p>
       <p>– Quelle destinée ! s’écria Derville. Sorti de l’hospice des <hi rend="i">Enfants trouvés</hi>, il revient mourir à l’hospice de la <hi rend="i">Vieillesse</hi>, après avoir, dans l’intervalle, aidé Napoléon à conquérir l’Égypte et l’Europe. – Savez-vous, mon cher, reprit Derville après une pause, qu’il existe dans notre société trois hommes, le Prêtre, le Médecin et l’Homme de justice, qui ne peuvent pas estimer le monde ? Ils ont des robes noires, peut-être parce qu’ils portent le deuil de toutes les vertus, de toutes les illusions. Le plus malheureux des trois est l’avoué. Quand l’homme vient trouver le prêtre, il arrive poussé par le repentir, par le remords, par des croyances qui le rendent intéressant, qui le grandissent, et consolent l’âme du médiateur, dont la tâche ne va pas sans une sorte de jouissance : il purifie, il répare, et réconcilie. Mais, nous autres avoués, nous voyons se répéter les mêmes sentiments mauvais, rien ne les corrige, nos Études sont des égouts qu’on ne peut pas curer. Combien de choses n’ai-je pas apprises <pb n="60" xml:id="p60"/> en exerçant ma charge ! J’ai vu mourir un père dans un grenier, sans sou ni maille, abandonné par deux filles auxquelles il avait donné quarante mille livres de rente ! J’ai vu brûler des testaments ; j’ai vu des mères dépouillant leurs enfants, des maris volant leurs femmes, des femmes tuant leurs maris en se servant de l’amour qu’elles leur inspiraient pour les rendre fous ou imbéciles, afin de vivre en paix avec un amant. J’ai vu des femmes donnant à l’enfant d’un premier lit des goûts qui devaient amener sa mort, afin d’enrichir l’enfant de l’amour. Je ne puis vous dire tout ce que j’ai vu, car j’ai vu des crimes contre lesquels la justice est impuissante. Enfin, toutes les horreurs que les romanciers croient inventer sont toujours au-dessous de la vérité. Vous allez connaître ces jolies choses-là, vous ; moi, je vais vivre à la campagne avec ma femme, Paris me fait horreur.</p>
       <p>– J’en ai déjà bien vu chez Desroches, répondit Godeschal.</p>
+</div>
 </div>
     </body>
     <back>
