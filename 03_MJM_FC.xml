@@ -5984,12 +5984,10 @@
               mes enfants au-devant de moi !</p>
           </div>
         </div>
+        <closer>
+        <dateline>Paris, 1841.</dateline>
+        </closer>
       </div>
     </body>
-    <back>
-      <div>
-        <dateline>Paris, 1841.</dateline>
-      </div>
-    </back>
   </text>
 </TEI>
