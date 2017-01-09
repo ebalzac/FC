@@ -69,11 +69,11 @@
         <idno>URL (à définir)</idno>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>SCÈNES / DE LA / VIE PRIVÉE,</title> / TOME I. / <title>La Maison du
+        <bibl><title>SCÈNES / DE LA / VIE PRIVÉE,</title> / Tome I. / <title>La Maison du
             Chat-qui-pelote. — Le Bal de Sceaux. — / La Bourse. — La Vendetta. — Madame Firmiani.
             — Une double Famille. — / La Paix du Ménage. — La Fausse Maîtresse. — / Étude de Femme.
-            — Albert Savarus.</title> / PARIS, / FURNE, / RUE SAINT-ANDRÉ-DES-ARTS, 55 ; / J.-J.
-          DUBOCHET ET CIE, / RUE DE SEINE, 33 ; / J. HETZEL ET PAULIN, / RUE DE SEINE, 33. /
+            — Albert Savarus.</title> / Paris, / Furne, / rue Saint-André-des-Arts, 55 ; / J.-J.
+          Dubochet et cie, / rue de Seine, 33 ; / J. Hetzel et Paulin, / rue de Seine, 33. /
             <date>1842</date>, p. 350-396.</bibl>
       </sourceDesc>
     </fileDesc>
@@ -111,8 +111,7 @@
       </div>
     </front>
     <body>
-      <div type="chapter">
-        <div>
+      <div>
         <p>Au mois de septembre 1835, une des plus riches héritières du faubourg Saint-Germain,
           mademoiselle du Rouvre, fille unique du marquis du Rouvre, épousa le comte Adam Mitgislas
           Laginski, jeune polonais proscrit. Qu’il soit permis d’écrire les noms comme ils se
@@ -1058,8 +1057,8 @@
         <p>Deux mois après, la belle écuyère, criblée de dettes écrivit au comte Paz cette lettre
           que les dandies ont regardée dans le temps comme un chef-d’œuvre :</p>
       </div>
-      <div type="letter">
-        <p>Vous, que j’ose encore appeler mon ami, aurez-vous pitié de moi après ce qui s’est
+      <div>
+        <p>« Vous, que j’ose encore appeler mon ami, aurez-vous pitié de moi après ce qui s’est
           passé et que vous avez si mal interprété ? Tout ce qui a pu vous blesser, mon cœur le
           désavoue. Si j’ai été assez heureuse pour que vous trouviez du charme à rester auprès de
           moi comme vous faisiez, revenez… autrement, je tomberai dans le désespoir. La misère est
@@ -1083,7 +1082,7 @@
           d’avoir voulu savoir si je vous ai perdu pour toujours. Si je venais à penser à vous au
           moment où je saute dans le cercle, je suis capable de me casser les jambes en perdant un
             <hi rend="i">temps</hi> ! Quoi qu’il en soit, vous avez à vous pour la vie</p>
-        <signed><hi rend="sc">Marguerite Turquet</hi>.</signed>
+        <signed><hi rend="sc">Marguerite Turquet</hi>. »</signed>
       </div>
       <div>
         <p>– Cette lettre-là, se dit Thaddée en éclatant de rire, vaut mes dix mille francs !</p>
@@ -1463,7 +1462,7 @@
           que je viens de vous écrire, l’ayant dit une fois, j’aurais été comme le tigre apprivoisé
           qui a remis ses dents à de la chair vivante, qui sent la chaleur du sang, et…</p>
       </div>
-      <div type="letter">
+      <div>
         <dateline>Minuit.</dateline>
         <p>Je n’ai pu continuer, le souvenir de cette heure est encore trop vivant ! Oui, j’eus
           alors le délire. L’Espérance était dans vos yeux, la Victoire et ses pavillons rouges
@@ -1522,7 +1521,6 @@
           vit la voiture emportant la comtesse.</p>
         <p>Jamais femme eut-elle un pareil roman dans sa vie ? À toute heure, Clémentine espère
           revoir Paz.</p>
-      </div>
       </div>
     </body>
     <back>
