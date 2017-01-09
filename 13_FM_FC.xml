@@ -111,7 +111,8 @@
       </div>
     </front>
     <body>
-      <div>
+      <div type="chapter">
+        <div>
         <p>Au mois de septembre 1835, une des plus riches héritières du faubourg Saint-Germain,
           mademoiselle du Rouvre, fille unique du marquis du Rouvre, épousa le comte Adam Mitgislas
           Laginski, jeune polonais proscrit. Qu’il soit permis d’écrire les noms comme ils se
@@ -1057,8 +1058,8 @@
         <p>Deux mois après, la belle écuyère, criblée de dettes écrivit au comte Paz cette lettre
           que les dandies ont regardée dans le temps comme un chef-d’œuvre :</p>
       </div>
-      <div>
-        <p>« Vous, que j’ose encore appeler mon ami, aurez-vous pitié de moi après ce qui s’est
+      <div type="letter">
+        <p>Vous, que j’ose encore appeler mon ami, aurez-vous pitié de moi après ce qui s’est
           passé et que vous avez si mal interprété ? Tout ce qui a pu vous blesser, mon cœur le
           désavoue. Si j’ai été assez heureuse pour que vous trouviez du charme à rester auprès de
           moi comme vous faisiez, revenez… autrement, je tomberai dans le désespoir. La misère est
@@ -1082,7 +1083,7 @@
           d’avoir voulu savoir si je vous ai perdu pour toujours. Si je venais à penser à vous au
           moment où je saute dans le cercle, je suis capable de me casser les jambes en perdant un
             <hi rend="i">temps</hi> ! Quoi qu’il en soit, vous avez à vous pour la vie</p>
-        <signed><hi rend="sc">Marguerite Turquet</hi>. »</signed>
+        <signed><hi rend="sc">Marguerite Turquet</hi>.</signed>
       </div>
       <div>
         <p>– Cette lettre-là, se dit Thaddée en éclatant de rire, vaut mes dix mille francs !</p>
@@ -1462,7 +1463,7 @@
           que je viens de vous écrire, l’ayant dit une fois, j’aurais été comme le tigre apprivoisé
           qui a remis ses dents à de la chair vivante, qui sent la chaleur du sang, et…</p>
       </div>
-      <div>
+      <div type="letter">
         <dateline>Minuit.</dateline>
         <p>Je n’ai pu continuer, le souvenir de cette heure est encore trop vivant ! Oui, j’eus
           alors le délire. L’Espérance était dans vos yeux, la Victoire et ses pavillons rouges
@@ -1521,6 +1522,7 @@
           vit la voiture emportant la comtesse.</p>
         <p>Jamais femme eut-elle un pareil roman dans sa vie ? À toute heure, Clémentine espère
           revoir Paz.</p>
+      </div>
       </div>
     </body>
     <back>
