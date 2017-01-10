@@ -367,12 +367,10 @@
         gastrite.</p>
       <p>Moi qui la soigne et qui connais son secret, je sais qu’elle a seulement une petite crise
         nerveuse de laquelle elle profite pour rester chez elle.</p>
+  <closer>
+    <dateline>Paris, février 1830.</dateline>
+  </closer>
 </div>
     </body>
-    <back>
-      <div>
-        <dateline>Paris, février 1830.</dateline>
-      </div>
-    </back>
   </text>
 </TEI>

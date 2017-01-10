@@ -1523,12 +1523,10 @@
         <p>Jamais femme eut-elle un pareil roman dans sa vie ? À toute heure, Clémentine espère
           revoir Paz.</p>
       </div>
+        <closer>
+          <dateline>Paris, janvier 1842.</dateline>
+        </closer>
       </div>
     </body>
-    <back>
-      <div>
-        <dateline>Paris, janvier 1842.</dateline>
-      </div>
-    </back>
   </text>
 </TEI>

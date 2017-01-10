@@ -1991,12 +1991,10 @@
             je vais vivre à la campagne avec ma femme, Paris me fait horreur.</p>
           <p>– J’en ai déjà bien vu chez Desroches, répondit Godeschal.</p>
         </div>
+        <closer>
+          <dateline>Paris, février – mars 1832.</dateline>
+        </closer>
       </div>
     </body>
-    <back>
-      <div>
-        <dateline>Paris, février – mars 1832.</dateline>
-      </div>
-    </back>
   </text>
 </TEI>

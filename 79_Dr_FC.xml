@@ -625,12 +625,10 @@
           cette fièvre.</p>
         <p><pb n="358" xml:id="p358"/> Je vous ai donc écrit cette aventure, mon cher oncle ; mais
           elle m’a déjà fait perdre le calme que je devais à mes bains et à notre séjour ici.</p>
+        <closer>
+          <dateline>Paris, 20 novembre 1834.</dateline>
+        </closer>
       </div>
     </body>
-    <back>
-      <div>
-        <dateline>Paris, 20 novembre 1834.</dateline>
-      </div>
-    </back>
   </text>
 </TEI>

@@ -576,13 +576,10 @@
           l’humble Auvergnat sera venu lui ouvrir la porte du ciel, comme il lui ouvrit jadis la
           porte du temple terrestre au fronton duquel se lit : <hi rend="i">Aux grands hommes la
             patrie reconnaissante</hi> !</p>
-
+        <closer>
+          <dateline>Paris, janvier 1836.</dateline>
+        </closer>
       </div>
     </body>
-    <back>
-      <div>
-        <dateline>Paris, janvier 1836.</dateline>
-      </div>
-    </back>
   </text>
 </TEI>

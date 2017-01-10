@@ -1322,12 +1322,10 @@
           auxquels Dieu donne le malheureux pouvoir de sortir tous les jours triomphants d’un
           horrible combat qu’ils livrent à quelque monstre inconnu. Que, pendant un moment, Dieu
           leur retire sa main puissante, ils succombent.</p>
+        <closer>
+          <dateline>Paris, mars 1830.</dateline>
+        </closer>
       </div>
     </body>
-    <back>
-      <div>
-        <dateline>Paris, mars 1830.</dateline>
-      </div>
-    </back>
   </text>
 </TEI>

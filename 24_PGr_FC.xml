@@ -720,11 +720,9 @@
         <p>On connaît des médiocrités plus taquines et plus méchantes que celle de Pierre Grassou
           qui, d’ailleurs, est d’une bienfaisance anonyme et d’une obligeance parfaite.</p>
       </div>
-    </body>
-    <back>
-      <div>
+      <closer>
         <dateline>Paris, décembre 1839.</dateline>
-      </div>
-    </back>
+      </closer>
+    </body>
   </text>
 </TEI>

@@ -519,12 +519,10 @@
         sur les sympathies qui méconnaissent les lois de l’espace ; documents que rassemblent avec
         une savante curiosité quelques hommes de solitude, et qui serviront un jour à asseoir les
         bases d’une science nouvelle à laquelle il a manqué jusqu’à ce jour un homme de génie.</p>
+        <closer>
+          <dateline>Paris, février 1831.</dateline>
+        </closer>
       </div>
     </body>
-    <back>
-      <div>
-        <dateline>Paris, février 1831.</dateline>
-      </div>
-    </back>
   </text>
 </TEI>

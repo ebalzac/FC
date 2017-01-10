@@ -4610,12 +4610,10 @@
         <p>Oscar est un homme ordinaire, doux, sans prétention, modeste et se tenant toujours, comme
           son gouvernement, dans un juste milieu. Il n’excite ni l’envie ni le dédain. C’est enfin
           le bourgeois moderne.</p>
+        <closer>
+          <dateline>Paris, février 1842.</dateline>
+        </closer>
       </div>
     </body>
-    <back>
-      <div>
-        <dateline>Paris, février 1842.</dateline>
-      </div>
-    </back>
   </text>
 </TEI>

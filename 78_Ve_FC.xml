@@ -393,12 +393,10 @@
           fardeau de son admirable forfait, il semble attendre avec impatience que la naissance d’un
           second fils lui donne le droit de rejoindre les ombres qui l’accompagnent
           incessamment.</p>
+        <closer>
+          <dateline>Paris, octobre 1829.</dateline>
+        </closer>
       </div>
     </body>
-    <back>
-      <div>
-        <dateline>Paris, octobre 1829.</dateline>
-      </div>
-    </back>
   </text>
 </TEI>

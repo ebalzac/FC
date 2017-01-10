@@ -1772,12 +1772,10 @@
           dernière entrevue entre la mère et la fille. Quoique toutes deux s’entretinssent à voix
           basse, Juan entendit ces mots d’adieu :</p>
         <p>– Mourez en paix, ma mère, j’ai souffert pour vous toutes !</p>
+        <closer>
+          <dateline>Paris, novembre 1832.</dateline>
+        </closer>
       </div>
     </body>
-    <back>
-      <div>
-        <dateline>Paris, novembre 1832.</dateline>
-      </div>
-    </back>
   </text>
 </TEI>

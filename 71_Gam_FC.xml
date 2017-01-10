@@ -1792,12 +1792,10 @@
         <p>En voyant la pièce d’or, le vieux Gambara pleura ; puis il lui vint une réminiscence de
           ses anciens travaux scientifiques, et le pauvre compositeur dit, en essuyant ses larmes,
           une phrase que la circonstance rendit touchante : – L’eau est un corps brûlé.</p>
+        <closer>
+          <dateline>Paris, juin 1837.</dateline>
+        </closer>
       </div>
     </body>
-    <back>
-      <div>
-        <dateline>Paris, juin 1837.</dateline>
-      </div>
-    </back>
   </text>
 </TEI>

@@ -2858,12 +2858,10 @@
           épouserai, moi !</p>
         <p>– Et vous êtes assez vert-galant pour avoir une belle lignée, dit la comtesse à l’oreille
           de ce vieillard qui avait servi sous sept rois de France.</p>
+        <closer>
+          <dateline>Paris, 1831-1836.</dateline>
+        </closer>
       </div>
     </body>
-    <back>
-      <div>
-        <dateline>Paris, 1831-1836.</dateline>
-      </div>
-    </back>
   </text>
 </TEI>
