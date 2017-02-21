@@ -108,7 +108,7 @@
       <div>
         <epigraph>
           <pb n="1" xml:id="p1" facs="http://phoebus.lip6.fr/facs/65/00000001.jpg"/>
-          <figure rend="right">
+          <figure rend="border-right">
             <graphic url="65/balzac_65FC_001.jpg"/>
           </figure>
           <p><hi rend="sc">Sterne</hi> (<hi rend="i">Tristram Shandy</hi>, ch. CCCXXII).</p>
@@ -338,8 +338,10 @@
           et de cris étouffés, de tentatives inutiles et de chefs-d’œuvre avortés. Chaque suicide
           est un poème sublime de mélancolie. Où trouverez-vous, dans l’océan des littératures, un
           livre surnageant qui puisse lutter de génie avec cet entrefilet :</p>
-        <quote><hi rend="i">Hier, à quatre heures, une jeune femme s’est jetée dans la Seine du haut
-            du Pont-des-Arts.</hi></quote>
+        <q type="press">
+          <p rend="i">Hier, à quatre heures, une jeune femme s’est jetée dans la Seine du haut
+            du Pont-des-Arts.</p>
+        </q>
         <p>Devant ce laconisme parisien, les drames, les romans, tout pâlit, même ce vieux
           frontispice : <hi rend="i">Les lamentations du glorieux roi de Kaërnavan, mis en prison
             par ses enfants</hi> ; dernier fragment d’un livre perdu, dont la seule lecture faisait
@@ -898,11 +900,11 @@
           <graphic url="65/balzac_65FC_026.jpg"/>
         </figure>
         <p>Ce qui voulait dire en français :</p>
-        <quote rend="center"> SI TU ME POSSÈDES, TU POSSÉDERAS TOUT. <lb/>MAIS TA VIE
-          M’APPARTIENDRA. DIEU L’A <lb/>VOULU AINSI. DÉSIRE, ET TES DÉSIRS <lb/>SERONT ACCOMPLIS.
-          MAIS RÈGLE <lb/>TES SOUHAITS SUR TA VIE. <lb/>ELLE EST LÀ. À CHAQUE <lb/>VOULOIR JE
-          DÉCROÎTRAI <lb/>COMME TES JOURS. <lb/>ME VEUX-TU ? <lb/>PRENDS. DIEU <lb/>T’EXAUCERA.
-          <lb/>SOIT ! </quote>
+        <quote rend="center">SI TU ME POSSÈDES, TU POSSÉDERAS TOUT.<lb/>MAIS TA VIE
+          M’APPARTIENDRA. DIEU L’A<lb/>VOULU AINSI. DÉSIRE, ET TES DÉSIRS<lb/>SERONT ACCOMPLIS.
+          MAIS RÈGLE<lb/>TES SOUHAITS SUR TA VIE.<lb/>ELLE EST LÀ. À CHAQUE<lb/>VOULOIR JE
+          DÉCROÎTRAI<lb/>COMME TES JOURS.<lb/>ME VEUX-TU ?<lb/>PRENDS. DIEU<lb/>T’EXAUCERA.
+          <lb/>SOIT !</quote>
         <p><pb n="27" xml:id="p27" facs="http://phoebus.lip6.fr/facs/65/00000027.jpg"/> – Ah ! vous
           lisez couramment le sanscrit, dit le vieillard. Peut-être avez-vous voyagé en Perse ou
           dans le Bengale ?</p>

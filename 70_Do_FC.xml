@@ -116,8 +116,7 @@
       </div>
     </front>
     <body>
-      <div type="chapter">
-        <div>
+      <div>
           <p>Comme le savent les connaisseurs, la noblesse vénitienne est la première de l’Europe.
             Son Livre d’or a précédé les Croisades, temps où Venise, débris de la Rome impériale et
             chrétienne qui se plongea dans les eaux pour échapper aux Barbares, déjà puissante,
@@ -670,8 +669,8 @@
           <p>Il tendit à son maître un joli petit papier triangulairement plié. Le prince se sentit
             défaillir, et il rentra pour tomber sur une bergère, car sa vue était troublée, ses
             mains tremblaient en lisant ceci :</p>
-        </div>
-        <div type="letter">
+        
+        <q type="letter">
           <p>Cher Émile, votre gondole s’est arrêtée à votre palais, vous ne savez donc pas que
             Cataneo l’a loué pour la Tinti. Si vous m’aimez, allez dès ce soir chez Vendramin, qui
             me dit vous avoir arrangé un appartement chez lui. Que dois-je faire ? Faut-il rester à
@@ -679,8 +678,8 @@
             le Frioul ? Répondez-moi par un mot, ne serait-ce que pour me dire quelle était cette
             lettre que vous avez jetée dans la lagune.</p>
           <signed><hi rend="sc">Massimilla Doni</hi>.</signed>
-        </div>
-        <div>
+        </q>
+        
           <p>L’écriture et la senteur du papier réveillèrent mille souvenirs dans l’âme du jeune
             Vénitien. Le soleil de l’amour unique jeta sa vive lueur sur l’onde bleue venue de loin,
             amassée dans l’abîme sans fond, et qui scintilla comme une étoile. Le noble enfant ne
@@ -2381,7 +2380,7 @@
             Milan, les peuplades de cent cathédrales gothiques, toute la nation des figures qui
             brisent leur forme pour venir à vous, artistes compréhensifs, toutes ces angéliques
             filles incorporelles accoururent autour du lit de Massimilla, et y pleurèrent !</p>
-        </div>
+        
         <closer>
           <dateline>Paris, 25 mai 1839.</dateline>
         </closer>

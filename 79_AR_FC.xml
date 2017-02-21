@@ -43,7 +43,24 @@
         <publisher>LIP6 (Université Paris VI)</publisher>
         <date when="2016"/>
         <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"> <p> Copyright © 2016 Université Charles-de-Gaulle Lille 3, agissant pour le projet ANR « Projet d’hypertexte de l’œuvre de Balzac par l’utilisation de similarités » (ci-après dénommé ANR Phœbus). </p> <p> Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’ANR Phœbus, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ». </p> <p> Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’ANR Phœbus et surtout l’adresse Internet de la ressource. </p> <p> Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite. </p> <p> Pas de Modification : l’ANR Phœbus s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable. </p> </licence>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p> Copyright © 2016 Université Charles-de-Gaulle Lille 3, agissant pour le projet ANR
+              « Projet d’hypertexte de l’œuvre de Balzac par l’utilisation de similarités »
+              (ci-après dénommé ANR Phœbus). </p>
+            <p> Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+              les bases de données (L341-1) est mise à disposition de la communauté scientifique
+              internationale par l’ANR Phœbus, selon les termes de la licence Creative Commons : «
+              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC
+              BY-NC-ND 3.0 FR) ». </p>
+            <p> Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+              de cette ressource électroniques comportera le nom de l’ANR Phœbus et surtout
+              l’adresse Internet de la ressource. </p>
+            <p> Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+              utilisation commerciale est interdite. </p>
+            <p> Pas de Modification : l’ANR Phœbus s’engage à améliorer et à corriger cette
+              ressource électronique, notamment en intégrant toutes les contributions extérieures,
+              la diffusion de versions modifiées de cette ressource n’est pas souhaitable. </p>
+          </licence>
         </availability>
         <idno>URL (à définir)</idno>
       </publicationStmt>
@@ -51,7 +68,9 @@
         <bibl><title>ÉTUDES PHILOSOPHIQUES</title><title>Massimilla Doni. – Gambara. – L’Enfant
             maudit. – Les Marana. Adieu. – Le Réquisitionnaire. – El Verdugo. Un Drame au bord de la
             mer. – L’Auberge Rouge. – L’Élixir de longue vie. Maître Cornélius. Sur Catherine de
-            Médicis (première partie) : le Martyr calviniste.</title> Paris, Furne, rue Saint-André-des-Arts, 55 ; J.-J. Dubochet et cie, rue Richelieu, 60 ; J. Hetzel, rue de Ménars, 10. <date>1845</date>, p. 359-388.</bibl>
+            Médicis (première partie) : le Martyr calviniste.</title> Paris, Furne, rue
+          Saint-André-des-Arts, 55 ; J.-J. Dubochet et cie, rue Richelieu, 60 ; J. Hetzel, rue de
+          Ménars, 10. <date>1845</date>, p. 359-388.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -88,29 +107,29 @@
     </front>
     <body>
       <div>
-        <p>En je ne sais quelle année, un banquier de Paris, qui avait
-          des relations commerciales très-étendues en Allemagne, fêtait un de ces amis, longtemps
-          inconnus, que les négociants se font de place en place, par correspondance. Cet ami, chef
-          de je ne sais quelle maison assez importante de Nuremberg, était un bon gros Allemand,
-          homme de goût et d’érudition, homme de pipe surtout, ayant une belle, une large figure
-          nurembergeoise, au front carré, bien découvert, et décoré de quelques cheveux blonds assez
-          rares. Il offrait le type des enfants de cette pure et noble Germanie, si fertile en
-          caractères honorables, et dont les paisibles mœurs ne se sont jamais démenties, même après
-          sept invasions. L’étranger riait avec simplesse, écoutait attentivement, et buvait
-          remarquablement bien, en paraissant aimer le vin de Champagne autant peut-être que les
-          vins paillés du Johannisberg. Il se nommait Hermann, comme presque tous les Allemands mis
-          en scène par les auteurs. En homme qui ne sait rien faire légèrement, il était bien assis
-          à la table du banquier, mangeait avec ce tudesque appétit si célèbre en Europe, et disait
-          un adieu consciencieux à la cuisine du grand <hi rend="sc">Carême</hi>. Pour faire honneur
-          à son hôte, le maître du logis avait convié quelques amis intimes, capitalistes ou
-          commerçants, plusieurs femmes aimables, jolies, dont le gracieux babil et les manières <pb
-            n="360" xml:id="p360"/> franches étaient en harmonie avec la cordialité germanique.
-          Vraiment, si vous aviez pu voir, comme j’en eus le plaisir, cette joyeuse réunion de gens
-          qui avaient rentré leurs griffes commerciales pour spéculer sur les plaisirs de la vie, il
-          vous eût été difficile de haïr les escomptes usuraires ou de maudire les faillites.
-          L’homme ne peut pas toujours mal faire. Aussi, même dans la société des pirates, doit-il
-          se rencontrer quelques heures douces pendant lesquelles vous croyez être, dans leur
-          sinistre vaisseau, comme sur une escarpolette.</p>
+        <p>En je ne sais quelle année, un banquier de Paris, qui avait des relations commerciales
+          très-étendues en Allemagne, fêtait un de ces amis, longtemps inconnus, que les négociants
+          se font de place en place, par correspondance. Cet ami, chef de je ne sais quelle maison
+          assez importante de Nuremberg, était un bon gros Allemand, homme de goût et d’érudition,
+          homme de pipe surtout, ayant une belle, une large figure nurembergeoise, au front carré,
+          bien découvert, et décoré de quelques cheveux blonds assez rares. Il offrait le type des
+          enfants de cette pure et noble Germanie, si fertile en caractères honorables, et dont les
+          paisibles mœurs ne se sont jamais démenties, même après sept invasions. L’étranger riait
+          avec simplesse, écoutait attentivement, et buvait remarquablement bien, en paraissant
+          aimer le vin de Champagne autant peut-être que les vins paillés du Johannisberg. Il se
+          nommait Hermann, comme presque tous les Allemands mis en scène par les auteurs. En homme
+          qui ne sait rien faire légèrement, il était bien assis à la table du banquier, mangeait
+          avec ce tudesque appétit si célèbre en Europe, et disait un adieu consciencieux à la
+          cuisine du grand <hi rend="sc">Carême</hi>. Pour faire honneur à son hôte, le maître du
+          logis avait convié quelques amis intimes, capitalistes ou commerçants, plusieurs femmes
+          aimables, jolies, dont le gracieux babil et les manières <pb n="360" xml:id="p360"/>
+          franches étaient en harmonie avec la cordialité germanique. Vraiment, si vous aviez pu
+          voir, comme j’en eus le plaisir, cette joyeuse réunion de gens qui avaient rentré leurs
+          griffes commerciales pour spéculer sur les plaisirs de la vie, il vous eût été difficile
+          de haïr les escomptes usuraires ou de maudire les faillites. L’homme ne peut pas toujours
+          mal faire. Aussi, même dans la société des pirates, doit-il se rencontrer quelques heures
+          douces pendant lesquelles vous croyez être, dans leur sinistre vaisseau, comme sur une
+          escarpolette.</p>
         <p>– Avant de nous quitter, monsieur Hermann va nous raconter encore, je l’espère, une
           histoire allemande qui nous fasse bien peur.</p>
         <p>Ces paroles furent prononcées au dessert par une jeune personne pâle et blonde qui, sans
@@ -736,7 +755,6 @@
       <div type="chapter">
         <pb n="381" xml:id="p381"/>
         <head>Les deux justices</head>
-        <div>
         <p> – Oh ! n’achevez pas ! s’écria la jeune personne qui avait demandé cette histoire, et
           qui interrompit alors brusquement le Nurembergeois. Je veux demeurer dans l’incertitude et
           croire qu’il a été sauvé. Si j’apprenais aujourd’hui qu’il a été fusillé, je ne dormirais
@@ -1000,17 +1018,15 @@
           pour rendre votre arrêt superflu. Et si aujourd’hui sa voix s’est affaiblie, voici les
           motifs de ma couardise. Je reçus, il y a deux mois, cette lettre séductrice.</p>
         <p>Je leur montrai l’invitation suivante, que je tirai de mon portefeuille.</p>
-      </div>
-        <div type="letter">
-          <p><hi rend="sc">Vous êtes prié d’assister aux convoi, service et enterrement de
-              monsieur JEAN-FRÉDÉRIC TAILLEFER, de la maison Taillefer et compagnie, ancien
-              fournisseur des vivres-viandes, en son vivant chevalier de la Légion d’honneur et de
-              l’Éperon d’or, capitaine de la première compagnie de grenadiers de la deuxième légion
-              de la garde nationale de paris, décédé le premier mai dans son hôtel, rue joubert, et
-              qui se feront à</hi>… etc.</p>
+        <q type="letter">
+          <p><hi rend="sc">Vous êtes prié d’assister aux convoi, service et enterrement de monsieur
+              JEAN-FRÉDÉRIC TAILLEFER, de la maison Taillefer et compagnie, ancien fournisseur des
+              vivres-viandes, en son vivant chevalier de la Légion d’honneur et de l’Éperon d’or,
+              capitaine de la première compagnie de grenadiers de la deuxième légion de la garde
+              nationale de paris, décédé le premier mai dans son hôtel, rue joubert, et qui se
+              feront à</hi>… etc.</p>
           <p><hi rend="i">De la part de</hi>… etc.</p>
-        </div>
-      <div>
+        </q>
         <p>– Maintenant, que faire ? repris-je. Je vais vous poser la question très-largement. Il y
           a bien certainement une mare de sang dans les terres de mademoiselle Taillefer, la
           succession de son père est un vaste <hi rend="i">hacelma</hi>. Je le sais. Mais Prosper
@@ -1042,7 +1058,6 @@
         <p>L’honnête homme, cette espèce de puritain assez semblable au père de Jenny Deans, de qui
           je vous ai déjà parlé, et qui jusque-là n’avait soufflé mot, haussa les épaules en me
           disant : – Imbécile, pourquoi lui as-tu demandé s’il était de Beauvais !</p>
-      </div>
         <closer>
           <dateline>Paris, mai 1831.</dateline>
         </closer>

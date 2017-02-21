@@ -1173,7 +1173,6 @@
       </div>
       <div>
         <head>III <lb/>Séraphîta-Séraphîtüs</head>
-        <div>
           <p>Après une pause pendant laquelle le pasteur parut recueillir ses souvenirs, il reprit
             en ces termes :</p>
           <p>Emmanuel de <hi rend="sc">Swedenborg</hi> est né à Upsal, en Suède, dans le mois de
@@ -1326,8 +1325,7 @@
           <p>Le pasteur chercha dans le tiroir de sa table parmi quelques papiers, finit par y
             trouver une gazette, et la tendit à Wilfrid qui lut à haute voix la lettre
             suivante :</p>
-        </div>
-        <div type="letter">
+        <q type="letter">
           <opener>
             <dateline>Stockholm, 13 mai 1788.</dateline>
           </opener>
@@ -1375,8 +1373,7 @@
             la vérité m’a engagé à rendre avec fidélité un fait qu’on a si souvent rapporté avec des
             détails entièrement faux, et j’affirme ce que je viens d’écrire, en apposant la
             signature de mon nom.</p>
-        </div>
-        <div>
+        </q>
           <p>– Les témoignages que Swedenborg a donnés de sa mission aux familles de Suède et de
             Prusse ont sans doute fondé la croyance dans laquelle vivent plusieurs personnages de
             ces deux cours, reprit monsieur Becker en remettant la gazette dans son tiroir.
@@ -2331,7 +2328,7 @@
           <p>– Ce que je sens est inexplicable, reprit Minna en rougissant.</p>
           <p>– Vous êtes fous ! s’écria le pasteur.</p>
           <p>– À demain ! dit Wilfrid.</p>
-        </div>
+        
       </div>
       <div>
         <head>IV <lb/>Les nuées du sanctuaire</head>

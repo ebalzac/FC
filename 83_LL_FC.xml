@@ -105,8 +105,7 @@
       </div>
     </front>
     <body>
-      <div type="chapter">
-        <div>
+      <div>
           <p>Louis Lambert naquit, en 1797, à Montoire, petite ville du Vendômois, où son père
             exploitait une tannerie de médiocre importance et comptait faire de lui son successeur ;
             mais les dispositions qu’il manifesta prématurément pour l’étude modifièrent cet arrêt
@@ -1785,8 +1784,7 @@
             philosophes en regretteront les frondaisons atteintes par la gelée dans le bourgeon ;
             mais sans doute ils en verront les fleurs écloses dans des régions plus élevées que ne
             le sont les plus hauts lieux de la terre.</p>
-        </div>
-        <div type="letter">
+        <q type="letter">
           <opener>
             <dateline>Paris, septembre-novembre 1819.</dateline>
           </opener>
@@ -2083,8 +2081,7 @@
             l’autre sont fils du désert. Des trente-trois années de Jésus, il n’en est que neuf de
             connues ; sa vie silencieuse a préparé sa vie glorieuse. À moi aussi, il me faut le
             désert !</p>
-        </div>
-        <div>
+        </q>
           <p>Malgré les difficultés de l’entreprise, j’ai cru devoir essayer de peindre la jeunesse
             de Lambert, cette vie cachée à laquelle je suis redevable des seules bonnes heures et
             des seuls souvenirs agréables de mon enfance. Hormis ces deux années, je n’ai eu que
@@ -2178,8 +2175,8 @@
             ses palimpsestes avec plus de respect que je n’en eus à étudier, à reconstruire ces
             monuments mutilés d’une souffrance et d’une joie si sacrées pour ceux qui ont connu la
             même souffrance et la même joie.</p>
-        </div>
-        <div type="letter">
+        
+        <q type="letter">
           <label>I</label>
           <p>Mademoiselle, quand vous aurez lu cette lettre, si toutefois vous la lisez, ma vie sera
             entre vos mains, car je vous aime ; et, pour moi, espérer d’être aimé, c’est la vie. Je
@@ -2238,8 +2235,8 @@
             ne vous quitterai jamais. Autrement, quelle valeur auraient les paroles saintes de cette
             lettre, ma première et ma dernière prière peut-être ? Si je cessais un jour de penser à
             vous, de vous aimer, heureux ou malheureux ! ne mériterais-je pas mes angoisses ?</p>
-        </div>
-        <div type="letter">
+        </q>
+        <q type="letter">
           <label>II</label>
           <p>Vous ne partez pas ! Je suis donc aimé ! moi, pauvre être obscur. Ma chère Pauline,
             vous ne connaissez pas la puissance du regard auquel je crois, et que vous m’avez jeté
@@ -2324,8 +2321,8 @@
             de vous : – « Faites que ma Pauline soit heureuse ! » Mais ne remplirez-vous donc pas
             mes jours, comme déjà vous remplissez mon cœur ? Adieu, je ne puis vous confier qu’à
             Dieu !</p>
-        </div>
-        <div type="letter">
+        </q>
+        <q type="letter">
           <label>III</label>
           <p>Pauline ! dis-moi si j’ai pu te déplaire en quelque chose, hier ? Abjure cette fierté
             de cœur qui fait endurer secrètement les peines causées par un être aimé. Gronde-moi !
@@ -2410,8 +2407,8 @@
             parole de miel. Affliger la femme que l’on aime ! pour moi, Pauline, c’est un crime.
             Dis-moi la vérité, ne me fais pas quelque généreux mensonge, mais désarme ton pardon de
             toute cruauté.</p>
-        </div>
-        <div type="letter">
+        </q>
+        <q type="letter">
           <label>FRAGMENT</label>
           <p>Un attachement si complet est-il un bonheur ? Oui, car des années de souffrance ne
             paieraient pas une heure d’amour. Hier, ton apparente tristesse a passé dans mon âme
@@ -2435,8 +2432,8 @@
             J’attendrai ta lettre avant d’aller par les chemins chercher le doux moment que tu
             m’accordes. Ah ! si tu savais combien l’aspect des tourelles me fait palpiter, quand
             enfin je les vois bordées de lueur par la lune, notre amie, notre seule confidente.</p>
-        </div>
-        <div type="letter">
+        </q>
+        <q type="letter">
           <pb n="184" xml:id="p184"/>
           <label>IV</label>
           <p>Adieu la gloire, adieu l’avenir, adieu la vie que je rêvais ! Maintenant, ma tant
@@ -2499,8 +2496,8 @@
             voudrais te les rendre toutes, et t’y faire régner comme tu règnes sur ma vie actuelle.
             Mais qu’est-ce que le temps de mon existence <pb n="186" xml:id="p186"/> où je ne te
             connaissais pas ? Ce serait le néant, si je n’avais pas été si malheureux.</p>
-        </div>
-        <div type="letter">
+        </q>
+        <q type="letter">
           <label>FRAGMENT</label>
           <p>Ange aimé, quelle douce soirée que celle d’hier ! Combien de richesses dans ton cher
             cœur ? ton amour est donc inépuisable, comme le mien. Chaque mot m’apportait de
@@ -2541,8 +2538,8 @@
             difficilement ma reconnaissance et ces prières matinales que mon cœur adresse chaque
             jour à celle qui m’a dit tout l’évangile du cœur dans ce mot divin : « <hi rend="sc"
               >Croyez</hi> ! »</p>
-        </div>
-        <div type="letter">
+        </q>
+        <q type="letter">
           <label>V</label>
           <p>Comment, cœur chéri, plus d’obstacles ! Nous serons libres d’être l’un à l’autre,
             chaque jour, à chaque heure, chaque moment, toujours. Nous pourrons rester, pendant
@@ -2609,8 +2606,7 @@
             pour y mourir : c’est un abîme. Ne t’effraie pas des larmes qui ont mouillé cette
             lettre, c’est des larmes de joie. Mon seul bonheur, nous ne nous quitterons donc
             plus !</p>
-        </div>
-        <div>
+        </q>
           <p>En 1823, j’allais de Paris en Touraine par la diligence. À Mer, le conducteur prit un
             voyageur pour Blois. En le faisant entrer dans la partie de la voiture où je me
             trouvais, il lui dit en plaisantant : – Vous ne serez pas gêné là, monsieur Lefebvre !
@@ -2872,7 +2868,7 @@
             premières phrases, mais j’ai cessé de le faire ; je n’y entendais rien alors.</p>
           <p>Je les lui demandai par un regard ; elle me comprit, et voici ce que je pus sauver de
             l’oubli.</p>
-          <ab>_____</ab>
+          <q type="narrative">
           <label>I</label>
           <p><hi rend="i">Ici-bas, tout est le produit d’une </hi><hi rend="sc">substance
               éthérée</hi>, <hi rend="i">base commune de plusieurs phénomènes connus sous les noms
@@ -3040,7 +3036,7 @@
               porté par le vent ne dit pas : – Morts, levez-vous ! Il dit : – Que les vivants se
               lèvent !</hi>
           </p>
-          <ab>_______</ab>
+          </q>
           <p>Telles sont les pensées auxquelles j’ai pu, non sans de grandes peines, donner des
             formes en rapport avec notre entendement. Il en est d’autres desquelles Pauline se
             souvenait plus particulièrement, je ne sais par quelle raison, et que j’ai transcrites ;
@@ -3051,7 +3047,7 @@
             précédente, qui semble s’appliquer seulement au mouvement zoologique. Mais entre ces
             deux fragments, il est une corrélation évidente aux yeux des personnes, assez rares
             d’ailleurs, qui se plaisent à plonger dans ces sortes de gouffres intellectuels.</p>
-          <ab>_______</ab>
+          <q type="narrative">
           <label>I</label>
           <p rend="i">Tout ici-bas n’existe que par le Mouvement et par le Nombre. </p>
           <label>II</label>
@@ -3110,7 +3106,7 @@
               Ajoutez le Quaternaire, vous avez le</hi>
             <hi rend="sc">sept</hi>, <hi rend="i">qui est la formule du ciel. Dieu est au-dessus, il
               est l’Unité.</hi></p>
-          <ab>_______</ab>
+          </q>
           <p>Après être allé revoir encore une fois Lambert, je quittai sa femme et revins en proie
             à des idées si contraires à la vie sociale, que je renonçai, malgré ma promesse, à
             retourner à Villenoix. La vue de Louis avait exercé sur moi je ne sais quelle influence
@@ -3145,7 +3141,6 @@
           <closer>
             <dateline>Au château de Saché, juin-juillet 1832.</dateline>
           </closer>
-        </div>
       </div>
     </body>
   </text>
