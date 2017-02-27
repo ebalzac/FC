@@ -14,12 +14,12 @@
 $glob = "*.xml";
 foreach(glob($glob) as $srcfile) {
   echo "<li><a href=\"".$srcfile."\">";
+  echo "[".$srcfile."]";
+  echo "</a>";
   $xml = file_get_contents($srcfile);
   if ( preg_match("@<title>(.*?)</title>@", $xml, $matches) )
-    echo $matches[1];
-  else
-    echo $srcfile;
-  echo "</a></li>\n";
+    echo " ".$matches[1];
+  echo "</li>\n";
 }
 
           ?>
