@@ -111,8 +111,7 @@
       </div>
     </front>
     <body>
-      <div type="chapter">
-        <div>
+      <div>
         <p>Au mois de septembre 1835, une des plus riches héritières du faubourg Saint-Germain,
           mademoiselle du Rouvre, fille unique du marquis du Rouvre, épousa le comte Adam Mitgislas
           Laginski, jeune polonais proscrit. Qu’il soit permis d’écrire les noms comme ils se
@@ -1057,8 +1056,7 @@
           causeries du monde interlope.</p>
         <p>Deux mois après, la belle écuyère, criblée de dettes écrivit au comte Paz cette lettre
           que les dandies ont regardée dans le temps comme un chef-d’œuvre :</p>
-      </div>
-      <div type="letter">
+      <q>
         <p>Vous, que j’ose encore appeler mon ami, aurez-vous pitié de moi après ce qui s’est
           passé et que vous avez si mal interprété ? Tout ce qui a pu vous blesser, mon cœur le
           désavoue. Si j’ai été assez heureuse pour que vous trouviez du charme à rester auprès de
@@ -1084,8 +1082,7 @@
           moment où je saute dans le cercle, je suis capable de me casser les jambes en perdant un
             <hi rend="i">temps</hi> ! Quoi qu’il en soit, vous avez à vous pour la vie</p>
         <signed><hi rend="sc">Marguerite Turquet</hi>.</signed>
-      </div>
-      <div>
+      </q>
         <p>– Cette lettre-là, se dit Thaddée en éclatant de rire, vaut mes dix mille francs !</p>
         <p>Clémentine arriva le lendemain, et, le lendemain, Paz la revit plus belle, plus gracieuse
           que jamais. Après le dîner, pendant lequel la comtesse eut un air de parfaite indifférence
@@ -1462,8 +1459,7 @@
           être certain que dans la soirée où votre tante a emmené le comte, si je vous avais dit ce
           que je viens de vous écrire, l’ayant dit une fois, j’aurais été comme le tigre apprivoisé
           qui a remis ses dents à de la chair vivante, qui sent la chaleur du sang, et…</p>
-      </div>
-      <div type="letter">
+      <q>
         <dateline>Minuit.</dateline>
         <p>Je n’ai pu continuer, le souvenir de cette heure est encore trop vivant ! Oui, j’eus
           alors le délire. L’Espérance était dans vos yeux, la Victoire et ses pavillons rouges
@@ -1478,11 +1474,11 @@
           de ses garde-malades. <pb n="395" xml:id="p395"/> Adieu, madame, je perds tout en quittant
           Paris, et vous ne perdez rien en n’ayant plus auprès de vous</p>
         <signed>Votre dévoué <lb/><hi rend="i">Thaddée Paç</hi>. »</signed>
-      </div>
-      <div>
+      </q>
         <p>– Si mon pauvre Adam dit avoir perdu un ami, qu’ai-je donc perdu, moi ? se dit Clémentine
           en restant abattue et les yeux attachés sur une fleur de son tapis.</p>
         <p>Voici la lettre que Constantin remit en secret au comte.</p>
+          <q>
         <p>« Mon cher Mitgislas, Malaga m’a tout dit. Au nom de ton bonheur, qu’il ne t’échappe
           jamais avec Clémentine un mot sur tes visites chez l’écuyère ; et laisse-lui toujours
           croire que Malaga me coûte cent mille francs. Du caractère dont est la comtesse, elle ne
@@ -1491,8 +1487,7 @@
           mort. Adieu ; quoique j’aie repris soixante mille francs chez Rothschild, nous sommes
           quittes.</p>
         <signed><hi rend="i">Thaddée</hi>. »</signed>
-      </div>
-      <div>
+          </q>
         <p>– Imbécile que je suis ! j’ai failli me couper tout-à-l’heure, se dit Adam.</p>
         <p>Voici trois ans que Thaddée est parti, les journaux ne parlent encore d’aucun prince Paz.
           La comtesse Laginska s’intéresse énormément aux expéditions de l’empereur Nicolas, elle
@@ -1522,7 +1517,7 @@
           vit la voiture emportant la comtesse.</p>
         <p>Jamais femme eut-elle un pareil roman dans sa vie ? À toute heure, Clémentine espère
           revoir Paz.</p>
-      </div>
+      
         <closer>
           <dateline>Paris, janvier 1842.</dateline>
         </closer>

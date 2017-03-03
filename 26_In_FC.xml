@@ -112,7 +112,6 @@
       </div>
     </front>
     <body>
-      <div type="chapter">
 <div>
       <p>En 1828, vers une heure du matin, deux personnes sortaient d’un hôtel situé dans la rue du Faubourg-Saint-Honoré, près de l’Élysée-Bourbon : l’une était un médecin célèbre, Horace Bianchon ; l’autre un des hommes les plus élégants de Paris, le baron de Rastignac, tous deux amis depuis long-temps. Chacun d’eux avait renvoyé sa voiture, il ne s’en trouva point dans le faubourg ; mais la nuit était belle et le pavé sec.</p>
       <p>– Allons à pied jusqu’au boulevard, dit Eugène de Rastignac à Bianchon, tu prendras une voiture au Cercle ; il y en a là jusqu’au matin. Tu m’accompagneras jusque chez moi.</p>
@@ -201,31 +200,25 @@
       <p>– Non, mon oncle, la marquise d’Espard est une haute et puissante dame, qui a présenté une requête au Tribunal, à l’effet de faire interdire son mari, et vous avez été commis…</p>
       <p>– Et tu veux que j’aille dîner chez elle ! Es-tu fou ? dit le juge en saisissant le Code de Procédure. Tiens, lis donc l’article qui défend au magistrat de boire et de manger chez l’une des parties qu’il doit juger. Qu’elle vienne me voir si elle a quelque chose à me dire, ta marquise. Je devais en effet aller demain interroger son mari, après avoir examiné l’affaire pendant la nuit prochaine. Il se leva, prit un dossier qui se trouvait sous un serre-papier à portée de sa vue, et dit après en avoir lu l’intitulé : Voici les pièces. Puisque cette haute et puissante dame t’intéresse, dit-il, voyons la requête !</p>
       <p>Popinot croisa sa robe de chambre dont les pans retombaient toujours en laissant sa poitrine à nu ; il trempa ses mouillettes dans son café refroidi, et chercha la requête qu’il lut en se permettant quelques parenthèses et quelques discussions auxquelles son neveu prit part.</p>
-</div>
-      <div type="letter">
+      <q>
         <p>À monsieur le Président du Tribunal civil de Première Instance du département de la Seine, séant au Palais de Justice.</p>
         <p>Madame Jeanne-Clémentine-Athénaïs de Blamont-Chauvry, épouse de monsieur Charles-Maurice-Marie Andoche, comte de Nègrepelisse, marquis d’Espard (Bonne noblesse), propriétaire ; ladite dame d’Espard demeurant rue du Faubourg-Saint-Honoré, nº 104, et ledit sieur d’Espard, rue de la Montagne-Sainte-Geneviève, nº 22 (Ah ! oui, monsieur le président m’a dit que c’était dans mon quartier !), ayant M<hi rend="sup">e</hi> Desroches pour avoué,</p>
-      </div>
-      <div>
+      </q>
       <p>– Desroches ! un petit faiseur d’affaires, un homme mal vu du Tribunal et de ses confrères, qui nuit à ses clients !</p>
       <p>– Pauvre garçon ! dit Bianchon, il est malheureusement sans fortune, et il se démène<note place="bottom">Erreur du Furne : « demène » au lieu de « démène ».</note> comme un diable dans un bénitier, voilà tout.</p>
-      </div>
-      <div type="letter">
+      <q>
         <p>A l’honneur de vous exposer, monsieur le président, que depuis une année les facultés morales et intellectuelles de monsieur d’Espard, son mari, ont subi une altération si profonde, qu’elles constituent aujourd’hui l’état de démence et d’imbécillité prévu par l’article 486 du Code civil, et appellent au secours de sa fortune, <pb n="143" xml:id="p143"/> de sa personne, et dans l’intérêt de ses enfants qu’il garde près de lui, l’application des dispositions voulues par le même article ;</p>
         <p>Qu’en effet l’état moral de monsieur d’Espard, qui, depuis quelques années, offrait des craintes graves fondées sur le système adopté par lui pour le gouvernement de ses affaires, a parcouru, pendant cette dernière année surtout, une déplorable échelle de dépression ; que la volonté, la première, a ressenti les effets du mal, et que son anéantissement a laissé monsieur le marquis d’Espard livré à tous les dangers d’une incapacité constatée par les faits suivants :</p>
         <p>Depuis long-temps tous les revenus que procurent les biens du marquis d’Espard passent, sans causes plausibles et sans avantages, même temporaires, à une vieille femme de qui la laideur repoussante est généralement remarquée, et nommée madame Jeanrenaud, demeurant tantôt à Paris, rue de La Vrillière, numéro 8 ; tantôt à Villeparisis, près Claye, département de Seine-et-Marne, et au profit de son fils, âgé de trente-six ans, officier de l’ex-garde impériale, que, par son crédit, monsieur le marquis d’Espard a placé dans la garde royale en qualité de chef d’escadron au premier régiment de cuirassiers. Ces personnes, réduites en 1814 à la dernière misère, ont successivement acquis des immeubles d’un prix considérable, entre autres et dernièrement un hôtel Grande rue Verte, où le sieur Jeanrenaud fait actuellement des dépenses considérables afin de s’y établir avec la dame Jeanrenaud sa mère, en vue du mariage qu’il poursuit ; lesquelles dépenses s’élèvent déjà à plus de cent mille francs. Ce mariage est procuré par les démarches du marquis d’Espard auprès de son banquier, le sieur Mongenod, duquel il a demandé la nièce en mariage pour ledit sieur Jeanrenaud, en promettant son crédit pour lui obtenir la dignité de baron. Cette nomination a eu lieu effectivement par ordonnance de Sa Majesté en date du 29 décembre dernier, sur les sollicitations du marquis d’Espard, ainsi qu’il peut en être justifié par Sa Grandeur monseigneur le Garde des Sceaux, si le tribunal jugeait à propos de recourir à son témoignage ;</p>
         <p>Qu’aucune raison, <hi rend="i">même prise parmi celles que la morale et la loi réprouvent également</hi>, ne peut justifier l’empire que la dame veuve Jeanrenaud a pris sur le marquis d’Espard, qui, d’ailleurs, la voit très-rarement ; ni expliquer son étrange affection pour ledit sieur baron Jeanrenaud, avec qui ses communications <pb n="144" xml:id="p144"/> sont peu fréquentes : cependant leur autorité se trouve être si grande, que chaque fois qu’ils ont besoin d’argent, fût-ce même pour satisfaire de simples fantaisies, cette dame ou son fils…</p>
-      </div>
-      <div>
+      </q>
       <p>– Hé ! hé ! <hi rend="i">raison que la morale et la loi réprouvent</hi> ! Que veut nous insinuer le clerc ou l’avoué ? dit Popinot.</p>
       <p>Bianchon se mit à rire.</p>
-      </div>
-      <div type="letter">
+      <q>
         <p>… cette dame <hi rend="i">ou son fils</hi> obtiennent sans aucune discussion du marquis d’Espard ce qu’ils demandent, et, à défaut d’argent comptant, monsieur d’Espard signe des lettres de change négociées par le sieur Mongenod, lequel a fait offre à l’exposante d’en témoigner ;</p>
         <p>Que d’ailleurs, à l’appui de ces faits, il est arrivé récemment, lors du renouvellement des baux de la terre d’Espard, que les fermiers ayant donné une somme assez importante pour la continuation de leurs contrats, le sieur Jeanrenaud s’en est fait faire immédiatement la délivrance ;</p>
         <p>Que la volonté du marquis d’Espard a si peu de concours à l’abandon de ces sommes, que quand il lui en a été parlé il n’a point paru s’en souvenir ; que, toutes les fois que des personnes graves l’ont questionné sur son dévouement à ces deux individus, ses réponses ont indiqué une si entière abnégation de ses idées, de ses intérêts, qu’il existe nécessairement en cette affaire une cause occulte sur laquelle l’exposante appelle l’œil de la justice, attendu qu’il est impossible que cette cause ne soit pas criminelle, abusive et tortionnaire, ou d’une nature appréciable par la médecine légale, si toutefois cette obsession n’est pas de celles qui rentrent dans l’abus des forces morales, et qu’on ne peut qualifier qu’en se servant du terme extraordinaire de <hi rend="i">possession</hi>…</p>
-      </div>
-      <div>
+      </q>
       <p>– Diable ! reprit Popinot, que dis-tu de cela, toi, docteur ? Ces faits-là sont bien étranges.</p>
       <p>– Ils pourraient être, répondit Bianchon, un effet du pouvoir magnétique.</p>
       <p>– Tu crois donc aux bêtises de Mesmer, à son baquet, à la vue au travers des murailles ?</p>
@@ -241,44 +234,34 @@
       <p>– Mais, reprit le juge, en 1814, époque à laquelle la séduction aurait éclaté, cette femme devait avoir quatorze ans de moins ; si elle a été liée dix ans auparavant avec monsieur d’Espard, ces calculs de date nous reportent à vingt-quatre ans en arrière, époque à laquelle la dame pouvait être jeune, jolie, et avoir conquis, par des moyens fort naturels, pour elle aussi bien que pour son fils, sur monsieur d’Espard, un empire auquel certains hommes ne savent pas se soustraire. Si la cause de cet empire semble répréhensible aux yeux de la justice, il est justifiable aux yeux de la nature. Madame Jeanrenaud aura pu se fâcher du mariage contracté probablement vers ce temps par le marquis d’Espard avec mademoiselle de Blamont-Chauvry ; et il pourrait n’y avoir au fond de ceci qu’une rivalité de femme, puisque le marquis ne demeure plus depuis long-temps avec madame d’Espard.</p>
       <p>– Mais cette laideur repoussante, mon oncle ?</p>
       <p>– La puissance des séductions, reprit le juge, est en raison directe avec la laideur ; vieille question ! D’ailleurs, et la petite vérole, docteur ? Mais continuons.</p>
-      </div>
-        <div type="letter">
+        <q>
         <p>Que dès l’année 1815, pour fournir aux sommes exigées par ces deux personnes, monsieur le marquis d’Espard est allé se loger avec ses deux enfants rue de la Montagne-Sainte-Geneviève, dans un appartement dont le dénûment est indigne de son nom et de <pb n="146" xml:id="p146"/> sa qualité (On se loge comme on veut !) ; qu’il y détient ses deux enfants, le comte Clément d’Espard, et le vicomte Camille d’Espard, dans les habitudes d’une vie en désaccord avec leur avenir, avec leur nom et leur fortune ; que souvent le manque d’argent est tel, que récemment le propriétaire, un sieur Maraist, fit saisir les meubles garnissant les lieux ; que quand cette voie de poursuite fut effectuée en sa présence, le marquis d’Espard a aidé l’huissier, qu’il a traité comme un homme de qualité, en lui prodiguant toutes les marques de courtoisie et d’attention qu’il aurait eues pour une personne élevée au-dessus de lui en dignité…</p>
-      </div>
-      <div>
+      </q>
       <p>L’oncle et le neveu se regardèrent en riant.</p>
-      </div>
-      <div type="letter">
+      <q>
         <p>Que, d’ailleurs, tous les actes de sa vie, en dehors des faits allégués à l’égard de la dame veuve Jeanrenaud et du sieur baron Jeanrenaud son fils, sont empreints de folie ; que, depuis bientôt dix ans, il s’occupe si exclusivement de la Chine, de ses coutumes, de ses mœurs, de son histoire, qu’il rapporte tout aux habitudes chinoises ; que, questionné sur ce point, il confond les affaires du temps, les événements de la veille, avec les faits relatifs à la Chine ; qu’il censure les actes du gouvernement et la conduite du Roi, quoique d’ailleurs il l’aime personnellement, en les comparant à la politique chinoise ;</p>
         <p>Que cette monomanie a poussé le marquis d’Espard à des actions dénuées de sens ; que, contre les habitudes de son rang et les idées qu’il professait sur le devoir de la noblesse, il a entrepris une affaire commerciale pour laquelle il souscrit journellement des obligations à terme qui menacent aujourd’hui son honneur et sa fortune, attendu qu’elles emportent pour lui la qualité de négociant, et peuvent, faute de payement, le faire déclarer en faillite ; que ces obligations, contractées envers les marchands de papier, les imprimeurs, les lithographes et les coloristes, qui ont fourni les éléments nécessaires à cette publication intitulée : <hi rend="i">Histoire pittoresque de la Chine</hi>, et paraissant par livraisons, sont d’une telle importance, que ces mêmes fournisseurs ont supplié l’exposante de requérir l’interdiction du marquis d’Espard afin de sauver leurs créances…</p>
-      </div>
-      <div>
+      </q>
       <p>– Cet homme est un fou, s’écria Bianchon.</p>
       <p>– Tu crois cela, toi ! dit le juge. Il faut l’entendre. Qui n’écoute qu’une cloche n’entend qu’un son.</p>
       <p>– Mais il me semble… dit Bianchon.</p>
       <p><pb n="147" xml:id="p147"/> – Mais il me semble, dit Popinot, que, si quelqu’un de mes parents voulait s’emparer de l’administration de mes biens, et qu’au lieu d’être un simple juge, de qui les collègues peuvent examiner tous les jours l’état moral, je fusse duc et pair, un avoué quelque peu rusé, comme est Desroches, pourrait dresser une requête semblable contre moi.</p>
-      </div>
-      <div type="letter">
+      <q>
         <p>Que l’éducation de ses enfants a souffert de cette monomanie, et qu’il leur a fait apprendre, contrairement à tous les usages de l’enseignement, les faits de l’histoire chinoise qui contredisent les doctrines de la religion catholique, et leur a fait apprendre les dialectes chinois…</p>
-      </div>
-      <div>
+      </q>
       <p>– Ici Desroches me paraît drôle, dit Bianchon.</p>
       <p>– La requête a été dressée par son premier clerc Godeschal que tu connais et qui n’est pas très-Chinois, dit le juge.</p>
-      </div>
-      <div type="letter">
+      <q>
         <p>Qu’il laisse souvent ses enfants dénués des choses les plus nécessaires ; que l’exposante, malgré ses instances, ne peut les voir ; que le sieur marquis d’Espard les lui amène une seule fois par an ; que, sachant les privations auxquelles ils sont soumis, elle a fait de vains efforts pour leur donner les choses les plus nécessaires à l’existence, et desquelles ils manquaient…</p>
-      </div>
-      <div>
+      </q>
       <p>– Oh ! madame la marquise, voici des farces. Qui prouve trop ne prouve rien. Mon cher enfant, dit le juge en laissant le dossier sur ses genoux, quelle est la mère qui jamais a manqué de cœur, d’esprit, d’entrailles, au point de rester au-dessous des inspirations suggérées par l’instinct animal ? Une mère est aussi rusée pour arriver à ses enfants qu’une jeune fille peut l’être pour conduire à bien une intrigue d’amour. Si ta marquise avait voulu nourrir ou vêtir ses enfants, le diable ne l’en aurait, certes, pas empêchée ! hein ? Elle est un peu trop longue, cette couleuvre, pour la faire avaler à un vieux juge ! Continuons ?</p>
-      </div>
-      <div type="letter">
+      <q>
         <p>Que l’âge auquel arrivent lesdits enfants exige, dès à présent, qu’il soit pris des précautions pour les soustraire à la funeste influence de cette éducation, qu’il y soit pourvu selon leur rang, et qu’ils n’aient point sous les yeux l’exemple que leur donne la conduite de leur père ;</p>
         <p>Qu’à l’appui des faits présentement allégués, il existe des preuves dont le tribunal obtiendra facilement la répétition : maintes fois monsieur d’Espard a nommé le juge de paix du douzième arrondissement un mandarin de troisième classe ; il a souvent appelé <pb n="148" xml:id="p148"/> les professeurs du collège Henri IV des <hi rend="i">lettrés</hi> (Ils s’en fâchent !). À propos des choses les plus simples, il a dit que cela ne se passait pas ainsi en Chine ; il fait, dans le cours d’une conversation ordinaire, allusion soit à la dame Jeanrenaud, soit à des événements arrivés sous le règne de Louis XIV, et demeure alors plongé dans une mélancolie noire : il s’imagine parfois être en Chine. Plusieurs de ses voisins, notamment les sieurs Edme Becker, étudiant en médecine, Jean-Baptiste Frémiot, professeur, domiciliés dans la même maison, pensent, après avoir pratiqué le marquis d’Espard, que sa monomanie, en tout ce qui est relatif à la Chine, est une conséquence d’un plan formé par le sieur baron Jeanrenaud et la dame veuve sa mère pour achever l’anéantissement des facultés morales du marquis d’Espard, attendu que le seul service que paraît rendre à monsieur d’Espard la dame Jeanrenaud est de lui procurer tout ce qui a rapport à l’empire de la Chine ;</p>
         <p>Qu’enfin l’exposante offre de prouver au Tribunal que les sommes absorbées par les sieur et dame veuve Jeanrenaud, de 1814 à 1828, ne s’élèvent pas à moins d’un million de francs.</p>
         <p>À la confirmation des faits qui précèdent, l’exposante offre à monsieur le Président le témoignage des personnes qui voient habituellement monsieur le marquis d’Espard, et dont les noms et qualités sont désignés ci-dessous, parmi lesquelles beaucoup l’ont suppliée de provoquer l’interdiction de monsieur le marquis d’Espard, comme le seul moyen de mettre sa fortune à l’abri de sa déplorable administration, et ses enfants loin de sa funeste influence.</p>
         <p>Ce considéré, monsieur le Président, et vu les pièces ci-jointes, l’exposante requiert qu’il vous plaise, attendu que les faits qui précèdent prouvent évidemment l’état de démence et d’imbécillité de monsieur le marquis d’Espard, ci-dessus nommé, qualifié et domicilié, ordonner que, pour parvenir à l’interdiction d’icelui, la présente requête et les pièces à l’appui seront communiquées à monsieur le procureur du Roi, et commettre l’un de messieurs les juges du tribunal à l’effet de faire le rapport au jour que vous voudrez bien indiquer, pour être sur le tout par le Tribunal statué ce qu’il appartiendra, et vous ferez justice, etc.</p>
-      </div>
-      <div>
+      </q>
       <p>– Et voici, dit Popinot, l’ordonnance du Président qui me commet ! Eh ! bien, que veut de moi la marquise d’Espard ? Je sais tout. J’irai demain avec mon greffier chez monsieur le marquis, car ceci ne me paraît pas clair du tout.</p>
       <p><pb n="149" xml:id="p149"/> – Écoutez, mon cher oncle, je ne vous ai jamais demandé le moindre petit service qui eût trait à vos fonctions judiciaires ; eh ! bien, je vous prie d’avoir pour madame d’Espard une complaisance que mérite sa situation. Si elle venait ici, vous l’écouteriez ?</p>
       <p>– Oui.</p>
@@ -492,11 +475,10 @@
       <p>– Mais, monsieur le Président, si vous connaissiez l’espèce, dit le juge en essayant de tirer son rapport de sa poche.</p>
       <p>– Je suis persuadé d’avance que vous avez apporté dans cette affaire la plus stricte indépendance. Et moi-même, en province, simple juge, j’ai souvent pris bien plus qu’une tasse de thé avec les gens que j’avais à juger ; mais il suffit que le Garde des sceaux <pb n="189" xml:id="p189"/> en ait parlé, que l’on puisse causer de vous, pour que le Tribunal évite une discussion à ce sujet. Tout conflit avec l’opinion publique est toujours dangereux pour un Corps constitué, même quand il a raison contre elle, parce que les armes ne sont pas égales. Le journalisme peut tout dire, tout supposer ; et notre dignité nous interdit tout, même la réponse. D’ailleurs j’en ai conféré avec votre Président, et monsieur Camusot vient d’être commis sur la récusation que vous allez donner. C’est une chose arrangée en famille. Enfin je vous demande votre récusation comme un service personnel, en revanche, vous aurez la croix de la Légion-d’Honneur qui vous est depuis si long-temps due, j’en fais mon affaire.</p>
       <p>En voyant monsieur Camusot, un juge récemment appelé d’un Tribunal du ressort à celui de Paris et qui s’avança saluant et le juge et le président, Popinot ne put retenir un sourire ironique. Ce jeune homme blond et pâle, plein d’ambition cachée, semblait prêt à pendre et à dépendre, au bon plaisir des rois de la terre, les innocents aussi bien que les coupables et à suivre l’exemple des Laubardemont plutôt que celui des Molé. Popinot se retira en saluant le Président et le juge, il dédaigna de relever la mensongère accusation portée contre lui.</p>
-</div>
         <closer>
         <dateline>Paris, février 1836.</dateline>
         </closer>
-      </div>
+</div>
     </body>
   </text>
 </TEI>

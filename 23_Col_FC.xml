@@ -110,7 +110,6 @@
       </div>
     </front>
     <body>
-      <div type="chapter">
         <div>
           <p>– Allons ! encore notre vieux carrick !</p>
           <p>Cette exclamation échappait à un clerc appartenant au genre de ceux qu’on appelle dans
@@ -1461,16 +1460,14 @@
           <p><pb n="44" xml:id="p44"/> – Voyons, monsieur, dit la comtesse en laissant échapper un
             geste d’impatience.</p>
           <p>Derville lut.</p>
-        </div>
-        <div type="letter">
+        <q>
           <p>Entre les soussignés,</p>
           <p>Monsieur Hyacinthe, <hi rend="i">dit Chabert</hi>, comte, maréchal-de-camp et
             grand-officier de la Légion-d’Honneur, demeurant à Paris, rue du Petit-Banquier, d’une
             part ;</p>
           <p>Et la dame Rose Chapotel, épouse de monsieur le comte Chabert, ci-dessus nommée,
             née…</p>
-        </div>
-        <div>
+        </q>
           <p>– Passez, dit-elle, laissons les préambules, arrivons aux conditions.</p>
           <p>– Madame, dit l’avoué, le préambule explique succinctement la position dans laquelle
             vous vous trouvez l’un et l’autre. Puis, par l’article premier, vous reconnaissez, en
@@ -1823,8 +1820,7 @@
             montant de ce mémoire, en présumant qu’elle savait où se trouvait son premier mari.</p>
           <p>Le lendemain même l’intendant du comte Ferraud, récemment nommé Président du Tribunal
             de Première Instance dans une ville importante, écrivit à Derville ce mot désolant :</p>
-        </div>
-        <div type="letter">
+        <q>
           <opener>
             <salute>Monsieur,</salute>
           </opener>
@@ -1835,8 +1831,7 @@
             <salute>Agréez, etc.</salute>
             <signed><hi rend="sc">Delbecq.</hi></signed>
           </closer>
-        </div>
-        <div>
+        </q>
           <p>– On rencontre des gens qui sont aussi, ma parole d’honneur, par trop bêtes. Ils ont
             volé le baptême, s’écria Derville. Soyez donc humain, généreux, philanthrope et avoué,
             vous vous faites enfoncer ! Voilà une affaire qui me coûte plus de deux billets de mille
@@ -1990,11 +1985,10 @@
             toujours au-dessous de la vérité. Vous allez connaître ces jolies choses-là, vous ; moi,
             je vais vivre à la campagne avec ma femme, Paris me fait horreur.</p>
           <p>– J’en ai déjà bien vu chez Desroches, répondit Godeschal.</p>
-        </div>
         <closer>
           <dateline>Paris, février – mars 1832.</dateline>
         </closer>
-      </div>
+        </div>
     </body>
   </text>
 </TEI>
