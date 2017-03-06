@@ -1115,7 +1115,7 @@
         alors fortement éclairée par la chandelle. Le vigneron maintenait difficilement le calme
         habituel de sa physionomie. D’ailleurs chacun pourra se peindre la contenance affectée par
         cet homme en lisant la fatale lettre que voici :</p>
-      <p>[@div letter]</p>
+<q>
       <p>Mon frère, voici bientôt vingt-trois ans que nous ne nous sommes vus. Mon mariage a été
         l’objet de notre dernière entrevue, après laquelle nous nous sommes quittés joyeux l’un et
         l’autre. Certes je ne pouvais guère prévoir que tu serais un jour le seul soutien de la
@@ -1177,7 +1177,7 @@
         cesse une voix qui priera pour toi dans le monde où nous devons aller tous un jour, et où je
         suis déjà.</p>
       <signed>Victor-Ange-Guillaume <hi rend="sc">Grandet</hi>.</signed>
-      <p>[@/div]</p>
+</q>
       <p>– Vous causez donc ? dit le père Grandet en pliant avec exactitude la lettre dans les mêmes
         plis et la mettant dans la poche de son gilet. Il regarda son neveu d’un air humble et
         craintif sous lequel il cacha ses émotions et ses calculs. – Vous êtes-vous réchauffé ?</p>
@@ -2803,7 +2803,7 @@
         action. La passion, la curiosité l’emportèrent. À chaque phrase, son cœur se gonfla
         davantage, et l’ardeur piquante qui anima sa vie pendant cette lecture lui rendit encore
         plus friands les plaisirs du premier amour.</p>
-      <p>[@div letter]</p>
+<q>
       <p>Ma chère Annette, rien ne devait nous séparer, si ce n’est le malheur qui m’accable et
         qu’aucune prudence humaine n’aurait su prévoir. Mon père s’est tué, sa fortune et la mienne
         sont entièrement perdues. Je suis orphelin à un âge où, par la nature de mon éducation, je
@@ -2819,11 +2819,11 @@
         plus dévoué qui jamais ait ennobli le cœur d’un homme, ne saurait m’y attirer. Hélas ! ma
         bien-aimée, je n’ai point assez d’argent pour aller là où tu es, donner, recevoir un dernier
         baiser, un baiser où je puiserais la force nécessaire à mon entreprise.</p>
-      <p>[@/div]</p>
+</q>
       <p>– Pauvre Charles, j’ai bien fait de lire ! J’ai de l’or, je le lui donnerai, dit
         Eugénie.</p>
       <p>Elle reprit sa lecture après avoir essuyé ses pleurs.</p>
-      <p>[@div letter]</p>
+<q>
       <p>Je n’avais point encore songé aux malheurs de la misère. Si j’ai les cent louis
         indispensables au passage, je n’aurai pas un sou pour me faire une pacotille. Mais non, je
         n’aurai ni cent louis ni un louis, je ne connaîtrai ce qui me restera d’argent qu’après le
@@ -2843,11 +2843,11 @@
         n’arriverions pas encore au chiffre des dépenses nécessaires à ma vie <pb n="296"
           xml:id="p296"/> dissipée ; puis je ne saurais accepter tant de sacrifices. Nous nous
         quittons donc aujourd’hui pour toujours.</p>
-      <p>[@/div]</p>
+</q>
       <p>– Il la quitte, Sainte Vierge ! Oh ! bonheur !</p>
       <p>Eugénie sauta de joie. Charles fit un mouvement, elle en eut froid de terreur ; mais,
         heureusement pour elle, il ne s’éveilla pas. Elle reprit :</p>
-      <p>[@div letter]</p>
+<q>
       <p>Quand reviendrai-je ? je ne sais. Le climat des Indes vieillit promptement un Européen, et
         surtout un Européen qui travaille. Mettons-nous à dix ans d’ici. Dans dix ans, ta fille aura
         dix-huit ans, elle sera ta compagne, ton espion. Pour toi, le monde sera bien cruel, ta
@@ -2860,7 +2860,7 @@
         existence ; et je t’avouerai que j’ai trouvé ici, à Saumur, chez mon oncle, une cousine dont
         les manières, la figure, l’esprit et le cœur te plairaient, et qui, en outre, me paraît
         avoir…</p>
-      <p>[@/div]</p>
+</q>
       <p>– Il devait être bien fatigué, pour avoir cessé de lui écrire, se dit Eugénie en voyant la
         lettre arrêtée au milieu de cette phrase.</p>
       <p>Elle le justifiait ! N’était-il pas impossible alors que cette innocente fille s’aperçût de
@@ -2931,7 +2931,7 @@
         indiscrétion ; et, si elle commença de la lire, ce fut pour acquérir de nouvelles preuves
         des nobles qualités que, semblable à toutes les femmes, elle prêtait à celui qu’elle
         choisissait.</p>
-      <p>[@div letter]</p>
+<q>
       <p>Mon cher Alphonse, au moment où tu liras cette lettre je n’aurai plus d’amis ; mais je
         t’avoue qu’en doutant de ces gens du monde habitués à prodiguer ce mot, je n’ai pas douté de
         ton amitié. Je te charge donc d’arranger mes affaires, et compte sur toi, pour tirer un bon
@@ -2950,7 +2950,7 @@
         sans me demander d’indemnité ; s’ils se refusaient à cet arrangement, évite tout ce qui
         pourrait entacher ma loyauté, dans les circonstances où je me trouve. Je dois six louis à
         l’insulaire, perdus au jeu, ne manque pas de les lui…</p>
-      <p>[@/div]</p>
+</q>
       <p>– Cher cousin, dit Eugénie en laissant la lettre, et se sauvant à petits pas chez elle avec
         une des bougies allumées. Là ce ne fut pas sans une vive émotion de plaisir qu’elle ouvrit
         le tiroir d’un vieux meuble en chêne, l’un des plus beaux ouvrages de l’époque nommée la <hi
@@ -4622,7 +4622,7 @@
       <p>– Est-il mort ? demanda Nanon.</p>
       <p>– Il n’écrirait pas, dit Eugénie.</p>
       <p>Elle lut toute la lettre que voici.</p>
-      <p>[@div letter]</p>
+<q>
       <p>Ma chère cousine, vous apprendrez, je le crois, avec plaisir, le succès de mes entreprises.
         Vous m’avez porté bonheur, je suis revenu riche, et j’ai suivi les conseils de mon oncle,
         dont la mort et celle de ma tante viennent de m’être apprises par monsieur des Grassins. La
@@ -4636,10 +4636,10 @@
         dans le caractère pour vous cacher la situation de mes affaires. Je n’ai point oublié que je
         ne m’appartiens pas ; je me suis toujours souvenu dans mes longues traversées du petit banc
         de bois…</p>
-      <p>[@/div]</p>
+</q>
       <p>Eugénie se leva comme si elle eût été sur des charbons ardents, et alla s’asseoir sur une
         des marches de la cour.</p>
-      <p>[@div letter]</p>
+<q>
       <p>… du petit banc de bois où nous nous sommes juré de nous aimer toujours, du couloir, de la
         salle grise, de ma chambre en mansarde, et de la nuit où vous m’avez rendu, par votre
         délicate obligeance, mon avenir plus facile. Oui, ces souvenirs ont soutenu mon courage, et
@@ -4676,17 +4676,17 @@
         votre discrétion, vous rendre maîtresse de mon sort, et vous dire que, s’il faut renoncer à
         mes ambitions sociales, je me contenterai volontiers de ce simple et pur bonheur duquel vous
         m’avez offert de si touchantes images…</p>
-      <p>[@/div]</p>
+</q>
       <p>– Tan, ta, ta. – Tan, ta, ti. – Tinn, ta, ta. – Toûn ! – Toûn, ta, ti. – Tinn, ta, ta…,
         etc., avait chanté Charles Grandet sur l’air de <hi rend="i">Non più andrai</hi>, en
         signant :</p>
-      <p>[@div letter]</p>
+<q>
       <salute>Votre dévoué cousin,</salute>
       <signed><hi rend="sc">Charles</hi>.</signed>
-      <p>[@/div]</p>
+</q>
       <p><pb n="356" xml:id="p356"/> – Tonnerre de Dieu ! c’est y mettre des procédés, se dit-il. Et
         il avait cherché le mandat, et il avait ajouté ceci :</p>
-      <p>[@div letter]</p>
+<q>
       <postscript>
         <p><hi rend="i">P. S.</hi> Je joins à ma lettre un mandat sur la maison des Grassins de huit
           mille francs à votre ordre, et payable en or, comprenant intérêts et capital de la somme
@@ -4695,7 +4695,7 @@
           reconnaissance. Vous pouvez renvoyer par la diligence ma toilette à l’hôtel d’Aubrion, rue
           Hillerin-Bertin.</p>
       </postscript>
-      <p>[@/div]</p>
+</q>
       <p>– Par la diligence ! dit Eugénie. Une chose pour laquelle j’aurais donné mille fois ma
         vie !</p>
       <p>Épouvantable et complet désastre. Le vaisseau sombrait sans laisser ni un cordage, ni une
@@ -4771,19 +4771,19 @@
         directeur.</p>
       <p>– Eh ! bien, mademoiselle, voici ce que des Grassins m’écrit. Lisez.</p>
       <p>Eugénie lut la lettre suivante :</p>
-      <p>[@div letter]</p>
+<q>
       <p>Ma chère femme, Charles Grandet arrive des Indes, il est à Paris depuis un mois…</p>
-      <p>[@/div]</p>
+</q>
       <p>– Un mois ! se dit Eugénie en laissant tomber sa main.</p>
       <p>Après une pause, elle reprit la lettre.</p>
-      <p>[@div letter]</p>
+<q>
       <p>… Il m’a fallu faire antichambre deux fois avant de pouvoir parler à ce futur vicomte
         d’Aubrion. Quoique tout Paris parle de son mariage, et que tous les bans soient publiés…</p>
-      <p>[@/div]</p>
+</q>
       <p>– Il m’écrivait donc au moment où… se dit Eugénie. Elle n’acheva pas, elle ne s’écria pas
         comme une Parisienne : « Le polisson ! » Mais pour ne pas être exprimé, le mépris n’en fut
         pas moins complet.</p>
-      <p>[@div letter]</p>
+<q>
       <p>… Ce mariage est loin de se faire ; le marquis d’Aubrion ne donnera pas sa fille au fils
         d’un banqueroutier. Je suis venu lui faire part des soins que son oncle et moi nous avons
         donnés aux affaires de son père, et des habiles manœuvres par lesquelles nous <pb n="359"
@@ -4799,7 +4799,7 @@
         expliquer ma position aux créanciers. Néanmoins, j’ai trop de respect pour mademoiselle
         Eugénie, à l’alliance de laquelle, en des temps plus heureux, nous avions pensé, pour agir
         sans que tu lui aies parlé de cette affaire…</p>
-      <p>[@/div]</p>
+</q>
       <p>Là, Eugénie rendit froidement la lettre sans l’achever. – Je vous remercie, dit-elle à
         madame des Grassins, <hi rend="i">nous verrons cela…</hi></p>
       <p>– En ce moment, vous avez toute la voix de défunt votre père, dit madame des Grassins.</p>
@@ -4879,7 +4879,7 @@
         vieux marquis venait de lui déclarer que sa fille ne lui appartiendrait qu’autant que tous
         les créanciers de Guillaume Grandet seraient soldés.</p>
       <p><pb n="362" xml:id="p362"/> Le président lui remit d’abord la lettre suivante.</p>
-      <p>[@div letter]</p>
+<q>
       <p><hi rend="sc">Mon cousin</hi>, monsieur le président de Bonfons s’est chargé de vous
         remettre la quittance de toutes les sommes dues par mon oncle et celle par laquelle je
         reconnais les avoir reçues de vous. On m’a parlé de faillite !… J’ai pensé que le fils d’un
@@ -4893,7 +4893,7 @@
       <signed>
         <hi rend="sc">Eugénie.</hi>
       </signed>
-      <p>[@/div]</p>
+</q>
       <p>Le président sourit de l’exclamation que ne put réprimer cet ambitieux au moment où il
         reçut l’acte authentique.</p>
       <p>– Nous nous annoncerons réciproquement nos mariages, lui dit-il.</p>

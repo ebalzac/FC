@@ -1684,7 +1684,7 @@
           parisiens.</p>
         <p>Au commencement de cette année, le repos de l’anti-mesmérien fut troublé par la lettre
           suivante.</p>
-        <p>[@div letter]</p>
+<q>
         <salute>Mon vieux camarade,</salute>
         <p>Toute amitié, même perdue, a des droits qui se prescrivent difficilement. Je sais que
           vous vivez encore, et je me souviens moins de notre inimitié que de nos beaux jours au
@@ -1695,7 +1695,7 @@
           vous serrer encore une fois la main, comme nous nous la serrions avant Mesmer.</p>
         <salute>Toujours à vous,</salute>
         <signed><hi rend="sc">Bouvard</hi>.</signed>
-        <p>[@/div]</p>
+</q>
         <p><pb n="53" xml:id="p53"/> Piqué comme l’est un lion par un taon, l’anti-mesmérien bondit
           jusqu’à Paris et mit sa carte chez le vieux Bouvard, qui demeurait rue Férou, près de
           Saint-Sulpice. Bouvard lui mit une carte à son hôtel, en lui écrivant : « Demain, à neuf
@@ -2929,7 +2929,7 @@
           comtes de Portenduère et de Kergarouët.</p>
         <p>Les lettres que le curé venait de lire et que la pauvre mère tenait à la main, humides de
           ses larmes, étaient arrivées le matin même et lui avaient brisé le cœur.</p>
-        <p>[@div letter]</p>
+<q>
         <label>À MADAME DE PORTENDUÈRE</label>
         <dateline>Paris, septembre 1829.</dateline>
         <salute>Madame,</salute>
@@ -2952,8 +2952,8 @@
           votre</p>
         <salute>Très-affectionnée servante,</salute>
         <signed>Émilie de <hi rend="sc">Kergarouët</hi>.</signed>
-        <p>[@/div]</p>
-        <p>[@div letter]</p>
+</q>
+<q>
         <label><pb n="93" xml:id="p93"/> À MADAME DE PORTENDUÈRE</label>
         <dateline>Portenduère, août 1829.</dateline>
         <p>Ma chère tante, je suis aussi contrarié qu’affligé des escapades de Savinien. Marié, père
@@ -2969,7 +2969,7 @@
           d’agréer ses vœux pour la réalisation de ce projet et l’assurance de nos respects
           affectueux.</p>
         <signed>Luc-Savinien, comte de <hi rend="sc">Portenduère.</hi></signed>
-        <p>[@/div]</p>
+</q>
         <p>– Quelles lettres pour une Kergarouët ! s’écria la vieille Bretonne en essuyant ses
           yeux.</p>
         <p>– L’amiral ne sait pas que son neveu est en prison, dit enfin l’abbé Chaperon ; la
@@ -3429,7 +3429,8 @@
           ce petit drame, termine ici l’exposition.</p>
       </div>
       <div>
-        <head><pb n="108" xml:id="p108"/> Deuxième partie <lb/>La succession Minoret</head>
+        <pb n="108" xml:id="p108"/>
+        <head> Deuxième partie <lb/>La succession Minoret</head>
         <p>L’action commença par le jeu d’un ressort tellement usé dans la vieille comme dans la
           nouvelle littérature, que personne ne pourrait croire à ses effets en 1829, s’il ne
           s’agissait pas d’une vieille Bretonne, d’une Kergarouët, d’une émigrée ! Mais, hâtons-nous
@@ -3698,7 +3699,7 @@
           journée à sa chambre, et trouva toujours le jeune vicomte écrivant, déchirant des papiers
           et recommençant à écrire, à elle sans doute !</p>
         <p>Le lendemain matin, au réveil d’Ursule, la Bougival lui monta la lettre suivante.</p>
-        <p>[@div letter]</p>
+<q>
         <label>À MADEMOISELLE URSULE</label>
         <salute>Mademoiselle,</salute>
         <p>Je ne me fais point illusion sur la défiance que doit inspirer un jeune homme qui s’est
@@ -3732,7 +3733,7 @@
           entreprises ne m’offriront que des jouissances qui vous seront rapportées comme on
           rapporte tout à Dieu. Dites-moi donc que je puis me dire</p>
         <signed>Votre <hi rend="sc">Savinien</hi>.</signed>
-        <p>[@/div]</p>
+</q>
         <p>Ursule baisa cette lettre ; puis, après l’avoir relue et tenue avec des mouvements
           insensés, elle s’habilla pour aller la montrer à son parrain.</p>
         <p><pb n="118" xml:id="p118"/> – Mon Dieu ! j’ai failli sortir sans faire mes prières,
@@ -3743,7 +3744,7 @@
           le vieillard réfléchissait beaucoup trop long-temps pour une fille impatiente. Enfin, de
           leur entretien secret il résulta la lettre suivante, que le docteur avait sans doute en
           partie dictée.</p>
-        <p>[@div letter]</p>
+<q>
         <salute>Monsieur,</salute>
         <p>Je ne puis être que fort honorée de la lettre par laquelle vous m’offrez votre main ;
           mais, à mon âge, et d’après les lois de mon éducation, j’ai dû la communiquer à mon
@@ -3778,7 +3779,7 @@
         <p>Ainsi, monsieur, je puis me dire, en toute vérité,</p>
         <salute>Votre servante,</salute>
         <signed><hi rend="sc">Ursule Mirouët</hi>.</signed>
-        <p>[@/div]</p>
+</q>
         <p>Savinien ne répondit pas. Faisait-il des tentatives auprès de sa mère ? Cette lettre
           avait-elle éteint son amour ? Mille questions semblables, toutes insolubles, tourmentaient
           horriblement Ursule et par ricochet le docteur qui souffrait des moindres agitations de sa
@@ -3786,7 +3787,7 @@
           voyait pensif, assis devant sa table et tournant souvent les yeux sur ses fenêtres à elle.
           À la fin de la semaine, pas plus tôt, elle reçut la lettre suivante de Savinien dont le
           retard s’expliquait par un surcroît d’amour.</p>
-        <p>[@div letter]</p>
+        <q>
         <label>À MADEMOISELLE URSULE MIROUËT</label>
         <p>Chère Ursule, je suis un peu Breton ; et, une fois mon parti pris, rien ne m’en fait
           changer. Votre tuteur, que Dieu conserve encore long-temps, a raison ; mais ai-je donc
@@ -3812,7 +3813,7 @@
           mon cœur, et à votre oncle des garanties qui lui répondent de votre félicité ! Il ne sait
           pas que je vous ai dans quelques instants plus aimée qu’il ne vous aime depuis quinze ans.
           À ce soir.</p>
-        <p>[@/div]</p>
+        </q>
         <p>– Tenez, mon parrain, dit Ursule en lui tendant cette lettre par un mouvement
           d’orgueil.</p>
         <p>– Ah ! mon enfant, s’écria le docteur après avoir lu la lettre, je suis plus content que
@@ -4323,7 +4324,7 @@
           proie.</p>
         <p>Pendant ces événements, le maître de poste était allé chez lui pour savoir ce que
           contenait le mystérieux paquet. Voici ce qu’il trouva.</p>
-        <p>[@div letter]</p>
+<q>
         <label><pb n="137" xml:id="p137"/> à ma chère ursule mirouët, fille de mon beau-frère
           naturel, joseph mirouët, et de dinah grollman</label>
         <dateline>Nemours, 15 janvier 1830.</dateline>
@@ -4333,21 +4334,21 @@
           l’esprit, la candeur et le charme. Ta qualité de fille du fils naturel de mon beau-père
           pourrait rendre des dispositions testamentaires faites en ta faveur sujettes à
           contestation…</p>
-        <p>[@/div]</p>
+</q>
         <p>– Le vieux gueux ! cria le maître de poste.</p>
-        <p>[@div letter]</p>
+<q>
         <p>Ton adoption aurait été l’objet d’un procès. Enfin, j’ai toujours reculé devant l’idée de
           t’épouser pour te transmettre ma fortune ; car j’aurais pu vivre long-temps et déranger
           l’avenir de ton bonheur qui n’est retardé que par la vie de madame de Portenduère. Ces
           difficultés mûrement pesées, et voulant te laisser la fortune nécessaire à une belle
           existence…</p>
-        <p>[@/div]</p>
+</q>
         <p>– Le scélérat, il a pensé à tout !</p>
-        <p>[@div letter]</p>
+<q>
         <p>Sans nuire en rien à mes héritiers…</p>
-        <p>[@/div]</p>
+</q>
         <p>– Le jésuite ! comme s’il ne nous devait pas toute sa fortune !</p>
-        <p>[@div letter]</p>
+<q>
         <p>Je t’ai destiné le fruit des économies que j’ai faites pendant dix-huit années et que
           j’ai constamment fait valoir, par les soins de mon notaire, en vue de te rendre aussi
           heureuse qu’on peut l’être par la richesse. Sans argent, ton éducation et tes idées
@@ -4356,10 +4357,10 @@
           reliées en maroquin rouge, et qui est le dernier volume du premier rang, au-dessus de la
           tablette de la bibliothèque, dans le dernier corps, du côté du salon, trois inscriptions
           de rentes en trois pour cent, au porteur, de chacune douze mille francs…</p>
-        <p>[@/div]</p>
+</q>
         <p>– Quelle profondeur de scélératesse ! s’écria le maître de poste. Ah ! Dieu ne permettra
           pas que je sois ainsi frustré.</p>
-        <p>[@div letter]</p>
+<q>
         <p>Prends-les aussitôt, ainsi que le peu d’arrérages économisés au moment de ma mort, et qui
           seront dans le volume précédent. <pb n="138" xml:id="p138"/> Songe, mon enfant adoré, que
           tu dois obéir aveuglément à une pensée qui a fait le bonheur de toute ma vie, et qui
@@ -4372,9 +4373,9 @@
         <signed>
           <hi rend="sc">Denis Minoret.</hi>
         </signed>
-        <p>[@/div]</p>
+</q>
         <p>À cette lettre était jointe, sur un carré de papier timbré, la pièce suivante :</p>
-        <p>[@div letter]</p>
+<q>
         <label>CECI EST MON TESTAMENT.</label>
         <p>Moi, Denis Minoret, docteur en médecine, domicilié à Nemours, sain d’esprit et de corps,
           ainsi que la date de ce testament le démontre, lègue mon âme à Dieu, le priant de me
@@ -4387,7 +4388,7 @@
         <signed>
           <hi rend="sc">Denis Minoret.</hi>
         </signed>
-        <p>[@/div]</p>
+</q>
         <p>Sans hésiter, le maître de poste, qui pour être bien seul s’était enfermé dans la chambre
           de sa femme, y chercha le briquet phosphorique et reçut deux avis du ciel par l’extinction
           de deux allumettes qui successivement ne voulurent pas s’allumer. La troisième prit feu.
@@ -4967,7 +4968,7 @@
           inconnu.</p>
         <p>Le lendemain, la poste versa dans deux cœurs le poison de deux lettres anonymes : une à
           madame de Portenduère et l’autre à Ursule. Voici celle que reçut la vieille dame :</p>
-        <p>[@div letter]</p>
+        <q>
         <p><pb n="157" xml:id="p157"/> Vous aimez votre fils, vous voulez l’établir comme l’exige le
           nom qu’il porte, et vous favorisez son caprice pour une petite ambitieuse sans fortune, en
           recevant chez vous une Ursule, la fille d’un musicien de régiment ; tandis que vous
@@ -4978,9 +4979,9 @@
           Clémentine du Rouvre, qui vient de perdre son fils unique dans la campagne d’Alger,
           adoptera sans doute aussi sa nièce. Quelqu’un qui vous veut du bien croit savoir que
           Savinien serait accepté.</p>
-        <p>[@/div]</p>
+        </q>
         <p>Voici la lettre faite pour Ursule :</p>
-        <p>[@div letter]</p>
+        <q>
         <p>Chère Ursule, il est dans Nemours un jeune homme qui vous idolâtre, il ne peut pas vous
           voir travaillant à votre fenêtre sans des émotions qui lui prouvent que son amour est pour
           la vie. Ce jeune homme est doué d’une volonté de fer et d’une persévérance que rien ne
@@ -4991,10 +4992,10 @@
           premières du pays. Comme il vous voit tous les jours, sans que vous puissiez le voir,
           mettez sur votre fenêtre un des pots d’œillets de la Bougival, vous lui aurez dit ainsi
           qu’il peut se présenter.</p>
-        <p>[@/div]</p>
+        </q>
         <p>Ursule brûla cette lettre sans en parler à Savinien. Deux jours après, elle reçut une
           autre lettre ainsi conçue :</p>
-        <p>[@div letter]</p>
+        <q>
         <p>Vous avez eu tort, chère Ursule, de ne pas répondre à celui qui vous aime plus que sa
           vie. Vous croyez épouser Savinien, vous vous trompez étrangement. Ce mariage n’aura pas
           lieu. Madame de Portenduère, qui ne vous recevra plus chez elle, va ce matin au Rouvre, à
@@ -5002,7 +5003,7 @@
           mademoiselle du Rouvre. Savinien finira par céder. Que peut-il objecter ? les oncles de la
           demoiselle assurent par le contrat leurs fortunes à leur nièce. Cette fortune consiste en
           soixante mille livres de rente.</p>
-        <p>[@/div]</p>
+        </q>
         <p>Cette lettre ravagea le cœur d’Ursule en lui faisant connaître les <pb n="158"
             xml:id="p158"/> tortures de la jalousie, une souffrance jusqu’alors inconnue qui, dans
           cette organisation si riche, si facile à la douleur, couvrit de deuil le présent, l’avenir
@@ -5123,7 +5124,7 @@
           morte.</p>
         <p>Qui par cette lettre écrite à Savinien n’imaginerait pas les souffrances qui avaient
           assailli Ursule pendant la nuit ?</p>
-        <p>[@div letter]</p>
+<q>
         <p>Mon cher Savinien, votre mère veut vous marier à mademoiselle du Rouvre, m’a-t-on dit, et
           peut-être a-t-elle raison. Vous vous trouvez entre une vie presque misérable et une vie
           opulente, entre la fiancée de votre cœur et une femme selon le monde, entre obéir à votre
@@ -5146,10 +5147,10 @@
           heureuse fille, qui aura la joie de rendre à votre nom le lustre qu’il doit avoir, et que,
           selon votre mère, je diminuerais. Vous n’entendrez jamais parler de moi. Le monde vous
           approuvera. Moi, je ne vous blâmerai jamais, et je vous aimerai toujours. Adieu donc.</p>
-        <p>[@/div]</p>
+</q>
         <p>– Attendez ! s’écria le gentilhomme.</p>
         <p>Il fit signe à la Bougival de s’asseoir, et il griffonna ce peu de mots :</p>
-        <p>[@div letter]</p>
+        <q>
         <p>Ma chère Ursule, votre lettre me brise le cœur en ce que vous vous êtes fait inutilement
           beaucoup de mal, et que pour la première fois nos cœurs ont cessé de s’entendre. Si vous
           n’êtes pas ma femme, c’est que je ne puis encore me marier sans le consentement de ma
@@ -5162,7 +5163,7 @@
           qui me serait inconnue ! Ma mère ne veut plus vous voir, je perds le bonheur de nos
           soirées, mais ne me retranchez pas le court moment pendant lequel je vous parle à votre
           fenêtre… À ce soir. Rien ne peut nous séparer.</p>
-        <p>[@/div]</p>
+        </q>
         <p><pb n="163" xml:id="p163"/> – Allez, ma vieille. Elle ne doit pas être inquiète un moment
           de trop…</p>
         <p>Le soir, à quatre heures, au retour de la promenade qu’il faisait tous les jours exprès
@@ -5208,14 +5209,14 @@
           lettre glissée sous la porte ; elle la ramassa, la lut poussée par le désir d’y trouver
           une explication. Les êtres les moins sensibles peuvent deviner ce qu’elle dut éprouver en
           lisant ces terribles lignes :</p>
-        <p>[@div letter]</p>
+        <q>
         <p>Résignez-vous à devenir ma femme, riche et adorée. Je vous veux. Si je ne vous ai
           vivante, je vous aurai morte. Attribuez à vos refus les malheurs qui n’atteindront pas que
           vous.</p>
         <signed>
           <hi rend="i">Celui qui vous aime et à qui vous serez un jour.</hi>
         </signed>
-        <p>[@/div]</p>
+        </q>
         <p>Chose étrange ! au moment où la douce et tendre victime de cette machination était
           abattue comme une fleur coupée, mesdemoiselles Massin, Dionis et Crémière enviaient son
           sort.</p>
@@ -5240,11 +5241,11 @@
           soigneusement gardé par le vieux docteur Minoret.</p>
         <p>Savinien n’alla point cette fois à Montargis ; il reçut dans la journée une lettre
           anonyme venue de Paris, où il lut cette horrible prophétie :</p>
-        <p>[@div letter]</p>
+        <q>
         <p>Tu n’épouseras pas Ursule. Si tu veux qu’elle vive, hâte-toi de la céder à celui qui
           l’aime plus que tu ne l’aimes ; car il s’est fait musicien et artiste pour lui plaire, et
           préfère la voir morte à la savoir ta femme.</p>
-        <p>[@/div]</p>
+        </q>
         <p>Le médecin de Nemours venait alors trois fois par jour chez Ursule, que ces poursuites
           occultes avaient mise en danger de mort. En se sentant plongée par une main infernale dans
           un bourbier, cette suave jeune fille gardait une attitude de martyre : elle restait dans
@@ -5282,11 +5283,11 @@
           malade assez sérieusement pour rester chez lui durant quelques jours. La pauvre Ursule, à
           qui cette odieuse attaque avait causé une rechute, reçut par la poste une lettre du curé,
           qu’on ne refusa point en reconnaissant l’écriture.</p>
-        <p>[@div letter]</p>
+        <q>
         <p>Mon enfant, quittez Nemours, et déjouez ainsi la malice de vos ennemis inconnus.
           Peut-être cherche-t-on à mettre en danger la vie de Savinien. Je vous en dirai davantage
           quand je pourrai vous aller voir.</p>
-        <p>[@/div]</p>
+        </q>
         <p>Ce billet était signé : <hi rend="i">Votre dévoué</hi>
           <hi rend="sc">Chaperon</hi>.</p>
         <p>Lorsque Savinien, qui devint comme fou, alla voir le curé, le pauvre prêtre relut la
@@ -6041,7 +6042,7 @@
         <p>Une circonstance affreuse hâta la confidence que Minoret voulait faire à Zélie : l’épée
           de Damoclès se remua sur leurs têtes. Vers le milieu du mois d’octobre, monsieur et madame
           Minoret reçurent de leur fils Désiré la lettre suivante :</p>
-        <p>[@div letter]</p>
+        <q>
         <p>Ma chère mère, si je ne suis pas venu vous voir depuis les vacances, c’est que d’abord
           j’étais de service en l’absence de monsieur le procureur du roi, puis je savais que
           monsieur de Portenduère attendait mon séjour à Nemours pour m’y chercher querelle. Lassé
@@ -6081,7 +6082,7 @@
           dans le monde, je dois en suivre les lois ; et là où le fils d’un vicomte a dix raisons
           pour se battre, il y en a cent pour le fils d’un maître de poste. Je passerai de nuit à
           Nemours, et vous y ferai mes adieux.</p>
-        <p>[@/div]</p>
+        </q>
         <p>Cette lettre lue, il y eut entre Zélie et Minoret une scène qui se termina par les aveux
           du vol, de toutes les circonstances qui s’y rattachaient et des étranges scènes auxquelles
           il donnait lieu partout, même dans le monde des rêves. Le million fascina Zélie tout
@@ -6371,13 +6372,13 @@
         <p>– Ah ! dit Zélie.</p>
         <p>– Écrivez à votre mari ces mots… Et il dicta la lettre suivante à Zélie, qu’il fit
           asseoir à son bureau.</p>
-        <p>[@div letter]</p>
+        <q>
         <p><hi rend="i">Mone amit, geu suit arraité, et geai tou di. Remais lez haincequeripsiont
             que nautre honcque avet léssées à monsieur de Portenduère an verretu du
             tescetamand</hi><pb n="201" xml:id="p201"/><hi rend="i"> queue tu a brulai, carre
             monsieur le praucureure du roa vien de phaire haupozition o Traitsaur.</hi>
         </p>
-        <p>[@/div]</p>
+        </q>
         <p>– Vous lui éviterez ainsi des dénégations qui le perdraient, dit le magistrat en souriant
           de l’orthographe. Nous allons voir à opérer convenablement la restitution. Ma femme vous
           rendra votre séjour chez moi le moins désagréable possible, et je vous engage à ne point
@@ -6397,7 +6398,7 @@
         <p>Zélie et Désiré partirent aussitôt pour Nemours. Trois heures après le départ de son
           substitut, le procureur du roi reçut par un exprès la lettre suivante, dont l’orthographe
           a été rétablie, afin de ne pas faire rire d’un homme atteint par le malheur.</p>
-        <p>[@div letter]</p>
+        <q>
         <label>à monsieur le procureur du roi près le tribunal de fontainebleau</label>
         <salute>Monsieur,</salute>
         <p>Dieu n’a pas été aussi indulgent que vous l’êtes pour nous, et nous sommes atteints par
@@ -6414,7 +6415,7 @@
         <p>Je vous serai, jusqu’à mon dernier soupir, reconnaissant de la manière dont vous procédez
           et je justifierai votre confiance.</p>
         <signed>François <hi rend="sc">Minoret.</hi></signed>
-        <p>[@/div]</p>
+        </q>
         <p>Ce cruel événement bouleversait la ville de Nemours. La foule émue à la grille de la
           maison Minoret apprit à Savinien que sa vengeance avait été prise en main par un plus
           puissant que lui. Le gentilhomme alla promptement chez Ursule, où le curé de même que la
