@@ -6,7 +6,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>L'Auberge rouge</title>
+        <title>L’Auberge rouge</title>
         <author key="Balzac, Honoré de (1799-1850)">Honoré de Balzac</author>
         <principal>Andrea Del Lungo</principal>
         <principal>Pierre Glaudes</principal>
@@ -98,7 +98,7 @@
         <docTitle>
           <titlePart type="main">La Comédie humaine</titlePart>
           <titlePart type="sub">Études philosophiques</titlePart>
-          <titlePart type="main">L'Auberge rouge</titlePart>
+          <titlePart type="main">L’Auberge rouge</titlePart>
         </docTitle>
       </titlePage>
       <div type="dedication">
