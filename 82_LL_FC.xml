@@ -100,7 +100,7 @@
         </docTitle>
       </titlePage>
       <div type="dedication">
-        <label><pb n="109" xml:id="p109"/>DÉDICACE</label>
+      	<pb n="109" xml:id="p109"/><label>DÉDICACE</label>
         <p>Et nunc et semper dilectæ dicatum.</p>
       </div>
     </front>
@@ -2900,12 +2900,10 @@
           <p rend="i">Du plus ou moins de perfection de l’appareil humain, viennent les innombrables
             formes qu’affecte la Pensée.</p>
           <label>VI</label>
-          <p><hi rend="i">La Volonté s’exerce par des organes vulgairement nommés les cinq sens, qui
+          <p rend="i">La Volonté s’exerce par des organes vulgairement nommés les cinq sens, qui
               n’en sont qu’un seul, la faculté de voir. Le tact comme le goût, l’ouïe comme
-              l’odorat, est une vue adaptée aux transformations de la</hi>
-            <hi rend="sc">substance</hi>
-            <hi rend="i">que l’homme peut saisir dans ses deux états, transformée et non
-              transformée.</hi></p>
+              l’odorat, est une vue adaptée aux transformations de la <hi rend="sc">substance</hi>
+              que l’homme peut saisir dans ses deux états, transformée et non transformée.</p>
           <label>VII</label>
           <p><hi rend="i">Toutes les choses qui tombent par la Forme dans le domaine du sens unique,
               la faculté de voir, se réduisent à quelques corps élémentaires dont les principes sont
