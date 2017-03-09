@@ -106,7 +106,10 @@
           <titlePart type="main">La Maison du chat-qui-pelote</titlePart>
         </docTitle>
       </titlePage>
-      <div>      <salute><pb n="33" xml:id="p33"/> DÉDIÉ À MADEMOISELLE MARIE DE MONTHEAU</salute></div>
+      <div>
+      	<pb n="33" xml:id="p33"/>
+		<salute>DÉDIÉ À MADEMOISELLE MARIE DE MONTHEAU</salute>
+</div>
     </front>
     <body>
       <div>
