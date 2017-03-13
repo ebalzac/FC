@@ -88,10 +88,9 @@
         </docTitle>
       </titlePage>
       <div type="dedication">
-        
-          <salute><pb n="468" xml:id="p468"/>À MONSIEUR LE MARQUIS DE PASTORET<lb/>Membre de
+      	<pb n="468" xml:id="p468"/>
+          <salute>À MONSIEUR LE MARQUIS DE PASTORET<lb/>Membre de
             l’Académie des Beaux-Arts</salute>
-        
         <p>Quand on songe au nombre étonnant de volumes publiés pour rechercher le point des Alpes
           par lequel Annibal opéra son passage, sans qu’on puisse aujourd’hui savoir si ce fut,
           selon Witaker et Rivaz, par Lyon, Genève, le Saint-Bernard et le val d’Aoste ; ou, selon
@@ -115,7 +114,7 @@
           arabesques de l’hypothèse ; tandis que l’histoire la plus importante au temps actuel,
           celle de la Réformation, est pleine d’obscurités si fortes qu’on ignore le nom de
             l’homme<note place="bottom">[Note de l’auteur] L’auteur de l’expérience de Barcelone
-            doit être <hi rend="n"><hi rend="sc">Salomon</hi></hi> de Caux, et non de Caus. Ce grand
+            doit être <hi rend="sc">Salomon</hi> de Caux, et non de Caus. Ce grand
             homme a toujours du malheur, même après sa mort, son nom est encore tronqué. Salomon,
             dont le portrait original et fait à l’âge de quarante-six ans, a été retrouvé par
             l’auteur de la <hi rend="i">Comédie humaine</hi>, à Heidelberg, est né à Caux en
