@@ -5,31 +5,118 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="">
   <teiHeader>
     <fileDesc>
-      <titleStmt/>
-      <editionStmt/>
+      <titleStmt>
+        <title>La Muse du département</title>
+        <author key="Balzac, Honoré de (1799-1850)">Honoré de Balzac</author>
+        <principal>Andrea Del Lungo</principal>
+        <principal>Pierre Glaudes</principal>
+        <principal>Jean-Gabriel Ganascia</principal>
+        <editor>Maxime Perret</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Cette édition électronique de La Comédie humaine constitue la première édition en
+          ligne de l’œuvre de Balzac dans la version dite du « Furne corrigé », qui intègre les
+          corrections manuscrites apportées par l’auteur sur son exemplaire personnel de la première
+          édition de La Comédie humaine parue chez Furne de 1842 à 1847. Cette édition a été établie
+          dans le cadre du projet PHŒBUS, financé par l’Agence nationale de la recherche
+          (2015-2019).</edition>
+        <respStmt>
+          <name>Tania Duclos</name>
+          <resp>Établissement du texte</resp>
+        </respStmt>
+        <respStmt>
+          <name>Maxime Perret</name>
+          <resp>Établissement du texte et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+        <respStmt>
+          <name>Jean-Denis Spinel</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>ALITHILA (Université Lille III)</publisher>
+        <publisher>CELLF (CNRS &amp; Université Paris IV Sorbonne)</publisher>
+        <publisher>LIP6 (Université Paris VI)</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p> Copyright © 2016 Université Charles-de-Gaulle Lille 3, agissant pour le projet ANR
+              « Projet d’hypertexte de l’œuvre de Balzac par l’utilisation de similarités »
+              (ci-après dénommé ANR Phœbus). </p>
+            <p> Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+              les bases de données (L341-1) est mise à disposition de la communauté scientifique
+              internationale par l’ANR Phœbus, selon les termes de la licence Creative Commons : «
+              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC
+              BY-NC-ND 3.0 FR) ». </p>
+            <p> Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+              de cette ressource électroniques comportera le nom de l’ANR Phœbus et surtout
+              l’adresse Internet de la ressource. </p>
+            <p> Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+              utilisation commerciale est interdite. </p>
+            <p> Pas de Modification : l’ANR Phœbus s’engage à améliorer et à corriger cette
+              ressource électronique, notamment en intégrant toutes les contributions extérieures,
+              la diffusion de versions modifiées de cette ressource n’est pas souhaitable. </p>
+          </licence>
+        </availability>
+        <idno>URL (à définir)</idno>
       </publicationStmt>
-      <sourceDesc/>
+      <sourceDesc>
+        <bibl><title>SCÈNES / DE LA / VIE DE PROVINCE,</title> / Tome II. / <title>Les Célibaires :
+          le Curé de Tours. — Un Ménage de Garçon. — Les Parisiens en province : l'illustre
+          Gaudissart. — La Muse du Département.</title> / Paris, / Furne, / rue
+          Saint-André-des-Arts, 55 ; / J.-J. Dubochet et cie, / rue de Seine, 33 ; / J. Hetzel, /
+          rue de Seine, 33. / 1843, p. 355-510.</bibl>
+      </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <p>Le texte que nous donnons à lire a pour ambition d’être le plus proche de l’édition du
+        Furne : la ponctuation et l’orthographe ont été scrupuleusement respectées et sont conformes
+        aux habitudes de l’édition du XIXe siècle. Nous avons dès lors conservé la diversité des
+        formes ortho-typographiques de l’édition d’origine. Seules les coquilles manifestes ont été
+        corrigées et sont signalées en note. Il s’agissait de rendre accessible le texte de La
+        Comédie humaine dans son état du XIXe siècle, en tenant compte des corrections et
+        modifications apportées par l’auteur sur son exemplaire personnel.</p>
+    </encodingDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date when="1843">1843</date>
+      </creation>
       <langUsage>
-        <language ident=""/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text>
+    <front>
+      <titlePage>
+        <docAuthor>Honoré de Balzac</docAuthor>
+        <docTitle>
+          <titlePart type="main">La Comédie humaine</titlePart>
+          <titlePart type="sub">Études de mœurs</titlePart>
+          <titlePart type="sub">Scènes de la vie de province</titlePart>
+          <titlePart type="sub">Les Parisiens en province : (deuxième histoire)</titlePart>
+          <titlePart type="main">La Muse du département</titlePart>
+        </docTitle>
+      </titlePage>
+      <div type="dedication">
+        <salute><pb n="355" xml:id="p355"/> À MONSIEUR LE COMTE FERDINAND DE GRAMONT</salute>
+        <p>Mon cher Ferdinand, si les hasards (<hi rend="i">habent sua fata libelli</hi>) du monde littéraire font de ces lignes un long souvenir, ce sera certainement peu de chose en comparaison des peines que vous vous êtes données, vous le d’Hozier, le Chérin, le Roi d’armes des <hi rend="sc">Études de mœurs</hi> ; vous à qui les Navarreins, les Cadignan, les Langeais, les Blamont-Chauvry, les Chaulieu, les d’Arthez, les d’Esgrignon, les Mortsauf, les Valois, les cent maisons nobles qui constituent l’aristocratie de la <hi rend="sc">Comédie Humaine</hi> doivent leurs belles devises et leurs armoiries si spirituelles. Aussi <hi rend="sc">l’armorial des Études de mœurs inventé par Ferdinand de Gramont, gentilhomme</hi>, est-il une histoire complète du blason français, où vous n’avez rien oublié, pas même les armes de l’Empire, et que je conserverai comme un monument de patience bénédictine et d’amitié. Quelle connaissance du vieux langage féodal dans le : <hi rend="i">Pulchrè sedens, meliùs agens</hi> ! des Beauséant ? dans le : <hi rend="i">Des partem leonis</hi> ! des d’Espard ? dans le : <hi rend="i">Ne se vend</hi> ! des Vandenesse ? Enfin, quelle coquetterie dans les mille détails de cette savante iconographie qui montrera jusqu’où la fidélité sera poussée dans mon entreprise, à laquelle vous, poète, vous aurez aidé</p>
+        <p>Votre vieil ami,</p>
+        <signed>
+          <hi rend="sc">de Balzac.</hi>
+        </signed>
+      </div>
+    </front>
     <body>
-      <p rend="i">Les Parisiens en province </p>
-      <p>DEUXIÈME HISTOIRE</p>
-      <head>La Muse du département</head>
-      <salute><pb n="355" xml:id="p355"/> À MONSIEUR LE COMTE FERDINAND DE GRAMONT</salute>
-      <p>Mon cher Ferdinand, si les hasards (<hi rend="i">habent sua fata libelli</hi>) du monde littéraire font de ces lignes un long souvenir, ce sera certainement peu de chose en comparaison des peines que vous vous êtes données, vous le d’Hozier, le Chérin, le Roi d’armes des <hi rend="sc">Études de mœurs</hi> ; vous à qui les Navarreins, les Cadignan, les Langeais, les Blamont-Chauvry, les Chaulieu, les d’Arthez, les d’Esgrignon, les Mortsauf, les Valois, les cent maisons nobles qui constituent l’aristocratie de la <hi rend="sc">Comédie Humaine</hi> doivent leurs belles devises et leurs armoiries si spirituelles. Aussi <hi rend="sc">l’armorial des Études de mœurs inventé par Ferdinand de Gramont, gentilhomme</hi>, est-il une histoire complète du blason français, où vous n’avez rien oublié, pas même les armes de l’Empire, et que je conserverai comme un monument de patience bénédictine et d’amitié. Quelle connaissance du vieux langage féodal dans le : <hi rend="i">Pulchrè sedens, meliùs agens</hi> ! des Beauséant ? dans le : <hi rend="i">Des partem leonis</hi> ! des d’Espard ? dans le : <hi rend="i">Ne se vend</hi> ! des Vandenesse ? Enfin, quelle coquetterie dans les mille détails de cette savante iconographie qui montrera jusqu’où la fidélité sera poussée dans mon entreprise, à laquelle vous, poète, vous aurez aidé</p>
-      <p>Votre vieil ami,</p>
-      <signed>
-        <hi rend="sc">de Balzac.</hi>
-      </signed>
+<div>
       <p>Sur la lisière du Berry se trouve au bord de la Loire une ville qui par sa situation attire infailliblement l’œil du voyageur. Sancerre occupe le point culminant d’une chaîne de petites montagnes, dernière ondulation des mouvements de terrain du Nivernais. La <pb n="356" xml:id="p356"/> Loire inonde les terres au bas de ces collines, en y laissant un limon jaune qui les fertilise, quand il ne les ensable pas à jamais par une de ces terribles crues également familières à la Vistule, cette Loire du Nord. La montagne au sommet de laquelle sont groupées les maisons de Sancerre, s’élève à une assez grande distance du fleuve pour que le petit port de Saint-Thibault puisse vivre de la vie de Sancerre. Là s’embarquent les vins, là se débarque le merrain, enfin toutes les provenances de la Haute et de la Basse-Loire. À l’époque où cette histoire eut lieu, le pont de Cosne et celui de Saint-Thibault, deux ponts suspendus, étaient construits. Les voyageurs venant de Paris à Sancerre par la route d’Italie ne traversaient plus la Loire de Cosne à Saint-Thibault dans un bac, n’est-ce pas assez vous dire que le Chassez-croisez de 1830 avait eu lieu ; car la maison d’Orléans a partout choyé les intérêts matériels, mais à peu près comme ces maris qui font des cadeaux à leurs femmes avec l’argent de la dot. Excepté la partie de Sancerre qui occupe le plateau, les rues sont plus ou moins en pente, et la ville est enveloppée de rampes, dites les Grands Remparts, nom qui vous indique assez les grands chemins de la ville. Au delà de ces remparts, s’étend une ceinture de vignobles. Le vin forme la principale industrie et le plus considérable commerce du pays qui possède plusieurs crus de vins généreux, pleins de bouquet, et assez semblables aux produits de la Bourgogne pour qu’à Paris les palais vulgaires s’y trompent. Sancerre trouve donc dans les cabarets parisiens une rapide consommation, assez nécessaire d’ailleurs à des vins qui ne peuvent pas se garder plus de sept à huit ans. Au-dessous de la ville, sont assis quelques villages, Fontenay, Saint-Satur qui ressemblent à des faubourgs, et dont la situation rappelle les gais vignobles de Neufchâtel en Suisse. La ville a conservé quelques traits de son ancienne physionomie, ses rues sont étroites et pavées en cailloux pris au lit de la Loire. On y voit encore de vieilles maisons. La tour, ce reste de la force militaire et de l’époque féodale, rappelle l’un des siéges les plus terribles de nos guerres de religion et pendant lequel nos Calvinistes ont bien surpassé les farouches Caméroniens de Walter Scott. La ville de Sancerre, riche d’un illustre passé, veuve de sa puissance militaire, est en quelque sorte vouée à un avenir infertile, car le mouvement commercial appartient à la rive droite de la Loire. <pb n="357" xml:id="p357"/> La rapide description que vous venez de lire prouve que l’isolement de Sancerre ira croissant, malgré les deux ponts qui la rattachent à Cosne. Sancerre, l’orgueil de la rive gauche, a tout au plus trois mille cinq cents âmes, tandis qu’on en compte aujourd’hui plus de six mille à Cosne. Depuis un demi-siècle, le rôle de ces deux villes assises en face l’une de l’autre a complétement changé. Cependant l’avantage de la situation appartient à la ville historique, où de toutes parts l’on jouit d’un spectacle enchanteur, où l’air est d’une admirable pureté, la végétation magnifique, et où les habitants en harmonie avec cette riante nature sont affables, bons compagnons et sans puritanisme, quoique les deux tiers de la population soient restés calvinistes. Dans un pareil état de choses, si l’on subit les inconvénients de la vie des petites villes, si l’on se trouve sous le coup de cette surveillance officieuse qui fait de la vie privée une vie quasi publique ; en revanche, le patriotisme de localité, qui ne remplacera jamais l’esprit de famille, se déploie à un haut degré. Aussi la ville de Sancerre est-elle très-fière d’avoir vu naître une des gloires de la Médecine moderne, Horace Bianchon, et un auteur du second ordre, Étienne Lousteau, l’un des feuilletonistes les plus distingués. L’Arrondissement de Sancerre, choqué de se voir soumis à sept ou huit grands propriétaires, les hauts barons de l’Élection, essaya de secouer le joug électoral de la Doctrine, qui en a fait son bourg-pourri. Cette conjuration de quelques amours-propres froissés échoua par la jalousie que causait aux coalisés l’élévation future d’un des conspirateurs. Quand le résultat eut montré le vice radical de l’entreprise, on voulut y remédier en prenant pour champion du pays aux prochaines élections l’un des deux hommes qui représentent glorieusement Sancerre à Paris. Cette idée était extrêmement avancée pour la province, où, depuis 1830, la nomination des notabilités de clocher a fait de tels progrès que les hommes d’État deviennent de plus en plus rares à la Chambre élective. Aussi ce projet, d’une réalisation assez hypothétique, fut-il conçu par la femme supérieure de l’Arrondissement, <hi rend="i">dux femina facti</hi>, mais dans une pensée d’intérêt personnel. Cette pensée avait tant de racines dans le passé de cette femme et embrassait si bien son avenir, que sans un vif et succinct récit de sa vie antérieure, on la comprendrait difficilement. Sancerre s’enorgueillissait alors d’une femme supérieure, long-temps incomprise, mais qui, <pb n="358" xml:id="p358"/> vers 1836, jouissait d’une assez jolie renommée départementale. Cette époque fut aussi le moment où les noms des deux Sancerrois atteignirent, à Paris, chacun dans leur sphère, au plus haut degré l’un de la gloire, l’autre de la mode. Étienne Lousteau, l’un des collaborateurs des Revues, signait le feuilleton d’un journal à huit mille abonnés ; et Bianchon, déjà premier médecin d’un hôpital, officier de la Légion-d’Honneur et membre de l’Académie des sciences, venait d’obtenir sa chaire. Si ce mot ne devait pas, pour beaucoup de gens, comporter une espèce de blâme, on pourrait dire que George Sand a créé le <hi rend="i">Sandisme</hi>, tant il est vrai que, moralement parlant, le bien est presque toujours doublé d’un mal. Cette lèpre sentimentale a gâté beaucoup de femmes qui, sans leurs prétentions au génie, eussent été charmantes. Le Sandisme a cependant cela de bon que la femme qui en est attaquée faisant porter ses prétendues supériorités sur des sentiments méconnus, elle est en quelque sorte le <hi rend="i">Bas-Bleu</hi> du cœur : il en résulte alors moins d’ennui, l’amour neutralisant un peu la littérature. Or l’illustration de George Sand a eu pour principal effet de faire reconnaître que la France possède un nombre exorbitant de femmes supérieures, assez généreuses pour laisser jusqu’à présent le champ libre à la petite-fille du maréchal de Saxe. La femme supérieure de Sancerre demeurait à La Baudraye, maison de ville et de campagne à la fois, située à dix minutes de la ville, dans le village ou, si vous voulez, le faubourg de Saint-Satur. Les La Baudraye d’aujourd’hui, comme il est arrivé pour beaucoup de maisons nobles, se sont substitués aux La Baudraye dont le nom brille aux croisades et se mêle aux grands événements de l’histoire berruyère. Ceci veut une explication.</p>
       <p>Sous Louis XIV, un certain échevin nommé Milaud, dont les ancêtres furent d’enragés Calvinistes, se convertit lors de la révocation de l’Édit de Nantes. Pour encourager ce mouvement dans l’un des sanctuaires du calvinisme, le Roi nomma cettui Milaud à un poste élevé dans les Eaux et Forêts, lui donna des armes et le titre de Sire de La Baudraye<note place="bottom">Balzac, comme ici, écrit parfois « la Baudraye » : nous harmonisons en « La Baudraye » dans tout le roman et nous ne relèverons plus cette variante.</note> en lui faisant présent du fief des vrais et vieux La Baudraye. Les héritiers du fameux capitaine La Baudraye tombèrent, hélas ! dans l’un des piéges tendus aux hérétiques par les Ordonnances, et furent pendus, traitement indigne du Grand Roi. Sous Louis XV, Milaud de La Baudraye de simple Écuyer, devint Chevalier, et eut assez de crédit pour placer son fils <pb n="359" xml:id="p359"/> cornette dans les mousquetaires. Le cornette mourut à Fontenoy, laissant un enfant à qui le Roi Louis XVI accorda plus tard un brevet de fermier-général, en mémoire du cornette mort sur le champ de bataille. Ce financier, bel esprit occupé de charades, de bouts rimés, de bouquets à Chloris, vécut dans le beau monde, hanta la société du duc de Nivernois, et se crut obligé de suivre la noblesse en exil ; mais il eut soin d’emporter ses capitaux. Aussi le riche émigré soutint-il alors plus d’une grande maison noble. Fatigué d’espérer et peut-être aussi de prêter, il revint à Sancerre en 1800, et racheta La Baudraye par un sentiment d’amour-propre et de vanité nobiliaire explicable chez un petit-fils d’Échevin ; mais qui sous le Consulat avait d’autant moins d’avenir que l’ex-fermier général comptait peu sur son héritier pour continuer les nouveaux La Baudraye. Jean-Athanase-Polydore Milaud de La Baudraye, unique enfant du financier, né plus que chétif, était bien le fruit d’un sang épuisé de bonne heure par les plaisirs exagérés auxquels se livrent tous les gens riches qui se marient à l’aurore d’une vieillesse prématurée, et finissent ainsi par abâtardir les sommités sociales. Pendant l’émigration, madame de La Baudraye, jeune fille sans aucune fortune et qui fut épousée à cause de sa noblesse, avait eu la patience d’élever cet enfant jaune et malingre auquel elle portait l’amour excessif que les mères ont dans le cœur pour les avortons. La mort de cette femme, une demoiselle de Castéran-La-Tour, contribua beaucoup à la rentrée en France de monsieur de La Baudraye. Ce Lucullus des Milaud mourut en léguant à son fils le fief sans lods et ventes, mais orné de girouettes à ses armes, mille louis d’or, somme assez considérable en 1802, et ses créances sur les plus illustres émigrés, contenues dans le portefeuille de ses poésies avec cette inscription : <hi rend="i">Vanitas vanitatum et omnia vanitas</hi> ! Si le jeune La Baudraye vécut, il le dut à des habitudes d’une régularité monastique, à cette économie de mouvement que Fontenelle prêchait comme la religion des valétudinaires, et surtout à l’air de Sancerre, à l’influence de ce site admirable d’où se découvre un panorama de quarante lieues dans le val de la Loire. De 1802 à 1815, le petit La Baudraye augmenta son ex-fief de plusieurs clos, et s’adonna beaucoup à la culture des vignes. Au début, la Restauration lui parut si chancelante qu’il n’osa pas trop <pb n="360" xml:id="p360"/> aller à Paris y faire ses réclamations ; mais après la mort de Napoléon il essaya de monnayer la poésie de son père, car il ne comprit pas la profonde philosophie accusée par ce mélange des créances et des charades. Le vigneron perdit tant de temps à se faire reconnaître de messieurs les ducs de Navarreins et autres (telle était son expression), qu’il revint à Sancerre, appelé par ses chères vendanges, sans avoir rien obtenu que des offres de services. La Restauration rendit assez de lustre à la noblesse pour que La Baudraye désirât donner un sens à son ambition en se donnant un héritier. Ce bénéfice conjugal lui paraissait assez problématique ; autrement, il n’eût<note place="bottom">Erreur du Furne : « eut » au lieu de « eût ».</note> pas tant tardé ; mais, vers la fin de 1823, en se voyant encore sur ses jambes à quarante-trois ans, âge qu’aucun médecin, astrologue ou sage-femme n’eût osé lui prédire, il espéra trouver la récompense de sa vertu forcée. Néanmoins, son choix indiqua, relativement à sa chétive constitution, un si grand défaut de prudence qu’il fut impossible à la malice provinciale de n’y pas voir un profond calcul.</p>
       <p>À cette époque, Son Éminence Monseigneur l’archevêque de Bourges venait de convertir au catholicisme une jeune personne appartenant à l’une de ces familles bourgeoises qui furent les premiers appuis du Calvinisme, et qui, grâce à leur position obscure, ou à des accommodements avec le ciel, échappèrent aux persécutions de Louis XIV. Artisans au <num>xvi<hi rend="sup">e</hi></num> siècle, les Piédefer, dont le nom révèle un de ces surnoms bizarres que se donnèrent les soldats de la Réforme, étaient devenus d’honnêtes drapiers. Sous le règne de Louis XVI, Abraham Piédefer fit de si mauvaises affaires, qu’il laissa, vers 1786, époque de sa mort, ses deux enfants dans un état voisin de la misère. L’un des deux, Silas Piédefer partit pour les Indes en abandonnant le modique héritage à son aîné. Pendant la révolution, Moïse Piédefer acheta des biens nationaux, abattit des abbayes et des églises à l’instar de ses ancêtres, et se maria, chose étrange, avec une catholique, fille unique d’un Conventionnel mort sur l’échafaud. Cet ambitieux Piédefer mourut en 1819, laissant à sa femme une fortune compromise par des spéculations agricoles, et une petite fille de douze ans d’une beauté surprenante. Élevée dans la religion calviniste, cet enfant avait été nommée Dinah, suivant l’usage en vertu duquel les religionnaires prenaient leurs noms dans la Bible pour n’avoir rien de commun avec les saints de l’Église romaine. Mademoiselle Dinah Piédefer, mise par sa mère dans un des meilleurs pensionnats de Bourges, celui des demoiselles <pb n="361" xml:id="p361"/> Chamarolles, y devint aussi célèbre par les qualités de son esprit que par sa beauté ; mais elle s’y trouva primée par des jeunes filles nobles, riches et qui devaient plus tard jouer dans le monde un rôle beaucoup plus beau que celui d’une roturière dont la mère attendait les résultats de la liquidation Piédefer. Après avoir su s’élever momentanément au-dessus de ses compagnes, Dinah voulut aussi se trouver de plain-pied avec elles dans la vie. Elle inventa donc d’abjurer le calvinisme, en espérant que le Cardinal protégerait sa conquête spirituelle et s’occuperait de son avenir. Vous pouvez juger déjà de la supériorité de mademoiselle Dinah qui, dès l’âge de dix-sept ans, se convertissait uniquement par ambition. L’archevêque imbu de l’idée que Dinah Piédefer devait faire l’ornement du monde, essaya de la marier. Toutes les familles auxquelles s’adressa le Prélat s’effrayèrent d’une fille douée d’une prestance de princesse, qui passait pour la plus spirituelle des jeunes personnes élevées chez les demoiselles de Chamarolles, et qui dans les solennités un peu théâtrales des distributions de prix, jouait toujours les premiers rôles. Assurément mille écus de rentes, que pouvait rapporter le domaine de La Hautoy indivis entre la fille et la mère, étaient peu de chose en comparaison des dépenses auxquelles les avantages personnels d’une créature si spirituelle entraînerait un mari.</p>
@@ -984,13 +1071,13 @@
       <p>– Ton arrivée et notre bonheur me rendent ivre de joie, lui dit-il en lui expliquant ainsi ce mouvement de folie.</p>
       <p>– Et moi qui ne me croyais plus aimée, s’écria la pauvre femme en lâchant le sac de nuit qu’elle apportait et pleurant de plaisir sur le fauteuil où elle se laissa tomber.</p>
       <p>– Emménage-toi, mon ange, dit Étienne en riant sous cape, j’ai deux mots à écrire afin de me dégager d’une partie de garçon, car je veux être tout à toi. Commande, tu es ici chez toi. <pb n="466" xml:id="p466"/> Étienne écrivit à Bixiou.</p>
-      <p>[@div letter]</p>
+      <q type="letter">
       <p>Mon cher, ma baronne me tombe sur les bras, et va me faire manquer mon mariage si nous ne mettons pas en scène une des ruses les plus connues des mille et un vaudevilles du Gymnase. Donc, je compte sur toi, pour venir, en vieillard de Molière, gronder ton neveu Léandre sur sa sottise, pendant que la dixième Muse sera cachée dans ma chambre ; il s’agit de la prendre par les sentiments, frappe fort, sois méchant, blesse-la. Quant à moi, tu comprends, j’exprime un dévouement aveugle et serai sourd pour te donner le droit de crier. Viens, si tu peux, à sept heures.</p>
       <salute>Tout à toi,</salute>
       <signed>
         <hi rend="sc">E. Lousteau.</hi>
       </signed>
-      <p>[@/div]</p>
+      </q>
       <p>Une fois cette lettre envoyée par un commissionnaire à l’homme de Paris qui se plaisait le plus à ces railleries que les artistes ont nommées <hi rend="i">des charges</hi>, Lousteau parut empressé d’installer chez lui la Muse de Sancerre ; il s’occupa de l’emménagement de tous les effets qu’elle avait apportés, il la mit au fait des êtres et des choses du logis avec une bonne foi si parfaite, avec un plaisir qui débordait si bien en paroles et en caresses, que Dinah put se croire la femme du monde la plus aimée. Cet appartement où les moindres choses portaient le cachet de la mode lui plaisait beaucoup plus que son château d’Anzy. Paméla Migeon, cette intelligente petite fille de quatorze ans, fut questionnée par le journaliste à cette fin de savoir si elle voulait devenir la femme de chambre de l’imposante baronne. Paméla ravie entra sur-le-champ en fonctions en allant commander le dîner chez un restaurateur du boulevard. Dinah comprit alors quel était le dénûment caché sous le luxe purement extérieur de ce ménage de garçon en n’y voyant aucun des ustensiles nécessaires à la vie. Tout en prenant possession des armoires, des commodes, elle forma les plus doux projets, elle changerait les mœurs de Lousteau, elle le rendrait casanier, elle lui compléterait son bien-être au logis. La nouveauté de sa position en cachait le malheur à Dinah, qui voyait dans un mutuel amour l’absolution de sa faute, et qui ne portait pas encore les yeux au delà de cet appartement. Paméla, dont l’intelligence était égale à celle d’une lorette, alla droit chez madame Schontz lui demander de l’argenterie en lui racontant ce qui venait d’arriver à Lousteau. Après avoir tout mis chez elle à la disposition de Paméla, madame Schontz courut chez <pb n="467" xml:id="p467"/> Malaga, son amie intime, afin de prévenir Cardot du malheur advenu à son futur gendre. Sans inquiétude sur la crise qui affectait son mariage, le journaliste fut de plus en plus charmant pour la femme de province. Le dîner occasionna ces délicieux enfantillages des amants devenus libres et heureux d’être enfin à eux-mêmes. Le café pris, au moment où Lousteau tenait sa Dinah sur ses genoux devant le feu, Paméla se montra tout effarée.</p>
       <p>– Voici monsieur Bixiou ! que faut-il lui dire ? demanda-t-elle.</p>
       <p>– Entre dans la chambre, dit le journaliste à sa maîtresse, je l’aurai bientôt renvoyé, c’est un de mes plus intimes amis, à qui d’ailleurs il faut avouer mon nouveau genre de vie.</p>
@@ -1216,7 +1303,10 @@
       <p>Enfin, Gatien et monsieur <pb n="510" xml:id="p510"/> Gravier entouraient la belle comtesse de soins et d’attentions serviles. Le fils du président qui, pendant la longue absence de madame de La Baudraye, était allé prendre des leçons de <hi rend="i">lionnerie</hi> à Paris, avait, disait-on à la Société Littéraire, des chances de plaire à cette femme supérieure désillusionnée. D’autres pariaient pour le précepteur, et madame Piédefer plaidait pour la Religion.</p>
       <p>En 1844, vers la mi-juin, le comte de La Baudraye se promenait sur le mail de Sancerre accompagné de ses deux beaux enfants, il rencontra monsieur Milaud, le procureur général, venu pour affaires à Sancerre, et il lui dit : – Mon cousin, voici mes enfants !…</p>
       <p>– Ah ! voilà <hi rend="i">nos</hi> enfants, répéta le malicieux procureur-général.</p>
+  <closer>
       <dateline>Paris, juin 1843-août 1844.</dateline>
+  </closer>
+</div>
     </body>
   </text>
 </TEI>
