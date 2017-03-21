@@ -108,7 +108,7 @@
 			<div type="dedication">
 				<pb n="109" xml:id="p109"/>
 				<label>DÉDICACE</label>
-				<p>Et nunc et semper dilectæ dicatum.</p>
+				<p rend="center">Et nunc et semper dilectæ dicatum.</p>
 			</div>
 		</front>
 		<body>
@@ -2393,7 +2393,6 @@
 					ses palimpsestes avec plus de respect que je n’en eus à étudier, à reconstruire
 					ces monuments mutilés d’une souffrance et d’une joie si sacrées pour ceux qui
 					ont connu la même souffrance et la même joie.</p>
-
 				<q type="letter">
 					<label>I</label>
 					<p>Mademoiselle, quand vous aurez lu cette lettre, si toutefois vous la lisez,
