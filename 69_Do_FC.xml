@@ -107,7 +107,7 @@
 			</titlePage>
 			<div type="dedication">
 				<salute><pb n="1" xml:id="p1"/>À JACQUES STRUNZ</salute>
-				<p>Mon cher Strunz, il y aurait de l’ingratitude à ne pas attacher votre nom à l’une
+				<p rend="noindent">Mon cher Strunz, il y aurait de l’ingratitude à ne pas attacher votre nom à l’une
 					des deux œuvres que je n’aurais pu faire sans votre patiente complaisance et vos
 					bons soins. Trouvez donc ici un témoignage de ma reconnaissante amitié, pour le
 					courage avec lequel vous avez essayé, peut-être sans succès, de m’initier aux
@@ -124,7 +124,7 @@
 		</front>
 		<body>
 			<div>
-				<p>Comme le savent les connaisseurs, la noblesse vénitienne est la première de
+				<p rend="noindent">Comme le savent les connaisseurs, la noblesse vénitienne est la première de
 					l’Europe. Son Livre d’or a précédé les Croisades, temps où Venise, débris de la
 					Rome impériale et chrétienne qui se plongea dans les eaux pour échapper aux
 					Barbares, déjà puissante, illustre déjà, dominait le monde politique et

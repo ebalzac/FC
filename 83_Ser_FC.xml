@@ -102,7 +102,7 @@
       <div type="dedication">
         <salute><pb n="208" xml:id="p208"/>À MADAME ÉVELINE DE HANSKA, <lb/>NÉE COMTESSE
           RZEWUSKA</salute>
-        <p>Madame, voici l’œuvre que vouills m’avez demandée : je suis heureux, en vous la dédiant, de
+        <p rend="noindent">Madame, voici l’œuvre que vous m’avez demandée : je suis heureux, en vous la dédiant, de
           pouvoir vous donner un témoignage de la respectueuse affection que vous m’avez permis de
           vous porter. Si je suis accusé d’impuissance après avoir tenté d’arracher aux profondeurs
           de la mysticité ce livre qui, sous la transparence de notre belle langue, voulait les
@@ -126,7 +126,7 @@
     <body>
       <div>
         <head>I <lb/>Séraphîtüs</head>
-        <p> À voir sur une carte les côtes de la Norwége, quelle imagination ne serait émerveillée
+          <p rend="noindent"> À voir sur une carte les côtes de la Norwége, quelle imagination ne serait émerveillée
           de leurs fantasques découpures, longue dentelle de granit où mugissent incessamment les
           flots de la mer du <pb n="209" xml:id="p209"/> Nord ? qui n’a rêvé les majestueux
           spectacles offerts par ces rivages sans grèves, par cette multitude de criques, d’anses,
@@ -690,7 +690,7 @@
       </div>
       <div>
         <head>II <lb/>Séraphîta</head>
-        <p>Pendant la soirée, David rentra dans le salon.</p>
+      	<p rend="noindent">Pendant la soirée, David rentra dans le salon.</p>
         <p>– Je sais qui vous m’annoncez, lui dit <hi rend="sc">Séraphîta</hi> d’une voix endormie.
           Wilfrid peut entrer.</p>
         <p>En entendant ces mots, un homme se présenta soudain, et vint s’asseoir auprès d’elle.</p>
@@ -1173,7 +1173,7 @@
       </div>
       <div>
         <head>III <lb/>Séraphîta-Séraphîtüs</head>
-          <p>Après une pause pendant laquelle le pasteur parut recueillir ses souvenirs, il reprit
+      	<p rend="noindent">Après une pause pendant laquelle le pasteur parut recueillir ses souvenirs, il reprit
             en ces termes :</p>
           <p>Emmanuel de <hi rend="sc">Swedenborg</hi> est né à Upsal, en Suède, dans le mois de
             janvier 1688, suivant quelques auteurs, en 1689, suivant son épitaphe. Son père était
@@ -2332,7 +2332,7 @@
       </div>
       <div>
         <head>IV <lb/>Les nuées du sanctuaire</head>
-        <p>Il est des spectacles auxquels coopèrent toutes les matérielles magnificences dont
+      	<p rend="noindent">Il est des spectacles auxquels coopèrent toutes les matérielles magnificences dont
           dispose l’homme. Des nations d’esclaves et de plongeurs sont allées chercher dans le sable
           des mers, aux entrailles des rochers, ces perles et ces diamants qui parent les
           spectateurs. Transmises d’héritage en héritage, ces splendeurs ont brillé sur tous les
@@ -3095,7 +3095,7 @@
       </div>
       <div>
         <head>V <lb/>Les adieux</head>
-        <p>Il est en l’homme un phénomène désespérant pour les esprits méditatifs qui veulent
+      	<p rend="noindent">Il est en l’homme un phénomène désespérant pour les esprits méditatifs qui veulent
           trouver un sens à la marche des sociétés et donner des lois de progression au mouvement de
           l’intelligence. Quelque grave que soit un fait, et s’il pouvait exister des faits
           surnaturels, quelque grandiose que serait un miracle opéré publiquement, l’éclair de ce
@@ -3413,7 +3413,7 @@
       </div>
       <div>
         <head>VI <lb/>Le chemin pour aller au ciel</head>
-        <p>Le lendemain du jour où Séraphîta pressentit sa fin et fit ses adieux à la Terre comme un
+      	<p rend="noindent">Le lendemain du jour où Séraphîta pressentit sa fin et fit ses adieux à la Terre comme un
           prisonnier regarde son cachot avant de le quitter à jamais, elle ressentit des douleurs
           qui l’obligèrent à demeurer dans la complète immobilité de ceux qui souffrent des maux
           extrêmes. Wilfrid et Minna vinrent la voir, et la trouvèrent <pb n="315" xml:id="p315"/>
@@ -3687,7 +3687,7 @@
       </div>
       <div>
         <head>VII <lb/>L’assomption</head>
-        <p>Ces derniers chants ne furent exprimés ni par la parole, ni par le regard, ni par le
+      	<p rend="noindent">Ces derniers chants ne furent exprimés ni par la parole, ni par le regard, ni par le
           geste, ni par aucun des signes qui servent aux hommes pour se communiquer leurs pensées,
           mais comme l’âme se parle à elle-même ; car à l’instant où Séraphîta se dévoilait dans <pb
             n="324" xml:id="p324"/> sa vraie nature, ses idées n’étaient plus esclaves des mots

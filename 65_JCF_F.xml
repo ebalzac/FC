@@ -105,14 +105,14 @@
       </titlePage>
       <div type="dedication">
         <salute><pb n="225" xml:id="p225"/>À MARCELINE DESBORDES-VALMORE</salute>
-        <p>À vous, fille de la Flandre et qui en êtes une des gloires modernes, cette naïve
+      	<p rend="noindent">À vous, fille de la Flandre et qui en êtes une des gloires modernes, cette naïve
           tradition des Flandres.</p>
         <signed><hi rend="sc">De Balzac.</hi></signed>
       </div>
     </front>
     <body>
       <div>
-        <p>À une époque assez indéterminée de l’histoire brabançonne, les relations entre l’île de
+      	<p rend="noindent">À une époque assez indéterminée de l’histoire brabançonne, les relations entre l’île de
           Cadzant et les côtes de la Flandre étaient entretenues par une barque destinée au passage
           des voyageurs. Capitale de l’île, Midelbourg, plus tard si célèbre dans les annales du
           protestantisme, comptait à peine deux ou trois cents feux. La riche Ostende était un havre

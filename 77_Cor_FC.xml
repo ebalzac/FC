@@ -92,7 +92,7 @@
       </titlePage>
       <div type="dedication">
         <salute><pb n="413" xml:id="p413"/>À MONSIEUR LE COMTE GEORGES MNISZECH</salute>
-        <p>Quelque <hi rend="n"><hi rend="sc">jaloux</hi></hi> pourrait croire en voyant briller à
+      	<p rend="noindent">Quelque <hi rend="n"><hi rend="sc">jaloux</hi></hi> pourrait croire en voyant briller à
           cette page un des plus vieux et plus illustres noms sarmates, que j’essaye, comme en
           orfévrerie, de rehausser un récent travail par un bijou ancien, fantaisie à la mode
           aujourd’hui ; mais, vous et quelques autres aussi, mon cher comte, sauront que je tâche
@@ -101,7 +101,7 @@
     </front>
     <body>
       <div>
-        <p>En 1479, le jour de la Toussaint, au moment où cette histoire commença, les vêpres
+      	<p rend="noindent">En 1479, le jour de la Toussaint, au moment où cette histoire commença, les vêpres
           finissaient à la cathédrale de Tours. L’archevêque Hélie de Bourdeilles se levait de son
           siége pour donner lui-même la bénédiction aux fidèles. Le sermon avait duré longtemps, la
           nuit était venue pendant l’office, et l’obscurité la plus profonde régnait dans certaines

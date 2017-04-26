@@ -92,7 +92,7 @@
       </titlePage>
       <div type="dedication">
         <salute><pb n="391" xml:id="p391"/>AU LECTEUR</salute>
-        <p>Au début de la vie littéraire de l’auteur, un ami, mort depuis longtemps, lui donna le
+      	<p rend="noindent">Au début de la vie littéraire de l’auteur, un ami, mort depuis longtemps, lui donna le
           sujet de cette Étude, que plus tard il trouva dans un recueil publié vers le commencement de
           ce siècle ; et, selon ses conjectures, c’est une fantaisie due à Hoffmann de Berlin, publiée
           dans quelque almanach d’Allemagne, et oubliée dans ses œuvres par les éditeurs. La Comédie
@@ -152,7 +152,7 @@
     </front>
     <body>
       <div>
-      <p>Dans un somptueux palais de Ferrare, par une soirée d’hiver,
+      	<p rend="noindent">Dans un somptueux palais de Ferrare, par une soirée d’hiver,
         don Juan Belvidéro régalait un prince de la maison d’Este. À cette époque, une fête était un
         merveilleux spectacle que de royales richesses ou la puissance d’un seigneur pouvaient
         seules ordonner. Assises autour d’une table éclairée par des bougies parfumées, sept

@@ -98,7 +98,7 @@
 				<pb n="468" xml:id="p468"/>
 				<salute>À MONSIEUR LE MARQUIS DE PASTORET<lb/>Membre de l’Académie des
 					Beaux-Arts</salute>
-				<p>Quand on songe au nombre étonnant de volumes publiés pour rechercher le point des
+				<p rend="noindent">Quand on songe au nombre étonnant de volumes publiés pour rechercher le point des
 					Alpes par lequel Annibal opéra son passage, sans qu’on puisse aujourd’hui savoir
 					si ce fut, selon Witaker et Rivaz, par Lyon, Genève, le Saint-Bernard et le val
 					d’Aoste ; ou, selon Letronne, Follard, Saint-Simon et Fortia d’Urban, par
@@ -145,7 +145,7 @@
 		<body>
 			<div type="chapter" xml:id="intro">
 				<head>Introduction</head>
-				<p>On crie assez généralement au paradoxe, lorsque des savants, frappés d’une erreur
+				<p rend="noindent">On crie assez généralement au paradoxe, lorsque des savants, frappés d’une erreur
 					historique, essayent de la redresser ; mais pour quiconque étudie à fond
 					l’histoire moderne, il est certain que les historiens sont des menteurs
 					privilégiés qui prêtent leurs plumes aux croyances populaires, absolument comme
@@ -1340,7 +1340,7 @@
 			</div>
 			<div type="chapter">
 				<head>Première partie <lb/>Le martyr calviniste</head>
-				<p>Peu de personnes aujourd’hui savent combien étaient naïves les habitations des
+				<p rend="noindent">Peu de personnes aujourd’hui savent combien étaient naïves les habitations des
 					bourgeois de Paris au quatorzième siècle, et combien simple était leur vie.
 					Peut-être cette simplicité d’action et de pensée a-t-elle été la cause des
 					grandeurs de cette vieille bourgeoisie, qui fut, certes, grande, libre et noble,
@@ -6821,7 +6821,7 @@
 			</div>
 			<div type="chapter">
 				<head>Deuxième partie <lb/>La confidence des Ruggieri</head>
-				<p><pb n="1" xml:id="p1"/> Entre onze heures et minuit, vers la fin du mois
+				<p rend="noindent"><pb n="1" xml:id="p1"/> Entre onze heures et minuit, vers la fin du mois
 					d’octobre 1573, deux Italiens de Florence, deux frères, Albert de Gondi le
 					maréchal de France, et Charles de Gondi La Tour, grand-maître de la garde-robe
 					du roi Charles IX, étaient assis en haut d’une maison située rue Saint-Honoré,
@@ -8996,7 +8996,7 @@
 			</div>
 			<div type="chapter">
 				<head>Troisième partie <lb/>Les deux rêves</head>
-				<p>Bodard de Saint-James, trésorier de la marine, était en 1786 celui des financiers
+				<p rend="noindent">Bodard de Saint-James, trésorier de la marine, était en 1786 celui des financiers
 					de Paris dont le luxe excitait l’attention et les caquets de la ville. À cette
 					époque, il faisait construire à Neuilly sa célèbre <hi rend="i">Folie</hi>, et
 					sa femme achetait, pour couronner le dais de son lit, une garniture de plumes
@@ -9466,7 +9466,7 @@
 			<div type="appendix" xml:id="appendix">
 				<pb n="661" xml:id="p661"/>
 				<head><ref target="#note">Note</ref></head>
-				<p>Voici cette chanson publiée par l’abbé de La Place dans son <hi rend="i">Recueil
+				<p rend="noindent">Voici cette chanson publiée par l’abbé de La Place dans son <hi rend="i">Recueil
 						de pièces intéressantes</hi>, où se trouve la dissertation dont nous avons
 					parlé.</p>
 				<label>LE CONVOI DU DUC DE GUISE</label>

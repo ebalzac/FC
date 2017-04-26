@@ -121,7 +121,7 @@
     <body>
       <div>
         <head>Le talisman</head>
-        <p>Vers la fin du mois d’octobre dernier, un jeune homme entra dans le Palais-Royal au
+      	<p rend="noindent">Vers la fin du mois d’octobre dernier, un jeune homme entra dans le Palais-Royal au
           moment où les maisons de jeu s’ouvraient, conformément à la loi qui protége une passion
           essentiellement imposable. Sans trop hésiter, il monta l’escalier du tripot désigné sous
           le nom de numéro 36.</p>
@@ -1940,7 +1940,7 @@
       </div>
       <div>
         <head>La femme sans cœur</head>
-        <p>Après être resté silencieux pendant un moment, Raphaël dit en laissant échapper un geste
+      	<p rend="noindent">Après être resté silencieux pendant un moment, Raphaël dit en laissant échapper un geste
           d’insouciance : – Je ne sais en vérité s’il ne faut pas attribuer aux fumées du vin et du
           punch l’espèce de lucidité qui me permet d’embrasser en cet instant toute ma vie comme un
           même tableau où les figures, les couleurs, les ombres, les lumières, les demi-teintes sont
@@ -4562,7 +4562,7 @@
       </div>
       <div>
         <head>L’agonie</head>
-        <p>Dans les premiers jours du mois de décembre, un vieillard septuagénaire allait, malgré la
+      	<p rend="noindent">Dans les premiers jours du mois de décembre, un vieillard septuagénaire allait, malgré la
           pluie, par la rue de Varennes en levant le nez à la porte de chaque hôtel, et cherchant
           l’adresse de <pb n="146" xml:id="p146"
           /> monsieur le marquis Raphaël de Valentin, avec la naïveté d’un enfant et l’air absorbé
@@ -6999,7 +6999,7 @@
       </div>
       <div>
         <head>Épilogue</head>
-        <p>– Et que devint Pauline ?</p>
+      	<p rend="noindent">– Et que devint Pauline ?</p>
         <p>– Ah ! Pauline, bien. Êtes-vous quelquefois resté par une douce soirée d’hiver devant
           votre foyer domestique, voluptueusement livré à des souvenirs d’amour ou de jeunesse en
           contemplant les rayures produites par le feu sur un morceau de chêne ? Ici la combustion

@@ -101,7 +101,7 @@
       </titlePage>
       <div type="dedication">
         <salute><pb n="74" xml:id="p74"/>À M. LE MARQUIS DE BELLOY</salute>
-        <p>C’est au coin du feu, dans une mystérieuse, dans une splendide retraite qui n’existe
+      	<p rend="noindent">C’est au coin du feu, dans une mystérieuse, dans une splendide retraite qui n’existe
           plus, mais qui vivra dans notre souvenir, et d’où nos yeux découvraient Paris, depuis les
           collines de Bellevue jusqu’à celles de Belleville, depuis Montmartre jusqu’à
           l’Arc-de-Triomphe de l’Étoile, que, par une matinée arrosée de thé, à travers les mille
@@ -119,7 +119,7 @@
     </front>
     <body>
       <div>
-        <p>Le premier jour de l’an mil huit cent trente et un vidait ses cornets de dragées, quatre
+      	<p rend="noindent">Le premier jour de l’an mil huit cent trente et un vidait ses cornets de dragées, quatre
           heures sonnaient, il y avait foule au Palais-Royal, et les restaurants commençaient à
           s’emplir. En ce moment un coupé s’arrêta devant le perron, il en sortit un jeune homme de
           fière mine, étranger sans doute ; autrement il n’aurait eu ni le chasseur à plumes

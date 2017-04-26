@@ -199,7 +199,7 @@
             l’allemand</hi>.</p>
       <div type="chapter">
         <head>L’idée et le fait</head>
-        <p>– Vers la fin de vendémiaire, an VII, époque républicaine qui, dans le style actuel,
+      	<p rend="noindent">– Vers la fin de vendémiaire, an VII, époque républicaine qui, dans le style actuel,
           correspond au 20 octobre 1799, deux jeunes gens, partis de Bonn dès le matin, étaient
           arrivés à la chute du jour aux environs d’Andernach, petite ville située sur la rive
           gauche du Rhin, à quelques lieues de Coblentz. En ce moment, l’armée française commandée
@@ -753,7 +753,7 @@
       <div type="chapter">
         <pb n="381" xml:id="p381"/>
         <head>Les deux justices</head>
-        <p> – Oh ! n’achevez pas ! s’écria la jeune personne qui avait demandé cette histoire, et
+      	<p rend="noindent"> – Oh ! n’achevez pas ! s’écria la jeune personne qui avait demandé cette histoire, et
           qui interrompit alors brusquement le Nurembergeois. Je veux demeurer dans l’incertitude et
           croire qu’il a été sauvé. Si j’apprenais aujourd’hui qu’il a été fusillé, je ne dormirais
           pas cette nuit. Demain vous me direz le reste.</p>

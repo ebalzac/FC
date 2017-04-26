@@ -102,7 +102,7 @@
       </titlePage>
       <div type="dedication">
         <salute><pb n="308" xml:id="p308"/>À MADAME JOSÉPHINE DELANNOY,<lb/>NÉE DOUMERC</salute>
-        <p>Madame, fasse Dieu que cette œuvre ait une vie plus longue que la mienne ; la
+      	<p rend="noindent">Madame, fasse Dieu que cette œuvre ait une vie plus longue que la mienne ; la
           reconnaissance que je vous ai vouée, et qui, je l’espère, égalera votre affection presque
           maternelle pour moi, subsisterait alors au-delà du terme fixé à nos sentiments. Ce sublime
           privilége d’étendre ainsi par la vie de nos œuvres l’existence du cœur suffirait, s’il y
@@ -113,7 +113,7 @@
     </front>
     <body>
       <div>
-        <p>Il existe à Douai dans la rue de Paris une maison dont la physionomie, les dispositions
+      	<p rend="noindent">Il existe à Douai dans la rue de Paris une maison dont la physionomie, les dispositions
           intérieures et les détails ont, plus que ceux d’aucun autre logis, gardé le caractère des
           vieilles constructions flamandes, si naïvement appropriées aux mœurs patriarcales de ce
           bon pays ; mais avant de la décrire, peut-être faut-il établir dans l’intérêt des

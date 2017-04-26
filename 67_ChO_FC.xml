@@ -103,14 +103,14 @@
       </titlePage>
       <div type="dedication">
         <salute><pb n="283" xml:id="p283"/>À UN LORD</salute>
-        <p>……………………………………………………………………<lb/>……………………………………………………………………<lb/>……………………………………………………………………<lb/>……………………………………………………………………<lb/>……………………………………………………………………</p>
+      	<p rend="noindent">……………………………………………………………………<lb/>……………………………………………………………………<lb/>……………………………………………………………………<lb/>……………………………………………………………………<lb/>……………………………………………………………………</p>
         <dateline>1845</dateline>
       </div>
     </front>
     <body>
       <div>
         <head>I <lb/>Gillette</head>
-        <p>Vers la fin de l’année 1612, par une froide matinée de décembre, un jeune homme dont le
+      	<p rend="noindent">Vers la fin de l’année 1612, par une froide matinée de décembre, un jeune homme dont le
           vêtement était de très-mince apparence, se promenait devant la porte d’une maison située
           rue des Grands-Augustins, à Paris. Après avoir assez long-temps marché dans cette rue avec
           l’irrésolution d’un amant qui n’ose se présenter chez sa première maîtresse, quelque
@@ -599,7 +599,7 @@
       </div>
       <div>
         <head>II <lb/>Catherine Lescault</head>
-        <p>Trois mois après la rencontre du Poussin et de Porbus, celui-ci vint voir maître
+      	<p rend="noindent">Trois mois après la rencontre du Poussin et de Porbus, celui-ci vint voir maître
           Frenhofer. Le vieillard était alors en proie à l’un de ces découragements profonds et
           spontanés dont la cause est, s’il faut en croire les mathématiciens de la médecine, dans
           une digestion mauvaise, dans le vent, la chaleur ou quelque empâtement des hypochondres ;
