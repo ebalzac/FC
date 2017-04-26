@@ -106,8 +106,7 @@
       </div>
     </front>
     <body>
-      <div>
-        <p>En je ne sais quelle année, un banquier de Paris, qui avait des relations commerciales
+        <p rend="noindent">En je ne sais quelle année, un banquier de Paris, qui avait des relations commerciales
           très-étendues en Allemagne, fêtait un de ces amis, longtemps inconnus, que les négociants
           se font de place en place, par correspondance. Cet ami, chef de je ne sais quelle maison
           assez importante de Nuremberg, était un bon gros Allemand, homme de goût et d’érudition,
@@ -198,7 +197,6 @@
           m’emparant de ce qu’elle peut avoir de poétique et d’intéressant, avec la candeur des
           écrivains qui oublient de mettre au titre de leurs livres : <hi rend="i">traduit de
             l’allemand</hi>.</p>
-      </div>
       <div type="chapter">
         <head>L’idée et le fait</head>
         <p>– Vers la fin de vendémiaire, an VII, époque républicaine qui, dans le style actuel,
