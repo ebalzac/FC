@@ -2963,7 +2963,7 @@
           trouver de l’encre, une plume, du papier, et put l’accomplir sans avoir réveillé sa
           terrible cousine. Quelques instants avant minuit elle avait écrit cette lettre, qui fut
           également citée au procès.</p>
-        <p>[@div letter]</p>
+<q type="letter">
         <p>Mon ami, oh ! oui, mon ami ; car il n’y a que toi, Jacques, et ma grand’mère qui
           m’aimiez. Que Dieu me le pardonne, mais vous êtes aussi les deux seules personnes que
           j’aime l’une comme l’autre, ni plus ni moins. J’étais trop petite pour avoir pu connaître
@@ -3008,7 +3008,7 @@
         <signed>
           <hi rend="sc">Pierrette Lorrain.</hi>
         </signed>
-        <p>[@/div]</p>
+</q>
         <p>« Tu m’aimeras toujours, n’est-ce pas ? »</p>
         <p>La Bretonne avait pris dans la cuisine une croûte de pain où elle fit un trou pour mettre
           la lettre et donner de l’aplomb à son fil. À minuit, après avoir ouvert sa fenêtre avec
@@ -3061,7 +3061,7 @@
           cette fois elle usa d’une corde qu’elle s’était procurée en attachant plusieurs bouts de
           ficelle les uns aux autres. Elle avait entendu les pas de Brigaut ; et, quand elle retira
           sa corde, elle lut la lettre suivante qui la combla de joie :</p>
-        <p>[@div letter]</p>
+        <q type="letter">
         <p>Ma chère Pierrette, si tu souffres tant, il ne faut pas te fatiguer à m’attendre. Tu
           m’entendras bien crier comme criaient les <hi rend="i">Chuins</hi> (les Chouans).
           Heureusement mon père m’a appris à imiter leur cri. Donc, je crierai trois fois, tu sauras
@@ -3084,10 +3084,10 @@
         <signed>
           <hi rend="sc">Jacques Brigaut.</hi>
         </signed>
-        <p>[@/div]</p>
+        </q>
         <p>Voici ce que le fils du major ne disait pas à Pierrette. Brigaut avait écrit la lettre
           suivante à madame Lorrain, à Nantes :</p>
-        <p>[@div letter]</p>
+        <q type="letter">
         <p>Madame Lorrain, votre petite-fille va mourir, accablée de mauvais traitements, si vous ne
           venez pas la réclamer ; j’ai eu de la peine à la reconnaître, et, pour vous mettre à même
           de juger les choses, je vous joins à la présente la lettre que j’ai reçue de Pierrette.
@@ -3099,7 +3099,7 @@
           <hi rend="sc">Jacques Brigaut.</hi>
         </signed>
         <dateline>Chez monsieur Frappier, menuisier, Grand’rue, à Provins.</dateline>
-        <p>[@/div]</p>
+        </q>
         <p>Brigaut avait peur que la grand’mère de Pierrette ne fût morte.</p>
         <p>Quoique la lettre de celui que dans son innocence elle nommait son amant fût presque une
           énigme pour la Bretonne, elle y crut avec sa vierge foi. Son cœur éprouva la sensation que
