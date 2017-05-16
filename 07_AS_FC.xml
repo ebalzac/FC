@@ -839,8 +839,7 @@
         quelques-uns des écrivains modernes qui, faute d’invention, racontent leurs propres joies,
         leurs propres douleurs ou les événements mystérieux de leur existence.</p>
       <ab type="ornament">______</ab>
-        
-          <div>
+<q type="narrative">
       <label>L’AMBITIEUX PAR AMOUR</label>
       <p>En 1823, deux jeunes gens qui s’étaient donné pour thème de voyage de parcourir la Suisse,
         partirent de Lucerne par une belle matinée du mois de juillet, sur un bateau que
@@ -1657,8 +1656,7 @@
         secours du dieu des sots, le Bonheur ! Et cet infatigable athlète, soutenu par l’amour,
         recommence de nouveaux combats, éclairé par un regard toujours ami, par un cœur fidèle !
         Amoureux ! priez pour lui !</p>
-          </div>
-          
+          </q>   
       <ab type="ornament">______</ab>
       <p>En achevant ce récit qu’elle dévora, mademoiselle de Watteville avait les joues en feu, la
         fièvre était dans ses veines ; elle pleurait, mais de rage. Cette Nouvelle, inspirée par la
@@ -1775,7 +1773,7 @@
         possède une des plus belles fortunes de la Lombardie. Leur villa sur le lac Majeur est une
         des curiosités de l’Italie.</p>
       <p>Deux jours après, Mariette remit la lettre suivante à Rosalie.</p>
-        <div type="letter">
+        <q type="letter">
       <label>ALBERT SAVARON À LÉOPOLD HANNEQUIN</label>
       <p>Eh ! bien, oui, mon cher ami, je suis à Besançon pendant que tu me croyais en voyage. Je
         n’ai rien voulu te dire qu’au moment où le succès commencerait, et voici son aurore. Oui,
@@ -1794,11 +1792,9 @@
         uniquement pour être un jour compris dans une ordonnance sur la pairie sous le titre de
         comte Albert Savaron de Savarus, et faire revivre en France un beau nom qui s’éteint en
         Belgique, encore que je ne sois ni légitime ni légitimé !</p>
-        </div>
-        <div>
+        </q>
       <p>– Ah ! j’en étais sûre, il est noble ! s’écria Rosalie en laissant tomber la lettre.</p>
-        </div>
-        <div type="letter">
+        <q type="letter">
         <p>Tu sais quelles études consciencieuses j’ai faites, quel journaliste obscur, mais dévoué,
         mais utile, et quel admirable secrétaire je fus pour l’homme d’état qui, d’ailleurs, me fut
         fidèle en 1829. Replongé dans le néant par la révolution de juillet, alors que mon nom
@@ -1944,8 +1940,7 @@
         foi, par le travail et par l’amour. Adieu, mon ami. J’embrasse tes enfants, et tu
         rappelleras au souvenir de ton excellente femme,</p>
       <signed><hi rend="i">Votre </hi><hi rend="sc">Albert</hi>.</signed>
-      </div>
-      <div>
+      </q>
       <p>Rosalie lut deux fois cette lettre, dont le sens général se grava dans son cœur. Elle
         pénétra soudain dans la vie antérieure d’Albert, car sa vive intelligence lui en expliqua
         les détails et lui en fit parcourir l’étendue. En rapprochant cette confidence de la <pb
@@ -1969,13 +1964,11 @@
       <p>Un soir Mariette, en venant habiller Rosalie pour une soirée, lui apporta, non sans gémir
         sur cet abus de confiance, une lettre dont la suscription fit frémir et pâlir et rougir
         mademoiselle de Watteville.</p>
-      </div>
-      <div type="letter">
+      <q type="letter">
       <salute>À MADAME LA DUCHESSE D’ARGAIOLO <lb/><hi rend="i">(née princesse
           Soderini),</hi></salute>
         <dateline><hi rend="sc">à Belgirate,</hi><lb/><hi rend="i">Lac Majeur. </hi><hi rend="sc">Italie.</hi></dateline>
-      </div>
-      <div>
+      </q>
       <p>À ses yeux, cette adresse brilla comme dut briller <hi rend="i">Mané, Thecel, Pharès</hi>
         aux yeux de Balthasar. Après avoir caché la lettre, elle descendit pour aller avec sa mère
         chez madame de Chavoncourt. Pendant cette soirée, elle fut assaillie de remords <pb n="468"
@@ -1996,8 +1989,7 @@
         n’est-ce pas une preuve d’amour ? Ô ! Albert, ne suis-je pas ta femme ?</p>
       <p>Quand Rosalie fut au lit, elle ouvrit cette lettre datée de jour en jour de manière à
         offrir à la duchesse une fidèle image de la vie et des sentiments d’Albert.</p>
-      </div>
-      <div type="letter">
+      <q type="letter">
       <dateline>25</dateline>
       <p>« Ma chère âme, tout va bien. Aux conquêtes que j’ai faites je viens d’en ajouter une
         précieuse : j’ai rendu service à l’un des personnages les plus influents aux élections.
@@ -2099,9 +2091,8 @@
         y vivre en cavalier servant, ce que notre ardente passion ne <pb n="472" xml:id="p472"/>
         nous a pas permis d’accepter. Adieu, mon ange, tu me pardonneras mes prochaines tristesses
         en faveur de cette gaieté tombée comme un rayon du flambeau de l’Espérance, qui jusqu’alors
-        me paraissait un feu follet. »</p>
-      </div>
-        <div>
+        me paraissait un feu follet.</p>
+      </q>
       <p>– Comme il aime ! s’écria Rosalie en laissant tomber cette lettre qui lui sembla lourde à
         tenir. Après onze ans écrire ainsi ?</p>
       <p>– Mariette, dit Rosalie à la femme de chambre le lendemain matin, allez jeter cette lettre
@@ -3025,8 +3016,7 @@
         Savarus.</p>
       <p>En apprenant cette nouvelle, le vicaire-général écrivit à Léopold. Voici la réponse du
         digne notaire.</p>
-      </div>
-      <div type="letter">
+      <q type="letter">
       <label>À MONSIEUR L’ABBÉ DE GRANCEY, <lb/><hi rend="i">vicaire-général du diocèse de
           Besançon.</hi></label>
       <dateline>Paris.</dateline>
@@ -3052,12 +3042,10 @@
         bien mort pour le monde. Il a voulu le repos, espérons que le profond silence et la prière,
         dans lesquels il s’est jeté, feront son bonheur sous une autre forme. Si vous l’avez connu,
         monsieur, vous devez bien le plaindre et plaindre aussi ses amis ! Agréez, etc.</p>
-      </div>
-        <div>
+      </q>
       <p>Aussitôt cette lettre reçue, le bon vicaire-général écrivit au Général des Chartreux, et
         voici quelle fut la réponse d’Albert Savarus.</p>
-      </div>
-      <div type="letter">
+      <q type="letter">
         <label>
       LE FRÈRE ALBERT À MONSIEUR L’ABBÉ DE GRANCEY, <lb/><hi rend="i">vicaire-général du
           diocèse de Besançon.</hi></label>
@@ -3086,8 +3074,7 @@
         de</p>
       <signed><hi rend="i">Frère </hi><hi rend="sc">Albert</hi>.</signed>
         <dateline>Novembre 1836.</dateline>
-      </div>
-      <div>
+      </q>
       <p>– Peut-être tout est-il pour le mieux, se dit l’abbé de Grancey.</p>
       <p>Quand il eut communiqué cette lettre à Rosalie, qui baisa par un mouvement pieux le passage
         qui contenait sa grâce, il lui dit :</p>
@@ -3176,7 +3163,6 @@
         horribles lui laisse peu de jours sans souffrance. Enfin, elle ne sort plus aujourd’hui de
         la Chartreuse des Rouxey où elle mène une vie entièrement vouée à des pratiques
         religieuses.</p>
-      </div>
         <closer>
           <dateline>Paris, mai 1842.</dateline>
         </closer>
