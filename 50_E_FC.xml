@@ -213,7 +213,7 @@
         <p>Cette matinée devait être pour le Chef de Bureau comme le moment solennel où les grands capitaines décident d’une bataille en pesant toutes les chances. Connaissant mieux que personne l’esprit des Bureaux, il savait qu’on n’y pardonne pas plus là qu’on ne le pardonne au Collége, au Bagne, ou à l’Armée, ce qui ressemble à la délation, à l’espionnage. Un homme capable de fournir des notes sur <pb n="222" xml:id="p222"/> ses camarades est honni, perdu, vilipendé ; les ministres abandonnent en ce cas leurs propres instruments. Un employé doit alors donner sa démission et quitter Paris, son honneur est à jamais taché : les explications sont inutiles, personne n’en demande ni n’en veut écouter. À ce jeu, un ministre est un grand homme, il est censé choisir les hommes ; mais un simple employé passe pour un espion, quels que soient ses motifs. Tout en mesurant le vide de ces sottises, Rabourdin les savait immenses et s’en voyait accablé. Plus surpris qu’atterré, il chercha la meilleure conduite à tenir dans cette circonstance, et resta donc étranger au mouvement des Bureaux mis en émoi par la mort de monsieur de La Billardière, il ne l’apprit que par le petit de La Brière qui savait apprécier l’immense valeur du Chef de Bureau.</p>
         <p>Or donc, dans le Bureau des Baudoyer (on disait les Baudoyer, les Rabourdin), vers dix heures Bixiou racontait les derniers moments du directeur de la Division à Minard, à Desroys, à monsieur Godard qu’il avait fait sortir de son cabinet, à Dutocq accouru chez les Baudoyer par un double motif. Colleville et Chazelle manquaient.</p>
         <p>@q drama</p>
-        <sp who="bixiou(">
+        <sp who="bixiou">
           <speaker>BIXIOU (<stage>debout devant le poêle, à la bouche duquel il présente alternativement la semelle de chaque botte pour la sécher.</stage>)</speaker>
           <p>Ce matin, à sept heures et demie, je suis allé savoir des nouvelles de notre digne et respectable Directeur, chevalier du Christ, etc., etc. Eh ! mon Dieu, oui, messieurs, le baron était encore hier vingt <hi rend="i">et cætera</hi> ; mais aujourd’hui il n’est plus rien, pas même employé. J’ai demandé les détails de sa nuit. Sa garde, qui se rend et ne meurt pas, m’a dit que, le matin dès cinq heures, il s’était inquiété de la famille royale. Il s’était fait lire les noms de ceux d’entre nous qui venaient savoir de ses nouvelles. Enfin, il avait dit : « Emplissez ma tabatière, donnez-moi le journal, apportez-moi mes besicles ; changez mon ruban de la Légion-d’Honneur, il est bien sale. » Vous le savez, il porte ses Ordres au lit. Il avait donc toute sa connaissance, toute sa tête, toutes ses idées habituelles. Mais, bah ! dix minutes après, l’eau avait gagné, gagné, gagné le cœur, gagné la poitrine ; il s’était senti mourir en sentant les kystes crever. En ce moment fatal, il a prouvé combien il avait la tête forte et combien était vaste son intelligence ! Ah ! nous ne l’avons pas apprécié, nous autres ! Nous nous moquions de lui, nous le regardions comme une ganache, tout ce qu’il y a de plus ganache, n’est-ce pas, monsieur Godard ?</p>
         </sp>
@@ -233,7 +233,7 @@
           <speaker>BIXIOU.</speaker>
           <p>Pour faire le mal, il faut faire quelque chose, et il ne faisait rien. Si ce n’est pas vous qui l’aviez jugé tout à fait incapable, c’est donc Minard.</p>
         </sp>
-        <sp who="minard(">
+        <sp who="minard">
           <speaker>MINARD (<stage>en haussant les épaules</stage>).</speaker>
           <p>Moi !</p>
         </sp>
@@ -241,7 +241,7 @@
           <speaker>BIXIOU.</speaker>
           <p>Hé ! bien vous, Dutocq ? (Dutocq fait un signe de violente dénégation.) Bon ! allons, personne ! Il était donc accepté par tout le monde ici pour une tête herculéenne ! Hé ! bien, vous aviez raison : il a fini en homme d’esprit, de talent, de tête, enfin comme un grand homme qu’il était.</p>
         </sp>
-        <sp who="desroys(">
+        <sp who="desroys">
           <speaker>DESROYS (<stage>impatienté</stage>).</speaker>
           <p>Mon Dieu, qu’a-t-il fait de si grand ? il s’est confessé !</p>
         </sp>
@@ -249,7 +249,7 @@
           <speaker>BIXIOU.</speaker>
           <p>Oui, monsieur, et il a voulu recevoir les saints sacrements. Mais pour les recevoir, savez-vous comment il s’y est pris ? il a mis ses habits de Gentilhomme ordinaire de la chambre, tous ses Ordres, enfin il s’est fait poudrer ; on lui a serré sa queue (pauvre queue) dans un ruban neuf. Or, je dis qu’il n’y a qu’un homme de beaucoup de caractère qui puisse se faire faire la queue au moment de sa mort ; nous voilà huit ici, il n’y en a pas un seul de nous qui se la ferait faire. Ce n’est pas tout, il a dit, car vous savez qu’en mourant tous les hommes célèbres font un dernier <hi rend="i">speech</hi> (mot anglais qui signifie <hi rend="i">tartine parlementaire</hi>), il a dit… Comment a-t-il dit cela ? Ah ! « <hi rend="i">Je dois bien me parer pour recevoir le Roi du ciel, moi qui me suis tant de fois mis sur mon</hi> quarante et un<hi rend="i"> pour aller chez le Roi de la terre</hi> ! » Voilà comment a fini monsieur de La Billardière, il a pris à tâche de justifier ce mot de Pythagore : On ne connaît bien les hommes qu’après leur mort.</p>
         </sp>
-        <sp who="colleville(">
+        <sp who="colleville">
           <speaker><pb n="224" xml:id="p224"/> COLLEVILLE (<stage>entrant</stage>).</speaker>
           <p>Enfin, messieurs, je vous annonce une fameuse nouvelle…</p>
         </sp>
@@ -269,11 +269,11 @@
           <speaker>COLLEVILLE.</speaker>
           <p>Je reconnais mon Bixiou ! je viens de chez monsieur La Billardière, il vivait encore ; mais on l’attend à passer… (<stage>Godard comprend la charge, et s’en va mécontent dans son cabinet.</stage>) Messieurs, vous ne devineriez jamais les événements que suppose l’anagramme de cette phrase sacramentale. (<stage>Il montre un papier.</stage>) Charles dix, par la grâce de Dieu, roi de France et de Navarre.</p>
         </sp>
-        <sp who="godard(">
+        <sp who="godard">
           <speaker>GODARD (<stage>revenant</stage>).</speaker>
           <p>Dites-le tout de suite, et n’amusez pas ces messieurs.</p>
         </sp>
-        <sp who="colleville(">
+        <sp who="colleville">
           <speaker>COLLEVILLE (<stage>triomphant et développant la partie cachée de sa feuille de papier.</stage>)</speaker>
           <p>@q poem</p>
           <l>A H. V. il cedera</l>
@@ -291,7 +291,7 @@
           <speaker>BIXIOU.</speaker>
           <p>Qu’est-ce que Gorix ? un nom de chat.</p>
         </sp>
-        <sp who="colleville(">
+        <sp who="colleville">
           <speaker><pb n="225" xml:id="p225"/> COLLEVILLE (<stage>piqué</stage>).</speaker>
           <p>L’abréviation lapidaire d’un nom de ville, mon cher ami, je l’ai cherché dans Malte-Brun : Goritz, en latin <hi rend="i">Gorixia</hi>, située en Bohême ou Hongrie, enfin en Autriche…</p>
         </sp>
@@ -299,7 +299,7 @@
           <speaker>BIXIOU.</speaker>
           <p>Tyrol, provinces basques, ou Amérique du sud. Vous auriez dû chercher aussi un air pour jouer cela sur la clarinette.</p>
         </sp>
-        <sp who="godard(">
+        <sp who="godard">
           <speaker>GODARD (<stage>levant les épaules et s’en allant</stage>).</speaker>
           <p>Quelles bêtises !</p>
         </sp>
@@ -307,15 +307,15 @@
           <speaker>COLLEVILLE.</speaker>
           <p>Bêtises, bêtises ! je voudrais bien que vous vous donnassiez la peine d’étudier le fatalisme, religion de l’empereur Napoléon.</p>
         </sp>
-        <sp who="godard(">
+        <sp who="godard">
           <speaker>GODARD (<stage>piqué du ton de Colleville</stage>).</speaker>
           <p>Monsieur Colleville, Bonaparte peut être dit <hi rend="i">empereur</hi> par les historiens, mais on ne doit pas le reconnaître en cette qualité dans les Bureaux.</p>
         </sp>
-        <sp who="bixiou(">
+        <sp who="bixiou">
           <speaker>BIXIOU (<stage>souriant</stage>).</speaker>
           <p>Cherchez cette<note place="bottom">Erreur du Furne : « cet » au lieu de « cette ».</note> anagramme-là, mon cher ami ? Tenez, en fait d’anagrammes, j’aime mieux votre femme, c’est plus facile à retourner. (<stage>À voix basse.</stage>) Flavie devrait bien vous faire faire, à ses moments perdus, Chef de Bureau, ne fût-ce que pour vous soustraire aux sottises d’un Godard !…</p>
         </sp>
-        <sp who="dutocq(">
+        <sp who="dutocq">
           <speaker>DUTOCQ (<stage>appuyant Godard</stage>).</speaker>
           <p>Si ce n’était pas des bêtises, vous perdriez votre place, car vous prophétisez des événements peu agréables au roi ; tout bon royaliste doit présumer qu’il a eu assez de deux séjours à l’étranger.</p>
         </sp>
@@ -327,15 +327,15 @@
           <speaker>BIXIOU.</speaker>
           <p>D, t, reste alors pour <hi rend="i">détestable</hi>.</p>
         </sp>
-        <sp who="dutocq(">
+        <sp who="dutocq">
           <speaker>DUTOCQ (<stage>sans paraître fâché</stage>).</speaker>
           <p>J’aime mieux que ce ne soit que dans mon nom.</p>
         </sp>
-        <sp who="paulmier(">
+        <sp who="paulmier">
           <speaker>PAULMIER (<stage>tout bas à Desroys</stage>).</speaker>
           <p>Attrape, mons Colleville.</p>
         </sp>
-        <sp who="dutocq(">
+        <sp who="dutocq">
           <speaker>DUTOCQ (<stage>à Colleville</stage>).</speaker>
           <p>Avez-vous fait celui de : <hi rend="i">Xavier Rabourdin, chef de bureau</hi> ?</p>
         </sp>
@@ -343,7 +343,7 @@
           <speaker><pb n="227" xml:id="p227"/> COLLEVILLE.</speaker>
           <p>Parbleu !</p>
         </sp>
-        <sp who="bixiou(">
+        <sp who="bixiou">
           <speaker>BIXIOU (<stage>taillant sa plume</stage>).</speaker>
           <p>Qu’avez-vous trouvé ?</p>
         </sp>
@@ -359,7 +359,7 @@
           <speaker>BIXIOU.</speaker>
           <p>Et Isidore Baudoyer ?</p>
         </sp>
-        <sp who="colleville(">
+        <sp who="colleville">
           <speaker>COLLEVILLE (<stage>avec mystère</stage>).</speaker>
           <p>Je ne voudrais pas le dire à d’autres qu’à Thuillier.</p>
         </sp>
@@ -375,27 +375,27 @@
           <speaker>BIXIOU.</speaker>
           <p>Vous me régalerez donc ; mais n’en soyez pas fâché : deux artistes comme nous s’amuseront à mort !… <hi rend="i">Isidore Baudoyer</hi> donne <hi rend="i">Ris d’aboyeur d’oie</hi> !</p>
         </sp>
-        <sp who="colleville(">
+        <sp who="colleville">
           <speaker>COLLEVILLE (<stage>frappé d’étonnement</stage>).</speaker>
           <p>Vous me l’avez volé.</p>
         </sp>
-        <sp who="bixiou(">
+        <sp who="bixiou">
           <speaker>BIXIOU (<stage>cérémonieusement</stage>).</speaker>
           <p>Monsieur de Colleville, faites-moi l’honneur de me croire assez riche en niaiseries pour ne pas dérober celles de mon prochain.</p>
         </sp>
-        <sp who="baudoyer(">
+        <sp who="baudoyer">
           <speaker>BAUDOYER (<stage>entrant un dossier à la main</stage>).</speaker>
           <p>Messieurs, je vous en prie, parlez encore un peu plus haut, vous mettez le Bureau en très-bon renom auprès des administrateurs. Le digne monsieur Clergeot, qui m’a fait l’honneur de venir me demander un renseignement, entendait vos propos. (<stage>Il passe chez monsieur Godard.</stage>)</p>
         </sp>
-        <sp who="bixiou(">
+        <sp who="bixiou">
           <speaker>BIXIOU (<stage>à voix basse</stage>).</speaker>
           <p>L’aboyeur est bien doux ce matin, nous aurons un changement dans l’atmosphère.</p>
         </sp>
-        <sp who="dutocq(">
+        <sp who="dutocq">
           <speaker>DUTOCQ (<stage>bas à Bixiou</stage>).</speaker>
           <p>J’ai quelque chose à vous dire.</p>
         </sp>
-        <sp who="bixiou(">
+        <sp who="bixiou">
           <speaker>BIXIOU (<stage>tâtant le gilet de Dutocq</stage>).</speaker>
           <p>Vous avez un joli gilet qui sans doute ne vous coûte presque rien. Est-ce là le secret ?</p>
         </sp>
@@ -407,11 +407,11 @@
           <speaker>BIXIOU.</speaker>
           <p>Vous vous connaissez en gravures, mais vous ignorez les lois de l’étiquette. On ne peut pas être universel. La soie n’est pas admise dans le grand deuil. Aussi n’ai-je que de la laine. Monsieur Rabourdin, monsieur Clergeot, le ministre sont tout laine ; le faubourg Saint-Germain tout laine. Il n’y a que Minard qui ne porte pas de laine, il a peur d’être pris pour un mouton, nommé <hi rend="i">Laniger</hi> en latin de Bucolique ; il s’est dispensé, sous ce prétexte, de se mettre en deuil de Louis XVIII, grand législateur, auteur de la charte et homme d’esprit, un roi qui tiendra bien sa place dans l’histoire, comme il la tenait sur le trône, comme il la tenait bien partout ; car savez-vous le plus beau trait de sa vie ? non. Eh ! bien, à sa seconde rentrée, en recevant tous les souverains alliés, il a passé le premier en allant à table.</p>
         </sp>
-        <sp who="paulmier(">
+        <sp who="paulmier">
           <speaker>PAULMIER (<stage>regardant Dutocq</stage>).</speaker>
           <p>Je ne vois pas…</p>
         </sp>
-        <sp who="dutocq(">
+        <sp who="dutocq">
           <speaker>DUTOCQ (<stage>regardant Paulmier</stage>).</speaker>
           <p>Ni moi non plus.</p>
         </sp>
@@ -428,7 +428,7 @@
           <speaker>GODARD.</speaker>
           <p>Monsieur Bixiou, je quitte le bureau pour la journée, ainsi remplacez-moi.</p>
         </sp>
-        <sp who="baudoyer(">
+        <sp who="baudoyer">
           <speaker>BAUDOYER (<stage>à Bixiou d’un air bénin</stage>).</speaker>
           <p>Vous me consulterez, s’il y avait lieu.</p>
         </sp>
@@ -436,15 +436,15 @@
           <speaker>BIXIOU.</speaker>
           <p>Pour le coup, La Billardière est mort !</p>
         </sp>
-        <sp who="dutocq(">
+        <sp who="dutocq">
           <speaker>DUTOCQ (<stage>à l’oreille de Bixiou</stage>).</speaker>
           <p>Venez un peu dehors me reconduire. (<stage>Bixiou et Dutocq sortent dans le corridor et se regardent comme deux augures.</stage>)</p>
         </sp>
-        <sp who="dutocq(">
+        <sp who="dutocq">
           <speaker>DUTOCQ (<stage>parlant dans l’oreille de Bixiou</stage>).</speaker>
           <p>Écoutez. Voici le moment de nous entendre pour avancer. Que diriez-vous, si nous devenions vous Chef et moi Sous-chef ?</p>
         </sp>
-        <sp who="bixiou(">
+        <sp who="bixiou">
           <speaker>BIXIOU (<stage>haussant les épaules</stage>).</speaker>
           <p>Allons, pas de farces !</p>
         </sp>
@@ -460,7 +460,7 @@
           <speaker>DUTOCQ.</speaker>
           <p>À vous, mon cher, si vous voulez une fois dans votre vie employer votre esprit logiquement. (<stage>Il s’arrête comme pour étudier sur la figure de Bixiou l’effet de son adverbe.</stage>) Jouons ensemble cartes sur table.</p>
         </sp>
-        <sp who="bixiou(">
+        <sp who="bixiou">
           <speaker>BIXIOU (<stage>impassible</stage>).</speaker>
           <p>Voyons votre jeu ?</p>
         </sp>
@@ -472,7 +472,7 @@
           <speaker>BIXIOU.</speaker>
           <p>Finaud ! Mais par quels moyens comptez-vous mener à bien une entreprise où il s’agit de forcer la main au ministre, et d’expectorer un homme de talent ? Entre nous, Rabourdin est le seul homme capable de la Division, et peut-être du Ministère. Or il s’agit de mettre à sa place le carré de la sottise, le cube de la niaiserie, <hi rend="i">la Place Baudoyer</hi> !</p>
         </sp>
-        <sp who="dutocq(">
+        <sp who="dutocq">
           <speaker>DUTOCQ (<stage>se rengorgeant</stage>).</speaker>
           <p>Mon cher, je puis soulever contre Rabourdin tous les Bureaux ! vous savez combien Fleury l’aime ? eh ! bien, Fleury le méprisera.</p>
         </sp>
@@ -500,11 +500,11 @@
           <speaker>DUTOCQ.</speaker>
           <p>Cent francs.</p>
         </sp>
-        <sp who="bixiou(">
+        <sp who="bixiou">
           <speaker>BIXIOU (<stage>en lui-même</stage>).</speaker>
           <p>Il y a quelque chose.</p>
         </sp>
-        <sp who="dutocq(">
+        <sp who="dutocq">
           <speaker>DUTOCQ (<stage>continuant</stage>).</speaker>
           <p>Il faudrait représenter Rabourdin habillé en boucher, mais bien ressemblant, chercher des analogies entre un bureau et une cuisine, lui mettre à la main un tranche-lard, peindre les principaux employés des ministères en volailles, les encager dans une immense souricière sur laquelle on écrirait : <hi rend="i">Exécutions administratives</hi>, et il serait censé leur couper le cou un à un. Il y aurait des oies, des canards à têtes conformées comme les nôtres, des portraits <pb n="230" xml:id="p230"/> vagues, vous comprenez ! il tiendrait un volatile à la main, Baudoyer, par exemple, fait en dindon.</p>
         </sp>
@@ -516,7 +516,7 @@
           <speaker>DUTOCQ.</speaker>
           <p>Oui, moi.</p>
         </sp>
-        <sp who="bixiou(">
+        <sp who="bixiou">
           <speaker>BIXIOU (<stage>se parlant à lui-même</stage>).</speaker>
           <p>Les sentiments violents conduiraient-ils donc au même but que le talent ? (<stage>À Dutocq.</stage>) Mon cher, je ferai cela… (<stage>Dutocq laisse échapper un mouvement de joie</stage>) quand (<stage>point d’orgue</stage>) je saurai sur quoi m’appuyer ; car si vous ne réussissez pas, je perds ma place, et il faut que je vive. Vous êtes encore singulièrement <hi rend="i">bon enfant</hi>, mon cher collègue !</p>
         </sp>
@@ -532,7 +532,7 @@
           <speaker>DUTOCQ.</speaker>
           <p>Il faut auparavant aller flairer l’air du bureau, nous reparlerons de cela tantôt. (<stage>Il s’en va.</stage>)</p>
         </sp>
-        <sp who="bixiou(">
+        <sp who="bixiou">
           <speaker>BIXIOU (<stage>seul dans le corridor</stage>).</speaker>
           <p>Cette raie au beurre noir, car il ressemble plus à un poisson qu’à un oiseau, ce Dutocq a eu là une bonne idée, je ne sais pas où il l’a prise. Si la <hi rend="i">Place Baudoyer</hi> succède à La Billardière, ce serait drôle, mieux que drôle, nous y gagnerions ! (<stage>Il rentre dans le Bureau.</stage>) Messieurs, il va y avoir de fameux changements, le papa La Billardière est décidément mort. Sans blague ! parole d’honneur ! Voilà Godard en course pour notre respectable chef Baudoyer, successeur présumé du défunt (<stage>Minard, Desroys, Colleville lèvent la tête avec étonnement, tous posent leurs plumes, Colleville se mouche</stage>). Nous allons avancer, nous autres ! Colleville sera Sous-Chef au moins, Minard sera peut-être commis principal, et pourquoi ne le serait-il pas ? il est aussi bête que moi. Hein ! Minard, si vous étiez à deux mille cinq cents, votre petite femme serait joliment contente et vous pourriez vous acheter des bottes.</p>
         </sp>
@@ -576,19 +576,19 @@
           <speaker>BIXIOU.</speaker>
           <p>J’irai, mais à cause de madame.</p>
         </sp>
-        <sp who="baudoyer(">
+        <sp who="baudoyer">
           <speaker>BAUDOYER (<stage>revenant</stage>).</speaker>
           <p>Monsieur Chazelle n’est pas encore venu, vous lui ferez mes compliments, messieurs.</p>
         </sp>
-        <sp who="bixiou(">
+        <sp who="bixiou">
           <speaker>BIXIOU (<stage>qui a mis un chapeau à la place de Chazelle en entendant le pas de Baudoyer</stage>).</speaker>
           <p>Pardon, monsieur, il est allé demander un renseignement pour vous chez les Rabourdin.</p>
         </sp>
-        <sp who="chazelle(">
+        <sp who="chazelle">
           <speaker><pb n="232" xml:id="p232"/> CHAZELLE (<stage>entrant son chapeau sur la tête et sans voir Baudoyer</stage>).</speaker>
           <p>Le père La Billardière est enfoncé, messieurs ! Rabourdin est Chef de Division, maître des requêtes ! il n’a pas volé son avancement, celui-là…</p>
         </sp>
-        <sp who="baudoyer(">
+        <sp who="baudoyer">
           <speaker>BAUDOYER (<stage>à Chazelle</stage>).</speaker>
           <p>Vous avez trouvé cette nomination dans votre second chapeau, monsieur, n’est-ce pas ? (<stage>Il lui montre le chapeau qui est à sa place</stage>). Voilà la troisième fois depuis le commencement du mois que vous venez après neuf heures ; si vous continuez ainsi, vous ferez du chemin, mais savoir en quel sens ! (<stage>À Bixiou qui lit le journal.</stage>) Mon cher monsieur Bixiou, de grâce laissez le journal à ces messieurs qui s’apprêtent à déjeuner, et venez prendre la besogne d’aujourd’hui. Je ne sais pas ce que monsieur Rabourdin fait de Gabriel ; il le garde, je crois, pour son usage particulier, je l’ai sonné trois fois. (<stage>Baudoyer et Bixiou rentrent dans le cabinet.</stage>)</p>
         </sp>
@@ -596,11 +596,11 @@
           <speaker>CHAZELLE.</speaker>
           <p>Damné sort !</p>
         </sp>
-        <sp who="paulmier(">
+        <sp who="paulmier">
           <speaker>PAULMIER (<stage>enchanté de tracasser Chazelle</stage>).</speaker>
           <p>Ils ne vous ont donc pas dit en bas qu’il était monté ? D’ailleurs ne pouviez-vous regarder en entrant, voir le chapeau à votre place, et l’éléphant…</p>
         </sp>
-        <sp who="colleville(">
+        <sp who="colleville">
           <speaker>COLLEVILLE (<stage>riant</stage>).</speaker>
           <p>Dans la ménagerie.</p>
         </sp>
@@ -608,27 +608,27 @@
           <speaker>PAULMIER.</speaker>
           <p>Il est assez gros pour être visible.</p>
         </sp>
-        <sp who="chazelle(">
+        <sp who="chazelle">
           <speaker>CHAZELLE (<stage>au désespoir</stage>).</speaker>
           <p>Parbleu, pour quatre francs soixante-quinze centimes que nous donne le gouvernement par jour, je ne vois pas que l’on doive être comme des esclaves.</p>
         </sp>
-        <sp who="fleury(">
+        <sp who="fleury">
           <speaker>FLEURY (<stage>entrant</stage>).</speaker>
           <p>À bas Baudoyer ! vive Rabourdin ! voilà le cri de la Division.</p>
         </sp>
-        <sp who="chazelle(">
+        <sp who="chazelle">
           <speaker>CHAZELLE (<stage>s’exaspérant</stage>).</speaker>
           <p>Baudoyer peut bien me faire destituer s’il le veut, je n’en serai pas plus triste. À Paris, il existe mille moyens de gagner cinq francs par jour ! on les gagne au Palais à faire des copies pour les avoués…</p>
         </sp>
-        <sp who="paulmier(">
+        <sp who="paulmier">
           <speaker>PAULMIER (<stage>asticotant</stage><note place="bottom">Erreur du Furne : « hasticotant » au lieu de « asticotant ».</note><stage> toujours Chazelle</stage>).</speaker>
           <p>Vous dites cela, mais une place est une place, et le courageux <pb n="233" xml:id="p233"/> Colleville qui se donne un mal de galérien en dehors du Bureau, qui pourrait gagner, s’il perdait sa place, plus que ses appointements, rien qu’en montrant la musique, eh ! bien, il aime mieux sa place. Que diantre, on n’abandonne pas ses espérances.</p>
         </sp>
-        <sp who="chazelle(">
+        <sp who="chazelle">
           <speaker>CHAZELLE (<stage>continuant sa philippique</stage>).</speaker>
           <p>Lui, mais pas moi ! Nous n’avons plus de chances ? Parbleu ! il fut un temps où rien n’était plus séduisant que la carrière administrative. Il y avait tant d’hommes aux armées qu’il en manquait pour l’administration. Les gens édentés, blessés à la main, au pied, de santé mauvaise, comme Paulmier, les myopes obtenaient un rapide avancement. Les familles, dont les enfants grouillaient dans les lycées, se laissaient alors fasciner par la brillante existence d’un jeune homme en lunettes, vêtu d’un habit bleu, dont la boutonnière était allumée par un ruban rouge, et qui touchait un millier de francs par mois, à la charge d’aller quelques heures dans un Ministère quelconque, y surveiller quelque chose, y arrivant tard et partant tôt, ayant, comme lord Byron, des heures de loisir et faisant des romances, se promenant aux Tuileries, doué d’un petit air rogue, se faisant voir partout, au spectacle, au bal, <hi rend="i">admis dans les meilleures sociétés</hi>, dépensant ses appointements, rendant ainsi à la France tout ce que la France lui donnait, rendant même des services. En effet, les employés étaient alors, comme Thuillier, cajolés par de jolies femmes ; ils paraissaient avoir de l’esprit, ils ne se lassaient point trop dans les Bureaux. Les impératrices, les reines, les princesses, les maréchales de cette heureuse époque avaient des caprices. Toutes ces belles dames avaient la passion des belles âmes : elles aimaient à protéger. Aussi pouvait-on remplir à vingt-cinq ans<note place="bottom">Erreur du Furne : « remplir vingt-cinq ans » au lieu de « remplir à vingt-cinq ans ».</note>, une place élevée, être auditeur au Conseil d’état ou maître des requêtes, et faire des rapports à l’Empereur en s’amusant avec son auguste famille. On s’amusait et l’on travaillait tout ensemble. Tout se faisait vite. Mais aujourd’hui, depuis que la Chambre a inventé la spécialité pour les dépenses, et les chapitres intitulés : Personnel ! nous sommes moins que des soldats. Les moindres places sont soumises à mille chances, car il y a mille souverains…</p>
         </sp>
-        <sp who="bixiou(">
+        <sp who="bixiou">
           <speaker>BIXIOU (<stage>rentrant</stage>).</speaker>
           <p>Chazelle est donc fou. Où voit-il mille souverains ?… serait-ce par hasard dans sa poche ?…</p>
         </sp>
@@ -640,7 +640,7 @@
           <speaker>FLEURY.</speaker>
           <p>Tout cela signifie que, dans un pays où il y a trois pouvoirs, il y a mille à parier contre un, qu’un employé qui n’est protégé que par lui-même n’aura point d’avancement.</p>
         </sp>
-        <sp who="bixiou(">
+        <sp who="bixiou">
           <speaker>BIXIOU (<stage>regardant tour à tour Chazelle et Fleury</stage>).</speaker>
           <p>Ah ! mes enfants, vous en êtes encore à savoir qu’aujourd’hui le plus mauvais état c’est l’état d’être à l’État…</p>
         </sp>
@@ -656,7 +656,7 @@
           <speaker>BIXIOU.</speaker>
           <p>Fleury a raison. Aujourd’hui, messieurs, servir l’État, ce n’est plus servir le prince qui savait punir et récompenser ! Aujourd’hui l’État, c’est tout le monde. Or, tout le monde ne s’inquiète de personne. Servir tout le monde, c’est ne servir personne. Personne ne s’intéresse à personne. Un employé vit entre ces deux négations ! Le monde n’a pas de pitié, n’a pas d’égard, n’a ni cœur, ni tête ; tout le monde est égoïste, tout le monde oublie demain les services d’hier. Vous avez beau vous trouver, comme monsieur Baudoyer, dès l’âge le plus tendre, un génie administratif, le Châteaubriand des rapports, le Bossuet des circulaires, le Canalis des mémoires, l’enfant sublime de la dépêche, il existe une loi désolante contre le génie administratif, la loi sur l’avancement avec sa moyenne. Cette fatale Moyenne résulte des tables de la loi sur l’avancement et des tables de mortalité combinées. Il est certain qu’en entrant dans quelque administration que ce soit, à l’âge de dix-huit ans, on n’obtient dix-huit cents francs d’appointements qu’à trente ans ; pour en obtenir six mille à cinquante, la vie de Colleville nous prouve que le génie d’une femme, l’appui de plusieurs pairs de France, de plusieurs députés influents, ne sert à rien. Il n’est donc pas de <pb n="235" xml:id="p235"/> carrière libre et indépendante dans laquelle, en douze années, un jeune homme, ayant fait ses humanités, vacciné, libéré du service militaire, jouissant de ses facultés, sans avoir une intelligence transcendante, n’ait amassé un capital de quarante-cinq mille francs et des<note place="bottom">Erreur du Furne : « de » au lieu de « des ».</note> centimes, représentant la rente perpétuelle de notre traitement essentiellement transitoire, car il n’est pas même viager. Dans cette période, un épicier doit avoir gagné dix mille francs de rentes, avoir déposé son bilan, ou présidé le tribunal de commerce. Un peintre a badigeonné un kilomètre de toile, il doit être décoré de la Légion-d’Honneur, ou se poser en grand homme inconnu. Un homme de lettres est professeur de quelque chose, ou journaliste à cent francs pour mille lignes, il écrit des feuilletons, ou se trouve à Sainte-Pélagie après un pamphlet lumineux qui mécontente les Jésuites, ce qui constitue une valeur énorme et en fait un homme politique. Enfin, un oisif, qui n’a rien fait, car il y a des oisifs qui font quelque chose, a fait des dettes et une veuve qui les lui paye. Un prêtre a eu le temps de devenir évêque in partibus. Un vaudevilliste est devenu propriétaire, quand il n’aurait jamais fait, comme du Bruel, de vaudevilles entiers. Un garçon intelligent et sobre, qui aurait commencé l’escompte avec un très-petit capital, comme mademoiselle Thuillier, achète alors un quart de charge d’agent de change. Allons plus bas ! Un petit clerc est notaire, un chiffonnier a mille écus de rentes, les plus malheureux ouvriers ont pu devenir fabricants ; tandis que, dans le mouvement rotatoire de cette civilisation qui prend la division infinie pour le progrès, un Chazelle a vécu à vingt-deux sous par tête !… – se débat avec son tailleur et son bottier ! – À des dettes ! – n’est rien ! Et s’est <hi rend="i">crétinisé</hi> ! Allons ! messieurs ? un beau mouvement ! Hein ? donnons tous nos démissions !… Fleury, Chazelle, jetez-vous dans d’autres parties ? et devenez-y deux grands hommes !…</p>
         </sp>
-        <sp who="chazelle(">
+        <sp who="chazelle">
           <speaker>CHAZELLE (<stage>calmé par le discours de Bixiou</stage>).</speaker>
           <p>Merci. (<stage>Rire général.</stage>)</p>
         </sp>
@@ -664,7 +664,7 @@
           <speaker>BIXIOU.</speaker>
           <p>Vous avez tort, dans votre situation je prendrais les devants sur le Secrétaire-général.</p>
         </sp>
-        <sp who="chazelle(">
+        <sp who="chazelle">
           <speaker>CHAZELLE (<stage>inquiet</stage>).</speaker>
           <p>Et qu’a-t-il donc à me dire ?</p>
         </sp>
@@ -672,7 +672,7 @@
           <speaker>BIXIOU.</speaker>
           <p>Odry vous dirait, Chazelle, avec plus d’agrément que n’en <pb n="236" xml:id="p236"/> mettra des Lupeaulx, que pour vous la seule place libre est la place de la Concorde.</p>
         </sp>
-        <sp who="paulmier(">
+        <sp who="paulmier">
           <speaker>PAULMIER (<stage>tenant le tuyau du poêle embrassé</stage>).</speaker>
           <p>Parbleu, Baudoyer ne vous fera pas grâce, allez !…</p>
         </sp>
@@ -680,19 +680,19 @@
           <speaker>FLEURY.</speaker>
           <p>Encore une vexation de Baudoyer ! Ah ! quel singulier pistolet vous avez là ! Parlez-moi de monsieur Rabourdin, voilà un homme. Il m’a mis de la besogne sur ma table, il faudrait trois jours pour l’expédier ici… eh ! bien, il l’aura pour ce soir, à quatre heures. Mais il n’est pas sur mes talons pour m’empêcher de venir causer avec les amis.</p>
         </sp>
-        <sp who="baudoyer(">
+        <sp who="baudoyer">
           <speaker>BAUDOYER (<stage>se montrant</stage>).</speaker>
           <p>Messieurs, vous conviendrez que si l’on a le droit de blâmer le système de la Chambre ou la marche de l’Administration, ce doit être ailleurs que dans les Bureaux ! (<stage>Il s’adresse à Fleury.</stage>) Pourquoi venez-vous ici, monsieur ?</p>
         </sp>
-        <sp who="fleury(">
+        <sp who="fleury">
           <speaker>FLEURY (<stage>insolemment</stage>).</speaker>
           <p>Pour avertir ces messieurs qu’il y a du remue-ménage ! Du Bruel est mandé au secrétariat-général, Dutocq y va ! Tout le monde se demande qui sera nommé.</p>
         </sp>
-        <sp who="baudoyer(">
+        <sp who="baudoyer">
           <speaker>BAUDOYER (<stage>en rentrant</stage>).</speaker>
           <p>Ceci, monsieur, n’est pas votre affaire, retournez à votre Bureau, ne troublez pas l’ordre dans le mien…</p>
         </sp>
-        <sp who="fleury(">
+        <sp who="fleury">
           <speaker>FLEURY (<stage>sur la porte</stage>).</speaker>
           <p>Ce serait une fameuse injustice si Rabourdin <hi rend="i">la gobait</hi> ! Ma foi ! je quitterais le Ministère (<stage>il revient</stage>). Avez-vous trouvé votre anagramme, papa Colleville ?</p>
         </sp>
@@ -700,15 +700,15 @@
           <speaker>COLLEVILLE.</speaker>
           <p>Oui, la voici.</p>
         </sp>
-        <sp who="fleury(">
+        <sp who="fleury">
           <speaker>FLEURY (<stage>se penche sur le bureau de Colleville</stage>).</speaker>
           <p>Fameux ! fameux ! Voilà ce qui ne manquera pas d’arriver si le gouvernement continue son métier d’hypocrite. (<stage>Il fait signe aux employés que Baudoyer écoute.</stage>) Si le Gouvernement disait franchement son intention sans conserver d’arrière-pensée, les Libéraux verraient alors ce qu’ils auraient à faire. Un gouvernement qui met contre lui ses meilleurs amis, et des hommes comme ceux des <hi rend="i">Débats</hi>, comme Châteaubriand et Royer-Collard ! ça fait pitié !</p>
         </sp>
-        <sp who="colleville(">
+        <sp who="colleville">
           <speaker><pb n="237" xml:id="p237"/> COLLEVILLE (<stage>après avoir consulté ses collègues</stage>).</speaker>
           <p>Tenez, Fleury, vous êtes un bon enfant ; mais ne parlez pas politique ici, vous ne savez pas le tort que vous nous faites.</p>
         </sp>
-        <sp who="fleury(">
+        <sp who="fleury">
           <speaker>FLEURY (<stage>sèchement</stage>).</speaker>
           <p>Adieu, messieurs. Je vais expédier. (<stage>Il revient et parle bas à Bixiou.</stage>) On dit que madame Colleville est liée avec la Congrégation.</p>
         </sp>
@@ -716,11 +716,11 @@
           <speaker>BIXIOU.</speaker>
           <p>Par où ?…</p>
         </sp>
-        <sp who="fleury(">
+        <sp who="fleury">
           <speaker>FLEURY (<stage>il éclate de rire</stage>).</speaker>
           <p>On ne vous prend jamais sans vert !</p>
         </sp>
-        <sp who="colleville(">
+        <sp who="colleville">
           <speaker>COLLEVILLE (<stage>inquiet</stage>).</speaker>
           <p>Que dites-vous ?</p>
         </sp>
@@ -791,11 +791,11 @@
           <p>Telles furent les deux pensées auxquelles s’arrêta le chef en traversant la cour, car le regard qu’il avait saisi la veille entre Célestine et des Lupeaulx lui revint dans la mémoire comme un éclair. Pendant l’absence de Rabourdin, son Bureau avait été nécessairement en proie à une agitation violente, car dans les Ministères les rapports entre les employés et les supérieurs sont si bien réglés, que quand l’huissier du ministre vient de la part de Son Excellence chez un Chef de bureau, surtout à l’heure où le ministre n’est pas visible, il se fait de grands commentaires. La coïncidence de cette communication extraordinaire avec la mort de monsieur La Billardière donna d’ailleurs une importance insolite à ce fait que monsieur Saillard apprit par monsieur Clergeot, et il vint en conférer avec son gendre. Bixiou, qui travaillait alors avec son chef, le laissa causer avec son beau-père et se transporta dans le bureau Rabourdin où les travaux étaient interrompus.</p>
           <p>@q drama</p>
         </sp>
-        <sp who="bixiou(">
+        <sp who="bixiou">
           <speaker>BIXIOU (<stage>entrant</stage>).</speaker>
           <p>Il ne fait guère chaud chez vous, messieurs ? Vous ne savez pas ce qui se passe en bas. <hi rend="i">La vertueuse Rabourdin</hi> est enfoncée ! Oui, destitué ! Une scène horrible chez le ministre.</p>
         </sp>
-        <sp who="dutocq(">
+        <sp who="dutocq">
           <speaker>DUTOCQ (<stage>il regarde Bixiou</stage>).</speaker>
           <p>Est-ce vrai ?</p>
         </sp>
@@ -827,7 +827,7 @@
           <speaker>BIXIOU.</speaker>
           <p>Messieurs, mettez-vous tous contre moi : vous voilà sept ? car vous en serez, monsieur Phellion. Je parie un dîner de cinq cents francs au Rocher de Cancale que Rabourdin n’a pas la place de La Billardière. Ça ne vous coûtera pas cent francs à chacun, et moi j’en risque cinq cents. Je vous fais la chouette enfin. Ça va-t-il ? En êtes-vous, du Bruel ?</p>
         </sp>
-        <sp who="phellion(">
+        <sp who="phellion">
           <speaker>PHELLION (<stage>posant sa plume</stage>).</speaker>
           <p><hi rend="i">Môsieur</hi>, sur quoi fondez-vous cette proposition aléatoire, car aléatoire est le mot ; mais je me trompe en employant le terme de proposition, c’est contrat que je voulais dire. Le pari constitue un contrat.</p>
         </sp>
@@ -859,11 +859,11 @@
           <speaker>POIRET.</speaker>
           <p>Je suis aussi curieux que monsieur Phellion de savoir sur quelles raisons s’appuie monsieur Bixiou…</p>
         </sp>
-        <sp who="bixiou(">
+        <sp who="bixiou">
           <speaker>BIXIOU (<stage>criant à travers le bureau</stage>).</speaker>
           <p>En êtes-vous, du Bruel ?</p>
         </sp>
-        <sp who="dubruel(">
+        <sp who="dubruel">
           <speaker>DU BRUEL (<stage>apparaissant</stage>).</speaker>
           <p>Sac-à-papier, messieurs, j’ai quelque chose de difficile à faire, c’est la réclame pour la mort de monsieur La Billardière. De grâce ! un peu de silence : vous rirez et parierez après.</p>
         </sp>
@@ -871,7 +871,7 @@
           <speaker>THUILLIER.</speaker>
           <p>Rirez et pas rirez ! vous entreprenez sur mes calembours !</p>
         </sp>
-        <sp who="bixiou(">
+        <sp who="bixiou">
           <speaker>BIXIOU (<stage>allant dans le bureau de du Bruel</stage>).</speaker>
           <p>C’est vrai, du Bruel, l’éloge du bonhomme est une chose bien difficile, j’aurais plus tôt fait sa charge !</p>
         </sp>
@@ -892,7 +892,7 @@
           <p><hi rend="i">« La mort exerce particulièrement ses ravages parmi les plus vieux défenseurs de la monarchie et les plus fidèles serviteurs du roi, dont le cœur saigne de tous ces coups.</hi> (<stage>Du Bruel écrit rapidement.</stage>) <hi rend="i">Monsieur le baron Flamet de La Billardière est mort ce matin d’une hydropisie de poitrine, causée par une affection au cœur.</hi></p>
           <p>Vois-tu, il n’est pas indifférent de prouver que l’on a du cœur dans les Bureaux. Faut-il couler là une petite tartine sur les émotions des royalistes pendant la terreur ? Hein ! ça ne ferait pas mal. Mais non, les petits journaux diraient que les émotions ont plus <pb n="249" xml:id="p249"/> frappé sur les intestins que sur le cœur. N’en parlons pas. Qu’as-tu mis ?</p>
         </sp>
-        <sp who="dubruel(">
+        <sp who="dubruel">
           <speaker>DU BRUEL (<stage>lisant</stage>).</speaker>
           <p rend="i">« Issu d’une vieille souche parlementaire… </p>
         </sp>
@@ -900,7 +900,7 @@
           <speaker>BIXIOU.</speaker>
           <p>Très-bien cela ! c’est poétique, et souche est profondément vrai.</p>
         </sp>
-        <sp who="dubruel(">
+        <sp who="dubruel">
           <speaker>DU BRUEL (<stage>continuant</stage>).</speaker>
           <p rend="i">« Où le dévouement pour le trône était héréditaire, aussi bien que l’attachement à la foi de nos pères, monsieur de La Billardière… </p>
         </sp>
@@ -929,11 +929,11 @@
           <p>Voyez-vous ?…</p>
           <p rend="i">« En nommant monsieur de La Billardière baron, gentilhomme ordinaire… </p>
         </sp>
-        <sp who="bixiou(">
+        <sp who="bixiou">
           <speaker>BIXIOU (<stage>à part</stage>).</speaker>
           <p>Très-ordinaire.</p>
         </sp>
-        <sp who="dubruel(">
+        <sp who="dubruel">
           <speaker>DU BRUEL (<stage>continuant</stage>).</speaker>
           <p rend="i">« De la chambre, etc., le roi récompensa tout ensemble les services rendus par le prévôt qui sut concilier la rigueur de ses fonctions avec la mansuétude ordinaire aux Bourbons, et le courage du Vendéen qui n’a pas plié le genou devant l’idole impériale. Il laisse un fils, héritier de son dévouement et de ses talents, etc. </p>
         </sp>
@@ -955,7 +955,7 @@
           <speaker>DU BRUEL.</speaker>
           <p>Aux dépens de qui ?</p>
         </sp>
-        <sp who="bixiou(">
+        <sp who="bixiou">
           <speaker>BIXIOU (<stage>sérieux comme un prêtre qui monte en chaire</stage>).</speaker>
           <p>De Hoche et de Tallien. Tu ne sais donc pas l’histoire ?</p>
         </sp>
@@ -963,7 +963,7 @@
           <speaker>DU BRUEL.</speaker>
           <p>Non. J’ai souscrit à la collection des Baudouin, mais je n’ai pas encore eu le temps de l’ouvrir : il n’y a pas de sujet de vaudeville là-dedans.</p>
         </sp>
-        <sp who="phellion(">
+        <sp who="phellion">
           <speaker>PHELLION (<stage>à la porte</stage>).</speaker>
           <p>Nous voudrions tous savoir, monsieur Bixiou, qui peut vous inciter à croire que le vertueux et digne monsieur Rabourdin, qui fait l’intérim de la Division depuis neuf mois, qui est le plus ancien Chef de Bureau du Ministère, et que le ministre au retour de chez monsieur de La Billardière a envoyé chercher par son huissier, ne sera pas nommé Chef de Division.</p>
         </sp>
@@ -971,7 +971,7 @@
           <speaker>BIXIOU.</speaker>
           <p>Papa Phellion, vous connaissez la géographie ?</p>
         </sp>
-        <sp who="phellion(">
+        <sp who="phellion">
           <speaker>PHELLION (<stage>se rengorgeant</stage>).</speaker>
           <p>Monsieur, je m’en flatte.</p>
         </sp>
@@ -979,15 +979,15 @@
           <speaker>BIXIOU.</speaker>
           <p>L’histoire ?</p>
         </sp>
-        <sp who="phellion(">
+        <sp who="phellion">
           <speaker><pb n="251" xml:id="p251"/> PHELLION (<stage>d’un air modeste</stage>).</speaker>
           <p>Peut-être.</p>
         </sp>
-        <sp who="bixiou(">
+        <sp who="bixiou">
           <speaker>BIXIOU (<stage>le regardant</stage>).</speaker>
           <p>Votre diamant est mal accroché, il va tomber. Eh ! bien, vous ne connaissez pas le cœur humain, vous n’êtes pas plus avancé là-dedans que dans les environs de Paris.</p>
         </sp>
-        <sp who="poiret(">
+        <sp who="poiret">
           <speaker>POIRET (<stage>bas à Vimeux</stage>).</speaker>
           <p>Les environs de Paris ? Je croyais qu’il s’agissait de monsieur Rabourdin.</p>
         </sp>
@@ -1023,7 +1023,7 @@
           <speaker>BIXIOU.</speaker>
           <p>Plus je considère Baudoyer, plus il me semble réunir toutes les <pb n="252" xml:id="p252"/> qualités contraires ; conséquemment, il sera chef de Division.</p>
         </sp>
-        <sp who="dutocq(">
+        <sp who="dutocq">
           <speaker>DUTOCQ (<stage>poussé à bout</stage>).</speaker>
           <p>Mais monsieur des Lupeaulx, qui m’a fait venir pour me demander mon Charlet, m’a dit que monsieur Rabourdin allait être nommé, et que le petit La Billardière passait Référendaire au Sceau.</p>
         </sp>
@@ -1035,7 +1035,7 @@
           <speaker>POIRET.</speaker>
           <p>Tout le monde accorde de l’esprit à ce monsieur, eh ! bien, moi, je ne puis jamais rien comprendre à ses discours (<stage>il expédie toujours</stage>). Je l’écoute, je l’écoute, j’entends des paroles et ne saisis aucun sens : il parle des environs de Paris à propos du cœur humain, et (<stage>il pose sa plume et va au poêle</stage>) dit qu’il joue le jeu du diable, à propos des expéditions de Russie et de Boulogne ! il faudrait d’abord admettre que le diable joue, et savoir quel jeu ? Je vois d’abord le jeu de dominos… (<stage>il se mouche</stage>).</p>
         </sp>
-        <sp who="fleury(">
+        <sp who="fleury">
           <speaker>FLEURY (<stage>interrompant</stage>).</speaker>
           <p>Il est onze heures, le père Poiret se mouche.</p>
         </sp>
@@ -1067,7 +1067,7 @@
           <speaker>SÉBASTIEN.</speaker>
           <p>Je n’aime point à regarder ce que je ne saurais avoir.</p>
         </sp>
-        <sp who="phellion(">
+        <sp who="phellion">
           <speaker>PHELLION (<stage>enchanté</stage>).</speaker>
           <p>Bien dit ! jeune homme.</p>
         </sp>
@@ -1087,7 +1087,7 @@
           <speaker>DUTOCQ.</speaker>
           <p>Toutes deux jouent la comédie.</p>
         </sp>
-        <sp who="fleury(">
+        <sp who="fleury">
           <speaker>FLEURY (<stage>regardant Dutocq de travers</stage>).</speaker>
           <p>Le physique n’a rien à faire avec le moral, et si vous entendez par là que…</p>
         </sp>
@@ -1115,7 +1115,7 @@
           <speaker><pb n="254" xml:id="p254"/> FLEURY.</speaker>
           <p>Madame Colleville a fini par prendre le plus court… le chemin de la sacristie…</p>
         </sp>
-        <sp who="thuillier(">
+        <sp who="thuillier">
           <speaker>THUILLIER (<stage>sèchement</stage>).</speaker>
           <p>Je suis trop l’ami de Colleville pour ne pas vous prier, monsieur Fleury, de ne pas parler légèrement de sa femme.</p>
         </sp>
@@ -1278,15 +1278,15 @@
           <p><pb n="268" xml:id="p268"/> – Messieurs, dit Dutocq en rentrant au Bureau et en s’adressant à ses collègues, je ne sais pas si Bixiou a le don de lire dans l’avenir, mais si vous n’avez pas le journal ministériel, je vous engage à y étudier l’article Baudoyer ; puis, comme monsieur Fleury a la feuille de l’Opposition, vous pourrez y voir la réplique. Certes, monsieur Rabourdin a du talent, mais un homme qui, par le temps qui court, donne aux églises des ostensoirs de six mille francs, a diablement de talent aussi.</p>
           <p>@q drama</p>
         </sp>
-        <sp who="bixiou(">
+        <sp who="bixiou">
           <speaker>BIXIOU (<stage>entrant</stage>).</speaker>
           <p>Que dites-vous de <hi rend="i">la première aux Corinthiens</hi> contenue dans notre journal religieux, et de l’<hi rend="i">Épître aux ministres</hi> qui est dans le journal libéral ? Comment va monsieur Rabourdin, du Bruel ?</p>
         </sp>
-        <sp who="dubruel(">
+        <sp who="dubruel">
           <speaker>DU BRUEL (<stage>arrivant</stage>).</speaker>
           <p>Je ne sais pas. (<stage>Il emmène Bixiou dans son cabinet et lui dit à voix basse.</stage>) Mon cher, votre manière d’aider les gens ressemble aux façons du bourreau, qui vous met les pieds sur les épaules pour vous plus promptement casser le cou. Vous m’avez fait avoir de des Lupeaulx une chasse que ma bêtise m’a méritée. Il était joli, l’article sur La Billardière ! Je n’oublierai pas ce trait-là. La première phrase semblait dire au Roi : <hi rend="i">Il faut mourir</hi>. Celle sur Quiberon signifiait clairement que le Roi était un… Enfin tout était ironique.</p>
         </sp>
-        <sp who="bixiou(">
+        <sp who="bixiou">
           <speaker>BIXIOU (<stage>se mettant à rire</stage>).</speaker>
           <p>Tiens, vous vous fâchez ! On ne peut donc plus <hi rend="i">blaguer</hi> ?</p>
         </sp>
@@ -1294,7 +1294,7 @@
           <speaker>DU BRUEL.</speaker>
           <p>Blaguer ! blaguer ! Quand vous voudrez être Sous-chef, on vous répondra par des blagues, mon cher.</p>
         </sp>
-        <sp who="bixiou(">
+        <sp who="bixiou">
           <speaker>BIXIOU (<stage>d’un ton menaçant</stage>).</speaker>
           <p>Sommes-nous fâchés ?</p>
         </sp>
@@ -1302,19 +1302,19 @@
           <speaker>DU BRUEL.</speaker>
           <p>Oui.</p>
         </sp>
-        <sp who="bixiou(">
+        <sp who="bixiou">
           <speaker>BIXIOU (<stage>d’un air sec</stage>).</speaker>
           <p>Eh ! bien, tant pis pour vous.</p>
         </sp>
-        <sp who="dubruel(">
+        <sp who="dubruel">
           <speaker>DU BRUEL (<stage>songeur et inquiet</stage>).</speaker>
           <p>Pardonneriez-vous cela, vous ?</p>
         </sp>
-        <sp who="bixiou(">
+        <sp who="bixiou">
           <speaker>BIXIOU (<stage>câlin</stage>).</speaker>
           <p>À un ami ? je crois bien. (<stage>On entend la voix de Fleury.</stage>) Voilà Fleury qui maudit Baudoyer. Hein ! est-ce bien joué ? Baudoyer aura la place. (<stage>Confidentiellement.</stage>) Après tout, tant <pb n="269" xml:id="p269"/> mieux. Du Bruel, suivez bien les conséquences. Rabourdin serait un lâche de rester sous Baudoyer, il donnera sa démission, et ça nous fera deux places. Vous serez Chef, et vous me prendrez avec vous comme Sous-chef. Nous ferons des vaudevilles ensemble, et je vous piocherai la besogne au Bureau.</p>
         </sp>
-        <sp who="dubruel(">
+        <sp who="dubruel">
           <speaker>DU BRUEL (<stage>souriant</stage>).</speaker>
           <p>Tiens, je ne songeais pas à cela. Pauvre Rabourdin ! ça me ferait de la peine, cependant.</p>
         </sp>
@@ -1334,7 +1334,7 @@
           <speaker>POIRET.</speaker>
           <p>Il m’est toujours impossible de comprendre monsieur Bixiou.</p>
         </sp>
-        <sp who="phellion(">
+        <sp who="phellion">
           <speaker>PHELLION (<stage>d’un air élégiaque</stage>).</speaker>
           <p>Monsieur Rabourdin lit si rarement les journaux, qu’il serait peut-être utile de les lui porter en nous en privant momentanément. (<stage>Fleury lui tend son journal, Vimeux celui du Bureau, il prend les journaux et sort.</stage>)</p>
           <p>@/q</p>
@@ -1639,7 +1639,7 @@
           <p>Pendant que Dutocq revenait au Bureau le cœur palpitant de joie, en se demandant par quels moyens il exciterait la rumeur contre son Chef sans trop se compromettre, Bixiou était entré chez les Rabourdin pour leur dire un petit bonjour. Croyant avoir perdu, le mystificateur trouva plaisant de se poser comme ayant gagné.</p>
           <p>@q drama</p>
         </sp>
-        <sp who="bixiou(">
+        <sp who="bixiou">
           <speaker>BIXIOU (<stage>imitant la voix de Phellion</stage>).</speaker>
           <p>Messieurs, je vous salue, et vous dépose un bonjour collectif. <pb n="297" xml:id="p297"/> J’indique dimanche prochain pour un dîner au Rocher-de-Cancale ; mais une question grave se présente, les employés supprimés en sont-ils ?</p>
         </sp>
@@ -1660,11 +1660,11 @@
           <speaker>THUILLIER.</speaker>
           <p>Ha ! çà, vous voulez rire !</p>
         </sp>
-        <sp who="bixiou(">
+        <sp who="bixiou">
           <speaker>BIXIOU (<stage>lui riant au nez</stage>).</speaker>
           <p>Ris au laid (riz au lait) ! Il est joli celui-là, papa Thuillier, car vous n’êtes pas beau. Rabourdin donne sa démission de rage de savoir Baudoyer directeur.</p>
         </sp>
-        <sp who="vimeux(">
+        <sp who="vimeux">
           <speaker>VIMEUX (<stage>entrant</stage>).</speaker>
           <p>Quelle farce ! Antoine, à qui je rendais trente ou quarante francs, m’a dit que monsieur et madame Rabourdin avaient été reçus hier à la soirée particulière du ministre et y étaient restés jusqu’à minuit moins un quart. Son Excellence a reconduit madame Rabourdin jusque sur l’escalier, il paraît qu’elle était divinement mise. Enfin, il est certainement Directeur. Riffé, l’expéditionnaire du Personnel, a passé la nuit pour achever plus promptement le travail : ce n’est plus un mystère. Monsieur Clergeot a sa retraite. Après trente ans de services, ce n’est pas une disgrâce. Monsieur Cochin qui est riche…</p>
         </sp>
@@ -1688,11 +1688,11 @@
           <p>@/q press</p>
           <p>Canailles !</p>
         </sp>
-        <sp who="dutocq(">
+        <sp who="dutocq">
           <speaker>DUTOCQ (<stage>entrant après avoir entendu</stage>).</speaker>
           <p>Qui, canaille ? Rabourdin. Vous savez donc la nouvelle ?</p>
         </sp>
-        <sp who="fleury(">
+        <sp who="fleury">
           <speaker>FLEURY (<stage>roulant des yeux féroces</stage>).</speaker>
           <p>Rabourdin ?… une canaille ! Êtes-vous fou, Dutocq, et voulez-vous une balle pour vous mettre du plomb dans la cervelle ?</p>
         </sp>
@@ -1700,7 +1700,7 @@
           <speaker>DUTOCQ.</speaker>
           <p>Je n’ai rien dit contre monsieur Rabourdin, seulement on vient de me confier sous le secret dans la cour qu’il avait dénoncé beaucoup d’employés, donné des notes, enfin que sa faveur avait pour cause un travail sur les ministères où chacun de nous est enfoncé…</p>
         </sp>
-        <sp who="phellion(">
+        <sp who="phellion">
           <speaker>PHELLION (<stage>d’une voix forte</stage>).</speaker>
           <p>Monsieur Rabourdin est incapable…</p>
         </sp>
@@ -1781,19 +1781,19 @@
           <speaker>VIMEUX.</speaker>
           <p>Il me semble que si ce qu’il dit est faux, on nomme cela des calomnies, des diffamations, et qu’un diffamateur mérite des coups de cravache.</p>
         </sp>
-        <sp who="fleury(">
+        <sp who="fleury">
           <speaker>FLEURY (<stage>s’animant</stage>).</speaker>
           <p>Et si les Bureaux sont un endroit public, cela va droit en Police correctionnelle.</p>
         </sp>
-        <sp who="phellion(">
+        <sp who="phellion">
           <speaker>PHELLION (<stage>voulant éviter une querelle, essaie de détourner la conversation</stage>).</speaker>
           <p>Messieurs, du calme. Je travaille à un nouveau petit traité sur la morale, et j’en suis à l’âme.</p>
         </sp>
-        <sp who="fleury(">
+        <sp who="fleury">
           <speaker>FLEURY (<stage>l’interrompant</stage>).</speaker>
           <p>Qu’en dites-vous, monsieur Phellion ?</p>
         </sp>
-        <sp who="phellion(">
+        <sp who="phellion">
           <speaker>PHELLION (<stage>lisant</stage>).</speaker>
           <p>D. <hi rend="i">Qu’est-ce que l’âme de l’homme</hi> ?</p>
           <p>R. <hi rend="i">C’est une substance spirituelle qui pense et qui raisonne.</hi></p>
@@ -1806,12 +1806,12 @@
           <speaker>POIRET.</speaker>
           <p>Laissez donc dire…</p>
         </sp>
-        <sp who="phellion(">
+        <sp who="phellion">
           <speaker><pb n="301" xml:id="p301"/> PHELLION (<stage>reprenant</stage>).</speaker>
           <p>D. <hi rend="i">D’où vient l’âme</hi> ?</p>
           <p>R. <hi rend="i">Elle vient de Dieu, qui l’a créée d’une nature simple et indivisible, et dont par conséquent on ne peut concevoir la destructibilité, et il a dit…</hi></p>
         </sp>
-        <sp who="poiret(">
+        <sp who="poiret">
           <speaker>POIRET (<stage>stupéfait</stage>).</speaker>
           <p>Dieu ?</p>
         </sp>
@@ -1819,11 +1819,11 @@
           <speaker>PHELLION.</speaker>
           <p>Oui, monsieur. La tradition est là.</p>
         </sp>
-        <sp who="fleury(">
+        <sp who="fleury">
           <speaker>FLEURY (<stage>à Poiret</stage>).</speaker>
           <p>N’interrompez donc pas, vous-même !</p>
         </sp>
-        <sp who="phellion(">
+        <sp who="phellion">
           <speaker>PHELLION (<stage>reprenant</stage>).</speaker>
           <p>Et il a dit qu’il l’avait créée immortelle, c’est-à-dire qu’elle ne mourra jamais.</p>
           <p>D. <hi rend="i">À quoi sert l’âme</hi> ?</p>
@@ -1835,7 +1835,7 @@
           <speaker>FLEURY.</speaker>
           <p>Et l’âme est l’œil de quoi ?</p>
         </sp>
-        <sp who="phellion(">
+        <sp who="phellion">
           <speaker>PHELLION (<stage>continuant</stage>).</speaker>
           <p>D. <hi rend="i">Que doit connaître l’entendement</hi> ?</p>
           <p>R. <hi rend="i">La vérité.</hi></p>
@@ -1857,12 +1857,12 @@
           <speaker>FLEURY.</speaker>
           <p>C’est prodigieusement leste !</p>
         </sp>
-        <sp who="phellion(">
+        <sp who="phellion">
           <speaker>PHELLION (<stage>indigné</stage>).</speaker>
           <p>Oh ! monsieur ! (<stage>Se calmant.</stage>) Voici d’ailleurs la réponse. J’en suis là. (<stage>Il lit.</stage>)</p>
           <p><pb n="302" xml:id="p302"/> R. <hi rend="i">Il y a deux sortes de biens, le bien éternel et le bien temporel.</hi></p>
         </sp>
-        <sp who="poiret(">
+        <sp who="poiret">
           <speaker>POIRET (<stage>il fait une mine de mépris</stage>).</speaker>
           <p>Et cela se vendra beaucoup ?</p>
         </sp>
@@ -1870,7 +1870,7 @@
           <speaker>PHELLION.</speaker>
           <p>J’ose l’espérer. Il faut une grande contention d’esprit pour établir le système des demandes et des réponses, voilà pourquoi je vous priais de me laisser penser, car les réponses…</p>
         </sp>
-        <sp who="thuillier(">
+        <sp who="thuillier">
           <speaker>THUILLIER (<stage>interrompant</stage>).</speaker>
           <p>Au reste, les réponses pourront se vendre à part…</p>
         </sp>
@@ -1909,7 +1909,7 @@
           <p>Le ministre consentit par un signe de tête. Le garçon du secrétariat traversa bientôt les cours et vint chez Rabourdin pour le prévenir que le travail était remis à samedi, jour où la Chambre ne s’occupait que de pétitions et où le ministre avait toute sa journée. En ce moment même, Saillard glissait sa phrase à la femme du ministre, qui lui répondit avec dignité qu’elle ne se mêlait point d’affaires d’État et que d’ailleurs elle avait entendu dire que monsieur Rabourdin était nommé. Saillard épouvanté monta chez Baudoyer et trouva Dutocq, Godard et Bixiou dans un état <pb n="305" xml:id="p305"/> d’exaspération difficile à décrire, car ils parcouraient la terrible minute du travail de Rabourdin sur les employés.</p>
           <p>@q drama</p>
         </sp>
-        <sp who="bixiou(">
+        <sp who="bixiou">
           <speaker>BIXIOU (<stage>en montrant du doigt un passage</stage>).</speaker>
           <p>Vous voilà, père Saillard.</p>
           <p>@q press/legal</p>
@@ -1968,7 +1968,7 @@
           <speaker>BAUDOYER.</speaker>
           <p>Monsieur Bixiou, chargez-vous de ce petit détail, et faites détruire les planches après qu’on en aura tiré une seule épreuve.</p>
         </sp>
-        <sp who="dutocq(">
+        <sp who="dutocq">
           <speaker>DUTOCQ (<stage>prenant à part Bixiou</stage>).</speaker>
           <p>Eh ! bien, voulez-vous dessiner la charge maintenant ?</p>
         </sp>
@@ -1992,7 +1992,7 @@
           <speaker>BIXIOU.</speaker>
           <p>Eh ! bien, je veux leur parler.</p>
         </sp>
-        <sp who="dutocq(">
+        <sp who="dutocq">
           <speaker>DUTOCQ (<stage>sèchement</stage>).</speaker>
           <p>Faites la charge ou ne la faites pas, vous serez Sous-chef ou vous ne le serez pas.</p>
         </sp>
@@ -2020,11 +2020,11 @@
           <p>J’ai toujours celle de mon domicile.</p>
           <stage>(Le vieux Poiret jeune insinue sa clef dans le dos de Sébastien, à qui Phellion fait boire un verre d’eau froide. Le pauvre enfant n’ouvre les yeux que pour verser un torrent de larmes. Il va se mettre la tête sur le bureau de Phellion, en s’y renversant le corps abandonné comme si la foudre l’avait atteint, et ses sanglots sont si pénétrants, si vrais, si abondants, que, pour la première fois de sa vie, Poiret s’émeut de la douleur d’autrui.)</stage>
         </sp>
-        <sp who="phellion(">
+        <sp who="phellion">
           <speaker>PHELLION (<stage>grossissant sa voix</stage>).</speaker>
           <p>Allons, allons, mon jeune ami, du courage ! Dans les grandes <pb n="308" xml:id="p308"/> circonstances il en faut. Vous êtes un homme. Qu’y a-t-il ? en quoi ceci peut-il vous émouvoir si démesurément ?</p>
         </sp>
-        <sp who="sebastien(">
+        <sp who="sebastien">
           <speaker>SÉBASTIEN (<stage>à travers ses sanglots</stage>).</speaker>
           <p>C’est moi qui ai perdu monsieur Rabourdin. J’ai laissé l’État que j’avais copié, j’ai tué mon bienfaiteur, j’en mourrai. Un si grand homme ! un homme qui eût été ministre !</p>
         </sp>
@@ -2032,7 +2032,7 @@
           <speaker>POIRET (en se mouchant).</speaker>
           <p>C’est donc vrai qu’il a fait les rapports ?</p>
         </sp>
-        <sp who="sebastien(">
+        <sp who="sebastien">
           <speaker>SÉBASTIEN (<stage>à travers ses sanglots</stage>).</speaker>
           <p>Mais c’était pour… Allons, je vais dire ses secrets, maintenant ! Ah ! le misérable Dutocq ! c’est lui qui l’a volé…</p>
           <p>@/q</p>
@@ -2047,7 +2047,7 @@
           <speaker>SÉBASTIEN.</speaker>
           <p>Je vous ai perdu, monsieur ! L’État, Dutocq le montre, il l’a sans doute surpris !</p>
         </sp>
-        <sp who="rabourdin(">
+        <sp who="rabourdin">
           <speaker>RABOURDIN (<stage>calme</stage>).</speaker>
           <p>Je le savais. (<stage>Il relève Sébastien et l’emmène.</stage>) Vous êtes un enfant, mon ami. (<stage>Il s’adresse à Phellion.</stage>) Où sont ces messieurs ?</p>
         </sp>
@@ -2059,11 +2059,11 @@
           <speaker>RABOURDIN.</speaker>
           <p>Assez. (<stage>Il sort en tenant Sébastien. Poiret et Phellion se regardent en proie à une vive surprise et ne savent quelles idées se communiquer.</stage>)</p>
         </sp>
-        <sp who="poiret(">
+        <sp who="poiret">
           <speaker>POIRET (<stage>à Phellion</stage>).</speaker>
           <p>Monsieur Rabourdin !…</p>
         </sp>
-        <sp who="phellion(">
+        <sp who="phellion">
           <speaker>PHELLION (<stage>à Poiret</stage>).</speaker>
           <p>Monsieur Rabourdin !</p>
         </sp>
@@ -2075,7 +2075,7 @@
           <speaker><pb n="309" xml:id="p309"/> PHELLION.</speaker>
           <p>Avez-vous vu comme il était, néanmoins, calme et digne…</p>
         </sp>
-        <sp who="poiret(">
+        <sp who="poiret">
           <speaker>POIRET (<stage>d’un air finaud qui ressemble à une grimace</stage>).</speaker>
           <p>Il y aurait quelque chose là-dessous que cela ne m’étonnerait point.</p>
         </sp>
@@ -2091,7 +2091,7 @@
           <speaker>PHELLION.</speaker>
           <p>Môsieur Poiret, vous pensez ce que je pense sur Dutocq ; ne me comprenez-vous pas ?</p>
         </sp>
-        <sp who="poiret(">
+        <sp who="poiret">
           <speaker>POIRET (<stage>en donnant deux ou trois petits coups de tête, répond d’un air fin</stage>).</speaker>
           <p>Oui. (<stage>Tous les employés rentrent.</stage>)</p>
         </sp>
@@ -2103,7 +2103,7 @@
           <speaker>VIMEUX.</speaker>
           <p>Oh ! c’est vrai !</p>
         </sp>
-        <sp who="poiret(">
+        <sp who="poiret">
           <speaker>POIRET (<stage>songeant qu’il n’a plus que cinq jours</stage>).</speaker>
           <p>Mais, messieurs, que dites-vous de celui qui a dérobé le travail, qui a guetté monsieur Rabourdin ? (<stage>Dutocq s’en va.</stage>)</p>
         </sp>
@@ -2111,11 +2111,11 @@
           <speaker>FLEURY.</speaker>
           <p>C’est un Judas Iscariote ! Qui est-ce ?</p>
         </sp>
-        <sp who="phellion(">
+        <sp who="phellion">
           <speaker>PHELLION (<stage>finement</stage>).</speaker>
           <p>Il n’est certes pas parmi nous.</p>
         </sp>
-        <sp who="vimeux(">
+        <sp who="vimeux">
           <speaker>VIMEUX (<stage>illuminé</stage>).</speaker>
           <p>C’est Dutocq.</p>
         </sp>
@@ -2131,7 +2131,7 @@
           <speaker><pb n="310" xml:id="p310"/> VIMEUX.</speaker>
           <p>Le ministre n’a pas voulu travailler avec Rabourdin aujourd’hui, et monsieur Saillard, à qui le Chef du Personnel a dit deux mots, est venu prévenir monsieur Baudoyer de faire une demande pour la croix de la Légion-d’Honneur ; il y en a une pour le jour de l’an accordée à la Division, et elle est donnée à monsieur Baudoyer. Est-ce clair ? Monsieur Rabourdin est sacrifié par ceux-là même qui l’emploient. Voilà ce que dit Bixiou. Nous étions tous supprimés, excepté Phellion et Sébastien.</p>
         </sp>
-        <sp who="dubruel(">
+        <sp who="dubruel">
           <speaker>DU BRUEL (<stage>arrivant</stage>).</speaker>
           <p>Hé ! bien, messieurs, est-ce vrai ?</p>
         </sp>
@@ -2139,7 +2139,7 @@
           <speaker>THUILLIER.</speaker>
           <p>De la dernière exactitude.</p>
         </sp>
-        <sp who="dubruel(">
+        <sp who="dubruel">
           <speaker>DU BRUEL (<stage>remettant son chapeau</stage>).</speaker>
           <p>Adieu, messieurs. (<stage>Il sort.</stage>)</p>
         </sp>
@@ -2151,7 +2151,7 @@
           <speaker>PHELLION.</speaker>
           <p>Il avait pourtant l’air d’aimer môsieur Rabourdin.</p>
         </sp>
-        <sp who="poiret(">
+        <sp who="poiret">
           <speaker>POIRET (<stage>rentrant</stage>).</speaker>
           <p>J’ai eu toutes les peines du monde à avoir la clef de mon domicile ; ce petit fond en larmes, et monsieur Rabourdin a disparu complétement. (<stage>Dutocq et Bixiou rentrent.</stage>)</p>
         </sp>
@@ -2171,11 +2171,11 @@
           <speaker>FLEURY.</speaker>
           <p>Fondu ! distillé ! fumé ! Dire qu’un homme, le roi des hommes !…</p>
         </sp>
-        <sp who="poiret(">
+        <sp who="poiret">
           <speaker>POIRET (<stage>à Dutocq</stage>).</speaker>
           <p>Dans sa douleur, monsieur Dutocq, le petit Sébastien vous accuse d’avoir pris le travail, il y a dix jours…</p>
         </sp>
-        <sp who="bixiou(">
+        <sp who="bixiou">
           <speaker><pb n="311" xml:id="p311"/> BIXIOU (<stage>en regardant Dutocq</stage>).</speaker>
           <p>Il faut vous laver de ce reproche, mon cher. (<stage>Tous les employés contemplent fixement Dutocq.</stage>)</p>
         </sp>
@@ -2307,7 +2307,7 @@
           <p>Sébastien avait, pendant ce temps-là, fait un paquet des papiers appartenant au Chef de bureau, et les avait emportés dans un <pb n="322" xml:id="p322"/> fiacre. Rabourdin passa par la grande cour du Ministère où tous les employés étaient aux fenêtres, et y attendit un moment les ordres du ministre. Le ministre ne bougea pas. Phellion et Sébastien tenaient compagnie à Rabourdin. Phellion escorta courageusement l’homme tombé jusqu’à la rue Duphot, en lui exprimant une respectueuse admiration. Il revint satisfait de lui-même reprendre sa place, après avoir rendu les honneurs funèbres au talent administratif méconnu.</p>
           <p>@q drama</p>
         </sp>
-        <sp who="bixiou(">
+        <sp who="bixiou">
           <speaker>BIXIOU (<stage>voyant entrer Phellion</stage>).</speaker>
           <quote>
             <p rend="i">Victrix causa diis placuit, sed victa Catoni. </p>
@@ -2325,7 +2325,7 @@
           <speaker>FLEURY.</speaker>
           <p>Que le parti-prêtre se réjouit, et que monsieur Rabourdin a l’estime des gens d’honneur.</p>
         </sp>
-        <sp who="dutocq(">
+        <sp who="dutocq">
           <speaker>DUTOCQ (<stage>piqué</stage>).</speaker>
           <p>Vous ne disiez pas cela hier.</p>
         </sp>
@@ -2333,7 +2333,7 @@
           <speaker>FLEURY.</speaker>
           <p>Si vous m’adressez encore la parole, vous aurez ma main sur la figure, vous ! il est certain que vous avez <hi rend="i">chippé</hi> le travail de monsieur Rabourdin. (<stage>Dutocq sort.</stage>) Allez vous plaindre à votre monsieur des Lupeaulx, espion !</p>
         </sp>
-        <sp who="bixiou(">
+        <sp who="bixiou">
           <speaker>BIXIOU (<stage>riant et grimaçant comme un singe</stage>).</speaker>
           <p>Je suis curieux de savoir comment ira la Division ? Monsieur Rabourdin était un homme si remarquable qu’il devait avoir ses vues en faisant ce travail. Le Ministère perd une fameuse tête. (<stage>Il se frotte les mains.</stage>)</p>
         </sp>
@@ -2345,7 +2345,7 @@
           <speaker>LES EMPLOYÉS DES DEUX BUREAUX.</speaker>
           <p>Enfoncé !</p>
         </sp>
-        <sp who="fleury(">
+        <sp who="fleury">
           <speaker>FLEURY (<stage>en sortant</stage>).</speaker>
           <p>Ça m’est bien égal, j’ai une place d’éditeur responsable. J’aurai toute la journée à moi pour flâner ou pour remplir quelque place amusante dans le bureau du journal.</p>
         </sp>
@@ -2361,11 +2361,11 @@
           <speaker>BIXIOU.</speaker>
           <p>Recevez mes compliments ? il est joli celui-là !</p>
         </sp>
-        <sp who="colleville(">
+        <sp who="colleville">
           <speaker>COLLEVILLE (<stage>entrant joyeux</stage>).</speaker>
           <p>Messieurs, je suis votre Chef…</p>
         </sp>
-        <sp who="thuillier(">
+        <sp who="thuillier">
           <speaker>THUILLIER (<stage>il embrasse Colleville</stage>).</speaker>
           <p>Ah ! mon ami, je le serais comme tu l’es, je ne serais pas si content.</p>
         </sp>
@@ -2397,7 +2397,7 @@
           <speaker>BIXIOU.</speaker>
           <p><hi xml:lang="en" rend="i">Yes, sir !… Ya, mein herr !… Si, signor ! Da !…</hi> je vous fais grâce des autres langues…</p>
         </sp>
-        <sp who="poiret(">
+        <sp who="poiret">
           <speaker>POIRET (<stage>il lève les mains au ciel</stage>).</speaker>
           <p>Mon Dieu !… et l’on dit que vous êtes spirituel !</p>
         </sp>
@@ -2421,7 +2421,7 @@
           <speaker>BIXIOU.</speaker>
           <p>Vive Rabourdin !… voilà mon opinion. Êtes-vous content ?</p>
         </sp>
-        <sp who="colleville(">
+        <sp who="colleville">
           <speaker>COLLEVILLE (<stage>gravement</stage>).</speaker>
           <p>Monsieur Rabourdin n’a eu qu’un tort.</p>
         </sp>
@@ -2433,7 +2433,7 @@
           <speaker>COLLEVILLE.</speaker>
           <p>Celui d’être un homme d’État au lieu d’être un Chef de Bureau.</p>
         </sp>
-        <sp who="phellion(">
+        <sp who="phellion">
           <speaker>PHELLION (<stage>en se plaçant devant Bixiou</stage>).</speaker>
           <p>Pourquoi, môsieur, vous qui compreniez si bien monsieur Rabourdin, avez-vous fait cette ign… cette inf… cette affreuse caricature ?</p>
         </sp>
@@ -2441,7 +2441,7 @@
           <speaker>BIXIOU.</speaker>
           <p>Et notre pari ? oubliez-vous que je jouais le jeu du diable, et que votre Bureau me doit un dîner au Rocher de Cancale.</p>
         </sp>
-        <sp who="poiret(">
+        <sp who="poiret">
           <speaker>POIRET (<stage>très-chiffonné</stage>).</speaker>
           <p>Il est donc dit que je quitterai le Bureau sans avoir jamais pu comprendre une phrase, un mot, une idée de monsieur Bixiou.</p>
         </sp>
@@ -2461,7 +2461,7 @@
           <speaker>BIXIOU.</speaker>
           <p>Avez-vous inventé des corsets mécaniques ou des biberons, des pompes à incendie ou des paracrottes, des cheminées qui ne consomment pas de bois, ou des fourneaux qui cuisent les côtelettes avec trois feuilles de papier.</p>
         </sp>
-        <sp who="minard(">
+        <sp who="minard">
           <speaker>MINARD (<stage>en s’en allant</stage>).</speaker>
           <p>Je garde mon secret.</p>
         </sp>
@@ -2469,19 +2469,19 @@
           <speaker><pb n="326" xml:id="p326"/> BIXIOU.</speaker>
           <p>Eh ! bien, jeune Poiret-jeune, vous le voyez ?… ces messieurs me comprennent tous…</p>
         </sp>
-        <sp who="poiret(">
+        <sp who="poiret">
           <speaker>POIRET (<stage>humilié</stage>).</speaker>
           <p>Monsieur Bixiou, voulez-vous me faire l’honneur de me parler une seule fois mon langage en descendant jusqu’à moi…</p>
         </sp>
-        <sp who="bixiou(">
+        <sp who="bixiou">
           <speaker>BIXIOU (<stage>en guignant les employés</stage>).</speaker>
           <p>Volontiers ! (<stage>Il prend Poiret par le bouton de sa redingote.</stage>) Avant de vous en aller d’ici, peut-être serez-vous bien aise de savoir qui vous êtes…</p>
         </sp>
-        <sp who="poiret(">
+        <sp who="poiret">
           <speaker>POIRET (<stage>vivement</stage>).</speaker>
           <p>Un honnête homme, monsieur…</p>
         </sp>
-        <sp who="bixiou(">
+        <sp who="bixiou">
           <speaker>BIXIOU (<stage>il hausse les épaules</stage>).</speaker>
           <p>… De définir, d’expliquer, de pénétrer, d’analyser ce que c’est qu’un employé… le savez-vous ?</p>
         </sp>
@@ -2489,7 +2489,7 @@
           <speaker>POIRET.</speaker>
           <p>Je le crois.</p>
         </sp>
-        <sp who="bixiou(">
+        <sp who="bixiou">
           <speaker>BIXIOU (<stage>tortille le bouton</stage>).</speaker>
           <p>J’en doute.</p>
         </sp>
@@ -2501,7 +2501,7 @@
           <speaker>BIXIOU.</speaker>
           <p>Évidemment, alors un soldat est un employé.</p>
         </sp>
-        <sp who="poiret(">
+        <sp who="poiret">
           <speaker>POIRET (<stage>embarrassé</stage>).</speaker>
           <p>Mais non.</p>
         </sp>
@@ -2509,7 +2509,7 @@
           <speaker>BIXIOU.</speaker>
           <p>Cependant il est payé par l’État pour monter la garde et passer des revues. Vous me direz qu’il souhaite trop quitter sa place, qu’il est trop peu en place, qu’il travaille trop et touche généralement trop peu de métal, excepté toutefois celui de son fusil.</p>
         </sp>
-        <sp who="poiret(">
+        <sp who="poiret">
           <speaker>POIRET (<stage>ouvre de grands yeux</stage>).</speaker>
           <p>Eh ! bien, monsieur, un employé serait plus logiquement un homme qui pour vivre a besoin de son traitement et qui n’est pas libre de quitter sa place, ne sachant faire autre chose qu’expédier.</p>
         </sp>
@@ -2517,7 +2517,7 @@
           <speaker>BIXIOU.</speaker>
           <p>Ah ! nous arrivons à une solution… Ainsi le Bureau est la coque de l’employé. Pas d’employé sans bureau, pas de bureau sans employé. Que faisons-nous alors du douanier. (<stage>Poiret essaye de piétiner, il échappe à Bixiou qui lui a coupé un bouton et qui le reprend par un autre.</stage>) Bah ! ce serait dans la <pb n="327" xml:id="p327"/> matière bureaucratique un être neutre. Le gabelou est à moitié employé, il est sur les confins des bureaux et des armes, comme sur les frontières : ni tout à fait soldat, ni tout à fait employé. Mais, papa, où allons-nous ? (<stage>Il tortille le bouton.</stage>) Où cesse l’employé ? Question grave ! Un préfet est-il un employé ?</p>
         </sp>
-        <sp who="poiret(">
+        <sp who="poiret">
           <speaker>POIRET (<stage>timidement</stage>).</speaker>
           <p>C’est un fonctionnaire.</p>
         </sp>
@@ -2525,7 +2525,7 @@
           <speaker>BIXIOU.</speaker>
           <p>Ah ! vous arrivez à ce contre-sens qu’un fonctionnaire ne serait pas un employé !…</p>
         </sp>
-        <sp who="poiret(">
+        <sp who="poiret">
           <speaker>POIRET (<stage>fatigué regarde tous les employés</stage>).</speaker>
           <p>Monsieur Godard a l’air de vouloir dire quelque chose.</p>
         </sp>
@@ -2533,7 +2533,7 @@
           <speaker>GODARD.</speaker>
           <p>L’employé serait l’Ordre et le fonctionnaire un Genre.</p>
         </sp>
-        <sp who="bixiou(">
+        <sp who="bixiou">
           <speaker>BIXIOU (<stage>souriant</stage>).</speaker>
           <p>Je ne vous croyais pas capable de cette ingénieuse distinction, brave Sous-Ordre.</p>
         </sp>
@@ -2549,11 +2549,11 @@
           <p>@/q treatise</p>
           <p>Il se rencontre cependant peu d’hommes d’État parmi les préfets. Le préfet serait alors un neutre des Genres supérieurs. Il se trouverait entre l’homme d’État et l’employé, comme le douanier se trouve entre le civil et le militaire. Continuons à débrouiller ces hautes questions. (<stage>Poiret devient rouge.</stage>) Ceci ne peut-il pas se formuler par ce théorème digne de Larochefoucault : Au-dessus de vingt mille francs d’appointements, il n’y a plus d’employés. Nous pouvons mathématiquement en tirer ce premier <hi rend="i">corollaire</hi> : L’homme d’État se déclare dans la sphère des traitements supérieurs. Et ce non moins important et logique deuxième <hi rend="i">corollaire</hi> : Les Directeurs généraux peuvent être des hommes d’État. Peut-être est-ce dans ce sens que plus d’un député se dit : – C’est un bel état que d’être directeur général ! Mais, dans l’intérêt de la langue française et de l’Académie…</p>
         </sp>
-        <sp who="poiret(">
+        <sp who="poiret">
           <speaker><pb n="328" xml:id="p328"/> POIRET (<stage>tout à fait fasciné par la fixité du regard de Bixiou</stage>).</speaker>
           <p>La langue française !… l’Académie !…</p>
         </sp>
-        <sp who="bixiou(">
+        <sp who="bixiou">
           <speaker>BIXIOU (<stage>il coupe un second bouton et ressaisit le bouton supérieur</stage>).</speaker>
           <p>Oui, dans l’intérêt de notre belle langue, on doit faire observer que si le Chef de Bureau peut à la rigueur être encore un employé, le Chef de Division doit être un bureaucrate. Ces messieurs… (<stage>Il se tourne vers les employés en leur montrant un troisième bouton coupé à la redingote de Poiret.</stage>) ces messieurs apprécieront cette nuance pleine de délicatesse. Ainsi, papa Poiret, l’employé finit exclusivement au Chef de Division. Voici donc la question bien posée, il n’existe plus aucune incertitude, l’employé qui pouvait paraître indéfinissable est défini.</p>
         </sp>
@@ -2565,15 +2565,15 @@
           <speaker>BIXIOU.</speaker>
           <p>Néanmoins, faites-moi l’amitié de résoudre cette question : Un juge étant inamovible, conséquemment ne pouvant être, selon votre subtile distinction, un fonctionnaire, et n’ayant pas un traitement en harmonie avec son ouvrage, doit-il être compris dans la classe des employés ?…</p>
         </sp>
-        <sp who="poiret(">
+        <sp who="poiret">
           <speaker>POIRET (<stage>il regarde les corniches</stage>).</speaker>
           <p>Monsieur, je n’y suis plus…</p>
         </sp>
-        <sp who="bixiou(">
+        <sp who="bixiou">
           <speaker>BIXIOU (<stage>il coupe un quatrième bouton</stage>).</speaker>
           <p>Je voulais vous prouver, monsieur, que rien n’est simple, mais surtout, et ce que je vais dire est pour les philosophes (si vous voulez me permettre de retourner un mot de Louis XVIII), je veux faire voir que : À côté du besoin de définir, se trouve le danger de s’embrouiller.</p>
         </sp>
-        <sp who="poiret(">
+        <sp who="poiret">
           <speaker>POIRET (<stage>s’essuie le front</stage>).</speaker>
           <p>Pardon, monsieur, j’ai mal au cœur… (<stage>Il veut croiser sa redingote.</stage>) Ah ! vous m’avez coupé tous mes boutons !</p>
         </sp>
@@ -2581,11 +2581,11 @@
           <speaker>BIXIOU.</speaker>
           <p>Eh ! bien, comprenez-vous ?…</p>
         </sp>
-        <sp who="poiret(">
+        <sp who="poiret">
           <speaker>POIRET (<stage>mécontent</stage>).</speaker>
           <p>Oui, monsieur… oui, je comprends que vous avez voulu faire une très-mauvaise farce, en me coupant mes boutons, sans que je m’en aperçusse !…</p>
         </sp>
-        <sp who="bixiou(">
+        <sp who="bixiou">
           <speaker><pb n="329" xml:id="p329"/> BIXIOU (<stage>gravement</stage>).</speaker>
           <p>Vieillard ! vous vous trompez. J’ai voulu graver dans votre cerveau la plus vivante image possible du Gouvernement constitutionnel (<stage>tous les employés regardent Bixiou, Poiret stupéfait le contemple dans une sorte d’inquiétude</stage>) et vous tenir ainsi ma parole. J’ai pris la manière parabolique des Sauvages. (Écoutez !) Pendant que les ministres établissent à la Chambre des colloques à peu près aussi concluants, aussi utiles que le nôtre, l’Administration coupe des boutons aux contribuables.</p>
         </sp>
@@ -2593,7 +2593,7 @@
           <speaker>TOUS.</speaker>
           <p>Bravo, Bixiou !</p>
         </sp>
-        <sp who="poiret(">
+        <sp who="poiret">
           <speaker>POIRET (<stage>qui comprend</stage>).</speaker>
           <p>Je ne regrette plus mes boutons.</p>
         </sp>
@@ -2617,7 +2617,7 @@
           <speaker>CLERGEOT.</speaker>
           <p>Il voulait, dit-on, réformer l’Administration.</p>
         </sp>
-        <sp who="leministre(">
+        <sp who="leministre">
           <speaker>LE MINISTRE (<stage>en regardant les députés</stage>).</speaker>
           <p>Les traitements ne sont peut-être pas proportionnés aux exigences du service.</p>
         </sp>
@@ -2641,7 +2641,7 @@
           <speaker>LE MINISTRE.</speaker>
           <p>Un ministre voudra le bien sans pouvoir l’accomplir. Vous aurez créé des lenteurs interminables entre les choses et les résultats. Si vous avez rendu le vol d’un écu vraiment impossible, vous n’empêcherez pas les collusions dans la sphère des intérêts. On ne concédera certaines opérations qu’après des stipulations secrètes, qu’il sera difficile de surprendre. Enfin les employés, depuis le plus petit jusqu’au Chef de Bureau, vont avoir des opinions à eux, ils ne seront plus les mains d’une cervelle, ils ne représenteront plus la pensée du Gouvernement, l’Opposition tend à leur donner le droit de parler contre lui, voter contre lui, juger contre lui.</p>
         </sp>
-        <sp who="baudoyer(">
+        <sp who="baudoyer">
           <speaker>BAUDOYER (<stage>tout bas, mais de manière à être entendu</stage>).</speaker>
           <p>Monseigneur est sublime.</p>
         </sp>
@@ -2657,7 +2657,7 @@
           <speaker>DES LUPEAULX.</speaker>
           <p>Ne fût-ce qu’à soutenir la papeterie et le timbre. Si, comme les excellentes ménagères, elle est un peu taquine, elle peut, à toute heure, rendre compte de sa dépense. Quel est le négociant habile qui ne jetterait pas joyeusement, dans le gouffre d’une assurance quelconque, cinq pour cent de toute sa production, du capital qui <pb n="331" xml:id="p331"/> sort ou rentre, pour ne pas avoir de <hi rend="i">Coulage</hi> !</p>
         </sp>
-        <sp who="ledepute(">
+        <sp who="ledepute">
           <speaker>LE DÉPUTÉ (<stage>un manufacturier</stage>).</speaker>
           <p>Les industriels des deux mondes souscriraient avec joie à un pareil accord avec ce génie du mal appelé Coulage.</p>
         </sp>
@@ -2669,19 +2669,19 @@
           <speaker>BAUDOYER.</speaker>
           <p>Mais ce haut coulage ne regarde pas l’employé. Cette mauvaise gestion des affaires du pays concerne l’homme d’État qui conduit le vaisseau.</p>
         </sp>
-        <sp who="leministre(">
+        <sp who="leministre">
           <speaker>LE MINISTRE (<stage>qui a fini sa conversation</stage>).</speaker>
           <p>Il y a du vrai dans ce que vient de dire des Lupeaulx ; mais sachez (<stage>à Baudoyer</stage>), monsieur le directeur, que personne n’est au point de vue d’un homme d’État. Ordonner toute espèce de dépenses, mêmes inutiles, ne constitue pas une mauvaise gestion. N’est-ce pas toujours animer le mouvement de l’argent dont l’immobilité devient, en France surtout, funeste par suite des habitudes avaricieuses et profondément illogiques de la province qui enfouit des tas d’or…</p>
         </sp>
-        <sp who="ledepute(">
+        <sp who="ledepute">
           <speaker>LE DÉPUTÉ (<stage>qui a écouté des Lupeaulx</stage>).</speaker>
           <p>Mais il me semble que si votre Excellence avait raison tout à l’heure, et si notre spirituel ami (<stage>il prend des Lupeaulx par le bras</stage>) n’a pas tort, que conclure ?</p>
         </sp>
-        <sp who="deslupeaulx(">
+        <sp who="deslupeaulx">
           <speaker><pb n="333" xml:id="p333"/> DES LUPEAULX (<stage>après avoir regardé le ministre</stage>).</speaker>
           <p>Il y a sans doute quelque chose à faire….</p>
         </sp>
-        <sp who="delabriere(">
+        <sp who="delabriere">
           <speaker>DE LA BRIÈRE (<stage>timidement</stage>).</speaker>
           <p>Monsieur Rabourdin a donc raison ?</p>
         </sp>
@@ -2693,7 +2693,7 @@
           <speaker>DES LUPEAULX.</speaker>
           <p>Ce pauvre homme a eu le tort de se constituer le juge suprême de l’Administration et des hommes qui la composent ; il ne veut que trois ministères…</p>
         </sp>
-        <sp who="leministre(">
+        <sp who="leministre">
           <speaker>LE MINISTRE (<stage>interrompant</stage>).</speaker>
           <p>Il est donc fou !</p>
         </sp>
@@ -2701,19 +2701,19 @@
           <speaker>LE DÉPUTÉ.</speaker>
           <p>Comment représenterait-on, dans les ministères, les chefs des partis à la Chambre ?</p>
         </sp>
-        <sp who="baudoyer(">
+        <sp who="baudoyer">
           <speaker>BAUDOYER (<stage>d’un air qu’il croit fin</stage>).</speaker>
           <p>Peut-être monsieur Rabourdin changeait-il aussi la constitution due au roi législateur ?</p>
         </sp>
-        <sp who="leministre(">
+        <sp who="leministre">
           <speaker>LE MINISTRE (<stage>devenu pensif prend le bras de La Brière et l’emmène</stage>).</speaker>
           <p>Je voudrais voir le travail de Rabourdin ; et puisque vous le connaissez…</p>
         </sp>
-        <sp who="delabriere(">
+        <sp who="delabriere">
           <speaker>DE LA BRIÈRE (<stage>dans le cabinet</stage>).</speaker>
           <p>Il a tout brûlé, vous l’avez laissé déshonorer, il quitte l’Administration. Ne croyez pas, monseigneur, qu’il ait eu la sotte pensée, comme des Lupeaulx veut le faire croire, de rien changer à l’admirable centralisation du pouvoir.</p>
         </sp>
-        <sp who="leministre(">
+        <sp who="leministre">
           <speaker>LE MINISTRE (<stage>en lui-même</stage>).</speaker>
           <p>J’ai fait une faute. (<stage>Il reste un moment silencieux.</stage>) Bah ! nous ne manquerons jamais de plans de réforme…</p>
         </sp>
