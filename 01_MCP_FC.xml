@@ -22,7 +22,7 @@
 					PHŒBUS, financé par l’Agence nationale de la recherche (2015-2019).</edition>
 				<respStmt>
 					<name>Dimitri Julien</name>
-					<resp>Établissement du texte</resp>
+					<resp>Corrections OCR</resp>
 				</respStmt>
 				<respStmt>
 					<name>Maxime Perret</name>
@@ -36,19 +36,16 @@
 					<name>Frédéric Glorieux</name>
 					<resp>Informatique éditoriale</resp>
 				</respStmt>
-				<respStmt>
-					<name>Jean-Denis Spinel</name>
-					<resp>Informatique</resp>
-				</respStmt>
 			</editionStmt>
 			<publicationStmt>
+				<publisher>eBalzac</publisher>
 				<publisher>ALITHILA (Université Lille III)</publisher>
 				<publisher>CELLF (CNRS &amp; Université Paris IV Sorbonne)</publisher>
 				<publisher>LIP6 (Université Paris VI)</publisher>
-				<date when="2016"/>
+				<date when="2017"/>
 				<availability status="restricted">
 					<licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-						<p> Copyright © 2016 Université Charles-de-Gaulle Lille 3, agissant pour le
+						<p> Copyright © 2017 Université Charles-de-Gaulle Lille 3, agissant pour le
 							projet ANR « Projet d’hypertexte de l’œuvre de Balzac par l’utilisation
 							de similarités » (ci-après dénommé ANR Phœbus). </p>
 						<p> Cette ressource électronique protégée par le code de la propriété
@@ -68,7 +65,7 @@
 							ressource n’est pas souhaitable. </p>
 					</licence>
 				</availability>
-				<idno>URL (à définir)</idno>
+				<idno>http://www.ebalzac.com/edition/01-maison-chat-pelote/furne-corrige</idno>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl><title>SCÈNES / DE LA / VIE PRIVÉE,</title> / Tome I. / <title>La Maison du
@@ -116,20 +113,20 @@
 		</front>
 		<body>
 			<div>
-				<p>Au milieu de la rue Saint-Denis, presque au coin de la rue du Petit-Lion,
-					existait naguère une de ces maisons précieuses qui donnent aux historiens la
-					facilité de reconstruire par analogie l’ancien Paris. Les murs menaçants de
-					cette bicoque semblaient avoir été bariolés d’hiéroglyphes. Quel autre nom le
-					flâneur pouvait-il donner aux X et aux V que traçaient sur la façade les pièces
-					de bois transversales ou diagonales dessinées dans le badigeon par de petites
-					lézardes parallèles ? Évidemment, au passage de la plus légère voiture, chacune
-					de ces solives s’agitait dans sa mortaise. Ce vénérable édifice était surmonté
-					d’un toit triangulaire dont aucun modèle ne se verra bientôt plus à Paris. Cette
-					couverture, tordue par les intempéries du climat parisien, s’avançait de trois
-					pieds sur la rue, autant pour garantir des eaux pluviales le seuil de la porte,
-					que pour abriter le mur d’un grenier et sa lucarne sans appui. Ce dernier étage
-					fut construit en planches clouées l’une sur l’autre comme des ardoises, afin
-					sans doute de ne pas charger cette frêle maison.</p>
+				<p rend="noindent">Au milieu de la rue Saint-Denis, presque au coin de la rue du
+					Petit-Lion, existait naguère une de ces maisons précieuses qui donnent aux
+					historiens la facilité de reconstruire par analogie l’ancien Paris. Les murs
+					menaçants de cette bicoque semblaient avoir été bariolés d’hiéroglyphes. Quel
+					autre nom le flâneur pouvait-il donner aux X et aux V que traçaient sur la
+					façade les pièces de bois transversales ou diagonales dessinées dans le badigeon
+					par de petites lézardes parallèles ? Évidemment, au passage de la plus légère
+					voiture, chacune de ces solives s’agitait dans sa mortaise. Ce vénérable édifice
+					était surmonté d’un toit triangulaire dont aucun modèle ne se verra bientôt plus
+					à Paris. Cette couverture, tordue par les intempéries du climat parisien,
+					s’avançait de trois pieds sur la rue, autant pour garantir des eaux pluviales le
+					seuil de la porte, que pour abriter le mur d’un grenier et sa lucarne sans
+					appui. Ce dernier étage fut construit en planches clouées l’une sur l’autre
+					comme des ardoises, afin sans doute de ne pas charger cette frêle maison.</p>
 				<p>Par une matinée pluvieuse, au mois de mars, un jeune homme, soigneusement
 					enveloppé dans son manteau, se tenait sous l’auvent d’une boutique en face de ce
 					vieux logis, qu’il examinait avec un enthousiasme d’archéologue. À la vérité,
@@ -297,45 +294,46 @@
 					rougeur à défaut de sourcils. Les inquiétudes avaient tracé sur son front des
 					rides horizontales aussi nombreuses que les plis de son habit. Cette figure
 					blême annonçait la patience, la sagesse commerciale, et l’espèce de cupidité
-					rusée que réclament les affaires. <pb n="ill." xml:id="p32a"/> À cette époque on
-					voyait moins rarement qu’aujourd’hui de ces vieilles familles où se
-					conservaient, comme de précieuses traditions, les mœurs, les costumes
-					caractéristiques de leurs professions, et restées au milieu de la civilisation
-					nouvelle comme ces débris antédiluviens retrouvés par Cuvier dans les carrières.
-					Le chef de la famille Guillaume était un de ces notables gardiens des anciens
-					usages : on le surprenait à <pb n="39" xml:id="p39"/> regretter le Prévôt des
-					Marchands, et jamais il ne parlait d’un jugement du tribunal de commerce sans le
-					nommer la <hi rend="i">sentence des consuls.</hi> Levé sans doute en vertu de
-					ces coutumes, le premier de sa maison il attendait de pied ferme l’arrivée de
-					ses trois commis, pour les gourmander en cas de retard. Ces jeunes disciples de
-					Mercure ne connaissaient rien de plus redoutable que l’activité silencieuse avec
-					laquelle le patron scrutait leurs visages et leurs mouvements, le lundi matin,
-					en y recherchant les preuves ou les traces de leurs escapades. Mais, en ce
-					moment, le vieux drapier ne fit aucune attention à ses apprentis, il était
-					occupé à chercher le motif de la sollicitude avec laquelle le jeune homme en bas
-					de soie et en manteau portait alternativement les yeux sur son enseigne et sur
-					les profondeurs de son magasin. Le jour, devenu plus éclatant, permettait d’y
-					apercevoir le bureau grillagé, entouré de rideaux en vieille soie verte, où se
-					tenaient les livres immenses, oracles muets de la maison. Le trop curieux
-					étranger semblait convoiter ce petit local, y prendre le plan d’une salle à
-					manger latérale, éclairée par un vitrage pratiqué dans le plafond, et d’où la
-					famille réunie devait facilement voir, pendant ses repas, les plus légers
-					accidents qui pouvaient arriver sur le seuil de la boutique. Un si grand amour
-					pour son logis paraissait suspect à un négociant qui avait subi le régime du <hi
-						rend="i">Maximum.</hi> Monsieur Guillaume pensait donc assez naturellement
-					que cette figure sinistre en voulait à la caisse du Chat-qui-pelote. Après avoir
-					discrètement joui du duel muet qui avait lieu entre son patron et l’inconnu, le
-					plus âgé des commis hasarda de se placer sur la dalle où était monsieur
-					Guillaume, en voyant le jeune homme contempler à la dérobée les croisées du
-					troisième. Il fit deux pas dans la rue, leva la tête, et crut avoir aperçu
-					mademoiselle Augustine Guillaume qui se retirait avec précipitation. Mécontent
-					de la perspicacité de son premier commis, le drapier lui lança un regard de
-					travers ; mais tout à coup les craintes mutuelles que la présence de ce passant
-					excitait dans l’âme du marchand et de l’amoureux commis se calmèrent. L’inconnu
-					hêla un fiacre qui se rendait à une place voisine, et y monta rapidement en
-					affectant une trompeuse indifférence. Ce départ mit un certain baume dans le
-					cœur des autres commis, assez inquiets de retrouver la victime de leur
-					plaisanterie.</p>
+					rusée que réclament les affaires. <pb n="ill." xml:id="p32a"
+						facs="https://www.ebalzac.com/romans/01-maison-chat-pelote/furne-corrige/scans/p32a.jpg"
+					/> À cette époque on voyait moins rarement qu’aujourd’hui de ces vieilles
+					familles où se conservaient, comme de précieuses traditions, les mœurs, les
+					costumes caractéristiques de leurs professions, et restées au milieu de la
+					civilisation nouvelle comme ces débris antédiluviens retrouvés par Cuvier dans
+					les carrières. Le chef de la famille Guillaume était un de ces notables gardiens
+					des anciens usages : on le surprenait à <pb n="39" xml:id="p39"/> regretter le
+					Prévôt des Marchands, et jamais il ne parlait d’un jugement du tribunal de
+					commerce sans le nommer la <hi rend="i">sentence des consuls.</hi> Levé sans
+					doute en vertu de ces coutumes, le premier de sa maison il attendait de pied
+					ferme l’arrivée de ses trois commis, pour les gourmander en cas de retard. Ces
+					jeunes disciples de Mercure ne connaissaient rien de plus redoutable que
+					l’activité silencieuse avec laquelle le patron scrutait leurs visages et leurs
+					mouvements, le lundi matin, en y recherchant les preuves ou les traces de leurs
+					escapades. Mais, en ce moment, le vieux drapier ne fit aucune attention à ses
+					apprentis, il était occupé à chercher le motif de la sollicitude avec laquelle
+					le jeune homme en bas de soie et en manteau portait alternativement les yeux sur
+					son enseigne et sur les profondeurs de son magasin. Le jour, devenu plus
+					éclatant, permettait d’y apercevoir le bureau grillagé, entouré de rideaux en
+					vieille soie verte, où se tenaient les livres immenses, oracles muets de la
+					maison. Le trop curieux étranger semblait convoiter ce petit local, y prendre le
+					plan d’une salle à manger latérale, éclairée par un vitrage pratiqué dans le
+					plafond, et d’où la famille réunie devait facilement voir, pendant ses repas,
+					les plus légers accidents qui pouvaient arriver sur le seuil de la boutique. Un
+					si grand amour pour son logis paraissait suspect à un négociant qui avait subi
+					le régime du <hi rend="i">Maximum.</hi> Monsieur Guillaume pensait donc assez
+					naturellement que cette figure sinistre en voulait à la caisse du
+					Chat-qui-pelote. Après avoir discrètement joui du duel muet qui avait lieu entre
+					son patron et l’inconnu, le plus âgé des commis hasarda de se placer sur la
+					dalle où était monsieur Guillaume, en voyant le jeune homme contempler à la
+					dérobée les croisées du troisième. Il fit deux pas dans la rue, leva la tête, et
+					crut avoir aperçu mademoiselle Augustine Guillaume qui se retirait avec
+					précipitation. Mécontent de la perspicacité de son premier commis, le drapier
+					lui lança un regard de travers ; mais tout à coup les craintes mutuelles que la
+					présence de ce passant excitait dans l’âme du marchand et de l’amoureux commis
+					se calmèrent. L’inconnu hêla un fiacre qui se rendait à une place voisine, et y
+					monta rapidement en affectant une trompeuse indifférence. Ce départ mit un
+					certain baume dans le cœur des autres commis, assez inquiets de retrouver la
+					victime de leur plaisanterie.</p>
 				<p>– Hé bien, messieurs, qu’avez-vous donc à rester là, les bras croisés ? dit
 					monsieur Guillaume à ses trois néophytes. Mais <pb n="40" xml:id="p40"/>
 					autrefois, sarpejeu ! quand j’étais chez le sieur Chevrel, j’avais déjà visité

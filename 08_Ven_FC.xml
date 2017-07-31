@@ -38,13 +38,14 @@
 				</respStmt>
 			</editionStmt>
 			<publicationStmt>
+				<publisher>eBalzac</publisher>
 				<publisher>ALITHILA (Université Lille III)</publisher>
 				<publisher>CELLF (CNRS &amp; Université Paris IV Sorbonne)</publisher>
 				<publisher>LIP6 (Université Paris VI)</publisher>
-				<date when="2016"/>
+				<date when="2017"/>
 				<availability status="restricted">
 					<licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-						<p> Copyright © 2016 Université Charles-de-Gaulle Lille 3, agissant pour le
+						<p> Copyright © 2017 Université Charles-de-Gaulle Lille 3, agissant pour le
 							projet ANR « Projet d’hypertexte de l’œuvre de Balzac par l’utilisation
 							de similarités » (ci-après dénommé ANR Phœbus). </p>
 						<p> Cette ressource électronique protégée par le code de la propriété
@@ -667,21 +668,22 @@
 					L’italienne n’avait pas obéi aux observations du professeur et restait à son
 					poste avec la ferme intention de ne pas s’en écarter. Elle prit une feuille de
 					papier et se mit à <hi rend="i">croquer</hi> à la sépia la tête du pauvre
-					reclus. <pb n="ill." xml:id="p168a"/> Une œuvre conçue avec passion porte
-					toujours un cachet particulier. La faculté d’imprimer aux traductions de la
-					nature ou de la pensée des couleurs vraies constitue le génie, et souvent la
-					passion en tient lieu. Aussi, dans la circonstance où se trouvait Ginevra,
-					l’intuition qu’elle devait à sa mémoire vivement frappée, ou la nécessité
-					peut-être, cette mère des grandes choses, lui prêta-t-elle un talent surnaturel.
-					La tête de l’officier fut jetée sur le papier au milieu d’un tressaillement
-					intérieur qu’elle attribuait à la crainte, et dans lequel un physiologiste
-					aurait reconnu la fièvre de l’inspiration. Elle glissait de temps en temps un
-					regard furtif sur ses compagnes, afin de pouvoir cacher le lavis en cas
-					d’indiscrétion de leur part. Malgré son active surveillance, il y eut un moment
-					où elle <pb n="185" xml:id="p185"/> n’aperçut pas le lorgnon que son impitoyable
-					ennemie braquait sur le mystérieux dessin en s’abritant derrière un grand
-					portefeuille. Mademoiselle Thirion, qui reconnut la figure du proscrit, leva
-					brusquement la tête, et Ginevra serra la feuille de papier.</p>
+					reclus. <pb n="ill." xml:id="p168a"
+						facs="https://www.ebalzac.com/romans/08-vendetta/furne-corrige/scans/p168a.jpg"
+					/> Une œuvre conçue avec passion porte toujours un cachet particulier. La
+					faculté d’imprimer aux traductions de la nature ou de la pensée des couleurs
+					vraies constitue le génie, et souvent la passion en tient lieu. Aussi, dans la
+					circonstance où se trouvait Ginevra, l’intuition qu’elle devait à sa mémoire
+					vivement frappée, ou la nécessité peut-être, cette mère des grandes choses, lui
+					prêta-t-elle un talent surnaturel. La tête de l’officier fut jetée sur le papier
+					au milieu d’un tressaillement intérieur qu’elle attribuait à la crainte, et dans
+					lequel un physiologiste aurait reconnu la fièvre de l’inspiration. Elle glissait
+					de temps en temps un regard furtif sur ses compagnes, afin de pouvoir cacher le
+					lavis en cas d’indiscrétion de leur part. Malgré son active surveillance, il y
+					eut un moment où elle <pb n="185" xml:id="p185"/> n’aperçut pas le lorgnon que
+					son impitoyable ennemie braquait sur le mystérieux dessin en s’abritant derrière
+					un grand portefeuille. Mademoiselle Thirion, qui reconnut la figure du proscrit,
+					leva brusquement la tête, et Ginevra serra la feuille de papier.</p>
 				<p>– Pourquoi êtes-vous donc restée là malgré mon avis, mademoiselle ? demanda
 					gravement le professeur à Ginevra.</p>
 				<p>L’écolière tourna vivement son chevalet de manière que personne ne pût voir son
@@ -2149,11 +2151,12 @@
 				<p>L’officier donna une somme à Luigi en à-compte sur celle qu’il s’engageait à lui
 					procurer. L’infortuné poussa un rire convulsif quand il tint une poignée de
 					pièces d’or, il courut de toute sa force vers sa maison, haletant, et criant
-					parfois : – Ô ma Ginevra ! <pb n="228" xml:id="p228"/> Ginevra ! Il commençait à faire
-					nuit quand il arriva chez lui. Il entra tout doucement, craignant de donner une
-					trop forte émotion à sa femme, qu’il avait laissée faible. Les derniers rayons
-					du soleil pénétrant par la lucarne venaient mourir sur le visage de Ginevra qui
-					dormait assise sur une chaise en tenant son enfant sur son sein.</p>
+					parfois : – Ô ma Ginevra ! <pb n="228" xml:id="p228"/> Ginevra ! Il commençait à
+					faire nuit quand il arriva chez lui. Il entra tout doucement, craignant de
+					donner une trop forte émotion à sa femme, qu’il avait laissée faible. Les
+					derniers rayons du soleil pénétrant par la lucarne venaient mourir sur le visage
+					de Ginevra qui dormait assise sur une chaise en tenant son enfant sur son
+					sein.</p>
 				<p>– Réveille-toi, mon âme, dit-il sans s’apercevoir de la pose de son enfant qui
 					dans ce moment conservait un éclat surnaturel.</p>
 				<p>En entendant cette voix, la pauvre mère ouvrit les yeux, rencontra le regard de
