@@ -14,15 +14,16 @@
 				<editor>Maxime Perret</editor>
 			</titleStmt>
 			<editionStmt>
-				<edition>Cette édition électronique de La Comédie humaine constitue la première
-					édition en ligne de l’œuvre de Balzac dans la version dite du « Furne corrigé »,
-					qui intègre les corrections manuscrites apportées par l’auteur sur son
-					exemplaire personnel de la première édition de La Comédie humaine parue chez
-					Furne de 1842 à 1847. Cette édition a été établie dans le cadre du projet
-					PHŒBUS, financé par l’Agence nationale de la recherche (2015-2019).</edition>
+				<edition>Cette édition électronique de <hi rend="i">La Comédie humaine</hi>
+					constitue la première édition en ligne de l’œuvre de Balzac dans la version dite
+					du « Furne corrigé », qui intègre les corrections manuscrites apportées par
+					l’auteur sur son exemplaire personnel de la première édition de <hi rend="i">La
+						Comédie humaine</hi> parue chez Furne de 1842 à 1847. Cette édition a été
+					établie dans le cadre du projet PHŒBUS, financé par l’Agence nationale de la
+					recherche (2015-2019).</edition>
 				<respStmt>
 					<name>Dimitri Julien</name>
-					<resp>Établissement du texte</resp>
+					<resp>Corrections OCR</resp>
 				</respStmt>
 				<respStmt>
 					<name>Maxime Perret</name>
@@ -37,15 +38,16 @@
 					<resp>Informatique éditoriale</resp>
 				</respStmt>
 				<respStmt>
-					<name>Jean-Denis Spinel</name>
-					<resp>Informatique</resp>
+					<name>Claire Carpentier</name>
+					<resp>Traitement des images</resp>
 				</respStmt>
 			</editionStmt>
 			<publicationStmt>
+<publisher>eBalzac</publisher>
 				<publisher>ALITHILA (Université Lille III)</publisher>
 				<publisher>CELLF (CNRS &amp; Université Paris IV Sorbonne)</publisher>
 				<publisher>LIP6 (Université Paris VI)</publisher>
-				<date when="2016"/>
+				<date when="2017"/>
 				<availability status="restricted">
 					<licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
 						<p> Copyright © 2016 Université Charles-de-Gaulle Lille 3, agissant pour le
@@ -68,29 +70,30 @@
 							ressource n’est pas souhaitable. </p>
 					</licence>
 				</availability>
-				<idno>URL (à définir)</idno>
+				<idno>https://www.ebalzac/com/edition/03-memoires-deux-jeunes-mariees/furne-corrige</idno>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl><title>SCÈNES / DE LA / VIE PRIVÉE,</title> / Tome II. / <title>Mémoires de
 						deux jeunes mariées. — Une fille d'Ève. / La Femme abandonnée. — La
 						Grenadière. — Le Message. — Gobseck. / Autre étude de femme.</title> /
 					Paris, / Furne et cie, libraires-éditeurs, / rue Saint-André-des-Arts, 45. /
-						<date>1846</date>, p. 1-194.</bibl>
+						<date>1842</date>, p. 1-194.</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<encodingDesc>
 			<p>Le texte que nous donnons à lire a pour ambition d’être le plus proche de l’édition
 				du Furne : la ponctuation et l’orthographe ont été scrupuleusement respectées et
-				sont conformes aux habitudes de l’édition du XIXe siècle. Nous avons dès lors
-				conservé la diversité des formes ortho-typographiques de l’édition d’origine. Seules
-				les coquilles manifestes ont été corrigées et sont signalées en note. Il s’agissait
-				de rendre accessible le texte de La Comédie humaine dans son état du XIXe siècle, en
-				tenant compte des corrections et modifications apportées par l’auteur sur son
-				exemplaire personnel.</p>
+				sont conformes aux habitudes de l’édition du <hi rend="sc">xix</hi><hi rend="sup"
+					>e</hi> siècle. Nous avons dès lors conservé la diversité des formes
+				ortho-typographiques de l’édition d’origine. Seules les coquilles manifestes ont été
+				corrigées et sont signalées en note. Il s’agissait de rendre accessible le texte de
+				<hi rend="i">La Comédie humaine</hi> dans son état du <hi rend="sc">xix</hi><hi
+					rend="sup">e</hi> siècle, en tenant compte des corrections et modifications
+				apportées par l’auteur sur son exemplaire personnel.</p>
 		</encodingDesc>
 		<profileDesc>
 			<creation>
-				<date when="1846">1846</date>
+				<date when="1842">1842</date>
 			</creation>
 			<langUsage>
 				<language ident="fre"/>
@@ -141,7 +144,7 @@
 				<div>
 					<head>I <lb/>À mademoiselle Renée de Maucombe</head>
 					<div>
-						<dateline>Paris, septembre.</dateline>
+						<dateline>Paris, septembre.</dateline> <!-- Je pense qu'il faudrait mettre les dateline dans des opener, comme chaque dateline est dans une div différente -->
 						<p>Ma chère biche, je suis dehors aussi, moi ! Et si tu ne m’as pas écrit à
 							Blois, je suis aussi la première à notre joli rendez-vous de la
 							correspondance. Relève tes beaux yeux noirs attachés sur ma première
@@ -1207,7 +1210,7 @@
 				</div>
 				<div>
 					<pb n="32" xml:id="p32"/>
-					<head> VII <lb/>LOUISE DE CHAULIEU À RENÉE DE MAUCOMBE</head>
+					<head> VII <lb/>Louise de Chaulieu à Renée de Maucombe</head>
 					<div>
 						<dateline>Janvier 1824.</dateline>
 						<p>Comment, bientôt mariée ! mais prend-on les gens ainsi ? Au bout d’un
@@ -1392,7 +1395,7 @@
 					</div>
 				</div>
 				<div>
-					<head>VIII <lb/>LA MÊME À LA MÊME</head>
+					<head>VIII <lb/>La même à la même</head>
 					<dateline>Janvier.</dateline>
 					<p>Nous avons pour maître un pauvre réfugié forcé de se cacher à cause de sa
 						participation à la révolution que le duc d’Angoulême est allé vaincre ;
@@ -1417,7 +1420,7 @@
 						aviez à me reprendre en quoi que ce soit, je deviendrais votre obligée. Il a
 						tressailli, le sang a coloré son teint olivâtre, il m’a répondu d’une voix
 						doucement émue : – La religion a dû vous enseigner mieux que je ne saurais
-						le faire à respecter les grandes infortunes. [$ill. #000b] Si j’étais Don en
+						le faire à respecter les grandes infortunes. <pb n="ill." xml:id="p0b" facs="https://www.ebalzac.com/romans/03-memoires-deux-jeunes-mariees/furne-corrige/p0b.jpg"/> Si j’étais Don en
 						Espagne, et que <pb n="38" xml:id="p38"/> j’eusse tout perdu au triomphe de
 						Ferdinand VII, votre plaisanterie serait une cruauté ; mais si je ne suis
 						qu’un pauvre maître de langue, n’est-ce pas une atroce raillerie ? Ni l’une
@@ -1478,7 +1481,7 @@
 						dire ? il me semble qu’il y a des trésors d’affection dans cet homme.</p>
 				</div>
 				<div>
-					<head>IX <lb/>MADAME DE L’ESTORADE À MADEMOISELLE DE CHAULIEU</head>
+					<head>IX <lb/>Madame de l’Estorade à mademoiselle de Chaulieu</head>
 					<dateline>Décembre.</dateline>
 					<p>Tout est dit et tout est fait, ma chère enfant, c’est madame de l’Estorade
 						qui t’écrit ; mais il n’y a rien de changé entre nous, il n’y a qu’une fille
@@ -1524,7 +1527,7 @@
 				</div>
 				<div>
 					<pb n="41" xml:id="p41"/>
-					<head>X <lb/>MADEMOISELLE DE CHAULIEU À MADAME DE L’ESTORADE</head>
+					<head>X <lb/>Mademoiselle de Chaulieu à madame de l’Estorade</head>
 					<div>
 						<dateline>Janvier.</dateline>
 						<p>Ô Renée ! tu m’as attristée pour plusieurs jours. Ainsi, ce corps
@@ -1603,7 +1606,7 @@
 					</div>
 				</div>
 				<div>
-					<head>XI <lb/>MADAME DE L’ESTORADE À MADEMOISELLE DE CHAULIEU</head>
+					<head>XI <lb/>Madame de l’Estorade à mademoiselle de Chaulieu</head>
 					<dateline>À la Crampade.</dateline>
 					<p>Ton Espagnol et toi, vous me faites frémir, ma chère mignonne. Je t’écris ce
 						peu de lignes pour te prier de le congédier. Tout ce que tu m’en dis se
@@ -1614,7 +1617,7 @@
 						ta dernière lettre m’y a mise.</p>
 				</div>
 				<div>
-					<head>XII <lb/>DE MADEMOISELLE DE CHAULIEU À MADAME DE L’ESTORADE</head>
+					<head>XII <lb/>De mademoiselle de Chaulieu à madame de l’Estorade</head>
 					<div>
 						<dateline>Février.</dateline>
 						<p>Ma belle biche, ce matin à neuf heures, mon père s’est fait annoncer chez
@@ -1934,7 +1937,7 @@
 						<dateline>Dimanche.</dateline>
 						<p>Hier, aux Italiens, je me suis sentie regardée, mes yeux ont été
 							magiquement attirés par deux yeux de feu qui brillaient comme deux
-							escarboucles dans un coin obscur de l’orchestre. [$ill. #052a] Hénarez
+							escarboucles dans un coin obscur de l’orchestre. <pb n="ill." xml:id="p52a" facs="https://www.ebalzac.com/romans/03-memoires-deux-jeunes-mariees/furne-corrige/p52a.jpg"/> Hénarez
 							n’a pas détaché ses yeux de dessus moi. Le monstre a cherché la seule
 							place d’où il pouvait me voir, et il y est. Je ne sais pas ce qu’il est
 							en politique ; mais il a le génie de l’amour.</p>
@@ -1945,7 +1948,7 @@
 					</div>
 				</div>
 				<div>
-					<head>XIII <lb/>DE MADAME DE L’ESTORADE À MADEMOISELLE DE CHAULIEU</head>
+					<head>XIII <lb/>De madame de l’Estorade à mademoiselle de Chaulieu</head>
 					<dateline>À la Crampade, février.</dateline>
 					<p>Ma chère Louise, avant de t’écrire, j’ai dû attendre ; mais maintenant je
 						sais bien des choses, ou, pour mieux dire, je les ai apprises, et je dois te
@@ -2201,7 +2204,7 @@
 						vrai.</p>
 				</div>
 				<div>
-					<head>XIV <lb/>LE DUC DE SORIA AU BARON DE MACUMER</head>
+					<head>XIV <lb/>Le duc de Soria au baron de Macumer</head>
 					<dateline>Madrid.</dateline>
 					<p>Mon cher frère, vous ne m’avez pas fait duc de Soria pour que je n’agisse pas
 						en duc de Soria. Si je vous savais errant et sans les douceurs que la
@@ -2233,7 +2236,7 @@
 					<signed><hi rend="sc">Fernand</hi>.</signed>
 				</div>
 				<div>
-					<head>XV <lb/>LOUISE DE CHAULIEU À MADAME DE L’ESTORADE</head>
+					<head>XV <lb/>Louise de Chaulieu à madame de l’Estorade</head>
 					<div>
 						<dateline>Mars.</dateline>
 						<p>Ah ! mon ange, le mariage rend philosophe ?… Ta chère figure devait être
@@ -2477,7 +2480,7 @@
 					</div>
 				</div>
 				<div>
-					<head>XVI <lb/>DE LA MÊME À LA MÊME</head>
+					<head>XVI <lb/>De la même à la même</head>
 					<div>
 						<dateline>Mars.</dateline>
 						<p>Je suis habillée en blanc : j’ai des camélias blancs dans les cheveux et
@@ -2538,7 +2541,7 @@
 					</div>
 				</div>
 				<div>
-					<head>XVII <lb/>DE LA MÊME À LA MÊME</head>
+					<head>XVII <lb/>De la même à la même</head>
 					<dateline>2 avril.</dateline>
 					<p>Hier, le temps était superbe, je me suis mise en fille aimée et qui veut
 						plaire. À ma prière, mon père m’a donné le plus joli attelage qu’il soit
@@ -2582,7 +2585,7 @@
 						suis un peu folle et ne veux pas continuer.</p>
 				</div>
 				<div>
-					<head>XVIII <lb/>DE MADAME DE L’ESTORADE À LOUISE DE CHAULIEU</head>
+					<head>XVIII <lb/>De madame de l’Estorade à Louise de Chaulieu</head>
 					<dateline>Avril.</dateline>
 					<p>Chère ange, ou ne dois-je pas plutôt dire cher démon, tu m’as affligée sans
 						le vouloir, et, si nous n’étions pas la même âme, je dirais blessée ; mais
@@ -2678,7 +2681,7 @@
 						Adieu, ma chère imagination, mon amie, toi qui es ma folie !</p>
 				</div>
 				<div>
-					<head>XIX <lb/>LOUISE DE CHAULIEU À MADAME DE L’ESTORADE</head>
+					<head>XIX <lb/>Louise de Chaulieu à madame de l’Estorade</head>
 					<div>
 						<head/>
 						<p>Eh ! bien, tu es un amour de femme, ma Renée ; et je suis maintenant
@@ -2850,7 +2853,7 @@
 					</div>
 				</div>
 				<div>
-					<head>XX <lb/>RENÉE DE L’ESTORADE À LOUISE DE CHAULIEU</head>
+					<head>XX <lb/>Renée de l’Estorade à Louise de Chaulieu</head>
 					<dateline>Mai.</dateline>
 					<p>Si l’amour est la vie du monde, pourquoi d’austères philosophes le
 						suppriment-ils dans le mariage ? Pourquoi la Société prend-elle pour loi
@@ -2926,7 +2929,7 @@
 						tout mon avenir, et, chose effrayante à penser, celui de ma vertu.</p>
 				</div>
 				<div>
-					<head>XXI <lb/>LOUISE DE CHAULIEU À RENÉE DE L’ESTORADE</head>
+					<head>XXI <lb/>Louise de Chaulieu à Renée de l’Estorade</head>
 					<div>
 						<dateline>Juin.</dateline>
 						<p>Chère biche mariée, ta lettre est venue à propos pour me justifier à
@@ -3099,7 +3102,7 @@
 				</div>
 				<div>
 					<pb n="85" xml:id="p85"/>
-					<head> XXII <lb/>LOUISE À FELIPE</head>
+					<head> XXII <lb/>Louise à Felipe</head>
 					<p>Je ne suis pas contente de vous. Si vous n’avez pas pleuré en lisant Bérénice
 						de Racine, si vous n’y avez pas trouvé la plus horrible des tragédies, vous
 						ne me comprendrez point, nous ne nous entendrons jamais : brisons, ne nous
@@ -3207,7 +3210,7 @@
 					<signed><hi rend="sc">Louise de Chaulieu</hi>.</signed>
 				</div>
 				<div>
-					<head>XXIII <lb/>FELIPE À LOUISE</head>
+					<head>XXIII <lb/>Felipe à Louise</head>
 					<p>Quand Dieu voit nos fautes, il voit aussi nos repentirs : vous avez raison,
 						ma chère maîtresse. J’ai senti que je vous avais déplu sans pouvoir pénétrer
 						la cause de votre souci ; mais vous me l’avez expliquée, et vous m’avez
@@ -3300,7 +3303,7 @@
 				</div>
 				<div>
 					<pb n="91" xml:id="p91"/>
-					<head>XXIV <lb/>LOUISE DE CHAULIEU À RENÉE DE L’ESTORADE</head>
+					<head>XXIV <lb/>Louise de Chaulieu à Renée de l’Estorade</head>
 					<dateline>Octobre 1824.</dateline>
 					<p>Ma chère amie, toi qui t’es mariée en deux mois à un pauvre souffreteux de
 						qui tu t’es faite la mère, tu ne connais rien aux effroyables péripéties de
@@ -3431,8 +3434,9 @@
 						très-railleusement monsieur de Marsay quand il a passé à cheval, car il a
 						remarqué Macumer et mon père sur le devant de la calèche.</p>
 					<p>Mon adorable Felipe a fait ainsi refaire ses cartes :</p>
+<q type="press">
 					<p rend="center"><hi rend="sc">Hénarez</hi>, <lb/><hi rend="i">Des ducs de
-							Soria, baron de Macumer</hi>.</p>
+							Soria, baron de Macumer</hi>.</p></q>
 					<p><pb n="95" xml:id="p95"/> Tous les matins il m’apporte lui-même un bouquet
 						d’une délicieuse magnificence, au milieu duquel je trouve toujours une
 						lettre qui contient un sonnet espagnol à ma louange, fait par lui pendant la
@@ -3440,6 +3444,7 @@
 					<p>Pour ne pas grossir ce paquet, je t’envoie comme échantillon le premier et le
 						dernier de ses sonnets, que je t’ai traduits mot à mot en te les mettant
 						vers par vers.</p>
+<q type="poem">
 					<label>PREMIER SONNET</label>
 					<lg>
 						<l rend="i">Plus d’une fois, couvert d’une mince veste de soie, – l’épée
@@ -3462,6 +3467,8 @@
 							glacée couvre mon front, mes genoux se dérobent sous moi, – je tremble,
 							je recule, je n’ai plus de courage. </l>
 					</lg>
+</q>
+<q type="poem">
 					<label>DEUXIÈME SONNET</label>
 					<lg>
 						<l rend="i">Cette nuit, je voulais dormir pour rêver de toi ; – mais le
@@ -3485,6 +3492,7 @@
 							l’azur du ciel s’est concentré dans tes prunelles, et tes cils sont
 							formés par les rayons des étoiles. </l>
 					</lg>
+</q>
 					<p>Peut-on prouver plus gracieusement à une jeune fille qu’on ne s’occupe que
 						d’elle ? Que dis-tu de cet amour qui s’exprime en prodiguant les fleurs de
 						l’intelligence et les fleurs de la terre ? <pb n="96" xml:id="p96"/> Depuis
@@ -3517,7 +3525,7 @@
 						tendresses.</p>
 				</div>
 				<div>
-					<head>XXV <lb/>RENÉE DE L’ESTORADE À LOUISE DE CHAULIEU</head>
+					<head>XXV <lb/>Renée de l’Estorade à Louise de Chaulieu</head>
 					<dateline>Octobre.</dateline>
 					<p>Impertinente ! pourquoi t’aurais-je écrit ? que t’eussé-je dit ? Durant cette
 						vie animée par les fêtes, par les angoisses de <pb n="97" xml:id="p97"/>
@@ -3572,7 +3580,7 @@
 						quelques heures, tant je te souhaite de bonheur !</p>
 				</div>
 				<div>
-					<head>XXVI <lb/>LOUISE DE MACUMER À RENÉE DE L’ESTORADE</head>
+					<head>XXVI <lb/>Louise de Macumer à Renée de l’Estorade</head>
 					<div>
 						<dateline>Mars 1825.</dateline>
 						<p>Comme Felipe réalise avec une générosité de Sarrasin les plans de mon
@@ -3722,7 +3730,7 @@
 					</div>
 				</div>
 				<div>
-					<head>XXVII <lb/>LOUISE DE MACUMER À RENÉE DE L’ESTORADE</head>
+					<head>XXVII <lb/>Louise de Macumer à Renée de l’Estorade</head>
 					<div>
 						<dateline>Octobre 1825.</dateline>
 						<p>Je ne t’ai plus rien écrit, chère, depuis le mariage de la mairie, et
@@ -3897,7 +3905,7 @@
 					</div>
 				</div>
 				<div>
-					<head>XXVIII <lb/>RENÉE DE L’ESTORADE À LOUISE DE MACUMER</head>
+					<head>XXVIII <lb/>Renée de l’Estorade à Louise de Macumer</head>
 					<dateline>Décembre 1825.</dateline>
 					<p>Ma bienheureuse Louise, tu m’as éblouie. J’ai pendant quelques instants tenu
 						ta lettre où quelques-unes de mes larmes brillaient au soleil couchant, les
@@ -4034,7 +4042,7 @@
 						grise, mais pleine ; sobre, mais productive : sois donc bénie !</p>
 				</div>
 				<div>
-					<head>XXIX <lb/>DE MONSIEUR DE L’ESTORADE À LA BARONNE DE MACUMER</head>
+					<head>XXIX <lb/>De monsieur de l’Estorade à la baronne de Macumer</head>
 					<dateline>Décembre 1825.</dateline>
 					<p>Madame,</p>
 					<p>Ma femme n’a pas voulu que vous apprissiez par le vulgaire billet de faire
@@ -4080,7 +4088,7 @@
 					<signed>Louis de l’Estorade.</signed>
 				</div>
 				<div>
-					<head>XXX <lb/>LOUISE DE MACUMER À RENÉE DE L’ESTORADE</head>
+					<head>XXX <lb/>Louise de Macumer à Renée de l’Estorade</head>
 					<dateline>Janvier 1826.</dateline>
 					<p>Macumer m’a réveillée tout à l’heure avec la lettre de ton mari, mon ange. Je
 						commence par dire <hi rend="i">oui</hi>. Nous irons vers la fin d’avril à
@@ -4149,7 +4157,7 @@
 						tendresses, mon ange.</p>
 				</div>
 				<div>
-					<head>XXXI <lb/>RENÉE DE L’ESTORADE À LOUISE DE MACUMER</head>
+					<head>XXXI <lb/>Renée de l’Estorade à Louise de Macumer</head>
 					<div>
 						<p>Voici bientôt cinq mois que je suis accouchée, et je n’ai pas trouvé, ma
 							chère âme, un seul petit moment pour t’écrire. Quand tu seras mère, tu
@@ -4367,7 +4375,7 @@
 					</div>
 				</div>
 				<div>
-					<head>XXXII <lb/>MADAME DE MACUMER À MADAME DE L’ESTORADE</head>
+					<head>XXXII <lb/>Madame de Macumer à madame de l’Estorade</head>
 					<dateline>Mars 1826.</dateline>
 					<p>Comment, ma chérie, voilà plus de trois mois que je ne t’ai écrit et que je
 						n’ai reçu de lettres de toi… Je suis la plus coupable des deux, je ne t’ai
@@ -4466,7 +4474,7 @@
 						Chantepleurs, je pars.</p>
 				</div>
 				<div>
-					<head>XXXIII <lb/>MADAME DE L’ESTORADE À MADAME DE MACUMER</head>
+					<head>XXXIII <lb/>Madame de l’Estorade à madame de Macumer</head>
 					<p>Eh ! mon enfant, si jamais tu deviens mère, tu sauras si l’on peut écrire
 						pendant les neuf premiers mois de la nourriture. <hi rend="i">Mary</hi>, ma
 						bonne anglaise, et moi, nous sommes sur les dents. Il est vrai que je ne
@@ -4491,7 +4499,7 @@
 						notre pauvre bastide où tu seras aimée ?</p>
 				</div>
 				<div>
-					<head>XXXIV <lb/>DE MADAME DE MACUMER À LA VICOMTESSE DE L’ESTORADE</head>
+					<head>XXXIV <lb/>De madame de Macumer à la vicomtesse de l’Estorade</head>
 					<dateline>Avril 1826.</dateline>
 					<p>L’adresse de ma lettre t’annoncera, ma chère, le succès de mes
 						sollicitations. Voilà ton beau-père comte de l’Estorade. Je n’ai pas voulu
@@ -4500,7 +4508,7 @@
 					<p>À bientôt.</p>
 				</div>
 				<div>
-					<head>XXXV <lb/>MADAME DE MACUMER À MADAME LA VICOMTESSE DE L’ESTORADE</head>
+					<head>XXXV <lb/>Madame de Macumer à madame la vicomtesse de l’Estorade</head>
 					<dateline>Marseille, juillet.</dateline>
 					<p>Mon brusque départ va t’étonner, j’en suis honteuse ; mais, comme avant tout
 						je suis vraie et que je t’aime toujours autant, je vais te dire naïvement
@@ -4573,7 +4581,7 @@
 						Adieu !</p>
 				</div>
 				<div>
-					<head>XXXVI <lb/>DE LA VICOMTESSE DE L’ESTORADE À LA BARONNE DE MACUMER</head>
+					<head>XXXVI <lb/>De la vicomtesse de l’Estorade à la baronne de Macumer</head>
 					<p>Ma chère, notre étonnement à tous a été inexprimable quand, au déjeuner, on
 						nous a dit que vous étiez partis, et surtout quand le postillon qui vous
 						avait emmenés à Marseille m’a remis ta folle lettre. Mais, méchante, il ne
@@ -4720,7 +4728,7 @@
 						suis sûre de <pb n="131" xml:id="p131"/> Louis.</p>
 				</div>
 				<div>
-					<head>XXXVII <lb/>DE LA BARONNE DE MACUMER À LA VICOMTESSE DE L’ESTORADE</head>
+					<head>XXXVII <lb/>De la baronne de Macumer à la vicomtesse de l’Estorade</head>
 					<dateline>Gênes.</dateline>
 					<p>Ma chère belle, j’ai eu la fantaisie de voir un peu l’Italie, et suis ravie
 						d’y avoir entraîné Macumer, dont les projets, relativement à la Sardaigne,
@@ -4746,7 +4754,7 @@
 				</div>
 				<div>
 					<pb n="132" xml:id="p132"/>
-					<head>XXXVIII <lb/>DE LA VICOMTESSE DE L’ESTORADE À LA BARONNE DE MACUMER</head>
+					<head>XXXVIII <lb/>De la vicomtesse de l’Estorade à la baronne de Macumer</head>
 					<dateline>Septembre.</dateline>
 					<p>Ma chère, il y a pour toi à Chantepleurs une assez longue réponse à la lettre
 						que tu m’as écrite de Marseille. Ce voyage fait en amants est si loin de
@@ -4768,7 +4776,7 @@
 						Mille tendresses.</p>
 				</div>
 				<div>
-					<head>XXXIX <lb/>DE LA BARONNE DE MACUMER À LA VICOMTESSE DE L’ESTORADE</head>
+					<head>XXXIX <lb/>De la baronne de Macumer à la vicomtesse de l’Estorade</head>
 					<dateline>Rome, décembre.</dateline>
 					<p>J’ai ton infâme lettre, que, sur ma demande, mon régisseur m’a envoyée de
 						Chantepleurs ici. Oh ! Renée… Mais je t’épargne <pb n="133" xml:id="p133"/>
@@ -4820,7 +4828,7 @@
 						ni les régenter. Ceci est pour mon petit docteur en corset.</p>
 				</div>
 				<div>
-					<head>XL <lb/>DE LA COMTESSE DE L’ESTORADE À LA BARONNE DE MACUMER</head>
+					<head>XL <lb/>De la comtesse de l’Estorade à la baronne de Macumer</head>
 					<div>
 						<dateline>Janvier 1827.</dateline>
 						<p>Mon père est nommé, mon beau-père est mort, et je suis encore sur le
@@ -4974,7 +4982,7 @@
 					</div>
 				</div>
 				<div>
-					<head>XLI <lb/>DE LA BARONNE DE MACUMER À LA VICOMTESSE DE L’ESTORADE</head>
+					<head>XLI <lb/>De la baronne de Macumer à la vicomtesse de l’Estorade</head>
 					<dateline>Paris.</dateline>
 					<p>Pauvre ange, Macumer et moi nous t’avons pardonné tes <hi rend="i"
 							>mauvaisetés</hi> en apprenant combien tu as été tourmentée. J’ai
@@ -5032,7 +5040,7 @@
 						mon ange.</p>
 				</div>
 				<div>
-					<head>XLII <lb/>RENÉE À LOUISE</head>
+					<head>XLII <lb/>Renée à Louise</head>
 					<p>Ma petite fille a deux mois ; ma mère a été la marraine, et un vieux
 						grand-oncle de Louis, le parrain de cette petite, qui se nomme
 						Jeanne-Athénaïs.</p>
@@ -5059,7 +5067,7 @@
 				</div>
 				<div>
 					<pb n="141" xml:id="p141"/>
-					<head>XLIII <lb/>MADAME DE MACUMER À LA COMTESSE DE L’ESTORADE.</head>
+					<head>XLIII <lb/>Madame de Macumer à la comtesse de l’Estorade</head>
 					<p>Pour la première fois de ma vie, ma chère Renée, j’ai pleuré seule sous un
 						saule, sur un banc de bois, au bord de mon long étang de Chantepleurs, une
 						délicieuse vue que tu vas venir embellir, car il n’y manque que de joyeux
@@ -5099,7 +5107,7 @@
 						dire davantage. Adieu.</p>
 				</div>
 				<div>
-					<head>XLIV <lb/>DE LA MÊME À LA MÊME</head>
+					<head>XLIV <lb/>De la même à la même</head>
 					<dateline>Paris, 1829.</dateline>
 					<p>Comment, ma chère, un an sans lettre ?… Je suis un peu piquée. Crois-tu que
 						ton Louis, qui m’est venu voir presque tous les deux jours, te remplace ? Il
@@ -5129,7 +5137,7 @@
 						état de grossesse, coquette ! Adieu.</p>
 				</div>
 				<div>
-					<head>XLV <lb/>RENÉE À LOUISE</head>
+					<head>XLV <lb/>Renée à Louise</head>
 					<p>Tu te plains de mon silence, tu oublies donc ces deux petites têtes brunes
 						que je gouverne et qui me gouvernent ? Tu as d’ailleurs trouvé quelques-unes
 						des raisons que j’avais pour garder la maison. Outre l’état de notre
@@ -5197,7 +5205,7 @@
 						de son berceau à mon lit en se traînant sur ses mains et faisant des pas mal
 						assurés, Armand grimpe avec l’adresse d’un singe et m’embrasse. Ces deux
 						petits font alors de mon lit le théâtre de leurs jeux, où la mère est à leur
-						discrétion. [$ill. #144a] La petite me tire les cheveux, veut toujours
+						discrétion. <pb n="ill." xml:id="p144a" facs="https://www.ebalzac.com/romans/03-memoires-deux-jeunes-mariees/furne-corrige/p144a.jpg"/> La petite me tire les cheveux, veut toujours
 						teter, et Armand défend ma poitrine comme si c’était son bien. Je ne résiste
 						pas à certaines poses, à des rires qui partent comme des fusées et qui
 						finissent par chasser le sommeil. On joue alors à l’ogresse, et mère ogresse
@@ -5348,7 +5356,7 @@
 						tomber, et si je voulais continuer, cette lettre ferait un volume.</p>
 				</div>
 				<div>
-					<head>XLVI <lb/>MADAME DE MACUMER À LA COMTESSE DE L’ESTORADE</head>
+					<head>XLVI <lb/>Madame de Macumer à la comtesse de l’Estorade</head>
 					<dateline>1829.</dateline>
 					<p>Les journaux t’auront appris, ma bonne et tendre Renée, l’horrible malheur
 						qui a fondu sur moi ; je n’ai pu t’écrire un seul mot, je suis restée à son
@@ -5455,7 +5463,7 @@
 						Enfin, viens prendre ta part de mes douleurs !…</p>
 				</div>
 				<div>
-					<head>XLVII <lb/>RENÉE À LOUISE</head>
+					<head>XLVII <lb/>Renée à Louise</head>
 					<dateline>1829.</dateline>
 					<p>Ma chérie, quand tu tiendras cette lettre entre les mains, je ne serai pas
 						loin, car je pars quelques instants après te l’avoir envoyée. Nous serons
@@ -5479,7 +5487,7 @@
 			<div>
 				<head>Deuxième partie</head>
 				<div>
-					<head>XLVIII <lb/>DE LA BARONNE DE MACUMER À LA COMTESSE DE L’ESTORADE</head>
+					<head>XLVIII <lb/>De la baronne de Macumer à la comtesse de l’Estorade</head>
 					<div>
 						<dateline>15 octobre 1833.</dateline>
 						<p>Eh ! bien, oui, Renée, on a raison, on t’a dit vrai. J’ai vendu mon
@@ -5793,7 +5801,7 @@
 					</div>
 				</div>
 				<div>
-					<head>XLIX <lb/>MARIE-GASTON À DANIEL D’ARTHEZ</head>
+					<head>XLIX <lb/>Marie-Gaston à Daniel d'Arthez</head>
 					<dateline>Octobre 1833.</dateline>
 					<p>Mon cher Daniel, j’ai besoin de deux témoins pour mon mariage ; je vous prie
 						de venir chez moi demain soir en vous faisant accompagner de notre ami, le
@@ -5865,7 +5873,7 @@
 					<signed>Marie-Gaston.</signed>
 				</div>
 				<div>
-					<head>L <lb/>MADAME DE L’ESTORADE À MADAME DE MACUMER</head>
+					<head>L <lb/>Madame de l’Estorade à madame de Macumer</head>
 					<p>Comment, Louise, après tous les malheurs intimes que t’a donnés une passion
 						partagée, au sein même du mariage, tu veux vivre avec un mari dans la
 						solitude ? Après en avoir tué un en vivant dans le monde, tu veux te mettre
@@ -5908,7 +5916,7 @@
 				</div>
 				<div>
 					<pb n="165" xml:id="p165"/>
-					<head>LI <lb/>DE LA COMTESSE DE L’ESTORADE À MADAME MARIE-GASTON</head>
+					<head>LI <lb/>De la comtesse de l’Estorade à madame Marie-Gaston</head>
 					<dateline>1835.</dateline>
 					<p>Que deviens-tu, ma chère ? Après un silence de deux années, il est permis à
 						Renée d’être inquiète de Louise. Voilà donc l’amour ! il emporte, il annule
@@ -6062,7 +6070,7 @@
 						je t’écris, tu ne mérites pas mon amitié. Oh ! réponds-moi, ma Louise.</p>
 				</div>
 				<div>
-					<head>LII <lb/>MADAME GASTON À MADAME DE L’ESTORADE</head>
+					<head>LII <lb/>Madame Gaston à madame de l’Estorade</head>
 					<dateline>Au Chalet.</dateline>
 					<p>Un silence de deux années a piqué ta curiosité, tu me demandes pourquoi je ne
 						t’ai pas écrit ; mais, ma chère Renée, il n’y a ni phrases, ni mots, ni
@@ -6281,7 +6289,7 @@
 						mien… Ne parlons plus de ceci, je t’envoie mille tendresses.</p>
 				</div>
 				<div>
-					<head>LIII <lb/>DE MADAME DE L’ESTORADE À MADAME GASTON</head>
+					<head>LIII <lb/>De madame de l’Estorade à madame Gaston</head>
 					<p>Ma chère Louise, j’ai lu, relu ta lettre, et plus je m’en suis pénétrée, plus
 						j’ai vu en toi moins une femme qu’un enfant ; tu n’as pas changé, tu oublies
 						ce que je t’ai dit mille fois : l’Amour est un vol fait par l’état social à
@@ -6366,7 +6374,7 @@
 						aimes Gaston bien plus pour toi que pour lui-même.</p>
 				</div>
 				<div>
-					<head>LIV <lb/>DE MADAME GASTON À LA COMTESSE DE L’ESTORADE</head>
+					<head>LIV <lb/>De madame Gaston à la comtesse de l’Estorade</head>
 					<div>
 						<dateline>20 mai.</dateline>
 						<p>Renée, le malheur est venu ; non, il a fondu sur ta pauvre Louise avec la
@@ -6690,7 +6698,7 @@
 					</div>
 				</div>
 				<div>
-					<head>LV <lb/>LA COMTESSE DE L’ESTORADE À MADAME GASTON</head>
+					<head>LV <lb/>La comtesse de l’Estorade à madame Gaston</head>
 					<dateline>16 juillet.</dateline>
 					<p>Ma chère Louise, je t’envoie cette lettre par un exprès avant de courir au
 						Chalet moi-même. Calme-toi. Ton dernier mot m’a paru si insensé que j’ai cru
@@ -6764,7 +6772,7 @@
 				</div>
 				<div>
 					<pb n="189" xml:id="p189"/>
-					<head> LVI <lb/>DE MADAME GASTON À LA COMTESSE DE L’ESTORADE</head>
+					<head> LVI <lb/>De madame Gaston à la comtesse de l’Estorade</head>
 					<p>Ah ! ma bien-aimée, entends le terrible, le fatal, l’insolent mot de
 						l’imbécile La Fayette à son maître, à son roi : <hi rend="i">Il est trop
 							tard</hi> ! Ô ! ma vie, ma belle vie ! quel médecin me la rendra ? Je me
@@ -6775,7 +6783,7 @@
 						Viens me voir mourir ?</p>
 				</div>
 				<div>
-					<head>LVII <lb/>DE LA COMTESSE DE L’ESTORADE AU COMTE DE L’ESTORADE</head>
+					<head>LVII <lb/>De la comtesse de l’Estorade au comte de l’Estorade</head>
 					<div>
 						<dateline>Au Chalet, 7 août.</dateline>
 						<p>Mon ami, emmène les enfants et fais le voyage de Provence sans moi ; je
@@ -6931,7 +6939,7 @@
 							veille à l’insu de Gaston, qui, pendant la terrible cérémonie, a pris un
 							peu de sommeil, elle avait exigé de moi que je lui lusse en français le
 								<hi rend="i">De profundis</hi>, pendant qu’elle serait ainsi face à
-							face avec la belle nature qu’elle s’était créée. [$ill. #192a] Elle
+							face avec la belle nature qu’elle s’était créée. <pb n="ill." xml:id="p192a" facs="https://www.ebalzac.com/romans/03-memoires-deux-jeunes-mariees/furne-corrige/p192a.jpg"/> Elle
 							répétait mentalement les paroles et serrait les mains de son mari,
 							agenouillé de l’autre côté de la bergère.</p>
 					</div>
