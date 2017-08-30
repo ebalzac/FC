@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-06-09T10:26:39+02:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
-      <titleStmt/>
+      <titleStmt>
+        <title>Les Chouans ou La Bretagne en 1799</title>
+        <author key="Balzac, Honoré de (1799-1850)">Honoré de Balzac</author>
+        <principal>Andrea Del Lungo</principal>
+        <principal>Pierre Glaudes</principal>
+        <principal>Jean-Gabriel Ganascia</principal>
+        <editor>Maxime Perret</editor>
+      </titleStmt>
       <editionStmt/>
       <publicationStmt>
         <availability status="restricted"/>
@@ -21,14 +28,14 @@
   <text>
     <body>
       <head>Les Chouans ou La Bretagne en 1799</head>
-      <p>@dedication</p>
-      <salute><pb n="1" xml:id="p1"/> À MONSIEUR THÉODORE DABLIN,
-<lb/>NÉGOCIANT</salute>
-      <p rend="noindent">Au premier ami, le premier ouvrage.</p>
-      <signed>
-        <hi rend="sc">de Balzac.</hi>
-      </signed>
-      <p>@/dedication</p>
+      <div type="dedication">
+        <salute><pb n="1" xml:id="p1"/> À MONSIEUR THÉODORE DABLIN,
+          <lb/>NÉGOCIANT</salute>
+        <p rend="noindent">Au premier ami, le premier ouvrage.</p>
+        <signed>
+          <hi rend="sc">de Balzac.</hi>
+        </signed>
+      </div>
       <div>
         <head><pb n="2" xml:id="p2"/> Chapitre premier
 <lb/>L’embuscade</head>
@@ -301,7 +308,7 @@
         <p>Hulot et ses soldats s’arrêtèrent à Ernée pour déposer les blessés à l’hôpital de cette petite ville ; puis, sans que nul événement fâcheux interrompît la marche des troupes républicaines, elles arrivèrent à Mayenne. Là le commandant put, le lendemain, résoudre tous ses doutes relativement à la marche du messager ; car le lendemain, les habitants apprirent le pillage de la voiture. Peu de jours après, les autorités dirigèrent sur Mayenne assez de conscrits patriotes pour que Hulot pût y remplir le cadre de sa demi-brigade. Bientôt se succédèrent des ouï-dire peu rassurants sur l’insurrection. La révolte était complète sur tous les points où, pendant la dernière guerre, les Chouans et les Vendéens avaient établi les principaux foyers de cet incendie. En Bretagne, les royalistes s’étaient rendus maîtres de Pontorson, afin de se mettre en communication avec la mer. La petite ville de Saint-James, située entre Pontorson et Fougères, avait été prise par eux, et ils paraissaient vouloir en faire momentanément leur place d’armes, le centre de leurs magasins ou de leurs opérations. De là, ils pouvaient correspondre sans danger avec la Normandie et le Morbihan. Les chefs subalternes parcouraient ces trois pays pour y soulever les partisans de la monarchie et arriver à mettre de l’ensemble dans leur entreprise. Ces menées coïncidaient avec les nouvelles de la Vendée, où des intrigues semblables agitaient la contrée, sous l’influence de quatre chefs célèbres, messieurs l’abbé Vernal, le comte de Fontaine, de Châtillon et Suzannet. Le chevalier de Valois, le marquis d’Esgrignon et les Troisville étaient, disait-on, leurs correspondants dans le département de l’Orne. Le chef du vaste plan d’opérations qui se déroulait lentement, mais d’une manière formidable, était réellement le Gars, surnom donné par les Chouans à monsieur le marquis de Montauran, lors de son débarquement. Les renseignements transmis aux ministres par Hulot se trouvaient exacts en tout point. L’autorité de ce chef envoyé du dehors avait été aussitôt reconnue. Le marquis prenait même assez d’empire sur les Chouans pour leur faire concevoir le véritable but de la guerre et leur persuader que les excès dont ils se rendaient coupables souillaient la cause généreuse qu’ils avaient embrassée. Le caractère hardi, la bravoure, le sang-froid, la capacité de ce jeune seigneur réveillaient les espérances des ennemis de la République et <pb n="51" xml:id="p51"/> flattaient si vivement la sombre exaltation de ces contrées que les moins zélés coopéraient à y préparer des événements décisifs pour la monarchie abattue. Hulot ne recevait aucune réponse aux demandes et aux rapports réitérés qu’il adressait à Paris. Ce silence étonnant annonçait, sans doute, une nouvelle crise révolutionnaire.</p>
         <p>– En serait-il maintenant, disait le vieux chef à ses amis, en fait de gouvernement comme en fait d’argent, met-on néant à toutes les pétitions ?</p>
         <p>Mais le bruit du magique retour du général Bonaparte et des événements du Dix-huit Brumaire ne tarda pas à se répandre. Les commandants militaires de l’Ouest comprirent alors le silence des ministres. Néanmoins ces chefs n’en furent que plus impatients d’être délivrés de la responsabilité qui pesait sur eux, et devinrent assez curieux de connaître les mesures qu’allait prendre le nouveau gouvernement. En apprenant que le général Bonaparte avait été nommé premier consul de la République, les militaires éprouvèrent une joie très-vive : ils voyaient, pour la première fois, un des leurs arrivant au maniement des affaires. La France, qui avait fait une idole de ce jeune général, tressaillit d’espérance. L’énergie de la nation se renouvela. La capitale, fatiguée de sa sombre attitude, se livra aux fêtes et aux plaisirs desquels elle était depuis si longtemps sevrée. Les premiers actes du Consulat ne diminuèrent aucun espoir, et la Liberté ne s’en effaroucha pas. Le premier consul fit une proclamation aux habitants de l’Ouest. Ces éloquentes allocutions adressées aux masses et que Bonaparte avait, pour ainsi dire, inventées, produisaient, dans ces temps de patriotisme et de miracles, des effets prodigieux. Sa voix retentissait dans le monde comme la voix d’un prophète, car aucune de ses proclamations n’avait encore été démentie par la victoire.</p>
-        <p>@q legal</p>
+        <q type="legal">
         <salute><hi rend="sc">Habitants</hi>,
       </salute>
         <p>Une guerre impie embrase une seconde fois les départements de l’Ouest.</p>
@@ -311,10 +318,10 @@
         <p>Des lois injustes ont été promulguées et exécutées ; des actes arbitraires ont alarmé la sécurité des citoyens et la liberté des consciences ; partout des inscriptions hasardées sur des listes d’émigrés ont frappé des citoyens ; enfin de grands principes d’ordre social ont été violés.</p>
         <p>Les consuls déclarent que la liberté des cultes étant garantie par la Constitution, la loi du 11 prairial an III, qui laisse aux citoyens l’usage des édifices destinés aux cultes religieux, sera exécutée.</p>
         <p>Le gouvernement pardonnera : il fera grâce au repentir, l’indulgence sera entière et absolue ; mais il frappera quiconque, après cette déclaration, oserait encore résister à la souveraineté nationale.</p>
-        <p>@/q</p>
+        </q>
         <p>– Eh ! bien, disait Hulot après la lecture publique de ce discours consulaire, est-ce assez paternel ? Vous verrez cependant que pas un brigand royaliste ne changera d’opinion.</p>
         <p>Le commandant avait raison. Cette proclamation ne servit qu’à raffermir chacun dans son parti. Quelques jours après, Hulot et ses collègues reçurent des renforts. Le nouveau ministre de la guerre leur manda que le général Brune était désigné pour aller prendre le commandement des troupes dans l’ouest de la France. Hulot, dont l’expérience était connue, eut provisoirement l’autorité dans les départements de l’Orne et de la Mayenne. Une activité inconnue anima bientôt tous les ressorts du gouvernement. Une circulaire du ministre de la Guerre et du ministre de la Police Générale annonça que des mesures vigoureuses confiées aux chefs des commandements militaires avaient été prises pour étouffer l’insurrection <hi rend="i">dans son principe</hi>. Mais les Chouans et les Vendéens avaient déjà profité de l’inaction de la République pour soulever les campagnes et s’en emparer entièrement. Aussi, une nouvelle proclamation consulaire fut-elle adressée. Cette fois le général parlait aux troupes.</p>
-        <p>@q legal</p>
+        <q type="legal">
         <salute><hi rend="sc">Soldats</hi>,
       </salute>
         <p>Il ne reste plus dans l’Ouest que des brigands, des émigrés, des stipendiés de l’Angleterre.</p>
@@ -323,7 +330,7 @@
         <p>Faites une campagne courte et bonne ; soyez inexorables pour les brigands, mais observez une discipline sévère.</p>
         <p>Gardes nationales, joignez les efforts de vos bras à celui des troupes de ligne.</p>
         <p>Si vous connaissez parmi vous des hommes partisans des brigands, arrêtez-les ! Que nulle part ils ne trouvent d’asile contre le soldat qui va les poursuivre ; et s’il était des traîtres qui osassent les recevoir et les défendre, qu’ils périssent avec eux !</p>
-        <p>@/q</p>
+        </q>
         <p>– Quel compère ! s’écria Hulot, c’est comme à l’armée d’Italie, il sonne la messe et il la dit. Est-ce parler, cela ?</p>
         <p>– Oui, mais il parle tout seul et en son nom, dit Gérard, qui commençait à s’alarmer des suites du Dix-huit Brumaire.</p>
         <p>– Hé ! sainte guérite, qu’est-ce que cela fait, puisque c’est un militaire, s’écria Merle.</p>
@@ -974,9 +981,9 @@
         <p>La haine calcule si mal, que madame du Gua ne s’aperçut pas qu’elle n’était écoutée de personne pendant que, triomphante, elle s’écriait : – Voyez, messieurs, ai-je donc calomnié cette horrible créature ?</p>
         <p>– Pas si horrible, dit à voix basse le gros convive auteur du désastre. J’aime prodigieusement ces horreurs-là, moi.</p>
         <p>– Voici, reprit la cruelle Vendéenne, un ordre signé Laplace et <pb n="140" xml:id="p140"/> contre-signé Dubois. À ces noms quelques personnes levèrent la tête. – Et en voici la teneur, dit en continuant madame du Gua :</p>
-        <p>@q legal</p>
+        <q type="legal">
         <p rend="i">Les citoyens commandants militaires de tout grade, administrateurs de district, les procureurs-syndics, etc., des départements insurgés, et particulièrement ceux des localités où se trouvera le ci-devant marquis de Montauran, chef de brigands et surnommé le Gars, devront prêter secours et assistance à la citoyenne Marie Verneuil et se conformer aux ordres qu’elle pourra leur donner, chacun en ce qui le concerne, etc. </p>
-        <p>@/q</p>
+        </q>
         <p>– Une fille d’Opéra prendre un nom illustre pour le souiller de cette infamie ! ajouta-t-elle.</p>
         <p>Un mouvement de surprise se manifesta dans l’assemblée.</p>
         <p>– La partie n’est pas égale si la République emploie de si jolies femmes contre nous, dit gaiement le baron du Guénic.</p>
@@ -1926,14 +1933,14 @@
         <p>Puis elle se plut, comme tous les esprits ardents, à ne vouloir prendre son parti qu’au dernier moment, se fiant à son étoile ou à cet instinct d’adresse qui abandonne rarement les femmes. Jamais peut-être son cœur n’avait subi de si fortes contractions. Tantôt elle restait comme stupide, les yeux fixes, et tantôt, au moindre bruit, elle tressaillait comme ces arbres presque déracinés que les bûcherons agitent fortement avec une corde pour en hâter la chute. Tout à coup une détonation violente, produite par la décharge d’une douzaine de fusils, retentit dans le lointain. Mademoiselle de Verneuil pâlit, saisit la main de Francine, et lui dit : – Je meurs, ils me l’ont tué.</p>
         <p>Le pas pesant d’un soldat se fit entendre dans le salon. Francine épouvantée se leva et introduisit un caporal. Le Républicain, après avoir fait un salut militaire à mademoiselle de Verneuil, lui présenta des lettres dont le papier n’était pas très-propre. Le soldat, ne recevant aucune réponse de la jeune fille, lui dit en se retirant : – Madame, c’est de la part du commandant.</p>
         <p>Mademoiselle de Verneuil, en proie à de sinistres pressentiments, lisait une lettre écrite probablement à la hâte par Hulot.</p>
-        <p>@q letter</p>
+        <q type="letter">
         <p>Mademoiselle, mes Contre-Chouans viennent de s’emparer d’un des messagers du Gars qui vient d’être fusillé. Parmi les lettres interceptées, celle que je vous transmets peut vous être de quelque utilité, etc.</p>
-        <p>@/q</p>
+        </q>
         <p><pb n="271" xml:id="p271"/> – Grâce au ciel, ce n’est pas lui qu’ils viennent de tuer, s’écria-t-elle en jetant cette lettre au feu.</p>
         <p>Elle respira plus librement et lut avec avidité le billet qu’on venait de lui envoyer ; il était du marquis et semblait adressé à madame du Gua.</p>
-        <p>@q letter</p>
+        <q type="letter">
         <p>Non, mon ange, je n’irai pas ce soir à la Vivetière. Ce soir, vous perdez votre gageure avec le comte et je triomphe de la République en la personne de cette fille délicieuse, qui vaut certes bien une nuit, convenez-en. Ce sera le seul avantage réel que je remporterai dans cette campagne, car la Vendée se soumet. Il n’y a plus rien à faire en France, et nous repartirons sans doute ensemble pour l’Angleterre. Mais à demain les affaires sérieuses.</p>
-        <p>@/q</p>
+        </q>
         <p>Le billet lui échappa des mains, elle ferma les yeux, garda un profond silence, et resta penchée en arrière, la tête appuyée sur un coussin. Après une longue pause, elle leva les yeux sur la pendule qui alors marquait quatre heures.</p>
         <p>– Et monsieur se fait attendre, dit-elle avec une cruelle ironie.</p>
         <p>– Oh ! s’il pouvait ne pas venir, reprit Francine.</p>

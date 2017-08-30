@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!--Odette: 2017-08-16T11:21:36+02:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
-      <titleStmt/>
+      <titleStmt>
+        <title>Les Parents pauvres</title>
+        <author key="Balzac, Honoré de (1799-1850)">Honoré de Balzac</author>
+        <principal>Andrea Del Lungo</principal>
+        <principal>Pierre Glaudes</principal>
+        <principal>Jean-Gabriel Ganascia</principal>
+        <editor>Maxime Perret</editor>
+      </titleStmt>
       <editionStmt/>
       <publicationStmt>
         <availability status="restricted"/>
@@ -22,7 +28,7 @@
   <text>
     <body>
       <head>Les Parents pauvres</head>
-      <p>@dedication</p>
+      <div type="dedication">
       <salute><pb n="1" xml:id="p1"/> À DON MICHELE ANGELO CAJETANI, PRINCE DE TÉANO</salute>
       <p rend="noindent">Ce n’est ni au prince romain, ni à l’héritier de l’illustre maison de Cajetani qui a fourni des papes à la Chrétienté, c’est au savant commentateur de Dante que je dédie ce petit fragment d’une longue histoire.</p>
       <p>Vous m’avez fait apercevoir la merveilleuse charpente d’idées sur laquelle le plus grand poète italien a construit son poème, le seul que les modernes puissent opposer à celui d’Homère. Jusqu’à ce que je vous eusse entendu, la <hi rend="sc">Divine Comédie</hi> me semblait une immense énigme, dont le mot n’avait été trouvé par personne, et moins par les commentateurs que par qui que ce soit. Comprendre ainsi Dante, c’est être grand comme lui ; mais toutes les grandeurs vous sont familières.</p>
@@ -34,7 +40,7 @@
         <hi rend="sc">De Balzac.</hi>
       </signed>
       <dateline>Paris, août-septembre 1846.</dateline>
-      <p>@/dedication</p>
+      </div>
       <div>
         <head>Premier épisode
 <lb/>La Cousine Bette<note place="bottom">Erreur du Furne, qui maintient la subdivision « Première partie. / Le père prodigue » à la suite du titre « Premier épisode. La Cousine Bette ». Il n’y a pas de deuxième partie dans le roman : nous supprimons le titre superflu.</note></head>
@@ -357,7 +363,7 @@
         <p>Voici l’événement auquel était dû le mariage de cette énergie femelle et de cette faiblesse masculine, espèce de contre-sens assez fréquent, dit-on, en Pologne.</p>
         <p>En 1833, mademoiselle Fischer, qui travaillait parfois la nuit quand elle avait beaucoup d’ouvrage, sentit, vers une heure du matin, une forte odeur d’acide carbonique, et entendit les plaintes d’un mourant. L’odeur du charbon et le râle provenaient d’une mansarde située au-dessus des deux pièces dont se composait son appartement ; elle supposa qu’un jeune homme nouvellement venu dans la maison, et logé dans cette mansarde à louer depuis trois ans, se suicidait. Elle monta rapidement, enfonça la porte avec sa force de Lorraine en y pratiquant une pesée, et trouva le locataire se roulant sur un lit de sangle dans les convulsions de l’agonie. Elle éteignit le réchaud. La porte ouverte, l’air afflua, l’exilé fut sauvé ; puis, quand Lisbeth l’eut couché comme un malade, qu’il fut endormi, elle put reconnaître les causes du suicide dans le dénûment absolu des deux chambres de cette mansarde où il n’existait qu’une méchante table, le lit de sangle et deux chaises.</p>
         <p>Sur la table était cet écrit qu’elle lut :</p>
-        <p>@q letter</p>
+        <q type="letter">
         <p>Je suis le comte Wenceslas Steinbock, né à Prelie, en Livonie.</p>
         <p>Qu’on n’accuse personne de ma mort, les raisons de mon suicide sont dans ces mots de Kosciusko : <hi rend="i">Finis Poloniæ</hi> !</p>
         <p>Le petit-neveu d’un valeureux général de Charles XII n’a pas voulu mendier. Ma faible constitution m’interdisait le service militaire, et j’ai vu hier la fin des cent thalers avec lesquels je suis venu de Dresde à Paris. Je laisse vingt-cinq francs dans le tiroir de cette table pour payer le terme que je dois au propriétaire.</p>
@@ -366,7 +372,7 @@
         <signed>
           <hi rend="sc">Wenceslas !</hi>
         </signed>
-        <p>@/q</p>
+        </q>
         <p>Mademoiselle Fischer, excessivement touchée de la probité du moribond, qui payait son terme, ouvrit le tiroir, et vit en effet cinq pièces de cent sous.</p>
         <p>– Pauvre jeune homme ! s’écria-t-elle. Et personne au monde pour s’intéresser à lui !</p>
         <p>Elle descendit chez elle, y prit son ouvrage, et vint travailler dans cette mansarde, en veillant le gentilhomme livonien. À son réveil, on peut juger de l’étonnement de l’exilé, quand il vit une femme à son chevet ; il crut continuer un rêve. Tout en faisant des aiguillettes en or pour un uniforme, la vieille fille s’était promis de protéger ce pauvre enfant, qu’elle avait admiré dormant. Lorsque le jeune comte fut tout à fait éveillé, Lisbeth lui donna du courage, et le questionna pour savoir comment lui faire gagner sa vie. Wenceslas, après avoir raconté son histoire, ajouta qu’il avait dû sa place à sa vocation reconnue pour les arts ; il s’était toujours senti des dispositions pour la sculpture ; mais le temps nécessaire aux études lui paraissait trop long pour un homme sans argent, et il se sentait beaucoup trop faible en ce moment pour s’adonner à un état manuel ou entreprendre la grande sculpture. Ces paroles furent du grec pour Lisbeth Fischer. Elle répondit à ce malheureux que Paris offrait tant de ressources, qu’un homme de bonne volonté devait y vivre. Jamais les gens de cœur n’y périssaient quand ils apportaient un certain fonds de patience.</p>
@@ -412,9 +418,9 @@
         <p>Il est facile maintenant de comprendre l’espèce d’attachement extraordinaire que mademoiselle Fischer avait conçu pour son <pb n="63" xml:id="p63"/> Livonien ; elle le voulait heureux, et elle le voyait dépérissant, s’étiolant dans sa mansarde. On conçoit la raison de cette situation affreuse. La Lorraine surveillait cet enfant du Nord avec la tendresse d’une mère, avec la jalousie d’une femme et l’esprit d’un dragon ; ainsi elle s’arrangeait pour lui rendre toute folie, toute débauche impossible, en le laissant toujours sans argent. Elle aurait voulu garder sa victime et son compagnon pour elle, sage comme il était par force, et elle ne comprenait pas la barbarie de ce désir insensé, car elle avait pris, elle, l’habitude de toutes les privations. Elle aimait assez Steinbock pour ne pas l’épouser, et l’aimait trop pour le céder à une autre femme ; elle ne savait pas se résigner à n’en être que la mère, et se regardait comme une folle quand elle pensait à l’autre rôle. Ces contradictions, cette féroce jalousie, ce bonheur de posséder un homme à elle, tout agitait démesurément le cœur de cette fille. Éprise réellement depuis quatre ans, elle caressait le fol espoir de faire durer cette vie inconséquente et sans issue, où sa persistance devait causer la perte de celui qu’elle appelait son enfant. Ce combat de ses instincts et de sa raison la rendait injuste et tyrannique. Elle se vengeait sur ce jeune homme de ce qu’elle n’était ni jeune, ni riche, ni belle ; puis, après chaque vengeance, elle arrivait, en reconnaissant ses torts en elle-même, à des humilités, à des tendresses infinies. Elle ne concevait le sacrifice à faire à son idole qu’après y avoir écrit sa puissance à coups de hache. C’était enfin la <hi rend="i">Tempête</hi> de Shakspeare renversée, Caliban maître d’Ariel et de Prospero. Quant à ce malheureux jeune homme à pensées élevées, méditatif, enclin à la paresse, il offrait dans les yeux, comme ces lions encagés au Jardin des Plantes, le désert que sa protectrice faisait en son âme. Le travail forcé que Lisbeth exigeait de lui ne défrayait pas les besoins de son cœur. Son ennui devenait une maladie physique, et il mourait sans pouvoir demander, sans savoir se procurer l’argent d’une folie souvent nécessaire. Par certaines journées d’énergie, où le sentiment de son malheur accroissait son exaspération, il regardait Lisbeth comme un voyageur altéré, qui, traversant une côte aride, doit regarder une eau saumâtre. Ces fruits amers de l’indigence et de cette réclusion dans Paris, étaient savourés comme des plaisirs par Lisbeth. Aussi prévoyait-elle avec terreur que la moindre passion allait lui arracher son esclave. Parfois elle se reprochait, en contraignant par sa tyrannie et ses reproches ce poëte à devenir un <pb n="64" xml:id="p64"/> grand sculpteur de petites choses, de lui avoir donné les moyens de se passer d’elle.</p>
         <p>Le lendemain, ces trois existences, si diversement et si réellement misérables, celle d’une mère au désespoir, celle du ménage Marneffe et celle du pauvre exilé, devaient toutes être affectées par la passion naïve d’Hortense et par le singulier dénoûment que le baron allait trouver à sa passion malheureuse pour Josépha.</p>
         <p>Au moment d’entrer à l’Opéra, le Conseiller-d’État fut arrêté par l’aspect un peu sombre du temple de la rue Lepelletier, où il ne vit ni gendarmes, ni lumières, ni gens de service, ni barrières pour contenir la foule. Il regarda l’affiche, y vit une bande blanche au milieu de laquelle brillait ce mot sacramentel :</p>
-        <p>@q press</p>
+        <q type="press">
         <p rend="noindent center">RELÂCHE PAR INDISPOSITION.</p>
-        <p>@/q</p>
+        </q>
         <p>Aussitôt il s’élança chez Josépha qui demeurait dans les environs, comme tous les artistes attachés à l’Opéra, rue Chauchat.</p>
         <p>– Monsieur ! que demandez-vous ? lui dit le portier, à son grand étonnement.</p>
         <p>– Vous ne me connaissez donc plus ? répondit le baron avec inquiétude.</p>
@@ -761,11 +767,11 @@
         <p>– Et elle m’a traité comme un chien, pis que cela, comme un laquais ; je dirai mieux : comme un détenu politique. Mais je réussirai, dit-il en fermant le poing et en s’en frappant le front.</p>
         <p>– Pauvre homme, ce serait affreux de trouver sa femme en fraude, après avoir été renvoyé par sa maîtresse !…</p>
         <p>– Josépha ! s’écria Crevel, Josépha l’aurait quitté, renvoyé, chassé ! Bravo ! Josépha. Josépha ! tu m’as vengé ! je t’enverrai deux perles pour mettre à tes oreilles, mon ex-biche !… Je ne sais rien de cela, car, après vous avoir vue le lendemain du jour où la belle Adeline m’a prié encore une fois de passer la porte, je suis allé chez les Lebas, à Corbeil, d’où je reviens. Héloïse a fait le diable pour m’envoyer à la campagne, et j’ai su la raison de ses menées : elle voulait pendre, et sans moi, la crémaillère rue Chauchat, avec des artistes, des cabotins, des gens de lettres… J’ai été joué ! Je pardonnerai, car Héloïse m’amuse. C’est une Déjazet inédite. Comme elle est drôle, cette fille-là ! voici le billet que j’ai trouvé hier au soir :</p>
-        <p>@q letter</p>
+        <q type="letter">
         <p>
           <hi rend="i">Mon bon vieux, j’ai dressé ma tente rue Chauchat. J’ai pris la précaution de faire essuyer les plâtres par des amis. Tout va bien. Venez quand vous voudrez, monsieur. Agar attend son Abraham.</hi>
         </p>
-        <p>@/q</p>
+        </q>
         <p>– Héloïse me dira des nouvelles, car elle sait sa Bohême sur le bout du doigt.</p>
         <p><pb n="103" xml:id="p103"/> – Mais mon cousin a très-bien pris ce désagrément, répondit la cousine.</p>
         <p>– Pas possible, dit Crevel en s’arrêtant dans sa marche semblable à celle d’un balancier de pendule.</p>
@@ -918,16 +924,16 @@
         <p>– Voilà ce que j’aime ! s’écria le baron, la belle jeunesse ne doutant de rien ! J’aurais culbuté des armées pour une femme ! Allons, dit-il en prenant la main du jeune sculpteur et y frappant, vous avez mon consentement. Dimanche prochain le contrat, et le samedi suivant, à l’autel, c’est le jour de la fête de ma femme !</p>
         <p>– Tout va bien, dit la baronne à sa fille collée à la fenêtre, ton futur et ton père s’embrassent.</p>
         <p>En rentrant chez lui le soir, Wenceslas eut l’explication de l’énigme que présentait sa délivrance ; il trouva chez le portier un gros paquet cacheté qui contenait le dossier de sa créance avec une quittance régulière, libellée au bas du jugement, et accompagné de la lettre suivante :</p>
-        <p>@q letter</p>
-        <salute>Mon cher Wenceslas,</salute>
-        <p>Je suis venu te voir ce matin, à dix heures, pour te présenter à une altesse royale qui désirait te connaître. Là, j’ai su que les Anglais t’avaient emmené dans une de leurs petites îles dont la capitale s’appelle <hi rend="i">Clichy’s Castle</hi>.</p>
-        <p>Je suis aussitôt allé voir Léon de Lora, à qui j’ai dit en riant que tu ne pouvais pas quitter la campagne où tu étais faute de quatre mille francs, et que tu allais compromettre ton avenir, si tu ne te montrais pas à ton royal protecteur. Bridau, cet homme de génie qui a connu la misère et qui sait ton histoire, était là par bonheur. Mon fils, à eux deux, ils ont fait la somme, et je suis allé payer pour toi le Bédouin qui a commis un crime de lèse-génie en te coffrant. Comme je devais être aux Tuileries à midi, je n’ai pas pu te voir humant l’air libre. Je te sais gentilhomme, j’ai répondu de toi à mes deux amis ; mais va les voir demain.</p>
-        <p>Léon et Bridau ne voudront pas de ton argent ; ils te demanderont chacun un groupe, et ils auront raison. C’est ce que pense celui qui voudrait pouvoir se dire ton rival, et qui n’est que</p>
-        <signed>Ton camarade, <hi rend="sc">Stidmann</hi>.</signed>
-        <postscript>
-          <p><hi rend="i">P. S.</hi> J’ai dit au prince que tu ne revenais de voyage que demain, et il a dit : Eh bien ! demain !</p>
-        </postscript>
-        <p>@/q</p>
+        <q type="letter">
+          <salute>Mon cher Wenceslas,</salute>
+          <p>Je suis venu te voir ce matin, à dix heures, pour te présenter à une altesse royale qui désirait te connaître. Là, j’ai su que les Anglais t’avaient emmené dans une de leurs petites îles dont la capitale s’appelle <hi rend="i">Clichy’s Castle</hi>.</p>
+          <p>Je suis aussitôt allé voir Léon de Lora, à qui j’ai dit en riant que tu ne pouvais pas quitter la campagne où tu étais faute de quatre mille francs, et que tu allais compromettre ton avenir, si tu ne te montrais pas à ton royal protecteur. Bridau, cet homme de génie qui a connu la misère et qui sait ton histoire, était là par bonheur. Mon fils, à eux deux, ils ont fait la somme, et je suis allé payer pour toi le Bédouin qui a commis un crime de lèse-génie en te coffrant. Comme je devais être aux Tuileries à midi, je n’ai pas pu te voir humant l’air libre. Je te sais gentilhomme, j’ai répondu de toi à mes deux amis ; mais va les voir demain.</p>
+          <p>Léon et Bridau ne voudront pas de ton argent ; ils te demanderont chacun un groupe, et ils auront raison. C’est ce que pense celui qui voudrait pouvoir se dire ton rival, et qui n’est que</p>
+          <signed>Ton camarade, <hi rend="sc">Stidmann</hi>.</signed>
+          <postscript>
+            <p><hi rend="i">P. S.</hi> J’ai dit au prince que tu ne revenais de voyage que demain, et il a dit : Eh bien ! demain !</p>
+          </postscript>
+        </q>
         <p><pb n="117" xml:id="p117"/> Le comte Wenceslas se coucha dans les draps de pourpre que nous fait, sans un pli de rose, la Faveur, cette céleste boiteuse, qui, pour les gens de génie, marche plus lentement encore que la Justice et la Fortune, parce que Jupiter a voulu qu’elle n’eût pas de bandeau sur les yeux. Facilement trompée par les étalages des charlatans, attirée par leurs costumes et leurs trompettes, elle dépense à voir et à payer leurs parades le temps pendant lequel elle devrait<note place="bottom">Erreur du Furne : « devait » au lieu de « devrait ».</note> chercher les gens de mérite dans les coins où ils se cachent.</p>
         <p>Maintenant il est nécessaire d’expliquer comment monsieur le baron Hulot était arrivé à grouper les chiffres de la dot d’Hortense, et à satisfaire aux dépenses effrayantes du délicieux appartement où devait<note place="bottom">Erreur du Furne : « devrait » au lieu de « devait ».</note> s’installer madame Marneffe. Sa conception financière portait le cachet du talent qui guide les dissipateurs et les gens passionnés dans les fondrières, où tant d’accidents les font périr. Rien ne démontrera mieux la singulière puissance que communiquent les vices, et à laquelle on doit les tours de force qu’accomplissent de temps en temps les ambitieux, les voluptueux, enfin tous les sujets du diable.</p>
         <p>La veille au matin, un vieillard, Johann Fischer, faute de payer trente mille francs encaissés par son neveu, se voyait dans la nécessité de déposer son bilan, si le baron ne les lui remettait pas.</p>
@@ -1020,10 +1026,10 @@
         <p>Ces coquets mensonges, que débitent presque toutes les femmes <pb n="127" xml:id="p127"/> dans la situation où se trouvait Valérie, faisaient entrevoir au baron les roses du septième ciel. Aussi, Valérie fit-elle des façons, tandis que l’amoureux artiste et Hortense attendaient peut-être impatiemment que la baronne eût donné sa dernière bénédiction et son dernier baiser à la jeune fille.</p>
         <p>À sept heures du matin, le baron, au comble du bonheur, car il avait trouvé la jeune fille la plus innocente et le diable le plus consommé dans sa Valérie, revint relever monsieur et madame Hulot jeune de leur corvée. Ces danseurs et ces danseuses, presque étrangers à la maison, et qui finissent par s’emparer du terrain à toutes les noces, se livraient à ces interminables dernières contredanses nommées des cotillons, les joueurs de bouillote étaient acharnés à leurs tables, le père Crevel gagnait six mille francs.</p>
         <p>Les journaux, distribués par les porteurs, contenaient aux Faits-Paris ce petit article :</p>
-        <p>@q press</p>
+        <q type="press">
         <p>La célébration du mariage de monsieur le comte de Steinbock et de mademoiselle Hortense Hulot, fille du baron Hulot d’Ervy, Conseiller-d’État et directeur au Ministère de la guerre, nièce de l’illustre comte de Forzheim, a eu lieu ce matin à Saint-Thomas-d’Aquin. Cette solennité avait attiré beaucoup de monde. On remarquait dans l’assistance quelques-unes de nos célébrités artistiques : Léon de Lora, Joseph Bridau, Stidmann, Bixiou, les notabilités de l’administration de la Guerre, du Conseil-d’État, et plusieurs membres des deux Chambres ; enfin les sommités de l’émigration polonaise, les comtes Paz, Laginski, etc.</p>
         <p>Monsieur le comte Wenceslas de Steinbock est le petit-neveu du célèbre général de Charles XII, roi de Suède. Le jeune comte ayant pris part à l’insurrection polonaise, est venu chercher un asile en France, où la juste célébrité de son talent lui a valu des lettres de petite naturalité.</p>
-        <p>@/q</p>
+        </q>
         <p>Ainsi, malgré la détresse effroyable du baron Hulot d’Ervy, rien de ce qu’exige l’opinion publique ne manqua, pas même la célébrité donnée par les journaux au mariage de sa fille, dont la célébration fut en tout point semblable à celui de Hulot fils avec mademoiselle Crevel. Cette fête atténua les propos qui se tenaient sur la situation financière du directeur, de même que la dot donnée à sa fille expliqua la nécessité où il s’était trouvé de recourir au crédit.</p>
         <p>Ici se termine en quelque sorte l’introduction de cette histoire. Ce récit est au drame qui le complète, ce que sont les prémisses à <pb n="128" xml:id="p128"/> une proposition, ce qu’est toute exposition à toute tragédie classique.</p>
         <p>Quand, à Paris, une femme a résolu de faire métier et marchandise de sa beauté, ce n’est pas une raison pour qu’elle fasse fortune. On y rencontre d’admirables créatures, très-spirituelles, dans une affreuse médiocrité, finissant très-mal une vie commencée par les plaisirs. Voici pourquoi : Se destiner à la carrière honteuse des courtisanes, avec l’intention d’en palper les avantages, tout en gardant la robe d’une honnête bourgeoise mariée, ne suffit pas. Le Vice n’obtient pas facilement ses triomphes ; il a cette similitude avec le Génie, qu’ils exigent tous deux un concours de circonstances heureuses pour opérer le cumul de la fortune et du talent. Supprimez les phases étranges de la Révolution, l’Empereur n’existe plus, il n’aurait plus été qu’une seconde édition de Fabert. La beauté vénale sans amateurs, sans célébrité, sans la croix de déshonneur que lui valent des fortunes dissipées, c’est un Corrége dans un grenier, c’est le Génie expirant dans sa mansarde. Une Laïs à Paris doit donc, avant tout, trouver un homme riche qui se passionne assez pour lui donner son prix. Elle doit surtout conserver une grande élégance qui, pour elle, est une enseigne, avoir d’assez bonnes manières pour flatter l’amour-propre des hommes, posséder cet esprit à la Sophie Arnould, qui réveille l’apathie des riches ; enfin elle doit se faire désirer par les libertins en paraissant être fidèle à un seul, dont le bonheur est alors envié.</p>
@@ -1090,9 +1096,9 @@
         <p>– Faites excuse, le maréchal y est. Oh ! il vient tous les jours, et elle lui dit toujours qu’elle a vu monsieur le matin, qu’il rentre la nuit fort tard.</p>
         <p>– Et y a-t-il un bon dîner, aujourd’hui ?… demanda Bette.</p>
         <p>Mariette hésitait à répondre, elle soutenait mal le regard de la Lorraine, quand la porte du salon s’ouvrit, et le maréchal Hulot sortit si précipitamment, qu’il salua Bette sans la regarder, et laissa tomber des papiers. Bette ramassa ces papiers et courut dans l’escalier, car il était inutile de crier après un sourd ; mais elle s’y prit de manière à ne pas pouvoir rejoindre le maréchal, elle revint et lut furtivement ce qui suit écrit au crayon :</p>
-        <p>@q letter</p>
+        <q type="letter">
         <p>Mon cher frère, mon mari m’a donné l’argent de la dépense pour le trimestre ; mais ma fille Hortense en a eu si grand besoin, que je lui ai prêté la somme entière, qui suffisait à peine à sortir d’embarras. Pouvez-vous me prêter quelques cents francs, car je ne veux pas redemander de l’argent à Hector ; un reproche de lui me ferait trop de peine.</p>
-        <p>@/q</p>
+        </q>
         <p><pb n="145" xml:id="p145"/> – Ah ! pensa Lisbeth, pour qu’elle ait fait plier à ce point son orgueil, dans quelle extrémité se trouve-t-elle donc ?</p>
         <p>Lisbeth entra, surprit Adeline en pleurs et lui sauta au cou.</p>
         <p>– Adeline, ma chère enfant, je sais tout ! dit la cousine Bette. Tiens, le maréchal a laissé tomber ce papier, tant il était troublé, car il courait comme un lévrier… Cet affreux Hector ne t’a pas donné d’argent depuis ?…</p>
@@ -1114,9 +1120,9 @@
         <p>En ce moment, Hulot jeune et sa femme arrivèrent.</p>
         <p>– Mon frère dîne avec nous ? demanda le maréchal d’un ton bref.</p>
         <p>Adeline prit un crayon et mit sur un petit carré de papier ces mots :</p>
-        <p>@q letter</p>
+        <q type="letter">
         <p>Je l’attends, il m’a promis ce matin de dîner ici ; mais s’il ne venait pas, le maréchal l’aurait retenu, car il est accablé d’affaires.</p>
-        <p>@/q</p>
+        </q>
         <p>Et elle présenta le papier. Elle avait inventé ce mode de conversation pour le maréchal, et une provision de petits carrés de papier était placée avec un crayon sur sa travailleuse.</p>
         <p>– Je sais, répondit le maréchal, qu’il est accablé de travail à cause de l’Algérie.</p>
         <p>Hortense et Wenceslas entrèrent en ce moment, et, en voyant sa famille autour d’elle, la baronne reporta sur le maréchal un regard dont la signification ne fut comprise que par Lisbeth.</p>
@@ -1372,9 +1378,9 @@
         <p>Crevel prit un bougeoir et mena son ami dans la chambre à coucher, où, sur une causeuse, Hulot vit une robe de chambre magnifique appartenant à Valérie, et qu’elle avait portée rue Vanneau, pour s’en faire honneur avant de l’employer à la petite maison Crevel. Le maire fit jouer le secret d’un joli petit meuble en marqueterie appelé <hi rend="i">bonheur du jour</hi>, y fouilla, saisit une lettre et la tendit au baron.</p>
         <p>– Tiens, lis.</p>
         <p>Le Conseiller-d’État lut ce petit billet écrit au crayon :</p>
-        <p>@q letter</p>
+        <q type="letter">
         <p>Je t’ai vainement attendu, vieux rat ! Une femme comme moi n’attend jamais un ancien parfumeur. Il n’y avait ni dîner commandé, ni cigarettes. Tu me payeras tout cela.</p>
-        <p>@/q</p>
+        </q>
         <p>– Est-ce bien son écriture ?</p>
         <p>– Mon Dieu ! dit Hulot en s’asseyant accablé. Je reconnais tout ce qui lui a servi, voilà ses bonnets et ses pantoufles. Ah ! çà, voyons, depuis quand…</p>
         <p>Crevel fit signe qu’il comprenait, et empoigna une liasse de mémoires dans le petit secrétaire en marqueterie.</p>
@@ -1700,10 +1706,10 @@
         <p>– Voyons, Valérie, est-ce vrai ? dit Lisbeth, ou n’est-ce qu’une comédie ?</p>
         <p>– C’est une vérité physique ! répondit Valérie. Hortense <hi rend="i">m’embête</hi> ! Et, cette nuit, je pensais à lancer cet enfant comme une bombe dans le ménage de Wenceslas.</p>
         <p>Valérie rentra dans sa chambre, suivie de Lisbeth, et lui montra tout écrite la lettre suivante :</p>
-        <p>@q letter</p>
+        <q type="letter">
         <p>Wenceslas, mon ami, je crois encore à ton amour, quoique je ne t’aie pas vu depuis bientôt vingt jours. Est-ce du dédain ? Dalila ne le saurait penser. N’est-ce pas plutôt un effet de la tyrannie d’une femme que tu m’as dit ne pouvoir plus aimer ? Wenceslas, tu es un trop grand artiste pour te laisser ainsi <pb n="212" xml:id="p212"/> dominer. Le ménage est le tombeau de la gloire… Vois si tu ressembles au Wenceslas de la rue du Doyenné ? Tu as raté le monument de mon père ; mais chez toi l’amant est bien supérieur à l’artiste, tu es plus heureux avec la fille : tu es père, mon adoré Wenceslas. Si tu ne venais pas me voir dans l’état où je suis, tu passerais pour bien mauvais homme aux yeux de tes amis ; mais, je le sens, je t’aime si follement, que je n’aurai jamais la force de te maudire. Puis-je me dire toujours</p>
         <signed>Ta <hi rend="sc">Valérie</hi>.</signed>
-        <p>@/q</p>
+        </q>
         <p>– Que dis-tu de mon projet d’envoyer cette lettre à l’atelier au moment où notre chère Hortense y sera seule ? demanda Valérie à Lisbeth. Hier au soir, j’ai su par Stidmann que Wenceslas doit l’aller prendre à onze heures pour une affaire chez Chanor ; ainsi cette gaupe d’Hortense sera seule.</p>
         <p>– Après un tour semblable, répondit Lisbeth, je ne pourrai plus rester ostensiblement ton amie, et il faudra que je te donne congé, que je sois censée ne plus te voir, ni même te parler.</p>
         <p>– Évidemment, dit Valérie ; mais…</p>
@@ -1720,7 +1726,7 @@
         <p>Au moment où le baron Hulot, heureux comme le marié d’un an qui désire un héritier, sortait de la rue Vanneau, madame Olivier s’était fait arracher, par Hortense, la lettre qu’elle devait remettre à monsieur le comte, en mains propres. La jeune femme paya cette lettre d’une pièce de vingt francs. Le suicide paye son opium, son pistolet, son charbon. Hortense lut la lettre, elle la relut ; elle ne voyait que ce papier blanc bariolé de lignes noires, il n’y avait que ce papier dans la nature, tout était noir autour d’elle. La lueur de l’incendie qui dévorait l’édifice de son bonheur éclairait le papier, car la nuit la plus profonde régnait autour d’elle. Les cris de son petit Wenceslas, qui jouait, parvenaient à son oreille comme s’il eût été dans le fond d’un vallon, et qu’elle eût été sur un sommet. Outragée à vingt-quatre ans, dans tout l’éclat de la beauté, parée d’un amour pur et dévoué, c’était non pas un coup de poignard, mais la mort. La première attaque avait été purement nerveuse, le corps s’était tordu sous l’étreinte de la jalousie ; mais la certitude attaqua l’âme, le corps fut anéanti. Hortense demeura pendant dix minutes environ sous cette oppression. Le fantôme de sa mère lui apparut et lui fit une révolution ; elle devint calme et froide, elle recouvra sa raison. Elle sonna.</p>
         <p>– Que Louise, ma chère, dit-elle à la cuisinière, vous aide. Vous allez faire, le plus tôt possible, des paquets de tout ce qui <pb n="214" xml:id="p214"/> est à moi ici, et de tout ce qui regarde mon fils. Je vous donne une heure. Quand tout sera prêt, allez chercher sur la place une voiture, et prévenez-moi. Pas d’observations ! Je quitte la maison et j’emmène Louise. Vous resterez, vous, avec monsieur ; ayez bien soin de lui…</p>
         <p>Elle passa dans sa chambre, se mit à sa table, et écrivit la lettre suivante :</p>
-        <p>@q letter</p>
+        <q type="letter">
         <salute>Monsieur le comte,</salute>
         <p>La lettre jointe à la mienne vous expliquera la cause de la résolution que j’ai prise.</p>
         <p>Quand vous lirez ces lignes, j’aurai quitté votre maison, et je me serai retirée auprès de ma mère, avec notre enfant.</p>
@@ -1733,7 +1739,7 @@
         <signed>
           <hi rend="sc">Hortense Hulot.</hi>
         </signed>
-        <p>@/q</p>
+        </q>
         <p>Cette lettre fut péniblement écrite, Hortense s’abandonnait aux pleurs, aux cris de la passion égorgée. Elle quittait et reprenait la plume pour exprimer simplement ce que l’amour déclame ordinairement dans ces lettres testamentaires. Le cœur s’exhalait en interjections, en plaintes, en pleurs ; mais la raison dictait.</p>
         <p>La jeune femme, avertie par Louise que tout était prêt, parcourut lentement le jardinet, la chambre, le salon, y regarda tout pour la dernière fois. Puis elle fit à la cuisinière les recommandations les plus vives pour qu’elle veillât au bien-être de Monsieur, en lui promettant de la récompenser si elle voulait être honnête. Enfin, elle monta dans la voiture pour se rendre chez sa mère, le cœur brisé, pleurant à faire peine à sa femme de chambre, et couvrant le petit Wenceslas de baisers avec une joie délirante qui trahissait encore bien de l’amour pour le père.</p>
         <p>La baronne savait déjà par Lisbeth que le beau-père était pour beaucoup dans la faute de son gendre, elle ne fut pas surprise de voir arriver sa fille, elle l’approuva et consentit à la garder près d’elle. Adeline, en voyant que la douceur et le dévouement n’avaient jamais arrêté son Hector, pour qui son estime commençait à diminuer, trouva que sa fille avait raison de prendre une autre voie. En vingt jours, la pauvre mère venait de recevoir deux blessures dont les souffrances surpassaient toutes ses tortures passées. Le baron avait mis Victorin et sa femme dans la gêne ; puis il était la cause, suivant Lisbeth, du dérangement de Wenceslas, il avait <pb n="216" xml:id="p216"/> dépravé son gendre. La majesté de ce père de famille, maintenue pendant si long-temps par des sacrifices insensés, était dégradée. Sans regretter leur argent, les Hulot jeunes concevaient à la fois de la défiance et des inquiétudes à l’égard du baron. Ce sentiment assez visible affligeait profondément Adeline, elle pressentait la dissolution de la famille. La baronne logea sa fille dans la salle à manger, qui fut promptement transformée en chambre à coucher, grâce à l’argent du maréchal ; et l’antichambre devint, comme dans beaucoup de ménages, la salle à manger.</p>
@@ -1847,9 +1853,9 @@
         <p>– Lui-même ?</p>
         <p><pb n="229" xml:id="p229"/> – Lui-même.</p>
         <p>Le fourrier, qui fouillait dans la doublure de son képi pendant ce colloque, en tira une lettre que le baron décacheta vivement et il lut ce qui suit :</p>
-        <p>@q letter</p>
+        <q type="letter">
         <p>Mon neveu, loin de pouvoir vous envoyer les cent mille francs que vous me demandez, ma position n’est pas tenable, si vous ne prenez pas des mesures énergiques pour me sauver. Nous avons sur le dos un procureur du roi, qui parle morale et baragouine des bêtises sur l’administration. Impossible de faire taire ce pékin-là. Si le ministère de la guerre se laisse manger dans la main par les habits noirs, je suis mort. Je suis sûr du porteur, tâchez de l’avancer, car il nous a rendu service. Ne me laissez pas aux corbeaux !</p>
-        <p>@/q</p>
+        </q>
         <p>Cette lettre fut un coup de foudre, le baron y voyait éclore les déchirements intestins qui tiraillent encore aujourd’hui le gouvernement de l’Algérie entre le civil et le militaire, et il devait inventer sur-le-champ des palliatifs à la plaie qui se déclarait. Il dit au soldat de revenir le lendemain ; et après l’avoir congédié non sans de belles promesses d’avancement, il rentra dans le salon.</p>
         <p>– Bonjour, et adieu, mon frère ! dit-il au maréchal. Adieu, mes enfants, adieu, ma bonne Adeline. Et que vas-tu devenir, Lisbeth ? dit-il.</p>
         <p>– Moi, je vais tenir le ménage du maréchal, car il faut que j’achève ma carrière en vous rendant toujours service aux uns ou aux autres.</p>
@@ -1874,19 +1880,19 @@
         <p>Deux heures après, au moment où le baron achevait d’endoctriner Claude Vignon, qu’il voulait envoyer au ministère de la Justice prendre des renseignements sur les autorités judiciaires dans la circonscription desquelles se trouvait Johann Fischer, Reine ouvrit le cabinet de monsieur le directeur, et vint lui remettre une petite lettre en en demandant la réponse.</p>
         <p>– Envoyer Reine ! se dit le baron. Valérie est folle, elle nous compromet tous, et compromet la nomination de cet abominable Marneffe !</p>
         <p>Il congédia le secrétaire particulier du ministre et lut ce qui suit :</p>
-        <p>@q letter</p>
+        <q type="letter">
         <p>Ah ! mon ami, quelle scène je viens de subir ; si tu m’as donné le bonheur depuis trois ans, je l’ai bien payé ! Il est rentré de son bureau dans un état de fureur à faire frissonner. Je le connaissais bien laid, je l’ai vu monstrueux. Ses quatre véritables dents tremblaient, et il m’a menacée de son odieuse compagnie, si je continuais à te recevoir. Mon pauvre chat, hélas ! notre porte sera fermée pour toi désormais. Tu vois mes larmes, elles tombent sur mon papier, elles le trempent ! pourras-tu me lire, mon cher Hector ? Ah ! ne plus te voir, renoncer à toi, quand <pb n="232" xml:id="p232"/> j’ai en moi un peu de ta vie comme je crois avoir ton cœur, c’est à en mourir. Songe à notre petit Hector ! ne m’abandonne pas ; mais ne te déshonore pas pour Marneffe, ne cède pas à ses menaces ! Ah ! je t’aime comme je n’ai jamais aimé ! Je me suis rappelé tous les sacrifices que tu as faits pour ta Valérie, elle n’est pas et ne sera jamais ingrate : tu es, tu seras mon seul mari. Ne pense plus aux douze cents francs de rente que je te demande pour ce cher petit Hector qui viendra dans quelques mois… je ne veux plus rien te coûter. D’ailleurs, ma fortune sera toujours la tienne.</p>
         <p>Ah ! si tu m’aimais autant que je t’aime, mon Hector, tu prendrais ta retraite, nous laisserions là chacun nos familles, nos ennuis, nos entourages où il y a tant de haine, et nous irions vivre avec Lisbeth dans un joli pays, en Bretagne, où tu voudras. Là nous ne verrions personne, et nous serions heureux, loin de tout ce monde. Ta pension de retraite, et le peu que j’ai, en mon nom, nous suffira. Tu deviens jaloux, eh ! bien, tu verrais ta Valérie occupée uniquement de son Hector, et tu n’aurais jamais à faire ta grosse voix comme l’autre jour. Je n’aurai jamais qu’un enfant, ce sera le nôtre, sois-en bien sûr, mon vieux grognard aimé. Non, tu ne peux pas te figurer ma rage, car il faut savoir comment il m’a traitée, et les grossièretés qu’il a vomies sur ta Valérie ! ces mots-là saliraient ce papier ; mais une femme comme moi, la fille de Montcornet, n’aurait jamais dû dans toute sa vie en entendre un seul. Oh ! je t’aurais voulu là pour le punir par le spectacle de la passion insensée qui me prenait pour toi. Mon père aurait sabré ce misérable, moi je ne peux que ce que peut une femme : t’aimer avec frénésie ! Aussi, mon amour, dans l’état d’exaspération où je suis, m’est-il impossible de renoncer à te voir. Oui ! je veux te voir en secret, tous les jours ! Nous sommes ainsi, nous autres femmes : j’épouse ton ressentiment. De grâce, si tu m’aimes, ne le fais pas chef de bureau, qu’il crève sous-chef !… En ce moment, je n’ai plus la tête à moi, j’entends encore ses injures. Bette, qui voulait me quitter, a eu pitié de moi, elle reste pour quelques jours.</p>
         <p>Mon bon chéri, je ne sais encore que faire. Je ne vois que la fuite. J’ai toujours adoré la campagne, la Bretagne, le Languedoc, tout ce que tu voudras, pourvu que je puisse t’aimer en liberté. Pauvre chat, comme je te plains ! te voilà forcé de <pb n="233" xml:id="p233"/> revenir à ta vieille Adeline, à cette urne lacrymale, car il a dû te le dire, le monstre, il veillera jour et nuit sur moi ; il a parlé de commissaire de police ! Ne viens pas ! je comprends qu’il est capable de tout, du moment où il faisait de moi la plus ignoble des spéculations. Aussi voudrais-je pouvoir te rendre tout ce que je tiens de tes générosités. Ah ! mon bon Hector, j’ai pu coqueter, te paraître légère, mais tu ne connaissais pas ta Valérie ; elle aimait à te tourmenter, mais elle te préfère à tout au monde. On ne peut pas t’empêcher de venir voir ta cousine, je vais combiner avec elle les moyens de nous parler. Mon bon chat, écris-moi de grâce un petit mot pour me rassurer, à défaut de ta chère présence… (oh ! je donnerais une main pour te tenir sur notre divan). Une lettre me fera l’effet d’un talisman ; écris-moi quelque chose où soit toute ta belle âme ; je te rendrai ta lettre, car il faut être prudent, je ne saurais où la cacher, il fouille partout. Enfin, rassure ta Valérie, ta femme, la mère de ton enfant. Être obligée de t’écrire, moi qui te voyais tous les jours. Aussi dis-je à Lisbeth : Je ne connaissais pas mon bonheur. Mille caresses, mon chat. Aime bien</p>
         <signed>Ta <hi rend="sc">Valérie</hi>.</signed>
-        <p>@/q</p>
+        </q>
         <p>– Et des larmes !… se dit Hulot en achevant cette lettre, des larmes qui rendent son nom indéchiffrable. – Comment va-t-elle ? dit-il à Reine.</p>
         <p>– Madame est au lit, elle a des convulsions, répondit Reine. L’attaque de nerfs a tordu madame comme un lien de fagot, ça l’a prise après avoir écrit. Oh ! c’est d’avoir pleuré… L’on entendait la voix de monsieur dans les escaliers.</p>
         <p>Le baron, dans son trouble, écrivit la lettre suivante sur son papier officiel, à têtes imprimées :</p>
-        <p>@q letter</p>
+        <q type="letter">
         <p>Sois tranquille, mon ange, <hi rend="i">il</hi> crèvera sous-chef ! Ton idée est excellente, nous nous en irons vivre loin de Paris, nous serons heureux avec notre petit Hector ; je prendrai ma retraite, je saurai trouver une belle place dans quelque chemin de fer. Ah ! mon aimable amie, je me sens rajeuni par ta lettre ! Oh ! je recommencerai la vie, et je ferai, tu le verras, une fortune à notre cher petit. En lisant ta lettre, mille fois plus brûlante que celles de la Nouvelle Héloïse, elle a fait un miracle : je ne <pb n="234" xml:id="p234"/> croyais pas que mon amour pour toi pût augmenter. Tu verras ce soir chez Lisbeth</p>
         <signed>Ton <hi rend="sc">Hector</hi> pour la vie !</signed>
-        <p>@/q</p>
+        </q>
         <p>Reine emporta cette réponse, la première lettre que le baron écrivait à <hi rend="i">son aimable amie</hi> ! De semblables émotions formaient un contre-poids aux désastres qui grondaient à l’horizon ; mais, en ce moment, le baron se croyant sûr de parer les coups portés à son oncle, Johann Fischer, ne se préoccupait que du déficit.</p>
         <p>Une des particularités du caractère bonapartiste, c’est la foi dans la puissance du sabre, la certitude de la prééminence du militaire sur le civil. Hulot se moquait du procureur du roi de l’Algérie, où règne le Ministère de la Guerre. L’homme reste ce qu’il a été. Comment les officiers de la garde impériale peuvent-ils oublier d’avoir vu les Maires des bonnes villes de l’Empire, les Préfets de l’Empereur, ces empereurs au petit pied, venant recevoir la garde impériale, la complimenter à la limite des départements qu’elle traversait, et lui rendre enfin des honneurs souverains ?</p>
         <p>À quatre heures et demie, le baron alla droit chez madame Marneffe ; le cœur lui battait en montant l’escalier comme à un jeune homme, car il s’adressait cette question mentale : « La verrai-je ? ne la verrai-je pas ? » Comment pouvait-il se souvenir de la scène du matin où sa famille en larmes gisait à ses pieds ? La lettre de Valérie, mise pour toujours dans un mince portefeuille sur son cœur, ne lui prouvait-elle pas qu’il était plus aimé que le plus aimable des jeunes gens ? Après avoir sonné, l’infortuné baron entendit la traînerie des chaussons et l’exécrable tousserie de l’invalide Marneffe. Marneffe ouvrit la porte, mais pour se mettre en position et pour indiquer l’escalier à Hulot par un geste exactement semblable à celui par lequel Hulot lui avait montré la porte de son cabinet.</p>
@@ -1921,14 +1927,14 @@
         <p>Et le baron, après avoir vu entrer Lisbeth rue Vanneau, revint faire le whist et resta chez lui. La baronne fut au comble du bonheur, son mari paraissait revenir à la vie de famille ; car, pendant quinze jours environ, il alla le matin au Ministère à neuf heures, il était de retour à six heures pour dîner, et il demeurait le soir au milieu de sa famille. Il mena deux fois Adeline et Hortense au spectacle. La mère et la fille firent dire trois messes d’actions de grâces, et prièrent Dieu de leur conserver le mari, le père qu’il leur avait rendu. Un soir, Victorin Hulot en voyant son père aller se coucher dit à sa mère : – Eh ! bien, nous sommes heureux, mon père nous est revenu ; aussi ne regretterons-nous pas, ma femme et moi, nos capitaux, si cela tient…</p>
         <p>– Votre père a soixante-dix ans bientôt, répondit la baronne, il pense encore à madame Marneffe, je m’en suis aperçue ; mais bientôt il n’y pensera plus : la passion des femmes n’est pas comme le jeu, comme la spéculation, ou comme l’avarice, on y voit un terme.</p>
         <p>La belle Adeline, car cette femme était toujours belle en dépit de ses cinquante ans et de ses chagrins, se trompait en ceci. Les libertins, ces gens que la nature a doués de la faculté précieuse d’aimer au delà des limites qu’elle fixe à l’amour, n’ont presque jamais leur âge. Pendant ce laps de vertu, le baron était allé trois fois rue du Dauphin, et il n’y avait jamais eu soixante-dix ans. La passion ranimée le rajeunissait, et il eût livré son honneur à Valérie, sa famille, tout, sans un regret. Mais Valérie, entièrement changée, ne lui parlait jamais ni d’argent, ni des douze cents francs de rente à faire à leur fils ; au contraire, elle lui offrait de l’or, elle aimait Hulot comme une femme de trente-six ans aime un bel étudiant en droit, bien pauvre, bien poétique, bien amoureux. Et la pauvre Adeline croyait avoir reconquis son cher Hector ! Le quatrième rendez-vous des deux amants avait été pris, au dernier <pb n="238" xml:id="p238"/> moment du troisième, absolument comme autrefois la Comédie-Italienne annonçait à la fin de la représentation le spectacle du lendemain. L’heure dite était neuf du matin. Au jour de l’échéance de ce bonheur dont l’espérance faisait accepter au passionné vieillard la vie de famille, vers huit heures, Reine fit demander le baron. Hulot, craignant une catastrophe, alla parler à Reine, qui ne voulut pas entrer dans l’appartement. La fidèle femme de chambre remit la lettre suivante au baron :</p>
-        <p>@q letter</p>
+        <q type="letter">
         <p>Mon vieux grognard, ne va pas rue du Dauphin, notre cauchemar est malade, et je dois le soigner ; mais sois là ce soir, à neuf heures. Crevel est à Corbeil, chez monsieur Lebas, je suis certaine qu’il n’amènera pas de princesse à sa petite maison. Moi je me suis arrangée ici pour avoir ma nuit, je puis être de retour avant que Marneffe ne s’éveille. Réponds-moi sur tout cela ; car peut-être ta grande élégie de femme ne te laisse-t-elle plus ta liberté comme autrefois. On la dit si belle encore que tu es capable de me trahir, tu es un si grand libertin ! Brûle ma lettre, je me défie de tout.</p>
-        <p>@/q</p>
+        </q>
         <p>Hulot écrivit ce petit bout de réponse :</p>
-        <p>@q letter</p>
+        <q type="letter">
         <p>Mon amour, jamais ma femme, comme je te l’ai dit, n’a, depuis vingt-cinq ans, gêné mes plaisirs. Je te sacrifierais cent Adeline ! Je serai ce soir, à neuf heures, dans le temple Crevel, attendant ma divinité. Puisse le sous-chef crever bientôt ! nous ne serions plus séparés ; voilà le plus cher des vœux de</p>
         <signed>Ton <hi rend="sc">Hector</hi>.</signed>
-        <p>@/q</p>
+        </q>
         <p>Le soir, le baron dit à sa femme qu’il irait travailler avec le ministre à Saint-Cloud, qu’il reviendrait à quatre ou cinq heures du matin, et il alla rue du Dauphin. On était alors à la fin du mois de juin.</p>
         <p>Peu d’hommes ont éprouvé réellement dans leur vie la sensation terrible d’aller à la mort, ceux qui reviennent de l’échafaud se comptent ; mais quelques rêveurs ont vigoureusement senti cette agonie en rêve, ils en ont tout ressenti, jusqu’au couteau qui s’applique sur le cou dans le moment où le Réveil arrive avec le Jour pour les délivrer… Eh bien ! la sensation à laquelle le Conseiller-d’État fut en proie à cinq heures du matin, dans le lit élégant et <pb n="239" xml:id="p239"/> coquet de Crevel, surpassa de beaucoup celle de se sentir appliqué sur la fatale bascule, en présence de dix mille spectateurs qui vous regardent par vingt mille rayons de flamme. Valérie dormait dans une pose charmante. Elle était belle comme sont belles les femmes assez belles pour être belles en dormant. C’est l’art faisant invasion dans la nature, c’est enfin le tableau réalisé. Dans sa position horizontale, le baron avait les yeux à trois pieds du sol ; ses yeux, égarés au hasard, comme ceux de tout homme qui s’éveille et qui rappelle ses idées, tombèrent sur la porte couverte de fleurs peintes par Jan, un artiste qui fait fi de la gloire. Le baron ne vit pas, comme le condamné à mort, vingt mille rayons visuels, il n’en vit qu’un seul dont le regard est véritablement plus poignant que les dix mille de la place publique. Cette sensation, en plein plaisir, beaucoup plus rare que celle des condamnés à mort, certes un grand nombre d’Anglais splénétiques la payeraient fort cher. Le baron resta, toujours horizontalement, exactement baigné dans une sueur froide. Il voulait douter ; mais cet œil assassin babillait ! Un murmure de voix susurrait derrière la porte.</p>
         <p>– Si ce n’était que Crevel voulant me faire une plaisanterie ! se dit le baron en ne pouvant plus douter de la présence d’une personne dans le temple.</p>
@@ -2024,14 +2030,14 @@
         <p>Lisbeth, en apparence brouillée avec madame Marneffe, <pb n="248" xml:id="p248"/> s’installa chez le maréchal Hulot. Dix jours après ces événements, on publia le premier ban du mariage de la vieille fille avec l’illustre vieillard à qui, pour obtenir un consentement, Adeline raconta la catastrophe financière arrivée à son Hector en le priant de ne jamais en parler au baron qui, dit-elle, était sombre, très-abattu, tout affaissé… – Hélas ! il a son âge ! ajouta-t-elle<note place="bottom">Erreur du Furne : « ajoute-t-elle » au lieu de « ajouta-t-elle ».</note>. Lisbeth triomphait donc ! Elle allait atteindre au but de son ambition, elle allait voir son plan accompli, sa haine satisfaite. Elle jouissait par avance du bonheur de régner sur la famille qui l’avait si long-temps méprisée. Elle se promettait d’être la protectrice de ses protecteurs, l’ange sauveur qui ferait vivre la famille ruinée, elle s’appelait elle-même <hi rend="i">madame la comtesse</hi> ou <hi rend="i">madame la maréchale</hi> ! en se saluant dans la glace. Adeline et Hortense achèveraient leurs jours dans la détresse, en combattant la misère, tandis que la cousine Bette, admise aux Tuileries, trônerait dans le monde.</p>
         <p>Un événement terrible renversa la vieille fille du sommet social où elle se posait si fièrement.</p>
         <p>Le jour même où ce premier ban fut publié, le baron reçut un autre message d’Afrique. Un second Alsacien se présenta, remit une lettre en s’assurant qu’il la donnait au baron Hulot, et après lui avoir laissé l’adresse de son logement, il quitta le haut fonctionnaire qu’il laissa foudroyé à la lecture des premières lignes de cette lettre.</p>
-        <p>@q letter</p>
+        <q type="letter">
         <p>Mon neveu, vous recevrez cette lettre, d’après mon calcul, le sept août. En supposant que vous employiez trois jours pour nous envoyer le secours que nous réclamons, et qu’il mette quinze jours à venir ici, nous atteignons au premier septembre.</p>
         <p>Si l’exécution répond à ces délais, vous aurez sauvé l’honneur et la vie à votre dévoué Johann Fischer.</p>
         <p>Voici ce que demande l’employé que vous m’avez donné pour complice ; car je suis, à ce qu’il paraît, susceptible d’aller en cour d’assises ou devant un conseil de guerre. Vous comprenez que jamais on ne traînera Johann Fischer devant aucun tribunal, il ira de lui-même à celui de Dieu.</p>
         <p>Votre employé me semble être un mauvais gars, très-capable de vous compromettre ; mais il est intelligent comme un fripon. Il prétend que vous devez crier plus fort que les autres, et nous envoyer un inspecteur, un commissaire spécial chargé de découvrir les coupables, de chercher les abus, de sévir enfin ; mais qui <pb n="249" xml:id="p249"/> s’interposera d’abord entre nous et les tribunaux, en élevant un conflit.</p>
         <p>Si votre commissaire arrive ici le premier septembre et qu’il ait de vous le mot d’ordre, si vous nous envoyez deux cent mille francs pour rétablir en magasin les quantités que nous disons avoir dans les localités éloignées, nous serons regardés comme des comptables purs et sans tache.</p>
         <p>Vous pouvez confier au soldat qui vous remettra cette lettre, un mandat à mon ordre sur une maison d’Alger. C’est un homme solide, un parent, incapable de chercher à savoir ce qu’il porte. J’ai pris des mesures pour assurer le retour de ce garçon. Si vous ne pouvez rien, je mourrai volontiers pour celui à qui nous devons le bonheur de notre Adeline.</p>
-        <p>@/q</p>
+        </q>
         <p>Les angoisses et les plaisirs de la passion, la catastrophe qui venait de terminer sa carrière galante avaient empêché le baron Hulot de penser au pauvre Johann Fischer, dont la première lettre annonçait cependant positivement le danger, devenu maintenant si pressant. Le baron quitta la salle à manger dans un tel trouble, qu’il se laissa tomber sur le canapé du salon. Il était anéanti, perdu dans l’engourdissement que cause une chute violente. Il regardait fixement une rosace du tapis sans s’apercevoir qu’il tenait à la main la fatale lettre de Johann. Adeline entendit de sa chambre son mari se jetant sur le canapé comme une masse. Ce bruit fut si singulier qu’elle crut à quelque attaque d’apoplexie. Elle regarda par la porte dans la glace, en proie à cette peur qui coupe la respiration, qui fait rester immobile, et elle vit son Hector dans la posture d’un homme terrassé. La baronne vint sur la pointe du pied, Hector n’entendit rien, elle put s’approcher, elle aperçut la lettre, elle la prit, la lut, et trembla de tous ses membres. Elle éprouva l’une de ces révolutions nerveuses si violentes que le corps en garde éternellement la trace. Elle devint, quelques jours après, sujette à un tressaillement continuel ; car, ce premier moment passé, la nécessité d’agir lui donna cette force qui ne se prend qu’aux sources mêmes de la puissance vitale.</p>
         <p>– Hector ! viens dans ma chambre, dit-elle d’une voix qui ressemblait à un souffle. Que ta fille ne te voie pas ainsi ! viens, mon ami, viens.</p>
         <p>– Où trouver deux cent mille francs ? je puis obtenir l’envoi de Claude Vignon comme commissaire. C’est un garçon spirituel, <pb n="250" xml:id="p250"/> intelligent… C’est l’affaire de deux jours… Mais deux cent mille francs, mon fils ne les a pas, sa maison est grevée de trois cent mille francs d’hypothèques. Mon frère a tout au plus trente mille francs d’économies. Nucingen se moquerait de moi !… Vauvinet ?… il m’a peu gracieusement accordé dix mille francs pour compléter la somme donnée pour le fils de l’infâme Marneffe. Non, tout est dit, il faut que j’aille me jeter aux pieds du maréchal, lui avouer l’état des choses, m’entendre dire que je suis une canaille, accepter sa bordée afin de sombrer décemment.</p>
@@ -2048,19 +2054,19 @@
         <p>Hortense vint souhaiter le bonjour à son père et à sa mère. Il fallut aller déjeuner et montrer des visages menteurs.</p>
         <p>– Allez déjeuner sans moi, je vous rejoindrai ! dit la baronne.</p>
         <p>Elle se mit à sa table et écrivit la lettre suivante :</p>
-        <p>@q letter</p>
+        <q type="letter">
         <p>Mon cher monsieur Crevel, j’ai un service à vous demander, je vous attends ce matin, et je compte sur votre galanterie, qui m’est connue, pour que vous ne fassiez pas attendre trop long-temps.</p>
         <salute>Votre dévouée servante,</salute>
         <signed>
           <hi rend="sc">Adeline Hulot.</hi>
         </signed>
-        <p>@/q</p>
+        </q>
         <p>– Louise, dit-elle à la femme de chambre de sa fille qui servait, descendez cette lettre au concierge, dites-lui de la porter sur-le-champ à son adresse et de demander une réponse.</p>
         <p>Le baron, qui lisait les journaux, tendit un journal républicain à sa femme en lui désignant un article, et lui disant : – Sera-t-il temps ? Voici l’article, un de ces terribles entre-filets avec lesquels les journaux nuancent leurs tartines politiques.</p>
-        <p>@q press</p>
+        <q type="press">
         <p>Un de nos correspondants nous écrit d’Alger qu’il s’est révélé de tels abus dans le service des vivres de la province d’Oran, que la justice informe. Les malversations sont évidentes, les coupables sont connus. Si la répression n’est pas sévère, nous continuerons à perdre plus d’hommes par le fait des concussions qui frappent sur leur nourriture que par le fer des Arabes et le feu du climat. Nous attendrons de nouveaux renseignements, avant de continuer ce déplorable sujet.</p>
         <p>Nous ne nous étonnons plus de la peur que cause l’établissement en Algérie de la Presse comme l’a entendue la Charte de 1830.</p>
-        <p>@/q</p>
+        </q>
         <p>– Je vais m’habiller et aller au ministère, dit le baron en quittant la table, le temps est trop précieux, il y a la vie d’un homme dans chaque minute.</p>
         <p><pb n="252" xml:id="p252"/> – Oh ! maman, je n’ai plus d’espoir, dit Hortense.</p>
         <p>Et, sans pouvoir retenir ses larmes, elle tendit à sa mère une Revue des Beaux-Arts. Madame Hulot aperçut une gravure du groupe de Dalila par le comte de Steinbock, dessous laquelle était imprimé : <hi rend="i">Appartenant à madame Marneffe</hi>. Dès les premières lignes, l’article signé d’un V révélait le talent et la complaisance de Claude Vignon.</p>
@@ -2239,7 +2245,7 @@
         <p>– Eh bien ! tiens-toi ferme ! il s’agit de porter le plus grand malheur qui pût t’arriver.</p>
         <p>Le prince se retourna, prit sur sa table un dossier, le mit entre les mains du maréchal Hulot en lui criant : – Lis !</p>
         <p>Le comte de Forzheim lut la lettre suivante, qui se trouvait sur le dossier.</p>
-        <p>@q letter</p>
+        <q type="letter">
         <salute>
           <hi rend="i">À Son Excellence le président du conseil.</hi>
         </salute>
@@ -2253,9 +2259,9 @@
         <p>Faut-il que l’affaire suive son cours ? faut-il, le principal coupable visible étant mort, étouffer ce procès en faisant condamner le garde-magasin par contumace ?</p>
         <p>Le procureur général consent à ce que les pièces vous soient transmises ; et le baron d’Ervy étant domicilié à Paris, le procès sera du ressort de votre Cour royale. Nous avons trouvé ce moyen, assez louche, de nous débarrasser momentanément de la difficulté.</p>
         <p>Seulement, mon cher maréchal, prenez un parti promptement. On parle déjà beaucoup trop de cette déplorable affaire qui nous ferait autant de mal qu’elle en causera, si la complicité du grand coupable, qui n’est encore connue que du procureur du roi, du juge d’instruction, du procureur général et de moi, venait à s’ébruiter.</p>
-        <p>@/q</p>
+        </q>
         <p>Là, ce papier tomba des mains du maréchal Hulot, il regarda son frère, il vit qu’il était inutile de compulser le dossier ; mais il chercha la lettre de Johann Fischer, et la lui tendit après l’avoir lue en deux regards.</p>
-        <p>@q letter</p>
+        <q type="letter">
         <dateline>De la prison d’O…</dateline>
         <p>Mon neveu, quand vous lirez cette lettre, je n’existerai plus.</p>
         <p><pb n="278" xml:id="p278"/> Soyez tranquille, on ne trouvera pas de preuves contre vous. Moi, mort, votre jésuite de Chardin en fuite, le procès s’arrêtera. La figure de notre Adeline, si heureuse par vous, m’a rendu la mort très-douce. Vous n’avez plus besoin d’envoyer les deux cent mille francs. Adieu.</p>
@@ -2263,7 +2269,7 @@
         <signed>
           <hi rend="sc">Johann Fischer.</hi>
         </signed>
-        <p>@/q</p>
+        </q>
         <p>– Je vous demande pardon, dit avec une touchante fierté le maréchal Hulot au prince de Wissembourg.</p>
         <p>– Allons, tutoie-moi toujours, Hulot ? répliqua le ministre en serrant la main de son vieil ami. – Le pauvre lancier n’a tué que lui, dit-il en foudroyant Hulot d’Ervy d’un regard.</p>
         <p>– Combien avez-vous pris ? dit sévèrement le comte de Forzheim à son frère.</p>
@@ -2293,22 +2299,22 @@
         <p>– Eh bien ! merci, et adieu ! – Venez, monsieur ? dit-il à son frère.</p>
         <p>Le prince regarda d’un œil en apparence calme les deux frères, si différents d’attitude, de conformation et de caractère, le brave et le lâche, le voluptueux et le rigide, l’honnête et le concussionnaire, et il se dit : – Ce lâche ne saura pas mourir ! et mon pauvre Hulot, si probe, a la mort dans son sac, lui ! Il s’assit dans son fauteuil et reprit la lecture des dépêches d’Afrique par un mouvement qui peignait à la fois le sang-froid du capitaine et la pitié profonde que donne le spectacle des champs de bataille ! car il n’y a rien de plus humain en réalité que les militaires, si rudes en apparence, et à qui l’habitude de la guerre communique cet absolu glacial, si nécessaire sur les champs de bataille.</p>
         <p>Le lendemain, quelques journaux contenaient, sous des rubriques différentes, ces différents articles :</p>
-        <p>@q press</p>
+        <q type="press">
         <p>Monsieur le baron Hulot d’Ervy vient de demander sa retraite. Les désordres de la comptabilité de l’administration algérienne qui ont été signalés par la mort et par la fuite de deux employés ont influé sur la détermination prise par ce haut fonctionnaire. En apprenant les fautes commises par des employés, en qui malheureusement il avait placé sa confiance, monsieur le baron Hulot a éprouvé dans le cabinet même du ministre une attaque de paralysie.</p>
         <p>Monsieur Hulot d’Ervy, frère du maréchal, compte quarante-cinq ans de services. Cette résolution, vainement combattue, a été vue avec regret par tous ceux qui connaissent monsieur Hulot, dont les qualités privées égalent les talents administratifs. Personne n’a oublié le dévouement de l’ordonnateur en chef de la garde impériale à Varsovie, ni l’activité merveilleuse avec laquelle il a su organiser les <pb n="281" xml:id="p281"/> différents services de l’armée improvisée en 1815 par Napoléon.</p>
         <p>C’est encore une des gloires de l’époque impériale qui va quitter la scène. Depuis 1830, monsieur le baron Hulot n’a cessé d’être une des lumières nécessaires au Conseil-d’État et au ministère de la guerre.</p>
-        <p>@/q</p>
-        <p>@q press</p>
+        </q>
+        <q type="press">
         <p><hi rend="sc">Alger.</hi> – L’affaire dite des fourrages, à laquelle quelques journaux ont donné des proportions ridicules, est terminée par la mort du principal coupable. Le sieur Johann Wisch s’est tué dans sa prison et son complice est en fuite ; mais il sera jugé par contumace.</p>
         <p>Wisch, ancien fournisseur des armées, était un honnête homme, très-estimé, qui n’a pas supporté l’idée d’avoir été la dupe du sieur Chardin, le garde-magasin en fuite.</p>
-        <p>@/q</p>
+        </q>
         <p>Et aux faits-Paris, on lisait ceci :</p>
-        <p>@q press</p>
+        <q type="press">
         <p>Monsieur le maréchal ministre de la guerre, pour éviter à l’avenir tout désordre, a résolu de créer un bureau des subsistances en Afrique. On désigne un chef de bureau, monsieur Marneffe, comme devant être chargé de cette organisation.</p>
-        <p>@/q</p>
-        <p>@q press</p>
+        </q>
+        <q type="press">
         <p>La succession du baron Hulot excite toutes les ambitions. Cette direction est, dit-on, promise à monsieur le comte Martial de La Roche-Hugon, député, beau-frère de monsieur le comte de Rastignac. Monsieur Massol, maître des requêtes, serait nommé Conseiller-d’État, et monsieur Claude Vignon maître des requêtes.</p>
-        <p>@/q</p>
+        </q>
         <p>De toutes les espèces de <hi rend="i">canards</hi>, la plus dangereuse pour les journaux de l’Opposition, c’est le canard officiel. Quelque rusés que soient les journalistes, ils sont parfois les dupes volontaires ou involontaires de l’habileté de ceux d’entre eux qui, de la Presse, ont passé, comme Claude Vignon, dans les hautes régions du Pouvoir. Le journal ne peut être vaincu que par le journaliste. Aussi doit-on se dire, en travestissant Voltaire :</p>
         <quote>
           <l>Le fait-Paris n’est pas ce qu’un vain peuple pense.</l>
@@ -2488,12 +2494,12 @@
         <p>– J’y suit été, ma respectable et charitable demoiselle ! répondit le matelassier ; maiz-i-le y avait une poule d’honneur au café des Savants, rue du Cœur-Volant, et chacun a ses passions. Moi c’est le billard. Sans le billard, je mangerais dans l’argent ; car, saisissez bien ceci ! dit-il en cherchant un papier dans le gousset de son pantalon déchiré, le billard entraîne le petit verre et la prune à l’eau-de-vie… C’est ruineux, comme toutes les belles choses, par les accessoires. Je connais la consigne, mais le vieux est dans un si grand embarras, que je suis venu sur le terrain défendu… Si notre crin était tout crin, on se laisserait dormir dessus ; mais il a du mélange ! Dieu n’est pas pour tout le monde, comme on dit, il a des préférences ; c’est son droit. Voici l’écriture de votre parent estimable et très-ami du matelas… C’est là son opinion politique.</p>
         <p>Le père Chardin essaya de tracer dans l’atmosphère des zigzags avec l’index de sa main droite.</p>
         <p>Lisbeth, sans écouter, lisait ces deux lignes :</p>
-        <p>@q letter</p>
+        <q type="letter">
         <p>Chère cousine, soyez ma providence ! Donnez-moi trois cents francs aujourd’hui.</p>
         <signed>
           <hi rend="sc">Hector.</hi>
         </signed>
-        <p>@/q</p>
+        </q>
         <p>– Pourquoi veut-il tant d’argent ?</p>
         <p>– Le <hi rend="i">popriétaire</hi> ! dit le père Chardin qui tâchait toujours de dessiner des arabesques. Et puis, mon fils est revenu de l’Algérie par l’Espagne, Bayonne et… il n’a rien pris, contre son habitude ; car, c’est un <hi rend="i">guerdin</hi> fini, sous votre respect, mon fils. Que voulez-vous ? il a faim ; mais il va vous rendre ce que nous lui <pb n="307" xml:id="p307"/> prêterons, car il veut faire une <hi rend="i">comme on dite</hi> ; il a des idées qui peuvent le mener loin…</p>
         <p>– En police correctionnelle ! reprit Lisbeth. C’est l’assassin de mon oncle ! je ne l’oublierai pas.</p>
@@ -2861,9 +2867,9 @@
         <p>– Oh ! je connais monsieur pour en avoir beaucoup entendu parler ; on vous appelle Combabus parce que vous n’aimez qu’une femme ; c’est, à Paris, comme si l’on n’en avait pas du tout. Eh bien ! s’agirait-il par hasard de votre objet ? de madame Marneffe, la femme à Crevel… Tenez, mon cher monsieur, bénissez votre sort au <hi rend="i">lieur</hi> de l’accuser… C’est une rien du tout, cette petite femme-là. Je connais ses allures !…</p>
         <p>– Ah bah ! dit Carabine à qui madame Nourrisson avait glissé dans la main une lettre en l’embrassant, tu ne connais pas les Brésiliens. C’est des crânes qui tiennent à s’empaler par le cœur !… Tant plus ils sont jaloux, tant plus ils veulent l’être. Môsieur <pb n="344" xml:id="p344"/> parle de tout massacrer, et il ne massacrera rien, parce qu’il aime ! Enfin, je ramène ici monsieur le baron pour lui donner les preuves de son malheur que j’ai obtenues de ce petit Steinbock.</p>
         <p>Montès était ivre, il écoutait comme s’il ne s’agissait pas de lui-même. Carabine alla se débarrasser de son crispin en velours, et lut le <hi rend="i">fac-simile</hi> du billet suivant :</p>
-        <p>@q letter</p>
+        <q type="letter">
         <p>Mon chat, <hi rend="i">il</hi> va ce soir dîner chez Popinot, et viendra me chercher à l’Opéra sur les onze heures. Je partirai sur les cinq heures et demie, et compte te trouver à notre paradis, où tu feras venir à dîner de la Maison d’Or. Habille-toi de manière à pouvoir me ramener à l’Opéra. Nous aurons quatre heures à nous. Tu me rendras ce petit mot, non pas que ta Valérie se défie de toi, je te donnerais ma vie, ma fortune et mon honneur ; mais je crains les farces du hasard.</p>
-        <p>@/q</p>
+        </q>
         <p>– Tiens, baron, voilà le poulet envoyé ce matin au comte de Steinbock, lis l’adresse ! L’original vient d’être brûlé.</p>
         <p>Montès tourna, retourna le papier, reconnut l’écriture, et fut frappé d’une idée juste, ce qui prouve combien sa tête était dérangée.</p>
         <p>– Ah çà ! dans quel intérêt me déchirez-vous le cœur, car vous avez acheté bien cher le droit d’avoir ce billet pendant quelque temps entre les mains pour le faire lithographier ? dit-il en regardant Carabine.</p>
@@ -2972,7 +2978,7 @@
         <p>– Laisse-moi, Lisbeth, je t’expliquerai tout cela demain !…</p>
         <p>Mais, comme on va le voir, Valérie ne devait bientôt plus pouvoir rien expliquer à personne.</p>
         <p>Vers la fin du mois de mai, la pension du baron Hulot fut entièrement dégagée par les payements que Victorin avait successivement faits au baron de Nucingen. Chacun sait que les semestres des pensions ne sont acquittés que sur la présentation d’un certificat de vie, et comme on ignorait la demeure du baron Hulot, les semestres frappés d’opposition au profit de Vauvinet restaient accumulés au Trésor. Vauvinet ayant signé sa mainlevée, désormais il était indispensable de trouver le titulaire pour toucher l’arriéré. La baronne avait, grâce aux soins du docteur Bianchon, recouvré la santé. La bonne Josépha contribua par une lettre, dont l’orthographe trahissait la collaboration du duc d’Hérouville, à l’entier rétablissement d’Adeline. Voici ce que la cantatrice écrivit à la baronne, après quarante jours de recherches actives :</p>
-        <p>@q letter</p>
+        <q type="letter">
         <salute>Madame la baronne,</salute>
         <p>Monsieur Hulot vivait, il y a deux mois, rue des Bernardins, avec Élodie Chardin, la repriseuse de dentelle, qui l’avait enlevé <pb n="355" xml:id="p355"/> à mademoiselle Bijou ; mais il est parti, laissant là tout ce qu’il possédait, sans dire un mot, sans qu’on puisse savoir où il est allé. Je ne me suis pas découragée, et j’ai mis à sa poursuite un homme qui déjà croit l’avoir rencontré sur le boulevard Bourdon.</p>
         <p>La pauvre juive tiendra la promesse faite à la chrétienne. Que l’ange prie pour le démon ! c’est ce qui doit arriver quelquefois dans le ciel.</p>
@@ -2980,7 +2986,7 @@
         <signed>
           <hi rend="sc">Josépha Mirah.</hi>
         </signed>
-        <p>@/q</p>
+        </q>
         <p>Maître Hulot d’Ervy n’entendant plus parler de la terrible madame Nourrisson, voyant son beau-père marié, ayant reconquis son beau-frère, revenu sous le toit de la famille, n’éprouvant aucune contrariété de sa nouvelle belle-mère, et trouvant sa mère mieux de jour en jour, se laissait aller à ses travaux politiques et judiciaires, emporté par le courant rapide de la vie parisienne, où les heures comptent pour des journées. Chargé d’un rapport à la Chambre des Députés, il fut obligé, vers la fin de la session, de passer toute une nuit à travailler. Rentré dans son cabinet vers neuf heures, il attendait que son valet de chambre apportât ses flambeaux garnis d’abat-jour, et il pensait à son père. Il se reprochait de laisser la cantatrice occupée de cette recherche, et il se proposait de voir à ce sujet le lendemain monsieur Chapuzot, lorsqu’il aperçut à sa fenêtre, dans la lueur du crépuscule, une sublime tête de vieillard, à crâne jaune, bordé de cheveux blancs.</p>
         <p>– Dites, mon cher monsieur, qu’on laisse arriver jusqu’à vous un pauvre ermite venu du désert et chargé de quêter pour la reconstruction d’un saint asile.</p>
         <p>Cette vision, qui prenait une voix et qui rappela soudain à l’avocat une prophétie de l’horrible Nourrisson, le fit tressaillir.</p>
@@ -3164,14 +3170,14 @@
         <p>La baronne et le fumiste sortirent pour aller au passage du Soleil.</p>
         <p>– Par ici, madame, dit le fumiste en montrant la rue de la Pépinière.</p>
         <p>Le passage du Soleil est en effet au commencement de la rue de la Pépinière et débouche rue du Rocher. Au milieu de ce passage de création récente, et dont les boutiques sont d’un prix très-modique, la baronne aperçut, au-dessus d’un vitrage garni de taffetas vert, à une hauteur qui ne permettait pas aux passants de jeter des regards indiscrets : <hi rend="sc">écrivain public</hi>, et sur la porte :</p>
-        <p>@q press</p>
+        <q type="press">
         <p rend="noindent center">
           <hi rend="sc">cabinet d’affaires.</hi>
         </p>
         <p rend="noindent center">
           <hi rend="i">Ici l’on rédige les pétitions, on met les mémoires au net, etc. Discrétion, célérité.</hi>
         </p>
-        <p>@/q</p>
+        </q>
         <p>L’intérieur ressemblait à ces bureaux de transit où les omnibus de Paris font attendre les places de correspondance aux voyageurs. Un escalier intérieur menait sans doute à l’appartement en entresol éclairé par la galerie et qui dépendait de la boutique. La baronne aperçut un bureau de bois blanc noirci, des cartons, et un ignoble fauteuil acheté d’occasion. Une casquette et un abat-jour en taffetas vert à fil d’archal tout crasseux annonçaient soit des précautions prises pour se déguiser, soit une faiblesse d’yeux assez concevable chez un vieillard.</p>
         <p><pb n="374" xml:id="p374"/> – Il est là haut, dit le fumiste, je vais monter le prévenir et le faire descendre.</p>
         <p>La baronne baissa son voile et s’assit. Un pas pesant ébranla le petit escalier de bois, et Adeline ne put retenir un cri perçant en voyant son mari, le baron Hulot, en veste grise tricotée, en pantalon de vieux molleton gris et en pantoufles.</p>
@@ -3198,14 +3204,14 @@
         <p>Le fumiste prit Atala dans ses bras et l’emmena chez lui de force.</p>
         <p>– Merci de ce sacrifice, mon ami ! dit Adeline en prenant la main du baron et la serrant avec une joie délirante. Es-tu changé ! Comme tu dois avoir souffert ! Quelle surprise pour ta fille, pour ton fils !</p>
         <p>Adeline parlait comme parlent les amants qui se revoient après une longue absence, de mille choses à la fois. En dix minutes, le <pb n="376" xml:id="p376"/> baron et sa femme arrivèrent rue Louis-le-Grand, où Adeline trouva la lettre suivante :</p>
-        <p>@q letter</p>
+        <q type="letter">
         <salute>Madame la baronne,</salute>
         <p>Monsieur le baron d’Ervy est resté un mois rue de Charonne, sous le nom de Thorec, anagramme d’Hector. Il est maintenant passage du Soleil, sous le nom de Vyder. Il se dit Alsacien, fait des écritures, et vit avec une jeune fille nommée Atala Judici. Prenez bien des précautions, madame, car on cherche activement le baron, je ne sais dans quel intérêt.</p>
         <p>La comédienne a tenu sa parole, et se dit, comme toujours,</p>
         <p>Madame la baronne,</p>
         <salute>Votre humble servante,</salute>
         <signed>J. M.</signed>
-        <p>@/q</p>
+        </q>
         <p>Le retour du baron excita des transports de joie qui le convertirent à la vie de famille. Il oublia la petite Atala Judici, car les excès de la passion l’avaient fait arriver à la mobilité de sensations qui distingue l’enfance. Le bonheur de la famille fut troublé par le changement survenu chez le baron. Après avoir quitté ses enfants encore valide, il revenait presque centenaire, cassé, voûté, la physionomie dégradée. Un dîner splendide, improvisé par Célestine, rappela les dîners de la cantatrice au vieillard qui fut étourdi des splendeurs de sa famille.</p>
         <p>– Vous fêtez le retour du père prodigue ! dit-il à l’oreille d’Adeline.</p>
         <p>– Chut !… tout est oublié, répondit-elle.</p>
@@ -3222,7 +3228,8 @@
         <p>– Les ancêtres peuvent s’opposer au mariage de leurs enfants, mais les enfants ne peuvent pas empêcher les folies des ancêtres en enfance, dit maître Hulot à maître Popinot, le second fils de l’ancien ministre du commerce, qui lui parlait de ce mariage.</p>
       </div>
       <div>
-        <head><pb n="380" xml:id="p380"/> Deuxième épisode
+        <pb n="380" xml:id="p380"/>
+        <head>Deuxième épisode
 <lb/>Le Cousin Pons</head>
         <p rend="noindent">Vers trois heures de l’après-midi, dans le mois d’octobre de l’année 1844, un homme âgé d’une soixa<anchor xml:id="_GoBack"/>ntaine d’années, mais à qui tout le monde eût donné plus que cet âge, allait le long du boulevard des Italiens, le nez à la piste, les lèvres papelardes, comme un négociant qui vient de conclure une excellente affaire, ou comme un garçon content de lui-même au sortir d’un boudoir. C’est à Paris la plus grande expression connue de la satisfaction personnelle chez l’homme. En apercevant de loin ce vieillard, les personnes qui sont là tous les jours assises sur des chaises, livrées au plaisir d’analyser les passants, laissaient toutes poindre dans leurs physionomies ce sourire particulier aux gens de Paris, et qui dit tant de choses ironiques, moqueuses ou compatissantes, mais qui, pour animer le visage du Parisien, blasé sur tous les spectacles possibles, exigent de hautes curiosités vivantes. Un mot fera comprendre et la valeur archéologique de ce bonhomme et la raison du sourire qui se répétait comme un écho dans tous les yeux. On demandait à Hyacinthe, un acteur célèbre par ses saillies, où il faisait faire les chapeaux à la vue desquels la salle pouffe de rire : « – Je ne les fais point faire, je les garde ? » répondit-il. Eh bien ! il se rencontre dans le million d’acteurs qui composent la grande troupe de Paris, des Hyacinthes sans le savoir qui gardent sur eux tous les ridicules d’un temps, et qui vous apparaissent comme la personnification de toute une époque pour vous arracher une bouffée de gaieté quand vous vous promenez en dévorant quelque chagrin amer causé par la trahison d’un ex-ami.</p>
         <p>En conservant dans quelques détails de sa mise une fidélité <hi rend="i">quand même</hi> aux modes de l’an 1806, ce passant rappelait l’Empire sans être par trop caricature. Pour les observateurs, cette finesse rend ces sortes d’évocations extrêmement précieuses. Mais cet ensemble de petites choses voulait l’attention analytique dont sont doués les connaisseurs en flânerie ; et, pour exciter le rire à distance, le passant devait offrir une de ces énormités à crever les yeux, comme on dit, et que les acteurs recherchent pour assurer le succès de leurs <hi rend="i">entrées</hi>. Ce vieillard, sec et maigre, portait un <pb n="381" xml:id="p381"/> spencer couleur noisette sur un habit verdâtre à boutons de métal blanc !… Un homme en spencer, en 1844, c’est, voyez-vous, comme si Napoléon eût daigné ressusciter pour deux heures.</p>
@@ -3341,9 +3348,9 @@
         <p>– Ma cousine, qu’y a-t-il donc de changé depuis la dernière fois que j’ai eu le plaisir de dîner ici, pour que vous songiez à des gens de quarante-huit ans ? dit humblement le pauvre musicien.</p>
         <p>– Il y a, répliqua la présidente, que nous devions avoir une entrevue chez un conseiller à la cour, dont le fils a trente ans, dont la fortune est considérable, et pour qui monsieur de Marville aurait obtenu, moyennant finance, une place de référendaire à la Cour des comptes. Le jeune homme y est déjà surnuméraire. Et l’on vient de nous dire que ce jeune homme avait fait la folie de partir pour l’Italie, à la suite d’une duchesse du Bal Mabille. C’est un refus déguisé. On ne veut pas nous donner un jeune homme dont la mère est morte, et qui jouit déjà de trente mille francs de rente, en attendant la fortune du père. Aussi, devez-vous nous pardonner notre mauvaise humeur, cher cousin : vous êtes arrivé en pleine crise.</p>
         <p><pb n="412" xml:id="p412"/> Au moment où Pons cherchait une de ces complimenteuses réponses qui lui venaient toujours trop tard chez les amphitryons dont il avait peur, Madeleine entra, remit un petit billet à la présidente, et attendit une réponse. Voici ce que contenait le billet :</p>
-        <p>@q letter</p>
+        <q type="letter">
         <p>Si nous supposions, ma chère maman, que ce petit mot nous est envoyé du Palais par mon père qui te dirait d’aller dîner avec moi chez son ami pour renouer l’affaire de mon mariage, le cousin s’en irait, et nous pourrions donner suite à nos projets chez les Popinot.</p>
-        <p>@/q</p>
+        </q>
         <p>– Qui donc monsieur m’a-t-il dépêché ? demanda vivement la présidente.</p>
         <p>– Un garçon de salle du Palais, répondit effrontément la sèche Madeleine.</p>
         <p>Par cette réponse, la vieille soubrette indiquait à sa maîtresse qu’elle avait ourdi ce complot, de concert avec Cécile impatientée.</p>
@@ -4386,9 +4393,9 @@
         <p>Le jour même, à sept heures, madame Cibot, qui était allée consulter un huissier, appela Schmucke. L’Allemand se vit en présence de monsieur Tabareau, qui le somma de payer ; et, sur la réponse que fit Schmucke en tremblant de la tête aux pieds, il fut assigné lui et Pons devant le tribunal pour se voir condamner au payement. L’aspect de cet homme, le papier timbré griffonné produisirent un tel effet sur Schmucke, qu’il ne résista plus.</p>
         <p>– <hi rend="i">Fentez les dableaux</hi>, dit-il les larmes aux yeux.</p>
         <p>Le lendemain, à six heures du matin, Élie Magus et Rémonencq décrochèrent chacun leurs tableaux. Deux quittances de deux mille cinq cents francs furent ainsi faites parfaitement en règle.</p>
-        <p>@q legal</p>
+        <q type="legal">
         <p>Je soussigné, me portant fort pour monsieur Pons, reconnais avoir reçu de monsieur Élie Magus la somme de deux mille cinq cents francs pour quatre tableaux que je lui ai vendus, ladite somme devant être employée aux besoins de monsieur Pons. L’un de ces tableaux, attribué à Durer, est un portrait de femme ; le second, de l’école italienne, est également un portrait ; le troisième est un paysage hollandais de Breughel<note place="bottom">Erreur du Furne : « Breughle » au lieu de « Breughel ».</note> ; le quatrième, un tableau florentin représentant une Sainte Famille, et dont le maître est inconnu.</p>
-        <p>@/q</p>
+        </q>
         <p>La quittance donnée par Rémonencq était dans les mêmes termes et comprenait un Greuze, un Claude Lorrain, un Rubens et un Van Dyck, déguisés sous les noms de tableaux de l’École française et de l’École flamande.</p>
         <p><pb n="565" xml:id="p565"/> – <hi rend="i">Ced archant me verait groire que ces primporions falent quelque chose…</hi> dit Schmucke en recevant les cinq mille francs.</p>
         <p>– Ça vaut quelque chose, dit Rémonencq. Je donnerais bien cent mille francs de tout cela.</p>
@@ -4621,7 +4628,7 @@
         <p>Schmucke alla se mettre en observation dans le poste qu’il s’était arrangé. La Cibot avait laissé la porte de l’appartement entre-bâillée, et Fraisier, après être entré, la ferma tout doucement, lorsque Schmucke se fut enfermé chez lui. L’avocat était muni d’une bougie allumée et d’un fil de laiton excessivement léger, pour pouvoir décacheter le testament. La Cibot put d’autant mieux ôter le mouchoir où la clef du secrétaire était nouée, et qui se trouvait sous l’oreiller de Pons, que le malade avait exprès laissé passer son mouchoir dessous son traversin, et qu’il se prêtait à la manœuvre de la Cibot, en se tenant le nez dans la ruelle et dans une pose qui laissait pleine liberté de prendre le mouchoir. La Cibot alla droit au secrétaire, l’ouvrit en s’efforçant de faire le moins de bruit possible, trouva le ressort de la cachette, et courut le testament à la main dans le salon. Cette circonstance intrigua Pons au plus haut degré. Quant à Schmucke, il tremblait de la tête aux pieds, comme s’il avait commis un crime.</p>
         <p>– Retournez à votre poste, dit Fraisier en recevant le testament de la Cibot, car, s’il s’éveillait, il faut qu’il vous trouve là.</p>
         <p>Après avoir décacheté l’enveloppe avec une habileté qui prouvait qu’il n’en était pas à son coup d’essai, Fraisier fut plongé dans un étonnement profond en lisant cette pièce curieuse.</p>
-        <p>@q legal</p>
+        <q type="legal">
         <label>CECI EST MON TESTAMENT</label>
         <p>Aujourd’hui, quinze avril mil huit cent quarante-cinq, étant sain d’esprit, comme ce testament, rédigé de concert avec monsieur Trognon, notaire, le démontrera ; sentant que je dois mourir prochainement de la maladie dont je suis atteint depuis les premiers jours de février dernier, j’ai dû, voulant disposer de mes biens, tracer mes dernières volontés, que voici :</p>
         <p>J’ai toujours été frappé des inconvénients qui nuisent aux chefs-d’œuvre de la peinture, et qui souvent ont entraîné leur destruction. J’ai plaint les belles toiles d’être condamnées à toujours voyager de pays en pays, sans être jamais fixées dans un lieu où les admirateurs de ces chefs-d’œuvre pussent aller les voir. J’ai toujours pensé que les pages vraiment immortelles des fameux maîtres devraient être des propriétés nationales, et mises incessamment sous les yeux des peuples comme la lumière, chef-d’œuvre de Dieu, sert à tous ses enfants.</p>
@@ -4629,7 +4636,7 @@
         <p>Donc, par ces motifs, je donne et lègue au roi pour faire partie du Musée du Louvre, les tableaux dont se compose ma collection, à la charge, si le legs est accepté, de faire à mon ami Wilhelm Schmucke une rente viagère de deux mille quatre cents francs.</p>
         <p>Si le roi, comme usufruitier du Musée, n’accepte pas ce legs avec cette charge, lesdits tableaux feront alors partie du legs que je fais à mon ami Schmucke de toutes les valeurs que je possède, à la charge de remettre la tête de Singe de Goya à mon cousin le président Camusot ; le tableau de fleurs d’Abraham Mignon, composé de tulipes, à monsieur Trognon, notaire, que je nomme mon exécuteur testamentaire, et de servir deux cents francs de rente à madame Cibot, qui fait mon ménage depuis dix ans.</p>
         <p>Enfin, mon ami Schmucke donnera la Descente de Croix, de Rubens, esquisse de son célèbre tableau d’Anvers, à ma paroisse, pour en décorer une chapelle, en remercîment des bontés de monsieur le vicaire Duplanty, à qui je dois de pouvoir mourir en chrétien et en catholique, etc.</p>
-        <p>@/q</p>
+        </q>
         <p><pb n="594" xml:id="p594"/> – C’est la ruine ! se dit Fraisier, la ruine de toutes mes espérances ! Ah ! je commence à croire tout ce que la présidente m’a dit de la malice de ce vieux artiste !…</p>
         <p>– Eh bien ? vint demander la Cibot.</p>
         <p>– Votre monsieur est un monstre, il donne tout au Musée, à l’État. Or, on ne peut plaider contre l’État !… Le testament est inattaquable. Nous sommes volés, ruinés, dépouillés, assassinés !…</p>
@@ -4977,9 +4984,9 @@
         <p>– Et en quoi vous ai-je trompé ?… dit la Cibot en mettant les poings sur ses hanches. Croyez-vous que vous me ferez trembler avec vos regards de verjus et vos airs de givre<note place="bottom">Erreur du Furne : « et de vos airs de grives » au lieu de « et vos airs de grives ».</note> !… Vous cherchez de mauvaises raisons pour vous débarrasser de vos promesses, et vous vous dites honnête homme. Savez-vous ce que vous êtes ? Vous êtes une canaille. Oui, oui, grattez-vous le bras !… mais empochez ça !…</p>
         <p>– Pas de mots, pas de colère, ma mie, dit Fraisier. Écoutez-moi ! Vous avez fait votre pelote… Ce matin, pendant les préparatifs du convoi, j’ai trouvé ce catalogue, en double, écrit tout entier <pb n="626" xml:id="p626"/> de la main de monsieur Pons, et par hasard mes yeux sont tombés sur ceci :</p>
         <p>Et il lut en ouvrant le catalogue manuscrit.</p>
-        <p>@q press</p>
+        <q type="press">
         <p>Nº 7. <hi rend="i">Magnifique portrait peint sur marbre, par Sébastien del Piombo, en 1546, vendu par une famille qui l’a fait enlever de la cathédrale de Terni. Ce portrait, qui avait pour pendant un évêque, acheté par un Anglais, représente un chevalier de Malte en prières, et se trouvait au-dessus du tombeau de la famille Rossi. Sans la date, on pourrait attribuer cette œuvre à Raphaël. Ce morceau me semble supérieur au portrait de Baccio Bandinelli, du Musée, qui est un peu sec, tandis que ce chevalier de Malte est d’une fraîcheur due à la conservation de la peinture sur la</hi> <hi rend="sc">lavagna</hi> (ardoise).</p>
-        <p>@/q</p>
+        </q>
         <p>– En regardant, reprit Fraisier, à la place nº 7, j’ai trouvé un portrait de dame signé <hi rend="i">Chardin</hi>, sans nº 7 !… Pendant que le maître des cérémonies complétait son nombre de personnes pour tenir les cordons du poêle, j’ai vérifié les tableaux, et il y a huit substitutions de toiles ordinaires et sans numéros, à des œuvres indiquées comme capitales par feu monsieur Pons et qui ne se trouvent plus… Et enfin, il manque un petit tableau sur bois, de Metzu, désigné comme un chef-d’œuvre…</p>
         <p>– Est-ce que j’étais gardienne de tableaux ? moi ! dit la Cibot.</p>
         <p>– Non, mais vous étiez femme de confiance, faisant le ménage et les affaires de monsieur Pons, et s’il y a vol…</p>
@@ -5203,14 +5210,14 @@
         <p><pb n="643" xml:id="p643"/> – Partis ! en me disant de renoncer à l’affaire ! répondit madame de Marville.</p>
         <p>– Renoncer ! dit Fraisier avec un accent de rage contenue. Écoutez, madame…</p>
         <p>Et il lut la pièce suivante :</p>
-        <p>@q legal</p>
+        <q type="legal">
         <p>À la requête de, etc… je passe le verbiage.</p>
         <p>Attendu qu’il a été déposé entre les mains de monsieur le président du tribunal de première instance, un testament reçu par maître Léopold Hannequin et Alexandre Crottat, notaires à Paris, accompagnés de deux témoins, les sieurs Brunner et Schwab, étrangers domiciliés à Paris, par lequel testament le sieur Pons, décédé, a disposé de sa fortune au préjudice du requérant, son héritier naturel et légal, au profit d’un sieur Schmucke, Allemand ;</p>
         <p>Attendu que le requérant se fait fort de démontrer que le testament est l’œuvre d’une odieuse captation, et le résultat de manœuvres réprouvées par la loi ; qu’il sera prouvé par des personnes éminentes que l’intention du testateur était de laisser sa fortune à mademoiselle Cécile, fille de mondit sieur de Marville ; et que le testament, dont le requérant demande l’annulation, a été arraché à la faiblesse du testateur quand il était en pleine démence ;</p>
         <p>Attendu que le sieur Schmucke, pour obtenir ce legs universel, a tenu en chartre privée le testateur, qu’il a empêché la famille d’arriver jusqu’au lit du mort, et que, le résultat obtenu, il s’est livré à des actes notoires d’ingratitude qui ont scandalisé la maison et tous les gens du quartier qui, par hasard, étaient témoins pour rendre les derniers devoirs au portier de la maison où est décédé le testateur ;</p>
         <p>Attendu que des faits plus graves encore, et dont le requérant recherche en ce moment les preuves, seront articulés devant messieurs les juges du tribunal ;</p>
         <p>J’ai, huissier soussigné, etc., etc., audit nom, assigné le sieur Schmucke, parlant, etc., à comparaître devant messieurs les juges composant la première chambre du tribunal, pour voir dire que le testament reçu par maîtres Hannequin et Crottat, étant le résultat d’une captation évidente, sera regardé comme nul et de nul effet, et j’ai, en outre, audit nom, protesté contre <pb n="644" xml:id="p644"/> la qualité et capacité de légataire universel que pourrait prendre le sieur Schmucke, entendant le requérant s’opposer, comme de fait il s’oppose, par sa requête en date d’aujourd’hui, présentée à monsieur le président, à l’envoi en possession demandée par ledit sieur Schmucke, et je lui ai laissé copie du présent, dont le coût est de… etc.</p>
-        <p>@/q</p>
+        </q>
         <p>– Je connais l’homme, madame la présidente, et quand il aura lu ce poulet, il transigera. Il consultera Tabareau, Tabareau lui dira d’accepter nos propositions ! Donnez-vous les mille écus de rente viagère ?</p>
         <p>– Certes, je voudrais bien en être à payer le premier terme.</p>
         <p>– Ce sera fait avant trois jours. Car cette assignation le saisira dans le premier étourdissement de sa douleur, car il regrette Pons, ce pauvre bonhomme. Il a pris cette perte très au sérieux.</p>

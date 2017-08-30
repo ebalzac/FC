@@ -2,10 +2,17 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2017-01-19T11:21:37+01:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
-      <titleStmt/>
+      <titleStmt>
+        <title>Le Cabinet des Antiques</title>
+        <author key="Balzac, Honoré de (1799-1850)">Honoré de Balzac</author>
+        <principal>Andrea Del Lungo</principal>
+        <principal>Pierre Glaudes</principal>
+        <principal>Jean-Gabriel Ganascia</principal>
+        <editor>Maxime Perret</editor>
+      </titleStmt>
       <editionStmt/>
       <publicationStmt>
         <availability status="restricted"/>
@@ -21,13 +28,14 @@
   </teiHeader>
   <text>
     <body>
+      <div>
+      <head>LE CABINET DES ANTIQUES</head>
       <p rend="i">Les Rivalités. </p>
       <p>
         (<hi rend="sc">deuxième histoire.</hi>)
 </p>
-      <head>LE CABINET DES ANTIQUES</head>
-      <salute><pb n="120" xml:id="p120"/> À MONSIEUR LE BARON DE HAMMER-PURGSTALL</salute>
-      <salute>Conseiller aulique, auteur de l’<hi rend="i">Histoire de l’Empire ottoman</hi></salute>
+      <p rend="salute"><pb n="120" xml:id="p120"/> À MONSIEUR LE BARON DE HAMMER-PURGSTALL</p>
+      <p rend="salute">Conseiller aulique, auteur de l’<hi rend="i">Histoire de l’Empire ottoman</hi></p>
       <p>Cher baron,</p>
       <p>Vous vous êtes si chaudement intéressé à ma longue et vaste histoire des mœurs françaises au dix-neuvième siècle, et vous avez accordé de tels encouragements à mon œuvre, que vous m’avez ainsi donné le droit d’attacher votre nom à l’un des fragments qui en feront partie. N’êtes-vous pas un des plus graves représentants de la consciencieuse et studieuse Allemagne ? Votre approbation ne doit-elle pas en commander d’autres et protéger mon entreprise ? je suis si fier de l’avoir obtenue que j’ai tâché de la mériter en continuant mes travaux avec cette intrépidité qui a caractérisé vos études et la recherche de tous les documents sans lesquels le monde littéraire n’aurait pas eu le monument élevé par vous. Votre sympathie pour des labeurs que vous avez connus et appliqués aux intérêts de la société orientale la plus éclatante, a souvent soutenu l’ardeur de mes veilles occupées par les détails de notre société moderne : ne serez-vous pas heureux de le savoir, vous dont la naïve bonté peut se comparer à celle de notre La Fontaine ?</p>
       <p>Je souhaite, cher baron, que ce témoignage de ma vénération pour vous et votre œuvre vienne vous trouver à Dobling, et vous y rappelle, ainsi qu’à tous les vôtres, un de vos plus sincères admirateurs et amis.</p>
@@ -642,6 +650,7 @@
       <p>La victoire de du Croisier fut alors complète, car le nouveau marquis d’Esgrignon, huit jours après la mort de son vieux père, accepta mademoiselle Duval pour femme, elle avait trois millions de dot, du Croisier et sa femme assuraient leur fortune à mademoiselle Duval au contrat. Du Croisier dit, pendant la cérémonie du mariage, que la maison d’Esgrignon était la plus honorable de toutes les maisons nobles de France. Vous voyez tous les hivers le marquis d’Esgrignon, qui doit réunir un jour plus de cent mille écus de rente, à Paris où il mène la joyeuse vie des garçons, n’ayant plus des grands seigneurs d’autrefois que son indifférence pour sa femme, de laquelle il n’a nul souci.</p>
       <p>– Quant à mademoiselle d’Esgrignon, disait Émile Blondet à qui l’on doit les détails de cette aventure, si elle ne ressemble plus à la céleste figure entrevue pendant mon enfance, elle est certes, à soixante-sept ans, la plus douloureuse et la plus intéressante figure du Cabinet des Antiques où elle trône encore. Je l’ai vue au dernier voyage que je fis dans mon pays, pour y aller chercher les papiers nécessaires à mon mariage. Quand mon père apprit qui <pb n="244" xml:id="p244"/> j’épousais, il demeura stupéfait, il ne retrouva la parole qu’au moment où je lui dis que j’étais Préfet. – Tu es né préfet ! me répondit-il en souriant. En faisant un tour par la ville, je rencontrai mademoiselle Armande qui m’apparut plus grande que jamais ! Il m’a semblé voir Marius sur les ruines de Carthage. Ne survit-elle pas à ses religions, à ses croyances détruites ? elle ne croit plus qu’en Dieu. Habituellement triste, muette, elle ne conserve, de son ancienne beauté, que des yeux d’un éclat surnaturel. Quand je l’ai vue allant à la messe, son livre à la main, je n’ai pu m’empêcher de penser qu’elle demande à Dieu de la retirer de ce monde.</p>
       <dateline>Aux Jardies, juillet 1837.</dateline>
+      </div>
     </body>
   </text>
 </TEI>
