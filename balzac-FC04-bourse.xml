@@ -42,7 +42,7 @@
         <date when="2017"/>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p> Copyright © 2016 Université Charles-de-Gaulle Lille 3, agissant pour le projet ANR « Projet d’hypertexte de l’œuvre de Balzac par l’utilisation de similarités » (ci-après dénommé ANR
+            <p> Copyright © 2017 Université Charles-de-Gaulle Lille 3, agissant pour le projet ANR « Projet d’hypertexte de l’œuvre de Balzac par l’utilisation de similarités » (ci-après dénommé ANR
               Phœbus). </p>
             <p> Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale
               par l’ANR Phœbus, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ». </p>
@@ -93,8 +93,10 @@
         <p rend="noindent">N’avez-vous pas remarqué, mademoiselle, qu’en mettant deux figures en adoration aux côtés d’une belle sainte, les peintres ou les sculpteurs du moyen âge n’ont jamais manqué
           de leur imprimer une ressemblance filiale ? en voyant votre nom parmi ceux qui me sont chers et sous la protection desquels je place mes œuvres, souvenez-vous de cette touchante harmonie, et
           vous trouverez ici moins un hommage que l’expression de l’affection fraternelle que vous a vouée </p>
-        <p>Votre serviteur,</p>
-        <salute>de Balzac.</salute>
+        <closer>
+          <salute>Votre serviteur,</salute>
+          <signed><hi rend="sc">de Balzac.</hi></signed>
+        </closer>
       </div>
     </front>
     <body>
@@ -284,9 +286,10 @@
         <p>– Oui, dit-elle, c’est celui des capitaines de vaisseau. Monsieur de Rouville, mon mari, est mort à Batavia des suites d’une blessure reçue dans un combat contre un vaisseau anglais qui le
           rencontra sur les côtes d’Asie. Il montait une frégate de cinquante-six canons, et le <hi rend="i">Revenge</hi> était un vaisseau de quatre-vingt-seize. La lutte fut très-inégale ; mais il
           se défendit si courageusement qu’il la maintint jusqu’à la nuit et put échapper. Quand je revins en France, Bonaparte n’avait pas encore le pouvoir, et l’on me refusa une pension. Lorsque,
-          dernièrement, je la sollicitai de nouveau, le ministre me dit avec dureté que si le<note place="bottom">Erreur du Furne : « le » est omis.</note> baron de Rouville eût émigré, je l’aurais conservé ; qu’il serait sans doute aujourd’hui contre-amiral ;
-          enfin, son excellence finit par m’opposer je ne sais quelle loi sur les déchéances. Je n’ai fait cette démarche à laquelle des amis m’avaient poussée, que pour ma pauvre Adélaïde. J’ai
-          toujours eu de la répugnance à tendre la main au nom d’une douleur qui ôte à une femme sa voix et ses forces. Je n’aime pas cette évaluation pécuniaire d’un sang irréparablement versé...</p>
+          dernièrement, je la sollicitai de nouveau, le ministre me dit avec dureté que si le<note place="bottom">Erreur du Furne : « le » est omis.</note> baron de Rouville eût émigré, je l’aurais
+          conservé ; qu’il serait sans doute aujourd’hui contre-amiral ; enfin, son excellence finit par m’opposer je ne sais quelle loi sur les déchéances. Je n’ai fait cette démarche à laquelle des
+          amis m’avaient poussée, que pour ma pauvre Adélaïde. J’ai toujours eu de la répugnance à tendre la main au nom d’une douleur qui ôte à une femme sa voix et ses forces. Je n’aime pas cette
+          évaluation pécuniaire d’un sang irréparablement versé...</p>
         <p>– Ma mère, ce sujet de conversation vous fait toujours mal.</p>
         <p>Sur ce mot d’Adélaïde, la baronne Leseigneur de Rouville inclina la tête et garda le silence.</p>
         <p>– Monsieur, dit la jeune fille à Hippolyte, je croyais que les travaux des peintres étaient en général peu bruyants ?</p>

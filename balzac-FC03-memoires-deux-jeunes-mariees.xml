@@ -46,7 +46,7 @@
         <date when="2017"/>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p> Copyright © 2016 Université Charles-de-Gaulle Lille 3, agissant pour le projet ANR « Projet d’hypertexte de l’œuvre de Balzac par l’utilisation de similarités » (ci-après dénommé ANR
+            <p> Copyright © 2017 Université Charles-de-Gaulle Lille 3, agissant pour le projet ANR « Projet d’hypertexte de l’œuvre de Balzac par l’utilisation de similarités » (ci-après dénommé ANR
               Phœbus). </p>
             <p> Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale
               par l’ANR Phœbus, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ». </p>
@@ -94,7 +94,7 @@
         <pb n="1" xml:id="p1"/>
         <salute>À GEORGES SAND<note place="bottom">Bien que Sand ait toujours écrit son prénom, George, sans s, nous respectons ici la graphie de l’édition Furne, que Balzac n’a pas
           corrigée.</note></salute>
-        <p>Ceci, cher Georges, ne saurait rien ajouter à l’éclat de votre nom, qui jettera son magique reflet sur ce livre ; mais il n’y a là de ma part ni calcul, ni modestie. Je désire attester
+        <p rend="noindent">Ceci, cher Georges, ne saurait rien ajouter à l’éclat de votre nom, qui jettera son magique reflet sur ce livre ; mais il n’y a là de ma part ni calcul, ni modestie. Je désire attester
           ainsi l’amitié vraie qui s’est continuée entre nous à travers nos voyages et nos absences, malgré nos travaux et les méchancetés du monde. Ce sentiment ne s’altérera sans doute jamais. Le
           cortège de noms amis qui accompagnera mes compositions mêle un plaisir aux peines que me cause leur nombre, car elles ne vont point sans douleurs, à ne parler que des reproches encourus par
           ma menaçante fécondité, comme si le monde qui pose devant moi n’était pas plus fécond encore ? Ne sera-ce pas beau, Georges, si quelque jour l’antiquaire des littératures détruites ne
@@ -102,9 +102,9 @@
           toujours contestables ? Pour qui vous connaît bien, n’est-ce pas un bonheur que de pouvoir se dire, comme je le fais ici, </p>
         <closer>
           <salute>Votre ami,</salute>
-        </closer>
         <signed><hi rend="sc">de Balzac</hi>.</signed>
         <dateline>Paris, juin 1840.</dateline>
+        </closer>
       </div>
     </front>
     <body>
@@ -114,8 +114,7 @@
         <div>
           <head>I <lb/>À mademoiselle Renée de Maucombe</head>
           <div>
-            <dateline>Paris, septembre.</dateline>
-            <!-- Je pense qu'il faudrait mettre les dateline dans des opener, comme chaque dateline est dans une div différente -->
+            <dateline rendition="epistolary">Paris, septembre.</dateline>
             <p>Ma chère biche, je suis dehors aussi, moi ! Et si tu ne m’as pas écrit à Blois, je suis aussi la première à notre joli rendez-vous de la correspondance. Relève tes beaux yeux noirs
               attachés sur ma première phrase, et garde ton exclamation pour la lettre où je te confierai mon premier amour. On parle toujours du premier amour, il y en a donc un second ? Tais-toi !
               me diras-tu ; dis-moi plutôt, me demanderas-tu, comment tu es sortie de ce couvent où tu devais faire ta profession ? Ma chère, quoi qu’il arrive aux Carmélites, le miracle de ma
@@ -216,7 +215,7 @@
               Dépeins-moi bien les moindres choses qui t’entourent, tout enfin, même les effets du couchant dans les grands arbres.</p>
           </div>
           <div>
-            <dateline>10 octobre.</dateline>
+            <dateline rendition="epistolary">10 octobre.</dateline>
             <p>J’étais arrivée à trois heures après midi. Vers cinq heures et demie, Rose est venue me dire que ma mère était rentrée, et je <pb n="9" xml:id="p9"/> suis descendue pour lui rendre mes
               respects. Ma mère occupe au rez-de-chaussée un appartement disposé, comme le mien, dans le même pavillon. Je suis au-dessus d’elle, et nous avons le même escalier dérobé. Mon père est
               dans le pavillon opposé ; mais, comme du côté de la cour il a de plus l’espace que prend dans le nôtre le grand escalier, son appartement est beaucoup plus vaste que les nôtres. Malgré
@@ -323,7 +322,7 @@
         </div>
         <div>
           <head>III <lb/>De la même à la même</head>
-          <dateline>Décembre.</dateline>
+          <dateline rendition="epistolary">Décembre.</dateline>
           <p>Ma chérie, me voici prête à entrer dans le monde ; aussi ai-je tâché d’être bien folle avant de me composer pour lui. Ce matin, après beaucoup d’essais, je me suis vue bien et dûment
             corsetée, chaussée, serrée, coiffée, habillée, parée. J’ai fait comme les duellistes avant le combat : je me suis exercée à huis-clos. J’ai voulu me voir sous les armes, je me suis de
             très-bonne grâce trouvé un petit air vainqueur et triomphant auquel il faudra se rendre. Je me suis examinée et jugée. J’ai passé la revue de mes forces en mettant en pratique cette belle
@@ -374,7 +373,7 @@
         </div>
         <div>
           <head>IV <lb/>De la même à la même</head>
-          <dateline>15 décembre.</dateline>
+          <dateline rendition="epistolary">15 décembre.</dateline>
           <p>Hier, à deux heures, je suis allée me promener aux Champs-Élysées et au bois de Boulogne par une de ces journées d’automne comme nous en avons tant admiré sur les bords de la Loire. J’ai
             donc enfin vu Paris ! L’aspect de la place Louis XV est vraiment beau, mais de ce beau que créent les hommes. J’étais bien mise, mélancolique quoique bien disposée à rire, la figure calme
             sous un charmant chapeau, les bras croisés. Je n’ai pas recueilli le moindre <pb n="20" xml:id="p20"/> sourire, je n’ai pas fait rester un seul pauvre petit jeune homme hébété sur ses
@@ -417,7 +416,7 @@
         </div>
         <div>
           <head>V <lb/>Renée de Maucombe à Louise de Chaulieu</head>
-          <dateline>Octobre.</dateline>
+          <dateline rendition="epistolary">Octobre.</dateline>
           <p>Combien ta lettre m’a émue ! émue surtout par la comparaison de nos destinées. Dans quel monde brillant tu vas vivre ! dans quelle paisible retraite achèverai-je mon obscure carrière !
             Quinze jours après mon arrivée au château de Maucombe, duquel je t’ai trop parlé pour t’en parler encore, et où j’ai retrouvé ma chambre à peu près dans l’état où je l’avais laissée, mais
             d’où j’ai pu comprendre le sublime paysage de la vallée de Gémenos, <pb n="23" xml:id="p23"/> qu’enfant je regardais sans y rien voir, mon père et ma mère, accompagnés de mes deux frères,
@@ -483,7 +482,7 @@
         <div>
           <head>VI <lb/>Don Felipe Henarez à Don Fernand</head>
           <div>
-            <dateline>Paris, septembre.</dateline>
+            <dateline rendition="epistolary">Paris, septembre.</dateline>
             <p>La date de cette lettre vous dira, mon frère, que le chef de votre maison ne court aucun danger. Si le massacre de nos ancêtres dans la cour des Lions nous a faits malgré nous Espagnols
               et chrétiens, il nous a légué la prudence des Arabes ; et peut-être ai-je dû mon salut au sang d’Abencerrage qui coule encore dans mes veines. La peur rendait Ferdinand si bon comédien
               que Valdez croyait à ses protestations. Sans moi, ce pauvre amiral était perdu. Jamais les libéraux ne sauront ce qu’est un roi. Mais le caractère de ce Bourbon m’est connu depuis
@@ -522,7 +521,7 @@
             <p>Au moment où je ne suis plus que baron de Macumer, les canons français annoncent l’entrée du duc d’Angoulême. Vous comprendrez, monsieur, pourquoi j’interromps ici ma lettre…</p>
           </div>
           <div>
-            <dateline>Octobre.</dateline>
+            <dateline rendition="epistolary">Octobre.</dateline>
             <p>En arrivant ici, je n’avais pas dix quadruples. Un homme d’État n’est-il pas bien petit quand, au milieu des catastrophes qu’il n’a pas empêchées, il montre une prévoyance égoïste ? Aux
               Maures vaincus, un cheval et le désert ; aux chrétiens trompés dans leurs espérances, le couvent et quelques pièces d’or. Cependant, ma résignation n’est encore que de la lassitude. Je
               ne suis point assez près du monastère pour ne pas songer à vivre. Ozalga m’avait, à tout hasard, donné des lettres de recommandation parmi lesquelles il s’en trouvait une pour un
@@ -559,7 +558,7 @@
           <pb n="32" xml:id="p32"/>
           <head> VII <lb/>Louise de Chaulieu à Renée de Maucombe</head>
           <div>
-            <dateline>Janvier 1824.</dateline>
+            <dateline rendition="epistolary">Janvier 1824.</dateline>
             <p>Comment, bientôt mariée ! mais prend-on les gens ainsi ? Au bout d’un mois, tu te promets à un homme, sans le connaître, sans en rien savoir. Cet homme peut être sourd, on l’est de tant
               de manières ! il peut être maladif, ennuyeux, insupportable. Ne vois-tu pas, Renée, ce qu’on veut faire de toi ? tu leur es nécessaire pour continuer la glorieuse maison de l’Estorade,
               et voilà tout. Tu vas devenir une provinciale. Sont-ce là nos promesses mutuelles ? À votre place, j’aimerais mieux aller me promener aux îles d’Hyères en caïque, jusqu’à ce qu’un
@@ -570,7 +569,7 @@
               certes pas dans ta bastide.</p>
           </div>
           <div>
-            <dateline>Lundi.</dateline>
+            <dateline rendition="epistolary">Lundi.</dateline>
             <p>Voilà quinze jours, ma chère, que je vis de la vie du monde : un soir aux Italiens, l’autre au grand Opéra, de là toujours au bal. Ah ! le monde est une féerie. La musique des Italiens
               me ravit, et pendant que mon âme nage dans un plaisir divin, je suis lorgnée, admirée ; mais, par un seul de mes regards, je fais baisser les yeux au plus hardi jeune homme. J’ai vu là
               des jeunes gens charmants ; eh ! bien, pas un ne me plaît ; aucun ne m’a causé l’émotion que <pb n="33" xml:id="p33"/> j’éprouve en entendant Garcia dans son magnifique duo avec
@@ -604,7 +603,7 @@
               croyez-vous que je vous demanderai toujours si madame de Staël est morte ? Mon père sourit et se leva.</p>
           </div>
           <div>
-            <dateline><pb n="35" xml:id="p35"/> Samedi.</dateline>
+            <dateline rendition="epistolary"><pb n="35" xml:id="p35"/> Samedi.</dateline>
             <p>Ma chère, je n’ai pas tout dit. Voici ce que je te réserve. L’amour que nous imaginions doit être bien profondément caché, je n’en ai vu de trace nulle part. J’ai bien surpris quelques
               regards rapidement échangés dans les salons ; mais quelle pâleur ! Notre amour, ce monde de merveilles, de beaux songes, de réalités délicieuses, de plaisirs et de douleurs se répondant,
               ces sourires qui éclairent la nature, ces paroles qui ravissent, ce bonheur toujours donné, toujours reçu, ces tristesses causées par l’éloignement et ces joies que prodigue la présence
@@ -638,7 +637,7 @@
         </div>
         <div>
           <head>VIII <lb/>La même à la même</head>
-          <dateline>Janvier.</dateline>
+          <dateline rendition="epistolary">Janvier.</dateline>
           <p>Nous avons pour maître un pauvre réfugié forcé de se cacher à cause de sa participation à la révolution que le duc d’Angoulême est allé vaincre ; succès auquel nous avons dû de belles
             fêtes. Quoique libéral et sans doute bourgeois, cet homme m’a intéressée : je me suis imaginée qu’il était condamné à mort. Je le fais causer pour savoir son secret, mais il est d’une
             taciturnité castillane, fier comme s’il était Gonzalve de Cordoue, et néanmoins d’une douceur et d’une patience angéliques ; sa fierté n’est pas montée comme celle de miss Griffith, elle
@@ -676,7 +675,7 @@
         </div>
         <div>
           <head>IX <lb/>Madame de l’Estorade à mademoiselle de Chaulieu</head>
-          <dateline>Décembre.</dateline>
+          <dateline rendition="epistolary">Décembre.</dateline>
           <p>Tout est dit et tout est fait, ma chère enfant, c’est madame de l’Estorade qui t’écrit ; mais il n’y a rien de changé entre nous, il n’y a qu’une fille de moins. Sois tranquille, j’ai
             médité mon consentement, et ne l’ai pas donné follement. Ma vie est maintenant déterminée. La certitude d’aller dans un chemin tracé convient également à mon esprit et à mon caractère. Une
             grande force <pb n="40" xml:id="p40"/> morale a corrigé pour toujours ce que nous nommons les hasards de la vie. Nous avons des terres à faire valoir, une demeure à orner, à embellir ;
@@ -698,7 +697,7 @@
           <pb n="41" xml:id="p41"/>
           <head>X <lb/>Mademoiselle de Chaulieu à madame de l’Estorade</head>
           <div>
-            <dateline>Janvier.</dateline>
+            <dateline rendition="epistolary">Janvier.</dateline>
             <p>Ô Renée ! tu m’as attristée pour plusieurs jours. Ainsi, ce corps délicieux, ce beau et fier visage, ces manières naturellement élégantes, cette âme pleine de dons précieux, ces yeux où
               l’âme se désaltère comme à une vive source d’amour, ce cœur rempli de délicatesses exquises, cet esprit étendu, toutes ces facultés si rares, ces efforts de la nature et de notre
               mutuelle éducation, ces trésors d’où devaient sortir pour la passion et pour le désir, des richesses uniques, des poèmes, des heures qui auraient valu des années, des plaisirs à rendre
@@ -712,7 +711,7 @@
               ton cœur. Mais enfin, je serai là, ma Renée, et tu trouveras une amie dont le cœur ne sera jamais atteint par la moindre petitesse sociale, un cœur tout à toi.</p>
           </div>
           <div>
-            <dateline><pb n="42" xml:id="p42"/> Lundi.</dateline>
+            <dateline rendition="epistolary"><pb n="42" xml:id="p42"/> Lundi.</dateline>
             <p>Ma chère, mon Espagnol est d’une admirable mélancolie : il y a chez lui je ne sais quoi de calme, d’austère, de digne, de profond qui m’intéresse au dernier point. Cette solennité
               constante et le silence qui couvre cet homme ont quelque chose de provoquant pour l’âme. Il est muet et superbe comme un roi déchu. Nous nous occupons de lui, Griffith et moi, comme
               d’une énigme. Quelle bizarrerie ! un maître de langues obtient sur mon attention le triomphe qu’aucun homme n’a remporté, moi qui maintenant ai passé en revue tous les fils de famille,
@@ -733,7 +732,7 @@
         </div>
         <div>
           <head>XI <lb/>Madame de l’Estorade à mademoiselle de Chaulieu</head>
-          <dateline>À la Crampade.</dateline>
+          <dateline rendition="epistolary">À la Crampade.</dateline>
           <p>Ton Espagnol et toi, vous me faites frémir, ma chère mignonne. Je t’écris ce peu de lignes pour te prier de le congédier. Tout ce que tu m’en dis se rapporte au caractère le plus
             dangereux de ceux de ces gens-là qui, n’ayant rien à perdre, risquent tout. Cet homme ne doit pas être ton amant et ne peut pas être ton mari. Je t’écrirai plus en détail sur les
             événements secrets de mon mariage, mais quand je n’aurai plus au cœur l’inquiétude que ta dernière lettre m’y a mise.</p>
@@ -741,7 +740,7 @@
         <div>
           <head>XII <lb/>De mademoiselle de Chaulieu à madame de l’Estorade</head>
           <div>
-            <dateline>Février.</dateline>
+            <dateline rendition="epistolary">Février.</dateline>
             <p>Ma belle biche, ce matin à neuf heures, mon père s’est fait annoncer chez moi, j’étais levée et habillée ; je l’ai trouvé gravement assis au coin de mon feu dans mon salon, pensif au
               delà de son habitude ; il m’a montré la bergère en face de lui, je l’ai compris, et m’y suis plongée avec une gravité qui le singeait si bien, qu’il s’est <pb n="44" xml:id="p44"/> pris
               à sourire, mais d’un sourire empreint d’une grave tristesse : – Vous êtes au moins aussi spirituelle que votre grand’mère, m’a-t-il dit. – Allons, mon père, ne soyez pas courtisan ici,
@@ -807,7 +806,7 @@
               d’expliquer comment ni pourquoi. Ce que j’ai senti, c’est la poésie. Mon abaissement, dont j’ai honte à cette heure, me semblait une grandeur : il m’avait fascinée, voilà mon excuse.</p>
           </div>
           <div>
-            <dateline>Vendredi.</dateline>
+            <dateline rendition="epistolary">Vendredi.</dateline>
             <p>Cet homme est vraiment très-beau. Ses paroles sont élégantes, son esprit est d’une supériorité remarquable. Ma chère, il est fort et logique comme Bossuet en m’expliquant le mécanisme
               non-seulement de la langue espagnole, mais encore de la pensée humaine et de toutes les langues. Le français semble être sa langue maternelle. Comme je lui en témoignais mon étonnement,
               il me répondit qu’il était venu en France très-jeune avec le roi d’Espagne, à Valençay. Que s’est-il passé dans cette âme ? il n’est plus le même : il est venu vêtu simplement, mais
@@ -866,7 +865,7 @@
               qui s’élevaient si haut sont tombées dans les marais de la réalité.</p>
           </div>
           <div>
-            <dateline>Dimanche.</dateline>
+            <dateline rendition="epistolary">Dimanche.</dateline>
             <p>Hier, aux Italiens, je me suis sentie regardée, mes yeux ont été magiquement attirés par deux yeux de feu qui brillaient comme deux escarboucles dans un coin obscur de l’orchestre. <pb
                 n="ill." xml:id="p52a" facs="https://www.ebalzac.com/romans/03-memoires-deux-jeunes-mariees/furne-corrige/p52a.jpg"/> Hénarez n’a pas détaché ses yeux de dessus moi. Le monstre a
               cherché la seule place d’où il pouvait me voir, et il y est. Je ne sais pas ce qu’il est en politique ; mais il a le génie de l’amour.</p>
@@ -878,7 +877,7 @@
         </div>
         <div>
           <head>XIII <lb/>De madame de l’Estorade à mademoiselle de Chaulieu</head>
-          <dateline>À la Crampade, février.</dateline>
+          <dateline rendition="epistolary">À la Crampade, février.</dateline>
           <p>Ma chère Louise, avant de t’écrire, j’ai dû attendre ; mais maintenant je sais bien des choses, ou, pour mieux dire, je les ai apprises, et je dois te les dire pour ton bonheur à venir.
             Il y a tant de différence entre une jeune fille et une femme mariée, que la jeune fille ne peut pas plus la concevoir que la femme mariée ne <pb n="53" xml:id="p53"/> peut redevenir jeune
             fille. J’ai mieux aimé être mariée à Louis de l’Estorade que de retourner au couvent. Voilà qui est clair. Après avoir deviné que si je n’épousais pas Louis je retournerais au couvent,
@@ -985,7 +984,7 @@
         </div>
         <div>
           <head>XIV <lb/>Le duc de Soria au baron de Macumer</head>
-          <dateline>Madrid.</dateline>
+          <dateline rendition="epistolary">Madrid.</dateline>
           <p>Mon cher frère, vous ne m’avez pas fait duc de Soria pour que je n’agisse pas en duc de Soria. Si je vous savais errant et sans les douceurs que la fortune donne partout, vous me rendriez
             mon bonheur insupportable. Ni Marie ni moi, nous ne nous marierons jusqu’à ce que nous ayons appris que vous avez accepté les sommes remises pour vous à Urraca. Ces deux millions
             proviennent de vos propres économies et de celles de Marie. Nous avons prié tous deux, agenouillés devant le même autel, et avec quelle ferveur ! ah ! Dieu le sait ! pour ton bonheur. Ô
@@ -1002,7 +1001,7 @@
         <div>
           <head>XV <lb/>Louise de Chaulieu à madame de l’Estorade</head>
           <div>
-            <dateline>Mars.</dateline>
+            <dateline rendition="epistolary">Mars.</dateline>
             <p>Ah ! mon ange, le mariage rend philosophe ?… Ta chère figure devait être jaune alors que tu m’écrivais ces terribles pensées sur la vie humaine et sur nos devoirs. Crois-tu donc que tu
               me convertiras au mariage par ce programme de travaux souterrains ? Hélas ! voilà donc où t’ont fait parvenir nos trop savantes rêveries ? Nous sommes sorties de Blois parées de toute
               notre innocence et armées des pointes aiguës de la réflexion : les dards de cette expérience purement morale des choses se sont tournés contre toi ! Si je ne te connaissais pas pour la
@@ -1025,7 +1024,7 @@
               une logique aussi cruelle que la tienne.</p>
           </div>
           <div>
-            <dateline>Lundi.</dateline>
+            <dateline rendition="epistolary">Lundi.</dateline>
             <p>Hier au soir, en me couchant, je me suis mise à ma fenêtre pour contempler le ciel, qui était d’une sublime pureté. Les étoiles ressemblaient à des clous d’argent qui retenaient un
               voile bleu. Par le silence de la nuit, j’ai pu entendre une respiration, et, par le demi-jour que jetaient les étoiles, j’ai vu mon Espagnol, perché comme un écureuil dans les branches
               d’un des arbres de la contre-allée des boulevards, admirant sans doute mes fenêtres. Cette <pb n="63" xml:id="p63"/> découverte a eu pour premier effet de me faire rentrer dans ma
@@ -1103,14 +1102,14 @@
         <div>
           <head>XVI <lb/>De la même à la même</head>
           <div>
-            <dateline>Mars.</dateline>
+            <dateline rendition="epistolary">Mars.</dateline>
             <p>Je suis habillée en blanc : j’ai des camélias blancs dans les cheveux et un camélia blanc à la main, ma mère en a de rouges ; je lui en prendrai un si je veux. Il y a en moi je ne sais
               quelle envie <pb n="68" xml:id="p68"/> de <hi rend="i">lui</hi> vendre son camélia rouge par un peu d’hésitation, et de ne me décider que sur le terrain. Je suis bien belle ! Griffith
               m’a priée de me laisser contempler un moment. La solennité de cette soirée et le drame de ce consentement secret m’ont donné des couleurs : j’ai à chaque joue un camélia rouge épanoui
               sur un camélia blanc !</p>
           </div>
           <div>
-            <dateline>Une heure.</dateline>
+            <dateline rendition="epistolary">Une heure.</dateline>
             <p>Tous m’ont admirée, un seul savait m’adorer. Il a baissé la tête en me voyant un camélia blanc à la main, et je l’ai vu devenir blanc comme la fleur quand j’en ai eu pris un rouge à ma
               mère. Venir avec les deux fleurs pouvait être un effet du hasard ; mais cette action était une réponse. J’ai donc étendu mon aveu ! On donnait <hi rend="i">Roméo et Juliette</hi>, et
               comme tu ne sais pas ce qu’est le duo des deux amants, tu ne peux comprendre le bonheur de deux néophytes d’amour écoutant cette divine expression de la tendresse. Je me suis couchée en
@@ -1121,7 +1120,7 @@
               le détail de sa journée ? Il est mon esclave, je dois l’occuper, et je vais l’écraser de travail.</p>
           </div>
           <div>
-            <dateline>Dimanche matin.</dateline>
+            <dateline rendition="epistolary">Dimanche matin.</dateline>
             <p>Je n’ai dormi que très-peu, le matin. Il est midi. Je viens de faire écrire la lettre suivante par Griffith.</p>
             <q type="letter">
               <opener>
@@ -1139,7 +1138,7 @@
         </div>
         <div>
           <head>XVII <lb/>De la même à la même</head>
-          <dateline>2 avril.</dateline>
+          <dateline rendition="epistolary">2 avril.</dateline>
           <p>Hier, le temps était superbe, je me suis mise en fille aimée et qui veut plaire. À ma prière, mon père m’a donné le plus joli attelage qu’il soit possible de voir à Paris : deux chevaux
             gris-pommelé et une calèche de la dernière élégance. J’essayais mon équipage. J’étais comme une fleur sous une ombrelle doublée de soie blanche. En montant l’avenue des Champs-Élysées,
             j’ai vu venir à moi mon Abencerrage sur un cheval de la plus admirable beauté : les hommes, qui maintenant sont presque tous de parfaits maquignons, s’arrêtaient pour le voir, pour
@@ -1159,7 +1158,7 @@
         </div>
         <div>
           <head>XVIII <lb/>De madame de l’Estorade à Louise de Chaulieu</head>
-          <dateline>Avril.</dateline>
+          <dateline rendition="epistolary">Avril.</dateline>
           <p>Chère ange, ou ne dois-je pas plutôt dire cher démon, tu m’as affligée sans le vouloir, et, si nous n’étions pas la même âme, je dirais blessée ; mais ne se blesse-t-on pas aussi
             soi-même ? Comme on voit bien que tu n’as pas encore arrêté ta pensée sur ce mot <hi rend="i">indissoluble</hi>, appliqué au contrat qui lie une femme à un homme ! Je ne veux pas
             contredire les philosophes ni les législateurs, ils sont bien de force à se contredire eux-mêmes ; mais, chère, en rendant le mariage irrévocable et lui imposant une formule égale pour
@@ -1220,7 +1219,7 @@
               d’aller les crever et de tuer un peu les gens pour plus de sûreté.</p>
           </div>
           <div>
-            <dateline>Lundi.</dateline>
+            <dateline rendition="epistolary">Lundi.</dateline>
             <p>Ah ! Renée, comment sonder le cœur d’un homme ? Mon père doit me présenter ton monsieur Bonald, et, puisqu’il est si savant, je le lui demanderai. Dieu est bien heureux de pouvoir lire
               au fond des cœurs. Suis-je toujours un ange pour cet homme ? Voilà toute la question.</p>
             <p>Si jamais, dans un geste, dans un regard, dans l’accent d’une parole, j’apercevais une diminution de ce respect qu’il avait pour moi quand il était mon maître d’espagnol, je me sens la
@@ -1232,7 +1231,7 @@
               promesse et invitation sans aller jusqu’à l’offre. Si dans sa réponse il y a ma Louise, ou seulement Louise, il est perdu.</p>
           </div>
           <div>
-            <dateline>Mardi.</dateline>
+            <dateline rendition="epistolary">Mardi.</dateline>
             <p>Non ! il n’est pas perdu. Ce ministre constitutionnel est un adorable amant. Voici sa lettre :</p>
             <p>« Tous les moments que je passais sans vous voir, je demeurais occupé de vous, les yeux fermés à toute chose et attachés par la méditation sur votre image, qui ne se dessinait jamais
               assez promptement dans le palais obscur où se passent les songes et où vous répandiez la lumière. Désormais ma vue se reposera sur ce merveilleux ivoire, sur ce talisman, dois-je dire ;
@@ -1258,7 +1257,7 @@
               seule.</p>
           </div>
           <div>
-            <dateline><pb n="77" xml:id="p77"/> Mercredi soir.</dateline>
+            <dateline rendition="epistolary"><pb n="77" xml:id="p77"/> Mercredi soir.</dateline>
             <p>Je viens de <hi rend="i">le</hi> voir, à l’Opéra. Ma chère, ce n’est plus le même homme : il est venu dans notre loge présenté par l’ambassadeur de Sardaigne. Après avoir vu dans mes
               yeux que son audace ne déplaisait point, il m’a paru comme embarrassé de son corps, et il a dit alors mademoiselle à la marquise d’Espard. Ses yeux lançaient des regards qui faisaient
               une lumière plus vive que celle des lustres. Enfin il est sorti comme un homme qui craignait de commettre une extravagance. – Le baron de Macumer est amoureux ! a dit madame de
@@ -1278,7 +1277,7 @@
         </div>
         <div>
           <head>XX <lb/>Renée de l’Estorade à Louise de Chaulieu</head>
-          <dateline>Mai.</dateline>
+          <dateline rendition="epistolary">Mai.</dateline>
           <p>Si l’amour est la vie du monde, pourquoi d’austères philosophes le suppriment-ils dans le mariage ? Pourquoi la Société prend-elle pour loi suprême de sacrifier la Femme à la Famille en
             créant ainsi nécessairement une lutte sourde au sein du mariage ? lutte prévue par elle et si dangereuse qu’elle a inventé des pouvoirs pour en armer l’homme contre nous, en devinant que
             nous pouvions tout annuler soit par la puissance de la tendresse, soit par la persistance d’une haine cachée. Je vois en ce moment, dans le mariage, deux forces opposées que le législateur
@@ -1313,7 +1312,7 @@
         <div>
           <head>XXI <lb/>Louise de Chaulieu à Renée de l’Estorade</head>
           <div>
-            <dateline>Juin.</dateline>
+            <dateline rendition="epistolary">Juin.</dateline>
             <p>Chère biche mariée, ta lettre est venue à propos pour me justifier à moi-même une hardiesse à laquelle je pensais nuit et jour. Il y a je ne sais quel appétit en moi pour les choses
               inconnues ou, si tu veux, défendues, qui m’inquiète et m’annonce au dedans de moi-même un combat entre les lois du monde et celles de la nature. Je ne sais pas si la nature est chez moi
               plus forte que la société, mais je me surprends à conclure des transactions entre ces puissances. Enfin, pour parler clairement, je voulais causer avec Felipe, seule avec lui, pendant
@@ -1371,7 +1370,7 @@
           </div>
           <div>
             <pb n="84" xml:id="p84"/>
-            <dateline> Vendredi.</dateline>
+            <dateline rendition="epistolary"> Vendredi.</dateline>
             <p>J’ai revu mon esclave : il est devenu craintif, il a pris un air mystérieux et dévot qui me plaît ; il me paraît pénétré de ma gloire et de ma puissance. Mais rien, ni dans ses regards,
               ni dans ses manières, ne peut permettre aux devineresses du monde de soupçonner en lui cet amour infini que je vois. Cependant, ma chère, je ne suis pas emportée, dominée, domptée ; au
               contraire, je dompte, je domine et j’emporte… Enfin je raisonne. Ah ! je voudrais bien retrouver cette peur que me causait la fascination du maître, du bourgeois à qui je me refusais. Il
@@ -1482,7 +1481,7 @@
         <div>
           <pb n="91" xml:id="p91"/>
           <head>XXIV <lb/>Louise de Chaulieu à Renée de l’Estorade</head>
-          <dateline>Octobre 1824.</dateline>
+          <dateline rendition="epistolary">Octobre 1824.</dateline>
           <p>Ma chère amie, toi qui t’es mariée en deux mois à un pauvre souffreteux de qui tu t’es faite la mère, tu ne connais rien aux effroyables péripéties de ce drame joué au fond des cœurs et
             appelé l’amour, où tout devient en un moment tragique, où la mort est dans un regard, dans une réponse faite à la légère. J’ai réservé pour dernière épreuve à Felipe une terrible mais
             décisive épreuve. J’ai voulu savoir si j’étais aimée <hi rend="i">quand même</hi> ! le grand et sublime mot des royalistes, et pourquoi pas des catholiques ? Il s’est promené pendant toute
@@ -1593,7 +1592,7 @@
         </div>
         <div>
           <head>XXV <lb/>Renée de l’Estorade à Louise de Chaulieu</head>
-          <dateline>Octobre.</dateline>
+          <dateline rendition="epistolary">Octobre.</dateline>
           <p>Impertinente ! pourquoi t’aurais-je écrit ? que t’eussé-je dit ? Durant cette vie animée par les fêtes, par les angoisses de <pb n="97" xml:id="p97"/> l’amour, par ses colères et par ses
             fleurs que tu me dépeins, et à laquelle j’assiste comme à une pièce de théâtre bien jouée, je mène une vie monotone et réglée à la manière d’une vie de couvent. Nous sommes toujours
             couchés à neuf heures et levés au jour. Nos repas sont toujours servis avec une exactitude désespérante. Pas le plus léger accident. Je me suis accoutumée à cette division du temps et sans
@@ -1619,7 +1618,7 @@
         <div>
           <head>XXVI <lb/>Louise de Macumer à Renée de l’Estorade</head>
           <div>
-            <dateline>Mars 1825.</dateline>
+            <dateline rendition="epistolary">Mars 1825.</dateline>
             <p>Comme Felipe réalise avec une générosité de Sarrasin les plans de mon père et de ma mère, en me reconnaissant ma fortune sans la recevoir, la duchesse est devenue encore meilleure femme
               avec moi qu’auparavant. Elle m’appelle <hi rend="i">petite rusée, petite commère</hi>, elle me trouve <hi rend="i">le bec affilé</hi>. – Mais, chère maman, lui ai-je dit la veille de la
               signature du contrat, vous attribuez à la politique, à la ruse, à l’habileté les effets de l’amour le plus vrai, le plus naïf, le plus désintéressé, le plus entier qui fut jamais !
@@ -1674,7 +1673,7 @@
               tendresses qui sont sincères…</p>
           </div>
           <div>
-            <dateline>Samedi soir.</dateline>
+            <dateline rendition="epistolary">Samedi soir.</dateline>
             <p>Voici donc, ma pauvre Renée, les dernières lignes de la jeune fille. Après la messe de minuit, nous partirons pour une terre que Felipe a, par une délicate attention, achetée en
               Nivernais, sur la route de Provence. Je me nomme déjà Louise de Macumer, mais je quitte Paris dans quelques heures en Louise de Chaulieu. De quelque façon que je me nomme, il n’y aura
               jamais pour toi que</p>
@@ -1686,7 +1685,7 @@
         <div>
           <head>XXVII <lb/>Louise de Macumer à Renée de l’Estorade</head>
           <div>
-            <dateline>Octobre 1825.</dateline>
+            <dateline rendition="epistolary">Octobre 1825.</dateline>
             <p>Je ne t’ai plus rien écrit, chère, depuis le mariage de la mairie, et voici bientôt huit mois. Quant à toi, pas un mot ! cela est horrible<note place="bottom">Erreur du Furne :
                 « horble » au lieu de « horrible ».</note>, madame.</p>
             <p>Eh ! bien, nous sommes donc partis en poste pour le château de Chantepleurs, la terre achetée par Macumer en Nivernais, sur les bords de la Loire, à soixante lieues de Paris. Nos gens,
@@ -1734,7 +1733,7 @@
               généralement embellie, et je suis comme une enfant en m’entendant appeler <hi rend="i">madame</hi>.</p>
           </div>
           <div>
-            <dateline>Vendredi matin.</dateline>
+            <dateline rendition="epistolary">Vendredi matin.</dateline>
             <p>Renée, ma belle sainte, mon bonheur me ramène sans cesse à toi. Je me sens meilleure pour toi que je ne l’ai jamais été : je te suis si dévouée ! J’ai si profondément étudié ta vie
               conjugale par le commencement de la mienne, et je te vois si grande, si noble, si magnifiquement vertueuse, que je me constitue ici ton inférieure, ta sincère admiratrice, en même temps
               que ton amie. En voyant ce qu’est mon mariage, il m’est à peu près prouvé que je serais morte s’il en eût été autrement. Et tu vis ! par quel sentiment, dis-le-moi ? Aussi ne te ferai-je
@@ -1759,7 +1758,7 @@
         </div>
         <div>
           <head>XXVIII <lb/>Renée de l’Estorade à Louise de Macumer</head>
-          <dateline>Décembre 1825.</dateline>
+          <dateline rendition="epistolary">Décembre 1825.</dateline>
           <p>Ma bienheureuse Louise, tu m’as éblouie. J’ai pendant quelques instants tenu ta lettre où quelques-unes de mes larmes brillaient au soleil couchant, les bras lassés, seule sous le petit
             rocher aride au bas duquel j’ai mis un banc. Dans un énorme lointain, comme une lame d’acier, reluit la Méditerranée. Quelques arbres odoriférants ombragent ce banc où j’ai fait
             transplanter un énorme jasmin, des chèvrefeuilles et des genêts d’Espagne. Quelque jour le rocher sera couvert en entier par des plantes grimpantes. Il y a déjà de la vigne vierge de
@@ -1818,7 +1817,7 @@
         </div>
         <div>
           <head>XXIX <lb/>De monsieur de l’Estorade à la baronne de Macumer</head>
-          <dateline>Décembre 1825.</dateline>
+          <dateline rendition="epistolary">Décembre 1825.</dateline>
           <p>Madame,</p>
           <p>Ma femme n’a pas voulu que vous apprissiez par le vulgaire billet de faire part un événement qui nous comble de joie. Elle vient d’accoucher d’un gros garçon, et nous retarderons son
             baptême jusqu’au moment où vous retournerez à votre terre de Chantepleurs. Nous espérons, Renée et moi, que vous pousserez jusqu’à la Crampade et que vous serez la marraine de notre
@@ -1842,7 +1841,7 @@
         </div>
         <div>
           <head>XXX <lb/>Louise de Macumer à Renée de l’Estorade</head>
-          <dateline>Janvier 1826.</dateline>
+          <dateline rendition="epistolary">Janvier 1826.</dateline>
           <p>Macumer m’a réveillée tout à l’heure avec la lettre de ton mari, mon ange. Je commence par dire <hi rend="i">oui</hi>. Nous irons vers la fin d’avril à Chantepleurs. Ce sera pour moi
             plaisir sur plaisir que de voyager, de te voir et d’être la marraine de ton premier enfant ; mais je veux Macumer pour parrain. Une alliance catholique avec un autre compère me serait
             odieuse. Ah ! si tu pouvais voir l’expression de <pb n="113" xml:id="p113"/> son visage au moment où je lui ai dit cela, tu saurais combien cet ange m’aime.</p>
@@ -1953,7 +1952,7 @@
               actuel par toutes mes voluptés.</p>
           </div>
           <div>
-            <dateline><pb n="120" xml:id="p120"/> 23.</dateline>
+            <dateline rendition="epistolary"><pb n="120" xml:id="p120"/> 23.</dateline>
             <p>Je t’ai quittée en entendant crier monsieur ton filleul, et ce cri je l’entends du fond du jardin. Je ne veux pas laisser partir cette lettre sans te dire un mot d’adieu ; je viens de
               la relire, et suis effrayée des vulgarités de sentiment qu’elle contient. Ce que je sens, hélas ! il me semble que toutes les mères l’ont éprouvé comme moi, doivent l’exprimer de la même
               manière, et que tu te moqueras de moi, comme on se moque de la naïveté de tous les pères qui vous parlent de l’esprit et de la beauté de leurs enfants, en leur trouvant toujours quelque
@@ -1964,7 +1963,7 @@
         </div>
         <div>
           <head>XXXII <lb/>Madame de Macumer à madame de l’Estorade</head>
-          <dateline>Mars 1826.</dateline>
+          <dateline rendition="epistolary">Mars 1826.</dateline>
           <p>Comment, ma chérie, voilà plus de trois mois que je ne t’ai écrit et que je n’ai reçu de lettres de toi… Je suis la plus coupable des deux, je ne t’ai pas répondu ; mais tu n’es pas
             susceptible, que je sache. Ton silence a été pris par Macumer et par moi comme une adhésion pour le Déjeuner orné d’enfants, et ces charmants bijoux vont partir ce matin pour Marseille ;
             les artistes ont mis six mois à les exécuter. Aussi me suis-je réveillée en sursaut quand Felipe m’a proposé de venir voir ce service, avant que l’orfèvre ne l’emballât. J’ai soudain pensé
@@ -2019,14 +2018,14 @@
         </div>
         <div>
           <head>XXXIV <lb/>De madame de Macumer à la vicomtesse de l’Estorade</head>
-          <dateline>Avril 1826.</dateline>
+          <dateline rendition="epistolary">Avril 1826.</dateline>
           <p>L’adresse de ma lettre t’annoncera, ma chère, le succès de mes sollicitations. Voilà ton beau-père comte de l’Estorade. Je n’ai pas voulu quitter Paris sans t’avoir obtenu ce que tu
             désirais, et je t’écris devant le garde des sceaux, qui m’est venu dire que l’ordonnance est signée.</p>
           <p>À bientôt.</p>
         </div>
         <div>
           <head>XXXV <lb/>Madame de Macumer à madame la vicomtesse de l’Estorade</head>
-          <dateline>Marseille, juillet.</dateline>
+          <dateline rendition="epistolary">Marseille, juillet.</dateline>
           <p>Mon brusque départ va t’étonner, j’en suis honteuse ; mais, comme avant tout je suis vraie et que je t’aime toujours autant, je vais te dire naïvement tout en quatre mots : je suis
             horriblement jalouse. Felipe te regardait trop. Vous aviez ensemble au pied de ton rocher de petites conversations qui me mettaient au supplice, me rendaient mauvaise et changeaient mon
             caractère. Ta beauté vraiment espagnole devait lui rappeler son pays et cette Marie Hérédia, de laquelle je suis jalouse, car j’ai la jalousie du passé. Ta magnifique chevelure noire, tes
@@ -2120,7 +2119,7 @@
         </div>
         <div>
           <head>XXXVII <lb/>De la baronne de Macumer à la vicomtesse de l’Estorade</head>
-          <dateline>Gênes.</dateline>
+          <dateline rendition="epistolary">Gênes.</dateline>
           <p>Ma chère belle, j’ai eu la fantaisie de voir un peu l’Italie, et suis ravie d’y avoir entraîné Macumer, dont les projets, relativement à la Sardaigne, sont ajournés.</p>
           <p>Ce pays m’enchante et me ravit. Ici les églises, et surtout les chapelles, ont un air amoureux et coquet qui doit donner à une protestante envie de se faire catholique. On a fêté Macumer,
             et l’on s’est applaudi d’avoir acquis un sujet pareil. Si je la désirais, Felipe aurait l’ambassade de Sardaigne à Paris ; car la cour est charmante pour moi. Si tu m’écris, adresse tes
@@ -2134,7 +2133,7 @@
         <div>
           <pb n="132" xml:id="p132"/>
           <head>XXXVIII <lb/>De la vicomtesse de l’Estorade à la baronne de Macumer</head>
-          <dateline>Septembre.</dateline>
+          <dateline rendition="epistolary">Septembre.</dateline>
           <p>Ma chère, il y a pour toi à Chantepleurs une assez longue réponse à la lettre que tu m’as écrite de Marseille. Ce voyage fait en amants est si loin de diminuer les craintes que je t’y
             exprimais, que je te prie d’écrire en Nivernais pour qu’on t’envoie ma lettre.</p>
           <p>Le ministère a résolu, dit-on, de dissoudre la chambre. Si c’est un malheur pour la couronne, qui devait employer la dernière session de cette législature dévouée à faire rendre des lois
@@ -2146,7 +2145,7 @@
         </div>
         <div>
           <head>XXXIX <lb/>De la baronne de Macumer à la vicomtesse de l’Estorade</head>
-          <dateline>Rome, décembre.</dateline>
+          <dateline rendition="epistolary">Rome, décembre.</dateline>
           <p>J’ai ton infâme lettre, que, sur ma demande, mon régisseur m’a envoyée de Chantepleurs ici. Oh ! Renée… Mais je t’épargne <pb n="133" xml:id="p133"/> tout ce que mon indignation pourrait
             me suggérer. Je vais seulement te raconter les effets produits par ta lettre. Au retour de la fête charmante que nous a donnée l’ambassadeur et où j’ai brillé de tout mon éclat, d’où
             Macumer est revenu dans un enivrement de moi que je ne saurais peindre, je lui ai lu ton horrible réponse, et je la lui ai lue en pleurant, au risque de lui paraître laide. Mon cher
@@ -2171,7 +2170,7 @@
         <div>
           <head>XL <lb/>De la comtesse de l’Estorade à la baronne de Macumer</head>
           <div>
-            <dateline>Janvier 1827.</dateline>
+            <dateline rendition="epistolary">Janvier 1827.</dateline>
             <p>Mon père est nommé, mon beau-père est mort, et je suis encore sur le point d’accoucher ; tels sont les événements marquants de la fin de cette année. Je te les dis sur-le-champ, pour
               que l’impression que te fera mon cachet noir se dissipe aussitôt.</p>
             <p>Ma mignonne, ta lettre de Rome m’a fait frémir. Vous êtes deux enfants. Felipe est, ou un diplomate qui a dissimulé, ou un homme qui t’aime comme il aimerait une courtisane à laquelle
@@ -2186,7 +2185,7 @@
               cadet ; et en lui tenant la dragée du marquisat un peu haut, il ne pourra penser qu’à lui-même.</p>
           </div>
           <div>
-            <dateline>15 janvier.</dateline>
+            <dateline rendition="epistolary">15 janvier.</dateline>
             <p>Ah ! Louise, je sors de l’enfer ! Si j’ai le courage de te parler de mes souffrances, c’est que tu me sembles une autre moi-même. Encore ne sais-je pas si je laisserai jamais ma pensée
               revenir sur ces cinq fatales journées ! Le seul mot de convulsion me cause un frisson dans l’âme même. Ce n’est pas cinq jours qui viennent de se passer, mais cinq siècles de douleurs.
               Tant qu’une mère n’a pas souffert ce martyre, elle ignorera ce que veut dire le mot souffrance. Je t’ai trouvée heureuse de ne pas avoir d’enfants, ainsi juge de ma déraison !</p>
@@ -2236,7 +2235,7 @@
         </div>
         <div>
           <head>XLI <lb/>De la baronne de Macumer à la vicomtesse de l’Estorade</head>
-          <dateline>Paris.</dateline>
+          <dateline rendition="epistolary">Paris.</dateline>
           <p>Pauvre ange, Macumer et moi nous t’avons pardonné tes <hi rend="i">mauvaisetés</hi> en apprenant combien tu as été tourmentée. J’ai frissonné, j’ai souffert en lisant les détails de cette
             double torture, et me voilà moins chagrine de ne pas être mère. Je m’empresse de t’annoncer la nomination de Louis, qui peut porter la rosette d’officier. Tu désirais une petite fille ;
             probablement tu en auras une, heureuse Renée ! Le mariage de mon frère et de mademoiselle de Mortsauf a été célébré à notre retour. Notre charmant roi, qui vraiment est d’une bonté
@@ -2293,7 +2292,7 @@
         </div>
         <div>
           <head>XLIV <lb/>De la même à la même</head>
-          <dateline>Paris, 1829.</dateline>
+          <dateline rendition="epistolary">Paris, 1829.</dateline>
           <p>Comment, ma chère, un an sans lettre ?… Je suis un peu piquée. Crois-tu que ton Louis, qui m’est venu voir presque tous les deux jours, te remplace ? Il ne me suffit pas de savoir que tu
             n’es pas malade et que vos affaires vont bien, je veux tes sentiments et tes idées comme je te livre les miennes, au risque d’être grondée, ou blâmée, ou méconnue, car je t’aime. Ton
             silence et ta retraite à la campagne, quand tu pourrais jouir ici des triomphes parlementaires du comte de l’Estorade, dont la <hi rend="i">parlotterie</hi> et le dévouement lui ont acquis
@@ -2405,7 +2404,7 @@
         </div>
         <div>
           <head>XLVI <lb/>Madame de Macumer à la comtesse de l’Estorade</head>
-          <dateline>1829.</dateline>
+          <dateline rendition="epistolary">1829.</dateline>
           <p>Les journaux t’auront appris, ma bonne et tendre Renée, l’horrible malheur qui a fondu sur moi ; je n’ai pu t’écrire un seul mot, je suis restée à son chevet pendant une vingtaine de
             jours et de nuits, j’ai reçu son dernier soupir, je lui ai fermé les yeux, je l’ai gardé pieusement avec les prêtres et j’ai dit les prières des morts. Je me suis infligé le châtiment de
             ces épouvantables douleurs, et cependant, en voyant sur ses lèvres sereines le sourire qu’il m’adressait avant de mourir, je n’ai pu croire que mon amour l’ait tué ! Enfin, <hi rend="i">il
@@ -2452,7 +2451,7 @@
         </div>
         <div>
           <head>XLVII <lb/>Renée à Louise</head>
-          <dateline>1829.</dateline>
+          <dateline rendition="epistolary">1829.</dateline>
           <p>Ma chérie, quand tu tiendras cette lettre entre les mains, je ne serai pas loin, car je pars quelques instants après te l’avoir envoyée. Nous serons seules. Louis est obligé de rester en
             Provence à cause des élections qui vont s’y faire ; il veut être réélu, et il y a déjà des intrigues de nouées contre lui par les libéraux.</p>
           <p>Je ne viens pas te consoler, je t’apporte seulement mon cœur pour tenir compagnie au tien et pour t’aider à vivre. Je viens t’ordonner de pleurer : il faut acheter ainsi le bonheur de le
@@ -2467,7 +2466,7 @@
         <div>
           <head>XLVIII <lb/>De la baronne de Macumer à la comtesse de l’Estorade</head>
           <div>
-            <dateline>15 octobre 1833.</dateline>
+            <dateline rendition="epistolary">15 octobre 1833.</dateline>
             <p>Eh ! bien, oui, Renée, on a raison, on t’a dit vrai. J’ai vendu mon hôtel, j’ai vendu Chantepleurs et les fermes de Seine-et-Marne ; mais que je sois folle et ruinée, ceci est de trop.
               Comptons ! La cloche fondue, il m’est resté de la fortune de mon pauvre Macumer environ douze cent mille francs. Je vais te rendre un compte fidèle en sœur bien apprise. J’ai mis un
               million dans le trois pour cent quand il était à cinquante francs, et me suis fait ainsi soixante mille francs de rentes au lieu de trente que j’avais en terres. Aller six mois de
@@ -2532,7 +2531,7 @@
               aveux ; après-demain je t’en dirai davantage, car je suis obligée d’aller demain à la campagne pour toute la journée.</p>
           </div>
           <div>
-            <dateline>20 octobre.</dateline>
+            <dateline rendition="epistolary">20 octobre.</dateline>
             <p>Voici quelles mesures j’ai prises pour cacher mon bonheur, car je souhaite éviter toute espèce d’occasion à ma jalousie. Je ressemble à cette belle princesse italienne qui courait comme
               une lionne ronger son amour dans quelque ville de Suisse, après avoir fondu sur sa proie comme une lionne. Aussi ne te parlé-je de mes dispositions que pour te demander une autre grâce,
               celle de ne jamais venir nous voir sans que je t’en aie priée moi-même, et de respecter la solitude dans laquelle je veux vivre.</p>
@@ -2598,7 +2597,7 @@
         </div>
         <div>
           <head>XLIX <lb/>Marie-Gaston à Daniel d'Arthez</head>
-          <dateline>Octobre 1833.</dateline>
+          <dateline rendition="epistolary">Octobre 1833.</dateline>
           <p>Mon cher Daniel, j’ai besoin de deux témoins pour mon mariage ; je vous prie de venir chez moi demain soir en vous faisant accompagner de notre ami, le bon et grand Joseph Bridau.
             L’intention de celle qui sera ma femme est de vivre loin du monde et parfaitement ignorée : elle a pressenti le plus cher de mes vœux. Vous n’avez rien su de mes amours, vous qui m’avez
             adouci les misères d’une vie pauvre ; mais, vous le devinez, ce secret absolu fut une nécessité. Voilà pourquoi, depuis un an, nous nous sommes si peu vus. Le lendemain de mon mariage,
@@ -2654,7 +2653,7 @@
         <div>
           <pb n="165" xml:id="p165"/>
           <head>LI <lb/>De la comtesse de l’Estorade à madame Marie-Gaston</head>
-          <dateline>1835.</dateline>
+          <dateline rendition="epistolary">1835.</dateline>
           <p>Que deviens-tu, ma chère ? Après un silence de deux années, il est permis à Renée d’être inquiète de Louise. Voilà donc l’amour ! il emporte, il annule une amitié comme la nôtre. Avoue
             que si j’adore mes enfants plus encore que tu n’aimes ton Gaston, il y a dans le sentiment maternel je ne sais quelle immensité qui permet de ne rien enlever aux autres affections, et qui
             laisse une femme être encore amie sincère et dévouée. Tes lettres, ta douce et charmante figure me manquent. J’en suis réduite à des conjectures sur toi, ô Louise !</p>
@@ -2720,7 +2719,7 @@
         </div>
         <div>
           <head>LII <lb/>Madame Gaston à madame de l’Estorade</head>
-          <dateline>Au Chalet.</dateline>
+          <dateline rendition="epistolary">Au Chalet.</dateline>
           <p>Un silence de deux années a piqué ta curiosité, tu me demandes pourquoi je ne t’ai pas écrit ; mais, ma chère Renée, il n’y a ni phrases, ni mots, ni langage pour exprimer mon bonheur :
             nos âmes ont la force de le soutenir, voilà tout en deux mots. Nous n’avons point le moindre effort à faire pour être heureux, nous nous entendons en toutes choses. En trois ans, il n’y a
             pas eu la moindre dissonance dans ce concert, le moindre désaccord d’expression dans nos sentiments, la moindre différence dans les moindres vouloirs. Enfin, ma chère, il n’est pas une de
@@ -2849,7 +2848,7 @@
         <div>
           <head>LIV <lb/>De madame Gaston à la comtesse de l’Estorade</head>
           <div>
-            <dateline>20 mai.</dateline>
+            <dateline rendition="epistolary">20 mai.</dateline>
             <p>Renée, le malheur est venu ; non, il a fondu sur ta pauvre Louise avec la rapidité de la foudre, et tu me comprends : le malheur pour moi, c’est le doute. La conviction, ce serait la
               mort. Avant-hier, après ma première toilette, en cherchant partout Gaston pour faire une petite promenade avant le déjeuner, je ne l’ai point trouvé. Je suis entrée à l’écurie, j’y ai vu
               sa jument trempée de sueur, et à laquelle le groom enlevait, à l’aide d’un couteau, des flocons d’écume avant de l’essuyer. – Qui donc a pu mettre Fedelta dans un pareil état ? ai-je
@@ -2896,7 +2895,7 @@
               pour le récompenser d’avoir eu honte de me tromper. Je fis l’innocente, et il a pu croire tout fini.</p>
           </div>
           <div>
-            <dateline>25 mai.</dateline>
+            <dateline rendition="epistolary">25 mai.</dateline>
             <p>Le lendemain, vers six heures, je mis mon habit de cheval, et je tombai à sept heures chez Verdier, où je vis plusieurs cravaches de ce modèle. Un commis reconnut la mienne, que je lui
               montrai. – Nous l’avons vendue hier à un jeune homme, me dit-il. Et sur la description que je lui fis de mon fourbe de Gaston, il n’y eut plus de doute. Je te fais grâce des palpitations
               de cœur qui me brisaient la poitrine en allant à Paris, et pendant cette petite scène où se décidait ma vie. Revenue à sept heures et demie, Gaston me trouva pimpante, en toilette du
@@ -2917,7 +2916,7 @@
               malheureuse !</p>
           </div>
           <div>
-            <dateline>30 mai.</dateline>
+            <dateline rendition="epistolary">30 mai.</dateline>
             <p>Depuis ce jour, Gaston, au lieu de travailler mollement et avec le laissez-aller de l’artiste riche qui caresse son œuvre, se donne des tâches comme l’écrivain qui vit de sa plume. Il
               emploie quatre heures tous les jours à finir deux pièces de théâtre.</p>
             <p>– Il lui faut de l’argent ! Cette pensée me fut soufflée par une voix intérieure. Il ne dépense presque rien ; nous vivons dans une absolue confiance, il n’est pas un coin de son
@@ -2945,7 +2944,7 @@
               de ce mot : ET MM**. J’ai vu la première représentation, cachée au fond d’une loge d’avant-scène au rez-de-chaussée.</p>
           </div>
           <div>
-            <dateline>1er juillet.</dateline>
+            <dateline rendition="epistolary">1er juillet.</dateline>
             <p>Gaston travaille toujours et va toujours à Paris ; il travaille à de nouvelles pièces pour avoir le prétexte d’aller à Paris et pour se faire de l’argent. Nous avons trois pièces reçues
               et deux de demandées. Oh ! ma chère, je suis perdue, je marche dans les ténèbres. Je brûlerai ma maison pour y voir clair. Que signifie une pareille conduite ? A-t-il honte d’avoir reçu
               de moi la fortune ? Il a l’âme trop grande pour se préoccuper d’une pareille niaiserie. D’ailleurs, quand un homme commence à concevoir de ces scrupules, ils lui sont inspirés par un
@@ -2954,7 +2953,7 @@
               des suppositions, et, tout bien calculé, je suis certaine d’avoir une rivale. Il me laisse, pour qui ? je veux <hi rend="i">la</hi> voir…</p>
           </div>
           <div>
-            <dateline>10 juillet.</dateline>
+            <dateline rendition="epistolary">10 juillet.</dateline>
             <p>J’ai vu clair : je suis perdue. Oui, Renée, à trente ans, dans toute la gloire de la beauté, riche des ressources de mon esprit, parée des séductions de la toilette, toujours fraîche,
               élégante, je suis trahie, et pour qui ? pour une Anglaise qui a de gros pieds, de <pb n="185" xml:id="p185"/> gros os, une grosse poitrine, quelque vache britannique. Je n’en puis plus
               douter. Voici ce qui m’est arrivé dans ces derniers jours.</p>
@@ -2974,7 +2973,7 @@
               question : – Madame Gaston est-elle mariée légalement ? il me répondît : – Oui, <hi rend="i">mademoiselle</hi>.</p>
           </div>
           <div>
-            <dateline><pb n="186" xml:id="p186"/> 15 juillet.</dateline>
+            <dateline rendition="epistolary"><pb n="186" xml:id="p186"/> 15 juillet.</dateline>
             <p>Ma chère, depuis cette matinée, j’ai redoublé d’amour pour Gaston, et je l’ai trouvé plus amoureux que jamais ; il est si jeune ! Vingt fois, à notre lever, je suis près de lui dire :
               – Tu m’aimes donc plus que celle de la rue de la Ville-Lévêque ? Mais je n’ose m’expliquer le mystère de mon abnégation. – Tu aimes bien les enfants ? lui ai-je demandé. – Oh ! oui,
               m’a-t-il répondu ; mais nous en aurons ! – Et comment ? – J’ai consulté les médecins les plus savants, et tous m’ont conseillé de faire un voyage de deux mois. – Gaston, lui ai-je dit,
@@ -2988,7 +2987,7 @@
         </div>
         <div>
           <head>LV <lb/>La comtesse de l’Estorade à madame Gaston</head>
-          <dateline>16 juillet.</dateline>
+          <dateline rendition="epistolary">16 juillet.</dateline>
           <p>Ma chère Louise, je t’envoie cette lettre par un exprès avant de courir au Chalet moi-même. Calme-toi. Ton dernier mot m’a paru si insensé que j’ai cru pouvoir, en de pareilles
             circonstances, tout confier à Louis : il s’agissait de te sauver de toi-même. Si, comme <pb n="187" xml:id="p187"/> toi, nous avons employé d’horribles moyens, le résultat est si heureux
             que je suis certaine de ton approbation. Je suis descendue jusqu’à faire marcher la police ; mais c’est un secret entre le préfet, nous et toi. Gaston est un ange ! Voici les faits : son
@@ -3028,7 +3027,7 @@
         <div>
           <head>LVII <lb/>De la comtesse de l’Estorade au comte de l’Estorade</head>
           <div>
-            <dateline>Au Chalet, 7 août.</dateline>
+            <dateline rendition="epistolary">Au Chalet, 7 août.</dateline>
             <p>Mon ami, emmène les enfants et fais le voyage de Provence sans moi ; je reste auprès de Louise qui n’a plus que quelques jours à vivre : je me dois à elle et à son mari, qui deviendra
               fou, je crois.</p>
             <p>Depuis le petit mot que tu connais et qui m’a fait voler, accompagnée de médecins, à Ville-d’Avray, je n’ai pas quitté cette charmante femme et n’ai pu t’écrire, car voici la quinzième
@@ -3086,7 +3085,7 @@
             <p>Adieu, mon ami.</p>
           </div>
           <div>
-            <dateline>25 août (le jour de sa fête).</dateline>
+            <dateline rendition="epistolary">25 août (le jour de sa fête).</dateline>
             <p>Hier au soir Louise a eu pendant quelques moments le délire ; mais ce fut un délire vraiment élégant, qui prouve que les gens d’esprit ne deviennent pas fous comme les bourgeois ou
               comme les sots. Elle a chanté d’une voix éteinte quelques airs italiens des <hi rend="i">Puritani</hi>, de la <hi rend="i">Sonnambula</hi> et de <hi rend="i">Mosé</hi>. Nous étions tous
               silencieux autour du lit, et nous avons tous eu, même son frère Rhétoré, des larmes dans les yeux, tant il était clair que son âme s’échappait ainsi. Elle ne nous voyait plus ! Il y
@@ -3098,11 +3097,11 @@
               l’autre côté de la bergère.</p>
           </div>
           <div>
-            <dateline><pb n="194" xml:id="p194"/> 26 août.</dateline>
+            <dateline rendition="epistolary"><pb n="194" xml:id="p194"/> 26 août.</dateline>
             <p>J’ai le cœur brisé. Je viens d’aller la voir dans son linceul, elle y est devenue pâle avec des teintes violettes. Oh ! je veux voir mes enfants ! mes enfants ! Amène mes enfants
               au-devant de moi !</p>
             <closer>
-              <dateline>Paris, 1841.</dateline>
+              <dateline rendition="end">Paris, 1841.</dateline>
               <!--j'ai déplacé le closer final dans la div de la dernière lettre pour ne pas ouvrir une div : vérifier que c'est conforme -->
             </closer>
           </div>
