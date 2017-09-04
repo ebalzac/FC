@@ -94,16 +94,16 @@
         <pb n="1" xml:id="p1"/>
         <salute>À GEORGES SAND<note place="bottom">Bien que Sand ait toujours écrit son prénom, George, sans s, nous respectons ici la graphie de l’édition Furne, que Balzac n’a pas
           corrigée.</note></salute>
-        <p rend="noindent">Ceci, cher Georges, ne saurait rien ajouter à l’éclat de votre nom, qui jettera son magique reflet sur ce livre ; mais il n’y a là de ma part ni calcul, ni modestie. Je désire attester
-          ainsi l’amitié vraie qui s’est continuée entre nous à travers nos voyages et nos absences, malgré nos travaux et les méchancetés du monde. Ce sentiment ne s’altérera sans doute jamais. Le
-          cortège de noms amis qui accompagnera mes compositions mêle un plaisir aux peines que me cause leur nombre, car elles ne vont point sans douleurs, à ne parler que des reproches encourus par
-          ma menaçante fécondité, comme si le monde qui pose devant moi n’était pas plus fécond encore ? Ne sera-ce pas beau, Georges, si quelque jour l’antiquaire des littératures détruites ne
-          retrouve dans ce cortège que de grands noms, de nobles cœurs, de saintes et pures amitiés, et les gloires de ce siècle ? Ne puis-je me montrer plus fier de ce bonheur certain que de succès
-          toujours contestables ? Pour qui vous connaît bien, n’est-ce pas un bonheur que de pouvoir se dire, comme je le fais ici, </p>
+        <p rend="noindent">Ceci, cher Georges, ne saurait rien ajouter à l’éclat de votre nom, qui jettera son magique reflet sur ce livre ; mais il n’y a là de ma part ni calcul, ni modestie. Je
+          désire attester ainsi l’amitié vraie qui s’est continuée entre nous à travers nos voyages et nos absences, malgré nos travaux et les méchancetés du monde. Ce sentiment ne s’altérera sans
+          doute jamais. Le cortège de noms amis qui accompagnera mes compositions mêle un plaisir aux peines que me cause leur nombre, car elles ne vont point sans douleurs, à ne parler que des
+          reproches encourus par ma menaçante fécondité, comme si le monde qui pose devant moi n’était pas plus fécond encore ? Ne sera-ce pas beau, Georges, si quelque jour l’antiquaire des
+          littératures détruites ne retrouve dans ce cortège que de grands noms, de nobles cœurs, de saintes et pures amitiés, et les gloires de ce siècle ? Ne puis-je me montrer plus fier de ce
+          bonheur certain que de succès toujours contestables ? Pour qui vous connaît bien, n’est-ce pas un bonheur que de pouvoir se dire, comme je le fais ici, </p>
         <closer>
           <salute>Votre ami,</salute>
-        <signed><hi rend="sc">de Balzac</hi>.</signed>
-        <dateline>Paris, juin 1840.</dateline>
+          <signed><hi rend="sc">de Balzac</hi>.</signed>
+          <dateline>Paris, juin 1840.</dateline>
         </closer>
       </div>
     </front>
@@ -648,7 +648,7 @@
             rougi ; j’allais lui répliquer par quelque bonne impertinence, quand je me suis souvenue de ce que nous disait notre chère mère en Dieu, et alors je lui ai répondu : – Si vous aviez à me
             reprendre en quoi que ce soit, je deviendrais votre obligée. Il a tressailli, le sang a coloré son teint olivâtre, il m’a répondu d’une voix doucement émue : – La religion a dû vous
             enseigner mieux que je ne saurais le faire à respecter les grandes infortunes. <pb n="ill." xml:id="p0b"
-              facs="https://www.ebalzac.com/romans/03-memoires-deux-jeunes-mariees/furne-corrige/p0b.jpg"/> Si j’étais Don en Espagne, et que <pb n="38" xml:id="p38"/> j’eusse tout perdu au triomphe
+              facs="https://www.ebalzac.com/romans/03-memoires-deux-jeunes-mariees/furne-corrige/scans/p0b.jpg"/> Si j’étais Don en Espagne, et que <pb n="38" xml:id="p38"/> j’eusse tout perdu au triomphe
             de Ferdinand VII, votre plaisanterie serait une cruauté ; mais si je ne suis qu’un pauvre maître de langue, n’est-ce pas une atroce raillerie ? Ni l’une ni l’autre ne sont dignes d’une
             jeune fille noble. Je lui ai pris la main en lui disant : – J’invoquerai donc aussi la religion pour vous prier d’oublier mon tort. Il a baissé la tête, a ouvert mon Don Quichotte, et
             s’est assis. Ce petit incident m’a causé plus de trouble que tous les compliments, les regards et les phrases que j’ai recueillis pendant la soirée où j’ai été le plus courtisée. Durant la
@@ -832,23 +832,26 @@
               français, et non du français en espagnol ; je lui en fis l’observation, et priai Griffith de me chercher la dernière lettre que j’avais reçue d’une de mes amies. Je verrai, pensais-je, à
               l’effet que lui <pb n="50" xml:id="p50"/> fera mon programme, quel sang est dans ses veines. Je pris le papier des mains de Griffith en disant : – Voyons si j’ai bien copié ? car tout
               était de mon écriture. Je lui tendis le papier ou si tu veux le piège, et je l’examinai pendant qu’il lisait ceci.</p>
-            <p>« L’homme qui me plaira, ma chère, devra être rude et orgueilleux avec les hommes, mais doux avec les femmes. Son regard d’aigle saura réprimer instantanément tout ce qui peut
-              ressembler au ridicule. Il aura un sourire de pitié pour ceux qui voudraient tourner en plaisanterie les choses sacrées, celles surtout qui constituent la poésie du cœur, et sans
-              lesquelles la vie ne serait plus qu’une triste réalité. Je méprise profondément ceux qui voudraient nous ôter la source des idées religieuses, si fertiles en consolations. Aussi, ses
-              croyances devront-elles avoir la simplicité de celles d’un enfant unie à la conviction inébranlable d’un homme d’esprit qui a approfondi ses raisons de croire. Son esprit, neuf,
-              original, sera sans affectation ni parade : il ne peut rien dire qui soit de trop ou déplacé ; il lui serait aussi impossible d’ennuyer les autres que de s’ennuyer lui-même, car il aura
-              dans son âme un fonds riche. Toutes ses pensées doivent être d’un genre noble, élevé, chevaleresque, sans aucun égoïsme. En toutes ses actions, on remarquera l’absence totale du calcul
-              ou de l’intérêt. Ses défauts proviendront de l’étendue même de ses idées, qui seront au-dessus de son temps. En toute chose, je dois le trouver en avant de son époque. Plein d’attentions
-              délicates dues aux êtres faibles, il sera bon pour toutes les femmes, mais bien difficilement épris d’aucune : il regardera cette question comme beaucoup trop sérieuse pour en faire un
-              jeu. Il se pourrait donc qu’il passât sa vie sans aimer véritablement, en montrant en lui toutes les qualités qui peuvent inspirer une passion profonde. Mais s’il trouve une fois son
-              idéal de femme, celle entrevue dans ces songes qu’on fait les yeux ouverts ; s’il rencontre un être qui le comprenne, qui remplisse son âme et jette sur toute sa vie un rayon de bonheur,
-              qui brille pour lui comme une étoile à travers les nuages de ce monde si sombre, si froid, si glacé ; qui donne un charme tout nouveau à son existence, et fasse vibrer en lui des cordes
-              muettes jusque-là, je crois inutile de dire qu’il saura reconnaître et apprécier son bonheur. Aussi la rendra-t-il parfaitement heureuse. Jamais, ni par un mot, ni par <pb n="51"
-                xml:id="p51"/> un regard, il ne froissera ce cœur aimant qui se sera remis en ses mains avec l’aveugle amour d’un enfant qui dort dans les bras de sa mère ; car si elle se réveillait
-              jamais de ce doux rêve, elle aurait l’âme et le cœur à jamais déchirés : il lui serait impossible de s’embarquer sur cet océan sans y mettre tout son avenir.</p>
-            <p>Cet homme aura nécessairement la physionomie, la tournure, la démarche, enfin la manière de faire les plus grandes comme les plus petites choses, des êtres supérieurs qui sont simples
-              et sans apprêt. Il peut être laid ; mais ses mains seront belles ; il aura la lèvre supérieure légèrement relevée par un sourire ironique et dédaigneux pour les indifférents ; enfin il
-              réservera pour ceux qu’il aime le rayon céleste et brillant de son regard plein d’âme. »</p>
+            <q type="letter">
+              <p>L’homme qui me plaira, ma chère, devra être rude et orgueilleux avec les hommes, mais doux avec les femmes. Son regard d’aigle saura réprimer instantanément tout ce qui peut
+                ressembler au ridicule. Il aura un sourire de pitié pour ceux qui voudraient tourner en plaisanterie les choses sacrées, celles surtout qui constituent la poésie du cœur, et sans
+                lesquelles la vie ne serait plus qu’une triste réalité. Je méprise profondément ceux qui voudraient nous ôter la source des idées religieuses, si fertiles en consolations. Aussi, ses
+                croyances devront-elles avoir la simplicité de celles d’un enfant unie à la conviction inébranlable d’un homme d’esprit qui a approfondi ses raisons de croire. Son esprit, neuf,
+                original, sera sans affectation ni parade : il ne peut rien dire qui soit de trop ou déplacé ; il lui serait aussi impossible d’ennuyer les autres que de s’ennuyer lui-même, car il
+                aura dans son âme un fonds riche. Toutes ses pensées doivent être d’un genre noble, élevé, chevaleresque, sans aucun égoïsme. En toutes ses actions, on remarquera l’absence totale du
+                calcul ou de l’intérêt. Ses défauts proviendront de l’étendue même de ses idées, qui seront au-dessus de son temps. En toute chose, je dois le trouver en avant de son époque. Plein
+                d’attentions délicates dues aux êtres faibles, il sera bon pour toutes les femmes, mais bien difficilement épris d’aucune : il regardera cette question comme beaucoup trop sérieuse
+                pour en faire un jeu. Il se pourrait donc qu’il passât sa vie sans aimer véritablement, en montrant en lui toutes les qualités qui peuvent inspirer une passion profonde. Mais s’il
+                trouve une fois son idéal de femme, celle entrevue dans ces songes qu’on fait les yeux ouverts ; s’il rencontre un être qui le comprenne, qui remplisse son âme et jette sur toute sa
+                vie un rayon de bonheur, qui brille pour lui comme une étoile à travers les nuages de ce monde si sombre, si froid, si glacé ; qui donne un charme tout nouveau à son existence, et
+                fasse vibrer en lui des cordes muettes jusque-là, je crois inutile de dire qu’il saura reconnaître et apprécier son bonheur. Aussi la rendra-t-il parfaitement heureuse. Jamais, ni par
+                un mot, ni par <pb n="51" xml:id="p51"/> un regard, il ne froissera ce cœur aimant qui se sera remis en ses mains avec l’aveugle amour d’un enfant qui dort dans les bras de sa mère ;
+                car si elle se réveillait jamais de ce doux rêve, elle aurait l’âme et le cœur à jamais déchirés : il lui serait impossible de s’embarquer sur cet océan sans y mettre tout son
+                avenir.</p>
+              <p>Cet homme aura nécessairement la physionomie, la tournure, la démarche, enfin la manière de faire les plus grandes comme les plus petites choses, des êtres supérieurs qui sont simples
+                et sans apprêt. Il peut être laid ; mais ses mains seront belles ; il aura la lèvre supérieure légèrement relevée par un sourire ironique et dédaigneux pour les indifférents ; enfin il
+                réservera pour ceux qu’il aime le rayon céleste et brillant de son regard plein d’âme.</p>
+            </q>
             <p>– Mademoiselle, me dit-il en espagnol et d’une voix profondément émue, veut-elle me permettre de garder ceci en mémoire d’elle ? Voici la dernière leçon que j’aurai l’honneur de lui
               donner, et celle que je reçois dans cet écrit peut devenir une règle éternelle de conduite. J’ai quitté l’Espagne en fugitif et sans argent ; mais, aujourd’hui, j’ai reçu de ma famille
               une somme qui suffit à mes besoins. J’aurai l’honneur de vous envoyer quelque pauvre Espagnol pour me remplacer. Il semblait ainsi me dire : – Assez joué comme cela. Il s’est levé par un
@@ -867,7 +870,7 @@
           <div>
             <dateline rendition="epistolary">Dimanche.</dateline>
             <p>Hier, aux Italiens, je me suis sentie regardée, mes yeux ont été magiquement attirés par deux yeux de feu qui brillaient comme deux escarboucles dans un coin obscur de l’orchestre. <pb
-                n="ill." xml:id="p52a" facs="https://www.ebalzac.com/romans/03-memoires-deux-jeunes-mariees/furne-corrige/p52a.jpg"/> Hénarez n’a pas détaché ses yeux de dessus moi. Le monstre a
+                n="ill." xml:id="p52a" facs="https://www.ebalzac.com/romans/03-memoires-deux-jeunes-mariees/furne-corrige/scans/p52a.jpg"/> Hénarez n’a pas détaché ses yeux de dessus moi. Le monstre a
               cherché la seule place d’où il pouvait me voir, et il y est. Je ne sais pas ce qu’il est en politique ; mais il a le génie de l’amour.</p>
             <quote>
               <l>Voilà, belle Renée, à quel point nous en sommes,</l>
@@ -957,21 +960,23 @@
             voulais voir tous heureux et bien placés dans l’État ; sous peine de perdre mon estime et mon affection, il devait devenir député du département aux prochaines élections ; ma famille
             aiderait sa candidature, et nous aurions alors le plaisir de passer tous les hivers à Paris. Ah ! mon ange, à l’ardeur avec laquelle il m’a obéi, j’ai vu combien j’étais aimée. Enfin,
             hier, il m’a écrit cette lettre de Marseille, où il est allé pour quelques heures.</p>
-          <p>« Quand tu m’as permis de t’aimer, ma douce Renée, j’ai cru au bonheur ; mais aujourd’hui je n’en vois plus la fin. Le passé n’est plus qu’un vague souvenir, une ombre nécessaire à faire
-            ressortir l’éclat de ma félicité. Quand je suis près de toi, l’amour me transporte au point que je suis hors d’état de t’exprimer l’étendue de mon affection : je ne puis que t’admirer,
-            t’adorer. La parole ne me revient que loin de toi. Tu es parfaitement belle, et d’une beauté si grave, si majestueuse, que le temps l’altérera difficilement ; et, quoique l’amour entre
-            époux ne tienne pas tant à la beauté qu’aux sentiments, qui sont exquis en toi, laisse-moi te dire que cette certitude de te voir toujours belle me donne une joie qui s’accroît à chaque
-            regard que je jette sur toi. L’harmonie et la dignité des lignes de ton visage, où ton âme sublime se révèle, a je ne sais quoi de pur sous la mâle couleur du teint. L’éclat de tes yeux
-            noirs et la coupe hardie de ton front disent combien tes vertus sont élevées, combien ton commerce est solide et ton cœur fait aux orages de la vie s’il en survenait. La noblesse est ton
-            caractère distinctif ; je n’ai pas la prétention de te l’apprendre ; mais je t’écris ce mot pour te faire bien connaître que je sais tout le prix du trésor que je possède. Le peu que tu
-            m’accorderas sera toujours le bonheur pour moi, dans long-temps comme à présent ; car je sens tout ce qu’il y a eu de grandeur dans notre promesse de garder l’un et l’autre toute notre
-            liberté. Nous ne devrons jamais aucun témoignage de tendresse qu’à notre vouloir. Nous serons libres malgré des chaînes étroites. Je serai d’autant plus fier <pb n="59" xml:id="p59"/> de
-            te reconquérir ainsi que je sais maintenant le prix que tu attaches à cette conquête. Tu ne pourras jamais parler ou respirer, agir, penser, sans que j’admire toujours davantage la grâce
-            de ton corps et celle de ton âme. Il y a en toi je ne sais quoi de divin, de sensé, d’enchanteur, qui met d’accord la réflexion, l’honneur, le plaisir et l’espérance, qui donne enfin à
-            l’amour une étendue plus spacieuse que celle de la vie. Oh ! mon ange, puisse le génie de l’amour me rester fidèle et l’avenir être plein de cette volupté à l’aide de laquelle tu as
-            embelli tout autour de moi ! Quand seras-tu mère, pour que je te voie applaudir à l’énergie de ta vie, pour que je t’entende, de cette voix si suave et avec ces idées si fines, si neuves
-            et si curieusement bien rendues, bénir l’amour qui a rafraîchi mon âme, retrempé mes facultés, qui fait mon orgueil, et où j’ai puisé, comme dans une magique fontaine, une vie nouvelle ?
-            Oui, je serai tout ce que tu veux que je sois : je deviendrai l’un des hommes utiles de mon pays, et je ferai rejaillir sur toi cette gloire dont le principe sera ta satisfaction. »</p>
+          <q type="letter">
+            <p>Quand tu m’as permis de t’aimer, ma douce Renée, j’ai cru au bonheur ; mais aujourd’hui je n’en vois plus la fin. Le passé n’est plus qu’un vague souvenir, une ombre nécessaire à faire
+              ressortir l’éclat de ma félicité. Quand je suis près de toi, l’amour me transporte au point que je suis hors d’état de t’exprimer l’étendue de mon affection : je ne puis que t’admirer,
+              t’adorer. La parole ne me revient que loin de toi. Tu es parfaitement belle, et d’une beauté si grave, si majestueuse, que le temps l’altérera difficilement ; et, quoique l’amour entre
+              époux ne tienne pas tant à la beauté qu’aux sentiments, qui sont exquis en toi, laisse-moi te dire que cette certitude de te voir toujours belle me donne une joie qui s’accroît à chaque
+              regard que je jette sur toi. L’harmonie et la dignité des lignes de ton visage, où ton âme sublime se révèle, a je ne sais quoi de pur sous la mâle couleur du teint. L’éclat de tes yeux
+              noirs et la coupe hardie de ton front disent combien tes vertus sont élevées, combien ton commerce est solide et ton cœur fait aux orages de la vie s’il en survenait. La noblesse est ton
+              caractère distinctif ; je n’ai pas la prétention de te l’apprendre ; mais je t’écris ce mot pour te faire bien connaître que je sais tout le prix du trésor que je possède. Le peu que tu
+              m’accorderas sera toujours le bonheur pour moi, dans long-temps comme à présent ; car je sens tout ce qu’il y a eu de grandeur dans notre promesse de garder l’un et l’autre toute notre
+              liberté. Nous ne devrons jamais aucun témoignage de tendresse qu’à notre vouloir. Nous serons libres malgré des chaînes étroites. Je serai d’autant plus fier <pb n="59" xml:id="p59"/> de
+              te reconquérir ainsi que je sais maintenant le prix que tu attaches à cette conquête. Tu ne pourras jamais parler ou respirer, agir, penser, sans que j’admire toujours davantage la grâce
+              de ton corps et celle de ton âme. Il y a en toi je ne sais quoi de divin, de sensé, d’enchanteur, qui met d’accord la réflexion, l’honneur, le plaisir et l’espérance, qui donne enfin à
+              l’amour une étendue plus spacieuse que celle de la vie. Oh ! mon ange, puisse le génie de l’amour me rester fidèle et l’avenir être plein de cette volupté à l’aide de laquelle tu as
+              embelli tout autour de moi ! Quand seras-tu mère, pour que je te voie applaudir à l’énergie de ta vie, pour que je t’entende, de cette voix si suave et avec ces idées si fines, si neuves
+              et si curieusement bien rendues, bénir l’amour qui a rafraîchi mon âme, retrempé mes facultés, qui fait mon orgueil, et où j’ai puisé, comme dans une magique fontaine, une vie nouvelle ?
+              Oui, je serai tout ce que tu veux que je sois : je deviendrai l’un des hommes utiles de mon pays, et je ferai rejaillir sur toi cette gloire dont le principe sera ta satisfaction.</p>
+          </q>
           <p>Ma chère, voilà comment je le forme. Ce style est de fraîche date, dans un an ce sera mieux. Louis en est aux premiers transports, je l’attends à cette égale et continue sensation de
             bonheur que doit donner un heureux mariage quand, sûrs l’un de l’autre et se connaissant bien, une femme et un homme ont trouvé le secret de varier l’infini, de mettre l’enchantement dans
             le fond même de la vie. Ce beau secret des véritables épouses, je l’entrevois et veux le posséder. Tu vois qu’il se croit aimé, le fat, comme s’il n’était pas mon mari. Je n’en suis
@@ -1061,28 +1066,30 @@
             <p>Ma chère, au retour, avec une résolution digne d’une Chaulieu, j’ai ouvert ma fenêtre pour admirer une averse. Oh ! si les hommes connaissaient la puissance de séduction qu’exercent sur
               nous les actions héroïques, ils seraient bien grands ; les plus lâches deviendraient des héros. Ce que j’avais appris de mon Espagnol me donnait la fièvre. J’étais sûre qu’il était là,
               prêt à me jeter une nouvelle lettre. Aussi n’ai-je rien brûlé : j’ai lu. Voici donc la première lettre d’amour que j’ai reçue, madame la raisonneuse : chacune la nôtre.</p>
-            <p>« Louise, je ne vous aime pas à cause de votre sublime beauté ; je ne vous aime pas à cause de votre esprit si étendu, de la noblesse de vos sentiments, de la grâce infinie que vous
-              donnez à toutes choses, ni à cause de votre fierté, de votre royal dédain pour ce qui n’est pas de votre sphère, et qui chez vous n’exclut point la bonté, car vous avez la charité des
-              anges ; Louise, je vous aime parce que vous avez fait fléchir toutes ces grandeurs altières pour un pauvre exilé ; parce que, par un geste, par un regard, vous avez consolé un homme
-              d’être si fort au-dessous de vous, qu’il n’avait droit qu’à votre pitié, mais à une pitié généreuse. Vous êtes la seule femme au monde qui aura tempéré pour moi la rigueur de ses yeux ;
-              et comme vous avez laissé tomber sur moi ce bienfaisant regard, alors que j’étais un grain dans la poussière, ce que je n’avais jamais obtenu quand j’avais tout ce qu’un sujet peut avoir
-              de puissance, je tiens à vous faire savoir, Louise, que vous m’êtes devenue chère, que je vous aime pour vous-même et sans aucune arrière-pensée, en dépassant de beaucoup les conditions
-              mises par vous à un amour parfait. Apprenez donc, idole placée par moi au plus haut des cieux, qu’il est dans le monde un rejeton de la race sarrasine dont la vie vous appartient, à qui
-              vous pouvez tout demander comme à un esclave, et qui s’honorera d’exécuter vos ordres. Je me suis donné à vous sans retour, et pour le seul plaisir de me donner, pour un seul de vos
-              regards, pour cette main tendue un matin à votre maître d’espagnol. Vous avez un serviteur, Louise, et pas autre chose. Non, je n’ose penser que je puisse être jamais aimé ; mais
-              peut-être serai-je souffert, et seulement à cause de mon <pb n="66" xml:id="p66"/> dévouement. Depuis cette matinée où vous m’avez souri en noble fille qui devinait la misère de mon cœur
-              solitaire et trahi, je vous ai intronisée : vous êtes la souveraine absolue de ma vie, la reine de mes pensées, la divinité de mon cœur, la lumière qui brille chez moi, la fleur de mes
-              fleurs, le baume de l’air que je respire, la richesse de mon sang, la lueur dans laquelle je sommeille. Une seule pensée troublait ce bonheur : vous ignoriez avoir à vous un dévouement
-              sans bornes, un bras fidèle, un esclave aveugle, un agent muet, un trésor, car je ne suis plus que le dépositaire de tout ce que je possède ; enfin, vous ne vous saviez pas un cœur à qui
-              vous pouvez tout confier, le cœur d’une vieille aïeule à qui vous pouvez tout demander, un père de qui vous pouvez réclamer toute protection, un ami, un frère ; tous ces sentiments vous
-              font défaut autour de vous, je le sais. J’ai surpris le secret de votre isolement ! Ma hardiesse est venue de mon désir de vous révéler l’étendue de vos possessions. Acceptez tout,
-              Louise, vous m’aurez donné la seule vie qu’il y ait pour moi dans le monde, celle de me dévouer. En me passant le collier de la servitude, vous ne vous exposez à rien : je ne demanderai
-              jamais autre chose que le plaisir de me savoir à vous. Ne me dites même pas que vous ne m’aimerez jamais : cela doit être, je le sais ; je dois aimer de loin, sans espoir et pour
-              moi-même. Je voudrais bien savoir si vous m’acceptez pour serviteur, et je me suis creusé la tête afin de trouver une preuve qui vous atteste qu’il n’y aura de votre part aucune atteinte
-              à votre dignité en me l’apprenant, car voici bien des jours que je suis à vous, à votre insu. Donc, vous me le diriez en ayant à la main un soir, aux Italiens, un bouquet composé d’un
-              camélia blanc et d’un camélia rouge, l’image de tout le sang d’un homme aux ordres d’une candeur adorée. Tout sera dit alors : à toute heure, dans dix ans comme demain, quoi que vous
-              vouliez qu’il soit possible à l’homme de faire, ce sera fait dès que vous le demanderez à votre heureux serviteur,</p>
-            <signed><hi rend="sc">Felipe Hénarez</hi>. »</signed>
+            <q type="letter">
+              <p>Louise, je ne vous aime pas à cause de votre sublime beauté ; je ne vous aime pas à cause de votre esprit si étendu, de la noblesse de vos sentiments, de la grâce infinie que vous
+                donnez à toutes choses, ni à cause de votre fierté, de votre royal dédain pour ce qui n’est pas de votre sphère, et qui chez vous n’exclut point la bonté, car vous avez la charité des
+                anges ; Louise, je vous aime parce que vous avez fait fléchir toutes ces grandeurs altières pour un pauvre exilé ; parce que, par un geste, par un regard, vous avez consolé un homme
+                d’être si fort au-dessous de vous, qu’il n’avait droit qu’à votre pitié, mais à une pitié généreuse. Vous êtes la seule femme au monde qui aura tempéré pour moi la rigueur de ses
+                yeux ; et comme vous avez laissé tomber sur moi ce bienfaisant regard, alors que j’étais un grain dans la poussière, ce que je n’avais jamais obtenu quand j’avais tout ce qu’un sujet
+                peut avoir de puissance, je tiens à vous faire savoir, Louise, que vous m’êtes devenue chère, que je vous aime pour vous-même et sans aucune arrière-pensée, en dépassant de beaucoup
+                les conditions mises par vous à un amour parfait. Apprenez donc, idole placée par moi au plus haut des cieux, qu’il est dans le monde un rejeton de la race sarrasine dont la vie vous
+                appartient, à qui vous pouvez tout demander comme à un esclave, et qui s’honorera d’exécuter vos ordres. Je me suis donné à vous sans retour, et pour le seul plaisir de me donner, pour
+                un seul de vos regards, pour cette main tendue un matin à votre maître d’espagnol. Vous avez un serviteur, Louise, et pas autre chose. Non, je n’ose penser que je puisse être jamais
+                aimé ; mais peut-être serai-je souffert, et seulement à cause de mon <pb n="66" xml:id="p66"/> dévouement. Depuis cette matinée où vous m’avez souri en noble fille qui devinait la
+                misère de mon cœur solitaire et trahi, je vous ai intronisée : vous êtes la souveraine absolue de ma vie, la reine de mes pensées, la divinité de mon cœur, la lumière qui brille chez
+                moi, la fleur de mes fleurs, le baume de l’air que je respire, la richesse de mon sang, la lueur dans laquelle je sommeille. Une seule pensée troublait ce bonheur : vous ignoriez avoir
+                à vous un dévouement sans bornes, un bras fidèle, un esclave aveugle, un agent muet, un trésor, car je ne suis plus que le dépositaire de tout ce que je possède ; enfin, vous ne vous
+                saviez pas un cœur à qui vous pouvez tout confier, le cœur d’une vieille aïeule à qui vous pouvez tout demander, un père de qui vous pouvez réclamer toute protection, un ami, un
+                frère ; tous ces sentiments vous font défaut autour de vous, je le sais. J’ai surpris le secret de votre isolement ! Ma hardiesse est venue de mon désir de vous révéler l’étendue de
+                vos possessions. Acceptez tout, Louise, vous m’aurez donné la seule vie qu’il y ait pour moi dans le monde, celle de me dévouer. En me passant le collier de la servitude, vous ne vous
+                exposez à rien : je ne demanderai jamais autre chose que le plaisir de me savoir à vous. Ne me dites même pas que vous ne m’aimerez jamais : cela doit être, je le sais ; je dois aimer
+                de loin, sans espoir et pour moi-même. Je voudrais bien savoir si vous m’acceptez pour serviteur, et je me suis creusé la tête afin de trouver une preuve qui vous atteste qu’il n’y
+                aura de votre part aucune atteinte à votre dignité en me l’apprenant, car voici bien des jours que je suis à vous, à votre insu. Donc, vous me le diriez en ayant à la main un soir, aux
+                Italiens, un bouquet composé d’un camélia blanc et d’un camélia rouge, l’image de tout le sang d’un homme aux ordres d’une candeur adorée. Tout sera dit alors : à toute heure, dans dix
+                ans comme demain, quoi que vous vouliez qu’il soit possible à l’homme de faire, ce sera fait dès que vous le demanderez à votre heureux serviteur,</p>
+              <closer><signed><hi rend="sc">Felipe Hénarez</hi>.</signed></closer>
+            </q>
             <postscript>
               <p><hi rend="i">P.-S.</hi> Ma chère, avoue que les grands seigneurs savent aimer ! Quel bond de lion africain ! quelle ardeur contenue ! quelle foi ! quelle sincérité ! quelle grandeur
                 d’âme dans l’abaissement ! Je me suis sentie petite et me suis demandé tout abasourdie : Que faire ?… <pb n="67" xml:id="p67"/> Le propre d’un grand homme est de dérouter les calculs
@@ -1226,31 +1233,36 @@
               force de tout oublier ! Pourquoi ces grands mots, ces grandes résolutions ? te diras-tu. Ah ! voilà, ma chère. Mon charmant père, qui se conduit avec moi comme un vieux cavalier servant
               avec une Italienne, faisait faire, je te l’ai dit, mon portrait par madame de Mirbel. J’ai <pb n="75" xml:id="p75"/> trouvé moyen d’avoir une copie assez bien exécutée pour pouvoir la
               donner au duc et envoyer l’original à Felipe. Cet envoi a eu lieu hier, accompagné de ces trois lignes :</p>
-            <p>« Don Felipe, on répond à votre entier dévouement par une confiance aveugle : le temps dira si ce n’est pas accorder trop de grandeur à un homme. »</p>
+            <q type="letter">
+              <p>Don Felipe, on répond à votre entier dévouement par une confiance aveugle : le temps dira si ce n’est pas accorder trop de grandeur à un homme.</p>
+            </q>
             <p>La récompense est grande, elle a l’air d’une promesse, et, chose horrible, d’une invitation ; mais, ce qui va te sembler plus horrible encore, j’ai voulu que la récompense exprimât
               promesse et invitation sans aller jusqu’à l’offre. Si dans sa réponse il y a ma Louise, ou seulement Louise, il est perdu.</p>
           </div>
           <div>
             <dateline rendition="epistolary">Mardi.</dateline>
             <p>Non ! il n’est pas perdu. Ce ministre constitutionnel est un adorable amant. Voici sa lettre :</p>
-            <p>« Tous les moments que je passais sans vous voir, je demeurais occupé de vous, les yeux fermés à toute chose et attachés par la méditation sur votre image, qui ne se dessinait jamais
-              assez promptement dans le palais obscur où se passent les songes et où vous répandiez la lumière. Désormais ma vue se reposera sur ce merveilleux ivoire, sur ce talisman, dois-je dire ;
-              car pour moi vos yeux bleus s’animent, et la peinture devient aussitôt une réalité. Le retard de cette lettre vient de mon empressement à jouir de cette contemplation pendant laquelle je
-              vous disais tout ce que je dois taire. Oui, depuis hier, enfermé seul avec vous, je me suis livré, pour la première fois de ma vie, à un bonheur entier, complet, infini. Si vous pouviez
-              vous voir où je vous ai mise, entre la Vierge et Dieu, vous comprendriez en quelles angoisses j’ai passé la nuit ; mais, en vous les disant, je ne voudrais pas vous offenser, car il y
-              aurait tant de tourments pour moi dans un regard dénué de cette angélique bonté qui me fait vivre, que je vous demande pardon par avance. Si donc, reine de ma vie et de mon âme, vous
-              vouliez m’accorder un millième de l’amour que je vous porte !</p>
-            <p>Le <hi rend="i">si</hi> de cette constante prière m’a ravagé l’âme. J’étais entre la croyance et l’erreur, entre la vie et la mort, entre les ténèbres et la lumière. Un criminel n’est
-              pas plus agité pendant la délibération de son arrêt que je ne le suis en m’accusant à vous de cette <pb n="76" xml:id="p76"/> audace. Le sourire exprimé sur vos lèvres, et que je venais
-              revoir de moment en moment, calmait ces orages excités par la crainte de vous déplaire. Depuis que j’existe, personne, pas même ma mère, ne m’a souri. La belle jeune fille qui m’était
-              destinée a rebuté mon cœur et s’est éprise de mon frère. Mes efforts, en politique, ont trouvé la défaite. Je n’ai jamais vu dans les yeux de mon roi qu’un désir de vengeance ; et nous
-              sommes si ennemis depuis notre jeunesse, qu’il a regardé comme une cruelle injure le vœu par lequel les cortès m’ont porté au pouvoir. Quelque forte que vous fassiez une âme, le doute y
-              entrerait à moins. D’ailleurs je me rends justice : je connais la mauvaise grâce de mon extérieur, et sais combien il est difficile d’apprécier mon cœur à travers une pareille enveloppe.
-              Être aimé, ce n’était plus qu’un rêve quand je vous ai vue. Aussi, quand je m’attachai à vous, ai-je compris que le dévouement pouvait seul faire excuser ma tendresse. En contemplant ce
-              portrait, en écoutant ce sourire plein de promesses divines, un espoir que je ne me permettais pas à moi-même a rayonné dans mon âme. Cette clarté d’aurore est incessamment combattue par
-              les ténèbres du doute, par la crainte de vous offenser en la laissant poindre. Non, vous ne pouvez pas m’aimer encore, je le sens ; mais, à mesure que vous aurez éprouvé la puissance, la
-              durée, l’étendue de mon inépuisable affection, vous lui donnerez une petite place dans votre cœur. Si mon ambition est une injure, vous me le direz sans colère, je rentrerai dans mon
-              rôle ; mais, si vous vouliez essayer de m’aimer, ne le faites pas savoir sans de minutieuses précautions à celui qui mettait tout le bonheur de sa vie à vous servir uniquement. »</p>
+            <q type="letter">
+              <p>Tous les moments que je passais sans vous voir, je demeurais occupé de vous, les yeux fermés à toute chose et attachés par la méditation sur votre image, qui ne se dessinait jamais
+                assez promptement dans le palais obscur où se passent les songes et où vous répandiez la lumière. Désormais ma vue se reposera sur ce merveilleux ivoire, sur ce talisman, dois-je
+                dire ; car pour moi vos yeux bleus s’animent, et la peinture devient aussitôt une réalité. Le retard de cette lettre vient de mon empressement à jouir de cette contemplation pendant
+                laquelle je vous disais tout ce que je dois taire. Oui, depuis hier, enfermé seul avec vous, je me suis livré, pour la première fois de ma vie, à un bonheur entier, complet, infini. Si
+                vous pouviez vous voir où je vous ai mise, entre la Vierge et Dieu, vous comprendriez en quelles angoisses j’ai passé la nuit ; mais, en vous les disant, je ne voudrais pas vous
+                offenser, car il y aurait tant de tourments pour moi dans un regard dénué de cette angélique bonté qui me fait vivre, que je vous demande pardon par avance. Si donc, reine de ma vie et
+                de mon âme, vous vouliez m’accorder un millième de l’amour que je vous porte !</p>
+              <p>Le <hi rend="i">si</hi> de cette constante prière m’a ravagé l’âme. J’étais entre la croyance et l’erreur, entre la vie et la mort, entre les ténèbres et la lumière. Un criminel n’est
+                pas plus agité pendant la délibération de son arrêt que je ne le suis en m’accusant à vous de cette <pb n="76" xml:id="p76"/> audace. Le sourire exprimé sur vos lèvres, et que je
+                venais revoir de moment en moment, calmait ces orages excités par la crainte de vous déplaire. Depuis que j’existe, personne, pas même ma mère, ne m’a souri. La belle jeune fille qui
+                m’était destinée a rebuté mon cœur et s’est éprise de mon frère. Mes efforts, en politique, ont trouvé la défaite. Je n’ai jamais vu dans les yeux de mon roi qu’un désir de vengeance ;
+                et nous sommes si ennemis depuis notre jeunesse, qu’il a regardé comme une cruelle injure le vœu par lequel les cortès m’ont porté au pouvoir. Quelque forte que vous fassiez une âme,
+                le doute y entrerait à moins. D’ailleurs je me rends justice : je connais la mauvaise grâce de mon extérieur, et sais combien il est difficile d’apprécier mon cœur à travers une
+                pareille enveloppe. Être aimé, ce n’était plus qu’un rêve quand je vous ai vue. Aussi, quand je m’attachai à vous, ai-je compris que le dévouement pouvait seul faire excuser ma
+                tendresse. En contemplant ce portrait, en écoutant ce sourire plein de promesses divines, un espoir que je ne me permettais pas à moi-même a rayonné dans mon âme. Cette clarté d’aurore
+                est incessamment combattue par les ténèbres du doute, par la crainte de vous offenser en la laissant poindre. Non, vous ne pouvez pas m’aimer encore, je le sens ; mais, à mesure que
+                vous aurez éprouvé la puissance, la durée, l’étendue de mon inépuisable affection, vous lui donnerez une petite place dans votre cœur. Si mon ambition est une injure, vous me le direz
+                sans colère, je rentrerai dans mon rôle ; mais, si vous vouliez essayer de m’aimer, ne le faites pas savoir sans de minutieuses précautions à celui qui mettait tout le bonheur de sa
+                vie à vous servir uniquement.</p>
+            </q>
             <p>Ma chère, en lisant ces derniers mots, il m’a semblé le voir pâle comme il l’était le soir où je lui ai dit, en lui montrant le camélia, que j’acceptais les trésors de son dévouement.
               J’ai vu dans ces phrases soumises tout autre chose qu’une simple fleur de rhétorique à l’usage des amants, et j’ai senti comme un grand mouvement en moi-même… le souffle du bonheur.</p>
             <p>Il a fait un temps détestable, il ne m’a pas été possible d’aller au bois sans donner lieu à d’étranges soupçons ; car ma mère, qui sort souvent malgré la pluie, est restée chez elle,
@@ -1326,8 +1338,10 @@
               choses d’un premier rendez-vous à la nuit, dans l’ombre et le silence, sous les beaux tilleuls de l’hôtel de Chaulieu, criblés par les mille lueurs de la lune. J’ai palpité toute seule
               en me disant : – Ah ! Renée, où es-tu ? Donc, ta lettre a mis le feu aux poudres, et mes derniers scrupules ont sauté. J’ai jeté par ma fenêtre à mon adorateur stupéfait le dessin exact
               de la clef de la petite porte au bout du jardin avec ce billet :</p>
-            <p>« On veut vous empêcher de faire des folies. En vous cassant le cou, vous raviriez l’honneur à la personne que vous dites aimer. Êtes-vous digne d’une nouvelle preuve d’estime et
-              méritez-vous que l’on vous parle à l’heure où la lune laisse dans l’ombre les tilleuls au bout du jardin ? »</p>
+            <q type="letter">
+              <p>On veut vous empêcher de faire des folies. En vous cassant le cou, vous raviriez l’honneur à la personne que vous dites aimer. Êtes-vous digne d’une nouvelle preuve d’estime et
+                méritez-vous que l’on vous parle à l’heure où la lune laisse dans l’ombre les tilleuls au bout du jardin ?</p>
+            </q>
             <p>Hier, à une heure, au moment où Griffith allait se coucher, je lui ai dit : – Prenez votre châle et accompagnez-moi, ma chère, je veux aller au fond du jardin sans que personne le
               sache ! Elle ne m’a pas dit un mot et m’a suivie. Quelles sensations, ma Renée ! car, après l’avoir attendu en proie à une charmante petite angoisse, je l’avais vu se glissant comme une
               ombre. Arrivée au jardin sans encombre, je dis à Griffith : – Ne soyez pas étonnée, il y a là le baron de Macumer, et c’est bien à cause de lui que je vous ai emmenée. Elle n’a rien
@@ -1473,10 +1487,12 @@
           <p>Un enfant, qui s’était laissé tomber, dit à sa mère : – Pardon ! en se relevant et lui déguisant son mal. Oui, pardon de lui avoir causé une douleur. Eh ! bien, cet enfant, c’est moi : je
             n’ai pas changé, je vous livre la clef de mon caractère avec une soumission d’esclave ; mais, chère Louise, je ne ferai plus de faux pas. Tâchez que la chaîne qui m’attache à vous, et que
             vous tenez, soit toujours assez tendue pour qu’un seul mouvement dise vos moindres souhaits à celui qui sera toujours</p>
-          <p>Votre esclave,</p>
-          <signed>
-            <hi rend="sc">Felipe.</hi>
-          </signed>
+          <closer>
+            <salute>Votre esclave,</salute>
+            <signed>
+              <hi rend="sc">Felipe.</hi>
+            </signed>
+          </closer>
         </div>
         <div>
           <pb n="91" xml:id="p91"/>
@@ -1800,7 +1816,7 @@
             pas Felipe autant que je souhaite un de ces fruits en décomposition. Enfin je sors <pb n="110" xml:id="p110"/> quelquefois furtivement, je galope à Marseille d’un pied agile, et il me
             prend des tressaillements voluptueux quand j’approche de la rue : j’ai peur que la marchande n’ait plus d’oranges pourries, je me jette dessus, je les mange, je les dévore en plein air. Il
             me semble que ces fruits viennent du paradis et contiennent la plus suave nourriture. J’ai vu Louis se détournant pour ne pas sentir leur puanteur. Je me suis souvenue de cette atroce
-            phrase d’Obermann, sombre élégie que je me repens d’avoir lue : <quote><hi rend="i">Les racines s’abreuvent dans une eau fétide !</hi></quote> Depuis que je mange de ces fruits, je n’ai
+            phrase d’Obermann, sombre élégie que je me repens d’avoir lue : <hi rend="i">Les racines s’abreuvent dans une eau fétide !</hi> Depuis que je mange de ces fruits, je n’ai
             plus de maux de cœur et ma santé s’est rétablie. Ces dépravations ont un sens, puisqu’elles sont un effet naturel et que la moitié des femmes éprouvent ces envies, monstrueuses
             quelquefois. Quand ma grossesse sera très-visible, je ne sortirai plus de la Crampade : je n’aimerais pas à être vue ainsi.</p>
           <p>Je suis excessivement curieuse de savoir à quel moment de la vie commence la maternité. Ce ne saurait être au milieu des effroyables douleurs que je redoute.</p>
@@ -1818,7 +1834,7 @@
         <div>
           <head>XXIX <lb/>De monsieur de l’Estorade à la baronne de Macumer</head>
           <dateline rendition="epistolary">Décembre 1825.</dateline>
-          <p>Madame,</p>
+          <opener><salute>Madame,</salute></opener>
           <p>Ma femme n’a pas voulu que vous apprissiez par le vulgaire billet de faire part un événement qui nous comble de joie. Elle vient d’accoucher d’un gros garçon, et nous retarderons son
             baptême jusqu’au moment où vous retournerez à votre terre de Chantepleurs. Nous espérons, Renée et moi, que vous pousserez jusqu’à la Crampade et que vous serez la marraine de notre
             premier-né. Dans cette espérance, je viens de le faire inscrire sur les registres de l’État-Civil sous les noms d’Armand-Louis de l’Estorade. Notre chère Renée a beaucoup souffert, mais
@@ -1836,8 +1852,8 @@
           <p>Quant à moi, je suivrai vos conseils uniquement pour vous réunir à Renée durant les sessions. J’étudie avec ardeur et tâche de devenir ce qu’on appelle un homme spécial. Mais rien ne me
             donnera plus de courage que de vous savoir la protectrice de mon petit Armand. Promettez-nous donc de venir jouer ici, vous si belle et si gracieuse, si grande et si spirituelle, le rôle
             d’une fée pour mon fils aîné. Vous aurez ainsi, madame, augmenté d’une éternelle reconnaissance les sentiments d’affection respectueuse avec lesquels j’ai l’honneur d’être</p>
-          <p>Votre très-humble et très-obéissant serviteur,</p>
-          <signed>Louis de l’Estorade.</signed>
+          <closer><salute>Votre très-humble et très-obéissant serviteur,</salute>
+            <signed><hi rend="sc">Louis de l’Estorade</hi>.</signed></closer>
         </div>
         <div>
           <head>XXX <lb/>Louise de Macumer à Renée de l’Estorade</head>
@@ -2335,7 +2351,7 @@
           <p>Au jour, le ramage de mes deux enfants commence avec les premiers cris des oiseaux. À travers les voiles du dernier sommeil, leurs baragouinages ressemblent aux gazouillements du matin,
             aux disputes des hirondelles, petits cris joyeux ou plaintifs, que j’entends moins par les oreilles que par le cœur. Pendant que Naïs essaie d’arriver à moi en opérant le passage de son
             berceau à mon lit en se traînant sur ses mains et faisant des pas mal assurés, Armand grimpe avec l’adresse d’un singe et m’embrasse. Ces deux petits font alors de mon lit le théâtre de
-            leurs jeux, où la mère est à leur discrétion. <pb n="ill." xml:id="p144a" facs="https://www.ebalzac.com/romans/03-memoires-deux-jeunes-mariees/furne-corrige/p144a.jpg"/> La petite me tire
+            leurs jeux, où la mère est à leur discrétion. <pb n="ill." xml:id="p144a" facs="https://www.ebalzac.com/romans/03-memoires-deux-jeunes-mariees/furne-corrige/scans/p144a.jpg"/> La petite me tire
             les cheveux, veut toujours teter, et Armand défend ma poitrine comme si c’était son bien. Je ne résiste pas à certaines poses, à des rires qui partent comme des fusées et qui finissent par
             chasser le sommeil. On joue alors à l’ogresse, et mère ogresse mange alors de caresses cette jeune chair si blanche et si douce ; elle baise à outrance ces yeux si coquets dans leur
             malice, ces épaules de rose, et l’on excite de petites jalousies qui sont charmantes. Il y a des jours où j’essaie de mettre mes bas à huit heures, et où je n’en ai pas encore mis un à
@@ -2628,8 +2644,9 @@
           <p>– Mon mariage, a-t-elle répondu.</p>
           <p>Vous qui êtes un grand homme, et qui aimez une des femmes les plus extraordinaires de cette aristocratie où j’ai trouvé mon Armande, ce seul mot vous suffira pour deviner cette âme et
             quel sera le bonheur de</p>
-          <p>Votre ami,</p>
-          <signed>Marie-Gaston.</signed>
+          <closer>
+            <salute>Votre ami,</salute>
+            <signed><hi rend="sc">Marie-Gaston.</hi></signed></closer>
         </div>
         <div>
           <head>L <lb/>Madame de l’Estorade à madame de Macumer</head>
@@ -2673,8 +2690,8 @@
           <p>Pour rester fidèle à la branche aînée et retourner dans ses terres, il ne fallait pas avoir à élever et à pourvoir trois enfants. Une mère doit, mon ange, ne pas être Décius, surtout dans
             un temps où les Décius sont rares. Dans quinze ans d’ici, l’Estorade pourra se retirer à la Crampade avec une belle retraite, en installant Armand à la Cour des comptes, où il le laissera
             référendaire. Quant à René, la marine en fera sans doute un diplomate. À sept ans ce petit garçon est déjà fin comme un vieux cardinal.</p>
-          <p>Ah ! Louise, je suis une bienheureuse mère ! Mes enfants continuent à me donner des joies sans ombre. (<quote><hi rend="i">Senza brama sicura richezza</hi>.</quote>) Armand est au collége
-            Henri IV. Je me suis décidée pour l’éducation publique sans pouvoir me décider néanmoins à m’en séparer, et j’ai fait comme faisait le duc d’Orléans avant d’être et peut-être pour devenir
+          <p>Ah ! Louise, je suis une bienheureuse mère ! Mes enfants continuent à me donner des joies sans ombre. (<hi rend="i">Senza brama sicura richezza</hi>.) Armand est au collége Henri IV. Je
+            me suis décidée pour l’éducation publique sans pouvoir me décider néanmoins à m’en séparer, et j’ai fait comme faisait le duc d’Orléans avant d’être et peut-être pour devenir
             Louis-Philippe. Tous les matins, Lucas, ce vieux domestique que tu connais, mène Armand au collége à l’heure de la première étude, et me le ramène à quatre heures et demie. Un vieux et
             savant répétiteur, qui loge chez moi, le fait travailler le soir et le réveille le matin à l’heure où les collégiens se lèvent. Lucas lui porte une collation à midi pendant la récréation.
             Ainsi, je le vois pendant le dîner, le soir avant son coucher, et j’assiste le matin à son départ. Armand est toujours le charmant enfant plein de cœur et de dévouement que tu aimes ; son
@@ -2944,7 +2961,7 @@
               de ce mot : ET MM**. J’ai vu la première représentation, cachée au fond d’une loge d’avant-scène au rez-de-chaussée.</p>
           </div>
           <div>
-            <dateline rendition="epistolary">1er juillet.</dateline>
+            <dateline rendition="epistolary">1<hi rend="sup">er</hi> juillet.</dateline>
             <p>Gaston travaille toujours et va toujours à Paris ; il travaille à de nouvelles pièces pour avoir le prétexte d’aller à Paris et pour se faire de l’argent. Nous avons trois pièces reçues
               et deux de demandées. Oh ! ma chère, je suis perdue, je marche dans les ténèbres. Je brûlerai ma maison pour y voir clair. Que signifie une pareille conduite ? A-t-il honte d’avoir reçu
               de moi la fortune ? Il a l’âme trop grande pour se préoccuper d’une pareille niaiserie. D’ailleurs, quand un homme commence à concevoir de ces scrupules, ils lui sont inspirés par un
@@ -3093,7 +3110,7 @@
               a retrouvé quelque force, elle a voulu s’asseoir à sa croisée, elle a demandé la main de Gaston… Puis, mon ami, l’ange le plus charmant que nous pourrons voir jamais sur cette terre ne
               nous a plus laissé que sa dépouille. Administrée la veille à l’insu de Gaston, qui, pendant la terrible cérémonie, a pris un peu de sommeil, elle avait exigé de moi que je lui lusse en
               français le <hi rend="i">De profundis</hi>, pendant qu’elle serait ainsi face à face avec la belle nature qu’elle s’était créée. <pb n="ill." xml:id="p192a"
-                facs="https://www.ebalzac.com/romans/03-memoires-deux-jeunes-mariees/furne-corrige/p192a.jpg"/> Elle répétait mentalement les paroles et serrait les mains de son mari, agenouillé de
+                facs="https://www.ebalzac.com/romans/03-memoires-deux-jeunes-mariees/furne-corrige/scans/p192a.jpg"/> Elle répétait mentalement les paroles et serrait les mains de son mari, agenouillé de
               l’autre côté de la bergère.</p>
           </div>
           <div>
