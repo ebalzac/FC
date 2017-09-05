@@ -93,7 +93,7 @@
           l’espérance, mère par la douleur et poète par tes rêves ; à toi, qui es encore la Beauté, cet ouvrage où ton amour et ta fantaisie, ta foi, ton expérience, ta douleur, ton espoir et tes
           rêves sont comme les chaînes qui soutiennent une trame moins brillante que la poésie gardée dans ton âme, et dont l’expression quand elle anime ta physionomie est, pour qui t’admire, ce que
           sont pour les savants les caractères d’un langage perdu. </p>
-        <signed>De Balzac.</signed>
+        <signed><hi rend="sc">De Balzac.</hi></signed>
       </div>
     </front>
     <body>
@@ -713,7 +713,7 @@
             monsieur, un grand effort, et permettez-moi de vous tendre la main, oh ! une main bien amie, celle de</p>
           <closer>
             <salute>Votre servante</salute>
-            <signed>O. d’Este-M.</signed>
+            <signed><hi rend="sc">O. d’Este-M.</hi></signed>
           </closer>
           <postscript>
             <p>Si vous me faites la grâce de me répondre, adressez, je vous prie, votre lettre à mademoiselle F. Cochet, poste restante, au Havre.</p>
@@ -770,7 +770,7 @@
         <p>Attiré par la gloire de Canalis, par l’avenir promis à cette prétendue intelligence politique et conseillé par madame d’Espard qui fit en ceci les affaires de la duchesse de Chaulieu, un
           jeune Conseiller Référendaire à la Cour des Comptes se constitua le secrétaire bénévole du poète, et fut caressé par lui comme un spéculateur caresse son premier bâilleur de fonds. Les
           prémices de cette camaraderie eurent assez de ressemblance avec l’amitié. Ce jeune homme avait déjà fait un stage de ce genre auprès d’un des ministres tombés en 1827 ; mais le ministre
-          avait eu soin de le placer à la Cour des Comptes. Ernest de La Brière<note place="bottom">Balzac écrit occasionnellement « la Brière » au lieu de « La Brière » : nous uniformisonsen retenant
+          avait eu soin de le placer à la Cour des Comptes. Ernest de La Brière<note place="bottom">Balzac écrit occasionnellement « la Brière » au lieu de « La Brière » : nous uniformisons en retenant
             cette dernière graphie.</note>, jeune homme alors âgé de vingt-sept ans, décoré de la Légion-d’Honneur, sans autre fortune que les émoluments de sa place, possédait la triture des
           affaires, et savait beaucoup après avoir habité pendant quatre ans le cabinet du principal ministère. Doux, aimable, le cœur presque pudique et rempli de bons sentiments, il lui répugnait
           d’être sur le premier plan. Il aimait son pays, il voulait être utile, mais l’éclat l’éblouissait. À son choix, la place de secrétaire près d’un Napoléon lui eût mieux convenu que celle de
@@ -898,7 +898,7 @@
           <p>Après avoir admiré votre talent, si souvent sublime, permettez-moi de rendre hommage à votre délicatesse et à votre probité, qui me forcent à me dire toujours</p>
           <closer>
             <salute>Votre humble servante,</salute>
-            <signed>O. d’Este-M.</signed>
+            <signed><hi rend="sc">O. d’Este-M.</hi></signed>
           </closer>
         </q>
         <p>Quand Ernest de La Brière eut cette lettre entre les mains, il alla se promener sur les boulevards, agité dans son âme comme une frêle embarcation par une tempête où le vent parcourt tous
@@ -939,7 +939,7 @@
             bon que je ne vous envoie pas nos armes. Tâchez de répondre aussi sincèrement que je le fais. J’attends votre réponse pour savoir si je pourrai me dire encore comme maintenant,</p>
           <closer>
             <salute>Votre servante,</salute>
-            <signed>O. d’Este-M.</signed>
+            <signed><hi rend="sc">O. d’Este-M.</hi></signed>
           </closer>
         </q>
         <p><pb n="171" xml:id="p171"/> – Comme elle abuse de ses avantages, la petite personne !… s’écria de La Brière. Mais est-elle franche ? On n’a pas été pendant quatre ans le secrétaire
@@ -1092,7 +1092,7 @@
           <p>Serez-vous bien malheureux de savoir qu’une jeune fille prie Dieu fervemment pour vous, qu’elle fait de vous son unique pensée, et que vous n’avez pas d’autres rivaux qu’un père et une
             mère ? Y a-t-il des raisons de repousser des pages pleines de vous, écrites pour vous, qui ne seront lues que par vous ? Rendez-moi la pareille. Je suis si peu femme encore que vos
             confidences, pourvu qu’elles soient entières et vraies, suffiront au bonheur de</p>
-          <signed>Votre O. d’Este-M.</signed>
+          <signed>Votre <hi rend="sc">O. d’Este-M.</hi></signed>
         </q>
         <p>– Mon Dieu ! suis-je donc amoureux déjà ? s’écria le jeune Référendaire qui s’aperçut d’être resté cette lettre à la main pendant une heure après l’avoir lue. Quel parti prendre ? elle
           croit écrire à notre grand Poète ! dois-je continuer cette tromperie ? est-ce une femme de quarante ans ou une jeune fille de vingt ans ?</p>
@@ -1188,7 +1188,7 @@
           <p>J’attends vos ordres, monseigneur, et suis de grand cœur</p>
           <closer>
             <salute>Votre servante,</salute>
-            <signed>O. d’Este-M.</signed>
+            <signed><hi rend="sc">O. d’Este-M.</hi></signed>
           </closer>
         </q>
         <q type="letter">
@@ -1273,7 +1273,7 @@
             mystérieuse m’a jetée vers vous, comme une tempête apporte un rosier au cœur d’un saule majestueux. Et dans la lettre que je tiens là, sur mon cœur, vous vous êtes écrié, comme votre
             ancêtre : – Dieu le veut ! quand il partit pour la croisade.</p>
           <p>Ne direz-vous pas : Elle est bien bavarde ! Autour de moi, tous disent : – Elle est bien taciturne, mademoiselle !</p>
-          <signed>O. d’Este-M.</signed>
+          <signed><hi rend="sc">O. d’Este-M.</hi></signed>
         </q>
         <p>Ces lettres ont paru très-originales aux personnes à la bienveillance de qui la Comédie Humaine les doit ; mais leur admiration pour ce duel entre deux esprits croisant la plume, tandis que
           le plus sévère incognito met un masque sur les visages, pourrait ne pas être partagée. Sur cent spectateurs quatre-vingts peut-être se lasseraient de cet assaut. Le respect dû, dans tout
@@ -1363,7 +1363,7 @@
             embrasser de cœur tous les jours, soir et matin. Le second mandat, également personnel, de quarante mille francs, est pour mes filles et ma femme, en attendant</p>
           <closer>
             <salute>Ton patron et ami,</salute>
-            <signed>Charles Mignon.</signed>
+            <signed><hi rend="sc">Charles Mignon.</hi></signed>
           </closer>
         </q>
         <p>– Ton père arrive, dit madame Mignon à sa fille.</p>
@@ -1743,7 +1743,7 @@
             et n’essayez pas de lui dire combien je vous aime, faites que ce soit toujours un secret entre nous et Dieu ! Moi, cher adoré, je vais tout dire à ma mère. La fille des Wallenrod
             Tustall-Bartenstild me donnera raison par des caresses, elle sera tout heureuse de notre poème si secret, si romanesque, humain et divin tout ensemble ! Vous avez l’aveu de la fille, ayez
             le consentement du comte de La Bastie, père de</p>
-          <signed>Votre Modeste.</signed>
+          <signed>Votre <hi rend="sc">Modeste</hi>.</signed>
           <postscript>
             <p><hi rend="i">P. S.</hi> – Surtout ne venez pas au Havre sans avoir obtenu l’agrément de mon père ; et, si vous m’aimez, vous saurez le trouver à son passage à Paris.</p>
           </postscript>
@@ -3378,7 +3378,7 @@
           <p>Croyez bien, mon cher poète, que je n’en suis pas moins pour la vie,</p>
           <closer>
             <salute>Votre amie,</salute>
-            <signed>Éléonore de M.</signed>
+            <signed><hi rend="sc">Éléonore de M.</hi></signed>
           </closer>
         </q>
         <p>– Tiens, Ernest, dit Canalis en jetant au nez de La Brière et à travers la table cette lettre qu’il reçut pendant le déjeuner, voici le deux millième billet doux que je reçois de cette
