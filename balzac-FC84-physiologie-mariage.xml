@@ -6,31 +6,85 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Physiologie du mariage</title>
+        <title>Physiologie du mariage, ou Méditations de philosophie éclectique sur le bonheur et le malheur conjugal.</title>
         <author key="Balzac, Honoré de (1799-1850)">Honoré de Balzac</author>
         <principal>Andrea Del Lungo</principal>
         <principal>Pierre Glaudes</principal>
         <principal>Jean-Gabriel Ganascia</principal>
         <editor>Maxime Perret</editor>
       </titleStmt>
-      <editionStmt/>
+      <editionStmt>
+        <edition>Cette édition électronique de <hi rend="i">La Comédie humaine</hi> constitue la première édition en ligne de l’œuvre de Balzac dans la version dite du « Furne corrigé », qui intègre
+          les corrections manuscrites apportées par l’auteur sur son exemplaire personnel de la première édition de <hi rend="i">La Comédie humaine</hi> parue chez Furne de 1842 à 1847. Cette édition
+          a été établie dans le cadre du projet PHŒBUS, financé par l’Agence nationale de la recherche (2015-2019).</edition>
+        <respStmt>
+          <name>Maxime Perret</name>
+          <resp>Établissement du texte et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>eBalzac</publisher>
+        <publisher>ALITHILA (Université Lille III)</publisher>
+        <publisher>CELLF (CNRS &amp; Université Paris IV Sorbonne)</publisher>
+        <publisher>LIP6 (Université Paris VI)</publisher>
+        <date when="2017"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p> Copyright © 2017 Université Charles-de-Gaulle Lille 3, agissant pour le projet ANR « Projet d’hypertexte de l’œuvre de Balzac par l’utilisation de similarités » (ci-après dénommé ANR
+              Phœbus). </p>
+            <p> Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale
+              par l’ANR Phœbus, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ». </p>
+            <p> Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’ANR Phœbus et surtout l’adresse Internet de
+              la ressource. </p>
+            <p> Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite. </p>
+            <p> Pas de Modification : l’ANR Phœbus s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de
+              versions modifiées de cette ressource n’est pas souhaitable. </p>
+          </licence>
+        </availability>
+        <idno>https://www.ebalzac.com/edition/84-physiologie-mariage/furne-corrige</idno>
       </publicationStmt>
-      <sourceDesc/>
+      <sourceDesc>
+        <bibl><title>ÉTUDES / PHILOSOPHIQUES / ET / ÉTUDES ANALYTIQUES.</title> / <title>Sur Catherine de Médicis (deuxième partie). – La Confidence des Ruggieri / (troisième partie). – Les Deux
+          Rêves. – Les Proscrits. – Louis Lambert. – / Séraphita.</title> – ÉTUDES ANALYTIQUES : <title>La Physiologie du mariage.</title> / Paris, / Furne, / rue Saint-André-des-Arts, 55 ; / J.-J.
+          Dubochet et cie, / rue de Seine, 33 ; / J. Hetzel, / rue de Ménars, 10. / <date>1846</date>, p. 337-620.</bibl>
+      </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <p>Le texte que nous donnons à lire a pour ambition d’être le plus proche de l’édition du Furne : la ponctuation et l’orthographe ont été scrupuleusement respectées et sont conformes aux
+        habitudes de l’édition du <hi rend="sc">xix</hi><hi rend="sup">e</hi> siècle. Nous avons dès lors conservé la diversité des formes ortho-typographiques de l’édition d’origine. Seules les
+        coquilles manifestes ont été corrigées et sont signalées en note. Il s’agissait de rendre accessible le texte de <hi rend="i">La Comédie humaine</hi> dans son état du <hi rend="sc">xix</hi><hi
+          rend="sup">e</hi> siècle, en tenant compte des corrections et modifications apportées par l’auteur sur son exemplaire personnel.</p>
+    </encodingDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date when="1846">1846</date>
+      </creation>
       <langUsage>
-        <language ident="en"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text>
-    <body>
-      <head>Physiologie du mariage <lb/>ou <lb/>Méditations de philosophie éclectique sur le bonheur et le malheur conjugal</head>
+    <front>
+      <titlePage>
+        <docAuthor>Honoré de Balzac</docAuthor>
+        <docTitle>
+          <titlePart type="main">La Comédie humaine</titlePart>
+          <titlePart type="sub">Études analytiques</titlePart>
+          <titlePart type="main">Physiologie du mariage ou Méditations de philosophie éclectique sur le bonheur et le malheur conjugal</titlePart>
+        </docTitle>
+      </titlePage>
       <div type="dedication">
-        <label><pb n="337" xml:id="p337"/> DÉDICACE</label>
+        <pb n="337" xml:id="p337"/>
+        <head>DÉDICACE</head>
         <p rend="noindent">Faites attention à ces mots (page 367) : « <hi rend="i">L’homme supérieur à qui ce livre est dédié</hi> » n’est-ce pas vous dire : – « C’est à vous ? »</p>
         <signed>
           <hi rend="sc">l’auteur.</hi>
@@ -38,6 +92,8 @@
         <ab type="ornament">_______</ab>
         <p>La femme qui, sur le titre de ce livre, serait tentée de l’ouvrir, peut s’en dispenser, elle l’a déjà lu sans le savoir. Un homme, quelque malicieux qu’il puisse être, ne dira jamais des femmes autant de bien ni autant de mal qu’elles en pensent elles-mêmes. Si, malgré cet avis, une femme persistait à lire l’ouvrage, la délicatesse devra lui imposer la loi de ne pas médire de l’auteur, du moment où, se privant des approbations qui flattent le plus les artistes, il a en quelque sorte gravé sur le frontispice de son livre la prudente inscription mise sur la porte de quelques établissements : <hi rend="i">Les dames n’entrent pas ici</hi>.</p>
       </div>
+    </front>
+    <body>
       <div>
         <head>Introduction</head>
         <p rend="noindent">« Le mariage ne dérive point de la nature. – La famille orientale diffère entièrement de la famille occidentale. – L’homme est le ministre de la nature, et la société vient s’enter sur elle. – Les lois sont faites pour les mœurs, et les mœurs varient. »</p>
@@ -207,7 +263,8 @@
           <p>Cette investigation et ces deux catégories demandent des Méditations entières, qui serviront d’appendice à celle-ci.</p>
         </div>
         <div>
-          <head><pb n="361" xml:id="p361"/> Méditation III <lb/>De la femme honnête</head>
+          <pb n="361" xml:id="p361"/> 
+          <head>Méditation III <lb/>De la femme honnête</head>
           <p rend="noindent">La Méditation précédente a démontré que nous possédons en France une masse flottante d’un million de femmes, exploitant le privilége d’inspirer les passions qu’un galant homme avoue sans honte ou cache avec plaisir. C’est donc sur ce million de femmes qu’il faut promener notre lanterne diogénique, pour trouver les femmes honnêtes du pays.</p>
           <p>Cette recherche nous entraîne à quelques digressions.</p>
           <p>Deux jeunes gens bien mis, dont le corps svelte et les bras arrondis ressemblent à la demoiselle d’un paveur, et dont les bottes sont supérieurement faites, se rencontrent un matin sur le boulevard, à la sortie du passage des Panoramas. – Tiens, c’est toi ! – Oui, mon cher, je me ressemble, n’est-ce pas ? Et de rire plus ou moins spirituellement, suivant la nature de la plaisanterie qui ouvre la conversation.</p>
@@ -827,7 +884,8 @@
           <p>Maintenant, malgré la minorité du concile de Mâcon (Montesquieu, qui avait peut-être deviné le régime constitutionnel, a dit, je ne sais où, que le bon sens dans les assemblées était toujours du côté de la minorité), nous distinguerons dans la femme une âme et un corps, et nous commencerons par examiner les moyens de se rendre maître de son moral. L’action de la pensée est, quoi qu’on en dise, plus noble que celle du corps, et nous donnerons le pas à la science sur la cuisine, à l’instruction sur l’hygiène.</p>
         </div>
         <div>
-          <head><pb n="443" xml:id="p443"/> Méditation XI <lb/>De l’instruction en ménage</head>
+          <pb n="443" xml:id="p443"/>
+          <head> Méditation XI <lb/>De l’instruction en ménage</head>
           <p rend="noindent">Instruire ou non les femmes, telle est la question. De toutes celles que nous avons agitées, elle est la seule qui offre deux extrémités sans avoir de milieu. La science et l’ignorance, voilà les deux termes irréconciliables de ce problème. Entre ces deux abîmes, il nous semble voir Louis XVIII calculant les félicités du treizième siècle, et les malheurs du dix-neuvième. Assis au centre de la bascule qu’il savait si bien faire pencher par son propre poids, il contemple à l’un des bouts la fanatique ignorance d’un frère-lai, l’apathie d’un serf, le fer étincelant des chevaux d’un banneret ; il croit entendre : France et Montjoie-Saint-Denis !… mais il se retourne, il sourit en voyant la morgue d’un manufacturier, capitaine de la garde nationale ; l’élégant coupé de l’agent de change ; la simplicité du costume d’un pair de France devenu journaliste, et mettant son fils à l’école Polytechnique ; puis les étoffes précieuses, les journaux, les machines à vapeur ; et il boit enfin son café dans une tasse de Sèvres au fond de laquelle brille encore un N couronné.</p>
           <p>Arrière la civilisation ! arrière la pensée !… voilà votre cri. Vous devez avoir horreur de l’instruction chez les femmes, par cette raison, si bien sentie en Espagne, qu’il est plus facile de gouverner un peuple d’idiots qu’un peuple de savants. Une nation abrutie est heureuse : si elle n’a pas le sentiment de la liberté, elle n’en a ni les inquiétudes ni les orages ; elle vit comme vivent les polypiers ; comme eux, elle peut se scinder en deux ou trois fragments ; chaque fragment est toujours une nation complète et végétant, propre à être gouvernée par le premier aveugle armé du bâton pastoral. Qui produit cette merveille humaine ? L’ignorance : c’est par elle seule que se maintient le despotisme ; il lui faut des ténèbres et le silence. Or, le bonheur en ménage est, comme en politique, un bonheur négatif. L’affection des peuples pour le roi d’une monarchie absolue est peut-être moins contre nature que la fidélité de la femme envers son mari quand il n’existe plus d’amour entre eux : or, nous savons que chez vous l’amour pose en ce moment un pied sur l’appui de la fenêtre. <pb n="444" xml:id="p444"/> Force vous est donc de mettre en pratique les rigueurs salutaires par lesquelles monsieur de Metternich prolonge son <hi rend="i">statu quo</hi> ; mais nous vous conseillerons de les appliquer avec plus de finesse et plus d’aménité encore ; car votre femme est plus rusée que tous les Allemands ensemble, et aussi voluptueuse que les Italiens.</p>
           <p>Alors vous essaierez de reculer le plus long-temps possible le fatal moment où votre femme vous demandera un livre. Cela vous sera facile. Vous prononcerez d’abord avec dédain le nom de <hi rend="i">bas-bleu</hi> ; et, sur sa demande, vous lui expliquerez le ridicule qui s’attache, chez nos voisins, aux femmes pédantes.</p>
@@ -854,7 +912,8 @@
           <p>En effet, lorsque nous vantons <hi rend="i">ces filles introuvables</hi>, si heureusement élevées par le hasard, si bien conformées par la nature, et dont l’âme délicate supporte le rude contact de la grande âme de ce que nous appelons <hi rend="i">un homme</hi>, nous entendons parler de ces nobles et rares créatures dont Goëthe a donné un modèle dans la Claire du <hi rend="i">Comte d’Egmont</hi> : nous pensons à ces femmes qui ne recherchent d’autre gloire que celle de bien rendre leur rôle ; se pliant avec une étonnante souplesse aux plaisirs et aux volontés de ceux que la nature leur a donnés pour maîtres ; s’élevant tour à tour dans les immenses sphères de leur pensée, et s’abaissant à la simple tâche de les amuser comme des enfants ; comprenant et les bizarreries de ces âmes si fortement tourmentées, et les moindres paroles et les regards les plus vagues ; heureuses du silence, heureuses de la diffusion ; devinant enfin que les plaisirs, les idées et la morale d’un lord Byron ne doivent pas être ceux d’un bonnetier. Mais arrêtons-nous, cette peinture nous entraînerait trop loin de notre sujet : il s’agit de mariage et non pas d’amour.</p>
         </div>
         <div>
-          <head><pb n="449" xml:id="p449"/> Méditation XII <lb/>Hygiène du mariage</head>
+          <pb n="449" xml:id="p449"/> 
+          <head>Méditation XII <lb/>Hygiène du mariage</head>
           <p rend="noindent">Cette Méditation a pour but de soumettre à votre attention un nouveau mode de défense par lequel vous dompterez sous une prostration invincible la volonté de votre femme. Il s’agit de la réaction produite sur le moral par les vicissitudes physiques et par les savantes dégradations d’une diète habilement dirigée.</p>
           <p>Cette grande et philosophique question de médecine conjugale sourira sans doute à tous ces goutteux, ces impotents, ces catarrheux, et à cette légion de vieillards de qui nous avons réveillé l’apathie à l’article des Prédestinés ; mais elle concernera principalement les maris assez audacieux pour entrer dans les voies d’un machiavélisme digne de ce grand roi de France qui tenta d’assurer le bonheur de la nation aux dépens de quelques têtes féodales. Ici, la question est la même. C’est toujours l’amputation ou l’affaiblissement de quelques membres pour le plus grand bonheur de la masse.</p>
           <p>Croyez-vous sérieusement qu’un célibataire soumis au régime de l’herbe <hi rend="i">hanea</hi>, des concombres, du pourpier et des applications de sangsues aux oreilles, recommandé par Sterne, serait bien propre à battre en brèche l’honneur de votre femme ? Supposez un diplomate qui aurait eu le talent de fixer sur le crâne de Napoléon un cataplasme permanent de graine de lin, ou de lui faire administrer tous les matins un clystère au miel, croyez-vous que Napoléon, Napoléon-le-Grand, aurait conquis l’Italie ? Napoléon a-t-il été en proie ou non aux horribles souffrances d’une dysurie pendant la campagne de Russie ?… Voilà une de ces questions dont la solution a pesé sur le globe entier. N’est-il pas certain que des réfrigérants, des douches, des bains, etc., produisent de grands changements dans les affections plus ou moins aiguës du cerveau ? Au milieu des chaleurs du mois de juillet, lorsque chacun de vos pores filtre lentement et restitue à une dévorante atmosphère les limonades à la glace que vous avez bues d’un seul coup, vous êtes-vous jamais senti ce foyer de courage, cette vigueur de pensée, cette énergie complète qui vous rendaient l’existence légère et douce quelques mois auparavant ?</p>
@@ -1285,7 +1344,8 @@
           <p>Il serait donc à peu près prouvé que l’âge de trente ans est l’âge de la vertu. En ce moment critique, une femme devient d’une garde si difficile que, pour réussir à toujours l’enchaîner dans le paradis conjugal, il faut en venir à l’emploi des derniers moyens de défense qui nous restent, et que vont dévoiler l’<hi rend="i">Essai sur la Police, l’Art de rentrer chez soi</hi> et les <hi rend="i">Péripéties</hi>.</p>
         </div>
         <div>
-          <head><pb n="512" xml:id="p512"/> Méditation XX <lb/>Essai sur la police</head>
+          <pb n="512" xml:id="p512"/> 
+          <head>Méditation XX <lb/>Essai sur la police</head>
           <p>La police conjugale se compose de tous les moyens que vous donnent les lois, les mœurs, la force et la ruse pour empêcher votre femme d’accomplir les trois actes qui constituent en quelque sorte la vie de l’amour : s’écrire, se voir, se parler.</p>
           <p>La police se combine plus ou moins avec plusieurs des moyens de défense que contiennent les Méditations précédentes. L’instinct seul peut indiquer dans quelles proportions et dans quelles occasions ces divers éléments doivent être employés. Le système entier a quelque chose d’élastique : un mari habile devinera facilement comment il faut le plier, l’étendre, le resserrer. À l’aide de la police, un homme peut amener sa femme à quarante ans, pure de toute faute.</p>
           <p>Nous diviserons ce traité de police en cinq paragraphes :</p>
@@ -1657,7 +1717,8 @@
             <p>L’auteur pense que la Bruyère s’est trompé. En effet,…………. [$ill. dans le texte : p. 563-564]</p>
           </div>
           <div>
-            <head><pb n="565" xml:id="p565"/> § II – De la belle-mère</head>
+            <pb n="565" xml:id="p565"/> 
+            <head>§ II – De la belle-mère</head>
             <p rend="noindent">Jusqu’à l’âge de trente ans, le visage d’une femme est un livre écrit en langue étrangère, et que l’on peut encore traduire, malgré les difficultés de tous les <hi rend="i">gunaïsmes</hi> de l’idiome ; mais, passé quarante ans, une femme devient un grimoire indéchiffrable, et si quelqu’un peut deviner une vieille femme, c’est une autre vieille femme.</p>
             <p>Quelques diplomates ont tenté plusieurs fois l’entreprise diabolique de gagner des douairières qui s’opposaient à leurs desseins ; mais, s’ils ont réussi, ce n’a jamais été qu’en faisant des sacrifices énormes pour eux ; car ce sont gens fort usés, et nous ne pensons pas que vous puissiez employer leur recette auprès de votre belle-mère. Ainsi elle sera le premier aide-de-camp de votre femme, car si la mère n’était pas du parti de sa fille, ce serait une de ces monstruosités qui, malheureusement pour les maris, sont très-rares.</p>
             <p>Quand un homme est assez heureux pour avoir une belle-mère très-bien conservée, il lui est facile de la tenir pendant un certain temps en échec, pour peu qu’il connaisse quelque jeune célibataire courageux. Mais généralement, les maris qui ont quelque peu de génie conjugal, savent opposer leur mère à celle de leur femme, et alors elles se neutralisent l’une par l’autre assez naturellement.</p>
@@ -1755,7 +1816,8 @@
             <p>Aussi plus un mari se sera montré fougueux et passionné, moins une femme osera-t-elle employer cet expédient. Cependant un mari, pris dans ce piége, n’aura jamais rien à objecter à sa sévère moitié quand, s’apercevant d’une faute commise par sa soubrette, elle la renverra dans son pays avec un enfant et une dot.</p>
           </div>
           <div>
-            <head><pb n="575" xml:id="p575"/> § VI – Du médecin</head>
+            <pb n="575" xml:id="p575"/> 
+            <head>§ VI – Du médecin</head>
             <p rend="noindent">Le médecin est un des plus puissants auxiliaires d’une femme honnête, quand elle veut arriver à un divorce amiable avec son mari. Les services qu’un médecin rend, la plupart du temps à son insu, à une femme, sont d’une telle importance, qu’il n’existe pas une maison en France dont le médecin ne soit choisi par la dame du logis.</p>
             <p>Or, tous les médecins connaissent l’influence exercée par les femmes sur leur réputation ; aussi rencontrez-vous peu de médecins qui ne cherchent instinctivement à leur plaire. Quand un homme de talent est arrivé à la célébrité, il ne se prête plus sans doute aux conspirations malicieuses que les femmes veulent ourdir, mais il y entre sans le savoir.</p>
             <p>Je suppose qu’un mari, instruit par les aventures de sa jeunesse, forme le dessein d’imposer un médecin à sa femme dès les premiers jours de son mariage. Tant que son adversaire féminin ne concevra pas le parti qu’elle doit tirer de cet allié, elle se soumettra silencieusement ; mais plus tard, si toutes ses séductions échouent sur l’homme choisi par son mari, elle saisira le moment le plus favorable pour faire cette singulière confidence.</p>
@@ -1861,7 +1923,8 @@
           </div>
         </div>
         <div>
-          <head><pb n="591" xml:id="p591"/> Méditation XXVII <lb/>Des derniers symptômes</head>
+          <pb n="591" xml:id="p591"/> 
+          <head>Méditation XXVII <lb/>Des derniers symptômes</head>
           <p rend="noindent">L’auteur de ce livre a rencontré, dans le monde, tant de gens possédés d’une sorte de fanatisme pour la connaissance du temps vrai, du temps moyen, pour les montres à seconde, et pour l’exactitude de leur existence, qu’il a jugé cette Méditation trop nécessaire à la tranquillité d’une grande quantité de maris pour l’omettre. Il eût été cruel de laisser les hommes qui ont la passion de l’heure, sans boussole pour apprécier les dernières variations du zodiaque matrimonial et le moment précis où le signe du minotaure apparaît sur l’horizon.</p>
           <p>La <hi rend="i">connaissance du temps conjugal</hi> demanderait peut-être un livre tout entier, tant elle exige d’observations fines et délicates. Le magister avoue que sa jeunesse ne lui a permis de recueillir encore que très-peu de symptômes ; mais il éprouve un juste orgueil en arrivant au terme de sa difficile entreprise, de pouvoir faire observer qu’il laisse à ses successeurs un nouveau sujet de recherches ; et que, dans une matière en apparence si usée, non-seulement tout n’était pas dit, mais qu’il restera bien des points à éclaircir. Il donne donc ici, sans ordre et sans liaison, les éléments informes qu’il a pu rassembler jusqu’à ce jour, espérant avoir le loisir de les coordonner plus tard et de les réduire en un système complet. S’il était prévenu dans cette entreprise éminemment nationale, il croit devoir indiquer ici, sans pour cela être taxé de vanité, la division naturelle de ces symptômes. Ils sont nécessairement de deux sortes : les unicornes et les bicornes. Le minotaure unicorne est le moins malfaisant, les deux coupables s’en tiennent à l’amour platonique, ou du moins leur passion ne laisse point de traces visibles dans la postérité ; tandis que le minotaure bicorne est le malheur avec tous ses fruits.</p>
           <p>Nous avons marqué d’un astérisque les symptômes qui nous ont paru concerner ce dernier genre.</p>

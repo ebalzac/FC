@@ -13,29 +13,86 @@
         <principal>Jean-Gabriel Ganascia</principal>
         <editor>Maxime Perret</editor>
       </titleStmt>
-      <editionStmt/>
+      <editionStmt>
+        <edition>Cette édition électronique de <hi rend="i">La Comédie humaine</hi> constitue la première édition en ligne de l’œuvre de Balzac dans la version dite du « Furne corrigé », qui intègre
+          les corrections manuscrites apportées par l’auteur sur son exemplaire personnel de la première édition de <hi rend="i">La Comédie humaine</hi> parue chez Furne de 1842 à 1847. Cette édition
+          a été établie dans le cadre du projet PHŒBUS, financé par l’Agence nationale de la recherche (2015-2019).</edition>
+        <respStmt>
+          <name>Maxime Perret</name>
+          <resp>Établissement du texte et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>eBalzac</publisher>
+        <publisher>ALITHILA (Université Lille III)</publisher>
+        <publisher>CELLF (CNRS &amp; Université Paris IV Sorbonne)</publisher>
+        <publisher>LIP6 (Université Paris VI)</publisher>
+        <date when="2017"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p> Copyright © 2017 Université Charles-de-Gaulle Lille 3, agissant pour le projet ANR « Projet d’hypertexte de l’œuvre de Balzac par l’utilisation de similarités » (ci-après dénommé ANR
+              Phœbus). </p>
+            <p> Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale
+              par l’ANR Phœbus, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ». </p>
+            <p> Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’ANR Phœbus et surtout l’adresse Internet de
+              la ressource. </p>
+            <p> Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite. </p>
+            <p> Pas de Modification : l’ANR Phœbus s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de
+              versions modifiées de cette ressource n’est pas souhaitable. </p>
+          </licence>
+        </availability>
+        <idno>https://www.ebalzac.com/38-illusions-perdues/furne-corrige</idno>
       </publicationStmt>
-      <sourceDesc/>
+      <sourceDesc>
+        <bibl><title>SCÈNES DE LA VIE DE PROVINCE</title> IV <title>ILLUSIONS PERDUES : (1re partie) Les deux Poètes .– (2me partie) Un Grand Homme de Province à Paris .– (3me partie) Ève et David.</title>. Vignettes PAR MM. FRANÇAIS, GAVARNI, GÉRARD-SÉGUIN, TONY JOHANNOT, MEISSONNIER, HENRI MONNIER, C. NANTEUIL ET PERLET. Paris, Furne, rue Saint-André-des-Arts, 55 ; J.-J.
+          Dubochet et cie, rue de Seine, 33 ; J. Hetzel, rue de Seine, 33. <date>1843</date>, p. 1-570.</bibl>
+      </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <p>Le texte que nous donnons à lire a pour ambition d’être le plus proche de l’édition du Furne : la ponctuation et l’orthographe ont été scrupuleusement respectées et sont conformes aux
+        habitudes de l’édition du <hi rend="sc">xix</hi><hi rend="sup">e</hi> siècle. Nous avons dès lors conservé la diversité des formes ortho-typographiques de l’édition d’origine. Seules les
+        coquilles manifestes ont été corrigées et sont signalées en note. Il s’agissait de rendre accessible le texte de <hi rend="i">La Comédie humaine</hi> dans son état du <hi rend="sc">xix</hi><hi
+          rend="sup">e</hi> siècle, en tenant compte des corrections et modifications apportées par l’auteur sur son exemplaire personnel.</p>
+    </encodingDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date when="1843">1843</date>
+      </creation>
       <langUsage>
-        <language ident=""/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text>
+    <front>
+      <titlePage>
+        <docAuthor>Honoré de Balzac</docAuthor>
+        <docTitle>
+          <titlePart type="main">La Comédie humaine</titlePart>
+          <titlePart type="sub">Études de mæurs</titlePart>
+          <titlePart type="sub">Scènes de la vie de province</titlePart>
+          <titlePart type="main">Illusions perdues</titlePart>
+        </docTitle>
+      </titlePage>
+      <div type="dedication">
+        <salute><pb n="1" xml:id="p1"/> À MONSIEUR VICTOR HUGO</salute>
+        <p>Vous qui, par le privilége des Raphaël et des Pitt, étiez déjà grand poète à l’âge où les hommes sont encore si petits, vous avez, comme Chateaubriand, comme tous les vrais talents, lutté contre les envieux embusqués derrière les colonnes, ou tapis dans les souterrains du Journal. Aussi désiré-je que votre nom victorieux aide à la victoire de cette œuvre que je vous dédie, et qui, selon certaines personnes, serait un acte de courage autant qu’une histoire pleine de vérité. Les journalistes n’eussent-ils donc pas appartenu, comme les marquis, les financiers, les médecins et les procureurs, à Molière et à son Théâtre ? Pourquoi donc la Comédie Humaine, qui <hi rend="i">castigat ridendo mores</hi>, excepterait-elle une puissance, quand la Presse parisienne n’en excepte aucune ?</p>
+        <p>Je suis heureux, monsieur, de pouvoir me dire ainsi</p>
+        <salute>Votre sincère admirateur et ami,</salute>
+        <signed>
+          <hi rend="sc">de Balzac.</hi>
+        </signed>
+      </div>
+    </front>
     <body>
-      <head>Illusions perdues</head>
-      <salute><pb n="1" xml:id="p1"/> À MONSIEUR VICTOR HUGO</salute>
-      <p>Vous qui, par le privilége des Raphaël et des Pitt, étiez déjà grand poète à l’âge où les hommes sont encore si petits, vous avez, comme Chateaubriand, comme tous les vrais talents, lutté contre les envieux embusqués derrière les colonnes, ou tapis dans les souterrains du Journal. Aussi désiré-je que votre nom victorieux aide à la victoire de cette œuvre que je vous dédie, et qui, selon certaines personnes, serait un acte de courage autant qu’une histoire pleine de vérité. Les journalistes n’eussent-ils donc pas appartenu, comme les marquis, les financiers, les médecins et les procureurs, à Molière et à son Théâtre ? Pourquoi donc la Comédie Humaine, qui <hi rend="i">castigat ridendo mores</hi>, excepterait-elle une puissance, quand la Presse parisienne n’en excepte aucune ?</p>
-      <p>Je suis heureux, monsieur, de pouvoir me dire ainsi</p>
-      <salute>Votre sincère admirateur et ami,</salute>
-      <signed>
-        <hi rend="sc">de Balzac.</hi>
-      </signed>
       <div>
         <head>Première partie <lb/>Les deux poètes</head>
         <p>À l’époque où commence cette histoire, la presse de Stanhope et les rouleaux à distribuer l’encre ne fonctionnaient pas encore dans les petites imprimeries de province. Malgré la spécialité qui la met en rapport avec la typographie parisienne, Angoulême se servait toujours des presses en bois, auxquelles la langue est redevable du mot faire gémir la presse, maintenant sans application. <pb n="2" xml:id="p2"/> L’imprimerie arriérée y employait encore les balles en cuir frottées d’encre, avec lesquelles l’un des pressiers tamponnait les caractères. Le plateau mobile où se place la <hi rend="i">forme</hi> pleine de lettres sur laquelle s’applique la feuille de papier était encore en pierre et justifiait son nom de <hi rend="i">marbre</hi>. Les dévorantes presses mécaniques ont aujourd’hui si bien fait oublier ce mécanisme, auquel nous devons, malgré ses imperfections, les beaux livres des Elzevier, des Plantin, des Alde et des Didot, qu’il est nécessaire de mentionner les vieux outils auxquels Jérôme-Nicolas Séchard portait une superstitieuse affection ; car ils jouent leur rôle dans cette grande petite histoire.</p>
@@ -2745,7 +2802,7 @@
           <p><pb n="443" xml:id="p443"/><hi rend="i">(6 juin.) Signification dudit.</hi><space rend="tab"> </space>10<space rend="tab"> </space> »</p>
           <p><hi rend="i">(15 juin.) Commandement.</hi><space rend="tab"> </space>5<space rend="tab"> </space>50</p>
           <p><hi rend="i">(19 juin.) Procès-verbal tendant à saisie, et contenant opposition à cette saisie par la demoiselle Coralie, qui prétend que le mobilier lui appartient et demande d’aller en référé sur l’heure, dans le cas où l’on voudrait passer outre.</hi><space rend="tab"> </space>20<space rend="tab"> </space> »</p>
-          <p><hi rend="i">Ordonnance du Président, qui renvoie les parties à l’audience en état de référé.<space rend="tab"> </space></hi> 40<space rend="tab"> </space> »</p>
+          <p><hi rend="i">Ordonnance du Président, qui renvoie les parties à l’audience en état de référé.</hi> 40<space rend="tab"> </space> »</p>
           <p><hi rend="i">(19 juin.) Jugement qui adjuge la propriété des meubles à ladite demoiselle Coralie.</hi><space rend="tab"> </space>250<space rend="tab"> </space> »</p>
           <p><hi rend="i">(20 juin.) Appel par Métivier.</hi><space rend="tab"> </space>17<space rend="tab"> </space> »</p>
           <p><hi rend="i">(30 juin.) Arrêt confirmatif du jugement.</hi><space rend="tab"> </space>250<space rend="tab"> </space> »</p>

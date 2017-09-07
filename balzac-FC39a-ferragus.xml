@@ -6,27 +6,83 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Ferragus, chef des Dévorants</title>
+        <title>Histoire des Treize : Ferragus</title>
         <author key="Balzac, Honoré de (1799-1850)">Honoré de Balzac</author>
         <principal>Andrea Del Lungo</principal>
         <principal>Pierre Glaudes</principal>
         <principal>Jean-Gabriel Ganascia</principal>
         <editor>Maxime Perret</editor>
       </titleStmt>
-      <editionStmt/>
+      <editionStmt>
+        <edition>Cette édition électronique de <hi rend="i">La Comédie humaine</hi> constitue la première édition en ligne de l’œuvre de Balzac dans la version dite du « Furne corrigé », qui intègre
+          les corrections manuscrites apportées par l’auteur sur son exemplaire personnel de la première édition de <hi rend="i">La Comédie humaine</hi> parue chez Furne de 1842 à 1847. Cette édition
+          a été établie dans le cadre du projet PHŒBUS, financé par l’Agence nationale de la recherche (2015-2019).</edition>
+        <respStmt>
+          <name>Maxime Perret</name>
+          <resp>Établissement du texte et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>eBalzac</publisher>
+        <publisher>ALITHILA (Université Lille III)</publisher>
+        <publisher>CELLF (CNRS &amp; Université Paris IV Sorbonne)</publisher>
+        <publisher>LIP6 (Université Paris VI)</publisher>
+        <date when="2017"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p> Copyright © 2017 Université Charles-de-Gaulle Lille 3, agissant pour le projet ANR « Projet d’hypertexte de l’œuvre de Balzac par l’utilisation de similarités » (ci-après dénommé ANR
+              Phœbus). </p>
+            <p> Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale
+              par l’ANR Phœbus, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ». </p>
+            <p> Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’ANR Phœbus et surtout l’adresse Internet de
+              la ressource. </p>
+            <p> Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite. </p>
+            <p> Pas de Modification : l’ANR Phœbus s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de
+              versions modifiées de cette ressource n’est pas souhaitable. </p>
+          </licence>
+        </availability>
+        <idno>https://www.ebalzac.com/39a-ferragus/furne-corrige</idno>
       </publicationStmt>
-      <sourceDesc/>
+      <sourceDesc>
+        <bibl><title>SCÈNES DE LA VIE PARISIENNE</title> I <title>HISTOIRE DES TREIZE : Ferragus .– La Duchesse de Langeais .– La Fille aux yeux d'or. – LE PÈRE GORIOT.</title>. Vignettes PAR MM. FRANÇAIS, GAVARNI, GÉRARD-SÉGUIN, TONY JOHANNOT, MEISSONNIER, HENRI MONNIER, C. NANTEUIL ET PERLET. Paris, Furne, rue Saint-André-des-Arts, 55 ; J.-J.
+          Dubochet et cie, rue de Seine, 33 ; J. Hetzel, rue de Seine, 33. <date>1843</date>, p. 6-110.</bibl>
+      </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <p>Le texte que nous donnons à lire a pour ambition d’être le plus proche de l’édition du Furne : la ponctuation et l’orthographe ont été scrupuleusement respectées et sont conformes aux
+        habitudes de l’édition du <hi rend="sc">xix</hi><hi rend="sup">e</hi> siècle. Nous avons dès lors conservé la diversité des formes ortho-typographiques de l’édition d’origine. Seules les
+        coquilles manifestes ont été corrigées et sont signalées en note. Il s’agissait de rendre accessible le texte de <hi rend="i">La Comédie humaine</hi> dans son état du <hi rend="sc">xix</hi><hi
+          rend="sup">e</hi> siècle, en tenant compte des corrections et modifications apportées par l’auteur sur son exemplaire personnel.</p>
+    </encodingDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date when="1843">1843</date>
+      </creation>
       <langUsage>
-        <language ident=""/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text>
+    <front>
+      <titlePage>
+        <docAuthor>Honoré de Balzac</docAuthor>
+        <docTitle>
+          <titlePart type="main">La Comédie humaine</titlePart>
+          <titlePart type="sub">Études de mæurs</titlePart>
+          <titlePart type="sub">Scènes de la vie parisienne</titlePart>
+          <titlePart type="main">Histoire des Treize : Ferragus</titlePart>
+        </docTitle>
+      </titlePage>
+    </front>
     <body>
       <div>
       <head>Ferragus, chef des Dévorants</head>
@@ -86,7 +142,7 @@
       <p>L’aspect de cette figure stoïque fit naître chez monsieur de Maulincour l’une de ces rêveries vagabondes qui commencent par une interrogation vulgaire et finissent par comprendre tout un monde de pensées. L’orage était passé. Monsieur de Maulincour n’aperçut plus de cet homme que le pan de sa redingote qui frôlait la borne ; mais, en quittant sa place pour s’en aller, il trouva sous ses pieds une lettre qui venait de tomber, et devina qu’elle appartenait à l’inconnu, en lui voyant remettre dans sa poche un foulard dont il venait de se servir. L’officier, qui prit la lettre pour la lui rendre, en lut involontairement l’adresse :</p>
       <q type="letter">
       <p rend="right"><hi rend="i">À Mosieur</hi>,</p>
-      <p><hi rend="i"><space rend="tab">    </space>Mosieur Ferragusse</hi>,</p>
+      <p><hi rend="i">    Mosieur Ferragusse</hi>,</p>
       <p>Rue des Grans-Augustains, au coing de la rue Soly.</p>
       <dateline>
         <hi rend="sc">Paris.</hi>

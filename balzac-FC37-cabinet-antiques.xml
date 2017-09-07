@@ -13,33 +13,103 @@
         <principal>Jean-Gabriel Ganascia</principal>
         <editor>Maxime Perret</editor>
       </titleStmt>
-      <editionStmt/>
+      <editionStmt>
+        <edition>Cette édition électronique de La Comédie humaine constitue la première édition en
+          ligne de l’œuvre de Balzac dans la version dite du « Furne corrigé », qui intègre les
+          corrections manuscrites apportées par l’auteur sur son exemplaire personnel de la première
+          édition de La Comédie humaine parue chez Furne de 1842 à 1847. Cette édition a été établie
+          dans le cadre du projet PHŒBUS, financé par l’Agence nationale de la recherche
+          (2015-2019).</edition>
+        <respStmt>
+          <name>Maxime Perret</name>
+          <resp>Établissement du texte et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>eBalzac</publisher>
+        <publisher>ALITHILA (Université Lille III)</publisher>
+        <publisher>CELLF (CNRS &amp; Université Paris IV Sorbonne)</publisher>
+        <publisher>LIP6 (Université Paris VI)</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p> Copyright © 2016 Université Charles-de-Gaulle Lille 3, agissant pour le projet ANR
+              « Projet d’hypertexte de l’œuvre de Balzac par l’utilisation de similarités »
+              (ci-après dénommé ANR Phœbus). </p>
+            <p> Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+              les bases de données (L341-1) est mise à disposition de la communauté scientifique
+              internationale par l’ANR Phœbus, selon les termes de la licence Creative Commons : «
+              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC
+              BY-NC-ND 3.0 FR) ». </p>
+            <p> Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+              de cette ressource électroniques comportera le nom de l’ANR Phœbus et surtout
+              l’adresse Internet de la ressource. </p>
+            <p> Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+              utilisation commerciale est interdite. </p>
+            <p> Pas de Modification : l’ANR Phœbus s’engage à améliorer et à corriger cette
+              ressource électronique, notamment en intégrant toutes les contributions extérieures,
+              la diffusion de versions modifiées de cette ressource n’est pas souhaitable. </p>
+          </licence>
+        </availability>
+        <idno>https://www.ebalzac.com/edition/37-cabinet-antiques/furne-corrige</idno>
       </publicationStmt>
-      <sourceDesc/>
+      <sourceDesc>
+        <bibl><title>SCÈNES / DE LA / VIE DE PROVINCE,</title> / III. / <title>Les Rivalités
+          (première histoire) : La Vieille Fille / (Deuxième histoire) : Le Cabinet des Antiques. –
+          Le Lys dans la vallée</title> / Vignettes / par MM. Français, Gavarni, Gérard-Séguin, Tony
+          Johannot, / Meissonnier, Henri Monnier, C. Nanteuil et Bertall / Éditeurs : / Furne, / rue
+          Saint-André-des-Arts, 55 ; / J.-J. Dubochet et cie, / rue Richelieu, 60 ; / J. Hetzel, /
+          rue de Ménars, 10. / 1844, p. 120-244.</bibl>
+      </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <p>Le texte que nous donnons à lire a pour ambition d’être le plus proche de l’édition du
+        Furne : la ponctuation et l’orthographe ont été scrupuleusement respectées et sont conformes
+        aux habitudes de l’édition du XIXe siècle. Nous avons dès lors conservé la diversité des
+        formes ortho-typographiques de l’édition d’origine. Seules les coquilles manifestes ont été
+        corrigées et sont signalées en note. Il s’agissait de rendre accessible le texte de La
+        Comédie humaine dans son état du XIXe siècle, en tenant compte des corrections et
+        modifications apportées par l’auteur sur son exemplaire personnel.</p>
+    </encodingDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date when="1844">1844</date>
+      </creation>
       <langUsage>
-        <language ident=""/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text>
+    <front>
+      <titlePage>
+        <docAuthor>Honoré de Balzac</docAuthor>
+        <docTitle>
+          <titlePart type="main">La Comédie humaine</titlePart>
+          <titlePart type="sub">Études de mœurs</titlePart>
+          <titlePart type="sub">Scènes de la vie de province</titlePart>
+          <titlePart type="sub">Les Rivalités : (deuxième histoire)</titlePart>
+          <titlePart type="main">Le Cabinet des Antiques</titlePart>
+        </docTitle>
+      </titlePage>
+      <div type="dedication">
+        <salute><pb n="120" xml:id="p120"/> À MONSIEUR LE BARON DE HAMMER-PURGSTALL<lb/>Conseiller aulique, auteur de l’<hi rend="i">Histoire de l’Empire ottoman</hi></salute>
+        <p>Cher baron,</p>
+        <p>Vous vous êtes si chaudement intéressé à ma longue et vaste histoire des mœurs françaises au dix-neuvième siècle, et vous avez accordé de tels encouragements à mon œuvre, que vous m’avez ainsi donné le droit d’attacher votre nom à l’un des fragments qui en feront partie. N’êtes-vous pas un des plus graves représentants de la consciencieuse et studieuse Allemagne ? Votre approbation ne doit-elle pas en commander d’autres et protéger mon entreprise ? je suis si fier de l’avoir obtenue que j’ai tâché de la mériter en continuant mes travaux avec cette intrépidité qui a caractérisé vos études et la recherche de tous les documents sans lesquels le monde littéraire n’aurait pas eu le monument élevé par vous. Votre sympathie pour des labeurs que vous avez connus et appliqués aux intérêts de la société orientale la plus éclatante, a souvent soutenu l’ardeur de mes veilles occupées par les détails de notre société moderne : ne serez-vous pas heureux de le savoir, vous dont la naïve bonté peut se comparer à celle de notre La Fontaine ?</p>
+        <p>Je souhaite, cher baron, que ce témoignage de ma vénération pour vous et votre œuvre vienne vous trouver à Dobling, et vous y rappelle, ainsi qu’à tous les vôtres, un de vos plus sincères admirateurs et amis.</p>
+        <signed><hi rend="sc">De Balzac</hi>.</signed>
+      </div>
+    </front>
     <body>
       <div>
-      <head>LE CABINET DES ANTIQUES</head>
-      <p rend="i">Les Rivalités. </p>
-      <p>
-        (<hi rend="sc">deuxième histoire.</hi>)
-</p>
-      <p rend="salute"><pb n="120" xml:id="p120"/> À MONSIEUR LE BARON DE HAMMER-PURGSTALL</p>
-      <p rend="salute">Conseiller aulique, auteur de l’<hi rend="i">Histoire de l’Empire ottoman</hi></p>
-      <p>Cher baron,</p>
-      <p>Vous vous êtes si chaudement intéressé à ma longue et vaste histoire des mœurs françaises au dix-neuvième siècle, et vous avez accordé de tels encouragements à mon œuvre, que vous m’avez ainsi donné le droit d’attacher votre nom à l’un des fragments qui en feront partie. N’êtes-vous pas un des plus graves représentants de la consciencieuse et studieuse Allemagne ? Votre approbation ne doit-elle pas en commander d’autres et protéger mon entreprise ? je suis si fier de l’avoir obtenue que j’ai tâché de la mériter en continuant mes travaux avec cette intrépidité qui a caractérisé vos études et la recherche de tous les documents sans lesquels le monde littéraire n’aurait pas eu le monument élevé par vous. Votre sympathie pour des labeurs que vous avez connus et appliqués aux intérêts de la société orientale la plus éclatante, a souvent soutenu l’ardeur de mes veilles occupées par les détails de notre société moderne : ne serez-vous pas heureux de le savoir, vous dont la naïve bonté peut se comparer à celle de notre La Fontaine ?</p>
-      <p>Je souhaite, cher baron, que ce témoignage de ma vénération pour vous et votre œuvre vienne vous trouver à Dobling, et vous y rappelle, ainsi qu’à tous les vôtres, un de vos plus sincères admirateurs et amis.</p>
-      <signed><hi rend="sc">De Balzac</hi>.</signed>
       <p>Dans une des moins importantes Préfectures de France, au centre de la ville, au coin d’une rue, est une maison ; mais les noms de cette rue et de cette ville doivent être cachés ici. Chacun appréciera les motifs de cette sage retenue exigée par les convenances. Un écrivain touche à bien des plaies en se faisant l’annaliste de son <pb n="121" xml:id="p121"/> temps !… La maison s’appelait l’hôtel d’Esgrignon ; mais faites comme si d’Esgrignon était un nom de convention, sans plus de réalité que n’en ont les Belval, les Floricour, les Derville de la comédie, les Adalbert ou les Monbreuse du roman. Enfin, les noms des principaux personnages seront également changés. Ici l’auteur voudrait rassembler des contradictions, entasser des anachronismes, pour enfouir la vérité sous un tas d’invraisemblances et de choses absurdes ; mais, quoi qu’il fasse, elle poindra toujours, comme une vigne mal arrachée repousse en jets vigoureux, à travers un vignoble labouré.</p>
       <p>L’hôtel d’Esgrignon était tout bonnement la maison où demeurait un vieux gentilhomme, nommé Charles-Marie-Victor-Ange Carol, marquis d’Esgrignon ou des Grignons, suivant d’anciens titres. La société commerçante et bourgeoise de la ville avait épigrammatiquement nommé son logis un hôtel, et depuis une vingtaine d’années la plupart des habitants avaient fini par dire sérieusement <hi rend="i">l’hôtel d’Esgrignon</hi> en désignant la demeure du marquis.</p>
       <p>Le nom de Carol (les frères Thierry l’eussent orthographié Karawl) était le nom glorieux d’un des plus puissants chefs venus jadis du Nord pour conquérir et féodaliser les Gaules. Jamais les Carol n’avaient plié la tête, ni devant les Communes, ni devant la Royauté, ni devant l’Église, ni devant la Finance. Chargés autrefois de défendre une Marche française, leur titre de marquis était à la fois un devoir, un honneur, et non le simulacre d’une charge supposée ; le fief d’Esgrignon avait toujours été leur bien. Vraie noblesse de province, ignorée depuis deux cents ans à la cour, mais pure de tout alliage, mais souveraine aux États, mais respectée des gens du pays comme une superstition et à l’égal d’une bonne vierge qui guérit les maux de dents, cette maison s’était conservée au fond de sa province comme les pieux charbonnés de quelque pont de César se conservent au fond d’un fleuve. Pendant treize cents ans, les filles avaient été régulièrement mariées sans dot ou mises au couvent ; les cadets avaient constamment accepté leurs légitimes maternelles, étaient devenus soldats, évêques, ou s’étaient mariés à la cour. Un cadet de la maison d’Esgrignon fut amiral, fut fait duc et pair, et mourut sans postérité. Jamais le marquis d’Esgrignon, chef de la branche aînée, ne voulut accepter le titre de duc.</p>

@@ -6,35 +6,111 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>César Birotteau</title>
+        <title>Histoire de la grandeur et de la décadence de César Birotteau</title>
         <author key="Balzac, Honoré de (1799-1850)">Honoré de Balzac</author>
         <principal>Andrea Del Lungo</principal>
         <principal>Pierre Glaudes</principal>
         <principal>Jean-Gabriel Ganascia</principal>
         <editor>Maxime Perret</editor>
       </titleStmt>
-      <editionStmt/>
+      <editionStmt>
+        <edition>Cette édition électronique de La Comédie humaine constitue la première édition en
+          ligne de l’œuvre de Balzac dans la version dite du « Furne corrigé », qui intègre les
+          corrections manuscrites apportées par l’auteur sur son exemplaire personnel de la première
+          édition de La Comédie humaine parue chez Furne de 1842 à 1847. Cette édition a été établie
+          dans le cadre du projet PHŒBUS, financé par l’Agence nationale de la recherche
+          (2015-2019).</edition>
+        <respStmt>
+          <name>Dimitri Julien</name>
+          <resp>Établissement du texte</resp>
+        </respStmt>
+        <respStmt>
+          <name>Maxime Perret</name>
+          <resp>Établissement du texte et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>eBalzac</publisher>
+        <publisher>ALITHILA (Université Lille III)</publisher>
+        <publisher>CELLF (CNRS &amp; Université Paris IV Sorbonne)</publisher>
+        <publisher>LIP6 (Université Paris VI)</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p> Copyright © 2016 Université Charles-de-Gaulle Lille 3, agissant pour le projet ANR
+              « Projet d’hypertexte de l’œuvre de Balzac par l’utilisation de similarités »
+              (ci-après dénommé ANR Phœbus). </p>
+            <p> Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+              les bases de données (L341-1) est mise à disposition de la communauté scientifique
+              internationale par l’ANR Phœbus, selon les termes de la licence Creative Commons : «
+              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC
+              BY-NC-ND 3.0 FR) ». </p>
+            <p> Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+              de cette ressource électroniques comportera le nom de l’ANR Phœbus et surtout
+              l’adresse Internet de la ressource. </p>
+            <p> Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+              utilisation commerciale est interdite. </p>
+            <p> Pas de Modification : l’ANR Phœbus s’engage à améliorer et à corriger cette
+              ressource électronique, notamment en intégrant toutes les contributions extérieures,
+              la diffusion de versions modifiées de cette ressource n’est pas souhaitable. </p>
+          </licence>
+        </availability>
+        <idno>https://www.ebalzac.com/40-cesar-birotteau/furne-corrige</idno>
       </publicationStmt>
-      <sourceDesc/>
+      <sourceDesc>
+        <bibl><title>SCÈNES / DE LA / VIE PARISIENNE,</title> / Tome II. / <title>Le Colonel
+          Chabert. – Facino Cane. – La Messe de l'athée. – Sarrasine. – L'Interdiction. – Histoire
+          de la grandeur et de la décadence de César Birotteau.</title> / Paris, / Furne, / rue
+          Saint-André-des-Arts, 55 ; / J.-J. Dubochet et cie, / rue de Seine, 33 ; / J. Hetzel et Paulin, / rue de Seine, 33. / <date>1844</date>, p. 190-449.</bibl>
+      </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <p>Le texte que nous donnons à lire a pour ambition d’être le plus proche de l’édition du
+        Furne : la ponctuation et l’orthographe ont été scrupuleusement respectées et sont conformes
+        aux habitudes de l’édition du XIXe siècle. Nous avons dès lors conservé la diversité des
+        formes ortho-typographiques de l’édition d’origine. Seules les coquilles manifestes ont été
+        corrigées et sont signalées en note. Il s’agissait de rendre accessible le texte de La
+        Comédie humaine dans son état du XIXe siècle, en tenant compte des corrections et
+        modifications apportées par l’auteur sur son exemplaire personnel.</p>
+    </encodingDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date when="1844">1844</date>
+      </creation>
       <langUsage>
-        <language ident=""/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text>
-    <body>
-      <head>Histoire de la grandeur et de la décadence de César Birotteau, marchand parfumeur, adjoint au maire du deuxième arrondissement de Paris, chevalier de la Légion-d’Honneur, etc.</head>
+    <front>
+      <titlePage>
+        <docAuthor>Honoré de Balzac</docAuthor>
+        <docTitle>
+          <titlePart type="main">La Comédie humaine</titlePart>
+          <titlePart type="sub">Études de mœurs</titlePart>
+          <titlePart type="sub">Scènes de la vie parisienne</titlePart>
+          <titlePart type="main">Histoire de la grandeur et de la décadence de César Birotteau, , marchand parfumeur, adjoint au maire du deuxième arrondissement de Paris, chevalier de la Légion-d’Honneur, etc.</titlePart>
+        </docTitle>
+      </titlePage>
+    <div type="dedication">
       <salute><pb n="190" xml:id="p190"/> À MONSIEUR ALPHONSE DE LAMARTINE</salute>
       <salute><hi rend="i">Son admirateur</hi>,
       </salute>
       <signed>
         <hi rend="sc">De Balzac.</hi>
       </signed>
+    </div>
+    </front>
+    <body>
       <div>
         <head>I
 <lb/>César à son apogée</head>
@@ -484,10 +560,10 @@
         <p>– Je suis Popinot, dit le pauvre Anselme.</p>
         <p>– Suffit, dit Gaudissart en le reconnaissant. Que vous faut-il ? de l’argent ? absent par congé, mais on en trouvera. Mon bras pour un duel ? tout à vous, des pieds à l’occiput. Et il chanta :</p>
         <quote>
-          <l>
-            <hi rend="i"><space rend="tab">    </space><space rend="tab">    </space>Voilà, voilà</hi>
+          <l rend="i">
+            <space rend="tab">    </space><space rend="tab">    </space>Voilà, voilà
           </l>
-          <l><hi rend="i"><space rend="tab">    </space><space rend="tab">    </space>Le vrai soldat français</hi> !
+          <l><space rend="tab">    </space><space rend="tab">    </space><hi rend="i">Le vrai soldat français</hi> !
 </l>
         </quote>
         <p><pb n="286" xml:id="p286"/> – Venez causer avec moi dix minutes, non pas dans votre chambre, on pourrait nous écouter, mais sur le quai de l’Horloge, à cette heure il n’y a personne, dit Popinot, il s’agit de quelque chose de plus important.</p>

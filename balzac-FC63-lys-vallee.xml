@@ -12,22 +12,92 @@
         <principal>Jean-Gabriel Ganascia</principal>
         <editor>Maxime Perret</editor>
       </titleStmt>
-      <editionStmt/>
+      <editionStmt>
+        <edition>Cette édition électronique de La Comédie humaine constitue la première édition en
+          ligne de l’œuvre de Balzac dans la version dite du « Furne corrigé », qui intègre les
+          corrections manuscrites apportées par l’auteur sur son exemplaire personnel de la première
+          édition de La Comédie humaine parue chez Furne de 1842 à 1847. Cette édition a été établie
+          dans le cadre du projet PHŒBUS, financé par l’Agence nationale de la recherche
+          (2015-2019).</edition>
+        <respStmt>
+          <name>Maxime Perret</name>
+          <resp>Établissement du texte et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>eBalzac</publisher>
+        <publisher>ALITHILA (Université Lille III)</publisher>
+        <publisher>CELLF (CNRS &amp; Université Paris IV Sorbonne)</publisher>
+        <publisher>LIP6 (Université Paris VI)</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p> Copyright © 2016 Université Charles-de-Gaulle Lille 3, agissant pour le projet ANR
+              « Projet d’hypertexte de l’œuvre de Balzac par l’utilisation de similarités »
+              (ci-après dénommé ANR Phœbus). </p>
+            <p> Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+              les bases de données (L341-1) est mise à disposition de la communauté scientifique
+              internationale par l’ANR Phœbus, selon les termes de la licence Creative Commons : «
+              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC
+              BY-NC-ND 3.0 FR) ». </p>
+            <p> Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+              de cette ressource électroniques comportera le nom de l’ANR Phœbus et surtout
+              l’adresse Internet de la ressource. </p>
+            <p> Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+              utilisation commerciale est interdite. </p>
+            <p> Pas de Modification : l’ANR Phœbus s’engage à améliorer et à corriger cette
+              ressource électronique, notamment en intégrant toutes les contributions extérieures,
+              la diffusion de versions modifiées de cette ressource n’est pas souhaitable. </p>
+          </licence>
+        </availability>
+        <idno>https://www.ebalzac.com/edition/63-lys-vallee/furne-corrige</idno>
       </publicationStmt>
-      <sourceDesc/>
+      <sourceDesc>
+        <bibl><title>SCÈNES / DE LA / VIE DE PROVINCE,</title> / III. / <title>Les Rivalités
+          (première histoire) : La Vieille Fille / (Deuxième histoire) : Le Cabinet des Antiques. –
+          Le Lys dans la vallée</title> / Vignettes / par MM. Français, Gavarni, Gérard-Séguin, Tony
+          Johannot, / Meissonnier, Henri Monnier, C. Nanteuil et Bertall / Éditeurs : / Furne, / rue
+          Saint-André-des-Arts, 55 ; / J.-J. Dubochet et cie, / rue Richelieu, 60 ; / J. Hetzel, /
+          rue de Ménars, 10. / 1844, p. 245-491.</bibl>
+      </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <p>Le texte que nous donnons à lire a pour ambition d’être le plus proche de l’édition du
+        Furne : la ponctuation et l’orthographe ont été scrupuleusement respectées et sont conformes
+        aux habitudes de l’édition du XIXe siècle. Nous avons dès lors conservé la diversité des
+        formes ortho-typographiques de l’édition d’origine. Seules les coquilles manifestes ont été
+        corrigées et sont signalées en note. Il s’agissait de rendre accessible le texte de La
+        Comédie humaine dans son état du XIXe siècle, en tenant compte des corrections et
+        modifications apportées par l’auteur sur son exemplaire personnel.</p>
+    </encodingDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date when="1844">1844</date>
+      </creation>
       <langUsage>
-        <language ident=""/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text>
-    <body>
-      <head>Le Lys dans la vallée</head>
+    <front>
+      <titlePage>
+        <docAuthor>Honoré de Balzac</docAuthor>
+        <docTitle>
+          <titlePart type="main">La Comédie humaine</titlePart>
+          <titlePart type="sub">Études de mœurs</titlePart>
+          <titlePart type="sub">Scènes de la vie de province</titlePart>
+          <titlePart type="main">Le Lys dans la vallée</titlePart>
+        </docTitle>
+      </titlePage>
       <div type="dedication">
         <salute><pb n="245" xml:id="p245"/> À MONSIEUR J.-B. NACQUART <lb/>Membre de l’Académie royale de médecine</salute>
         <p rend="noindent">Cher docteur, voici l’une des pierres les plus travaillées dans la seconde assise d’un édifice littéraire lentement et laborieusement construit ; j’y veux inscrire votre nom, autant pour remercier le savant qui me sauva jadis, que pour célébrer l’ami de tous les jours.</p>
@@ -35,6 +105,8 @@
           <hi rend="sc">De Balzac.</hi>
         </signed>
       </div>
+    </front>
+    <body>
       <div>
         <q type="letter">
           <label>À madame la comtesse Natalie de Manerville</label>

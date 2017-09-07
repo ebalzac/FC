@@ -11,23 +11,97 @@
         <principal>Jean-Gabriel Ganascia</principal>
         <editor>Maxime Perret</editor>
       </titleStmt>
-      <editionStmt/>
+      <editionStmt>
+        <edition>Cette édition électronique de La Comédie humaine constitue la première édition en
+          ligne de l’œuvre de Balzac dans la version dite du « Furne corrigé », qui intègre les
+          corrections manuscrites apportées par l’auteur sur son exemplaire personnel de la première
+          édition de La Comédie humaine parue chez Furne de 1842 à 1847. Cette édition a été établie
+          dans le cadre du projet PHŒBUS, financé par l’Agence nationale de la recherche
+          (2015-2019).</edition>
+        <respStmt>
+          <name>Dimitri Julien</name>
+          <resp>Établissement du texte</resp>
+        </respStmt>
+        <respStmt>
+          <name>Maxime Perret</name>
+          <resp>Établissement du texte et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>eBalzac</publisher>
+        <publisher>ALITHILA (Université Lille III)</publisher>
+        <publisher>CELLF (CNRS &amp; Université Paris IV Sorbonne)</publisher>
+        <publisher>LIP6 (Université Paris VI)</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p> Copyright © 2016 Université Charles-de-Gaulle Lille 3, agissant pour le projet ANR
+              « Projet d’hypertexte de l’œuvre de Balzac par l’utilisation de similarités »
+              (ci-après dénommé ANR Phœbus). </p>
+            <p> Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+              les bases de données (L341-1) est mise à disposition de la communauté scientifique
+              internationale par l’ANR Phœbus, selon les termes de la licence Creative Commons : «
+              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC
+              BY-NC-ND 3.0 FR) ». </p>
+            <p> Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+              de cette ressource électroniques comportera le nom de l’ANR Phœbus et surtout
+              l’adresse Internet de la ressource. </p>
+            <p> Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+              utilisation commerciale est interdite. </p>
+            <p> Pas de Modification : l’ANR Phœbus s’engage à améliorer et à corriger cette
+              ressource électronique, notamment en intégrant toutes les contributions extérieures,
+              la diffusion de versions modifiées de cette ressource n’est pas souhaitable. </p>
+          </licence>
+        </availability>
+        <idno>https://www.ebalzac.com/44-facino-cane/furne-corrige</idno>
       </publicationStmt>
-      <sourceDesc/>
+      <sourceDesc>
+        <bibl><title>SCÈNES / DE LA / VIE PARISIENNE,</title> / Tome II. / <title>Le Colonel
+          Chabert. – Facino Cane. – La Messe de l'athée. – Sarrasine. – L'Interdiction. – Histoire
+          de la grandeur et de la décadence de César Birotteau.</title> / Paris, / Furne, / rue
+          Saint-André-des-Arts, 55 ; / J.-J. Dubochet et cie, / rue de Seine, 33 ; / J. Hetzel et Paulin, / rue de Seine, 33. / <date>1844</date>, p. 61-73.</bibl>
+      </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <p>Le texte que nous donnons à lire a pour ambition d’être le plus proche de l’édition du
+        Furne : la ponctuation et l’orthographe ont été scrupuleusement respectées et sont conformes
+        aux habitudes de l’édition du XIXe siècle. Nous avons dès lors conservé la diversité des
+        formes ortho-typographiques de l’édition d’origine. Seules les coquilles manifestes ont été
+        corrigées et sont signalées en note. Il s’agissait de rendre accessible le texte de La
+        Comédie humaine dans son état du XIXe siècle, en tenant compte des corrections et
+        modifications apportées par l’auteur sur son exemplaire personnel.</p>
+    </encodingDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date when="1844">1844</date>
+      </creation>
       <langUsage>
-        <language ident=""/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text>
+    <front>
+      <titlePage>
+        <docAuthor>Honoré de Balzac</docAuthor>
+        <docTitle>
+          <titlePart type="main">La Comédie humaine</titlePart>
+          <titlePart type="sub">Études de mœurs</titlePart>
+          <titlePart type="sub">Scènes de la vie parisienne</titlePart>
+          <titlePart type="main">Facino Cane</titlePart>
+        </docTitle>
+      </titlePage>
+    </front>
     <body>
       <div>
-      <head>Facino Cane</head>
       <p rend="noindent"><pb n="61" xml:id="p61"/> Je demeurais alors dans une petite rue que vous ne connaissez sans doute pas, la rue de Lesdiguières : elle commence à la rue Saint-Antoine, en face d’une fontaine près de la place de la Bastille et débouche dans la rue de La Cerisaie. L’amour de la science m’avait jeté dans une mansarde où je travaillais pendant la nuit, et je passais le jour dans une bibliothèque voisine, celle de <hi rend="sc">Monsieur</hi>. Je vivais frugalement, j’avais accepté toutes les conditions de la vie monastique, si nécessaire aux travailleurs. Quand il faisait beau, à peine me promenais-je sur le boulevard Bourdon. Une seule passion m’entraînait en dehors de mes habitudes studieuses ; mais n’était-ce pas encore de l’étude ? j’allais observer les mœurs du faubourg, ses habitants et leurs caractères. Aussi mal vêtu que les ouvriers, indifférent au décorum, je ne les mettais point en garde contre moi ; je pouvais me mêler à leurs groupes, les voir concluant leurs marchés, et se disputant à l’heure où ils quittent le travail. Chez moi l’observation était déjà devenue intuitive, elle pénétrait l’âme sans négliger le corps ; ou plutôt elle saisissait si bien les détails extérieurs, qu’elle allait sur-le-champ au delà ; elle me donnait la faculté de vivre de la vie de l’individu sur laquelle elle s’exerçait, en me permettant de me substituer à lui comme le derviche des Mille et une Nuits prenait le corps et l’âme des personnes sur lesquelles il prononçait certaines paroles.</p>
       <p>Lorsque, entre onze heures et minuit, je rencontrais un ouvrier <pb n="62" xml:id="p62"/> et sa femme revenant ensemble de l’Ambigu-Comique, je m’amusais à les suivre depuis le boulevard du Pont-aux-Choux jusqu’au boulevard Beaumarchais. Ces braves gens parlaient d’abord de la pièce qu’ils avaient vue ; de fil en aiguille, ils arrivaient à leurs affaires ; la mère tirait son enfant par la main, sans écouter ni ses plaintes ni ses demandes ; les deux époux comptaient l’argent qui leur serait payé le lendemain, ils le dépensaient de vingt manières différentes. C’était alors des détails de ménage, des doléances sur le prix excessif des pommes de terre, ou sur la longueur de l’hiver et le renchérissement des mottes, des représentations énergiques sur ce qui était dû au boulanger ; enfin des discussions qui s’envenimaient, et où chacun d’eux déployait son caractère en mots pittoresques. En entendant ces gens, je pouvais épouser leur vie, je me sentais leurs guenilles sur le dos, je marchais les pieds dans leurs souliers percés ; leurs désirs, leurs besoins, tout passait dans mon âme, ou mon âme passait dans la leur. C’était le rêve d’un homme éveillé. Je m’échauffais avec eux contre les chefs d’atelier qui les tyrannisaient, ou contre les mauvaises pratiques qui les faisaient revenir plusieurs fois sans les payer. Quitter ses habitudes, devenir un autre que soi par l’ivresse des facultés morales, et jouer ce jeu à volonté, telle était ma distraction. À quoi dois-je ce don ? Est-ce une seconde vue ? est-ce une de ces qualités dont l’abus mènerait à la folie ? Je n’ai jamais recherché les causes de cette puissance ; je la possède et m’en sers, voilà tout. Sachez seulement que, dès ce temps, j’avais décomposé les éléments de cette masse hétérogène nommée le peuple, que je l’avais analysée de manière à pouvoir évaluer ses qualités bonnes ou mauvaises. Je savais déjà de quelle utilité pourrait être ce faubourg, ce séminaire de révolutions qui renferme des héros, des inventeurs, des savants pratiques, des coquins, des scélérats, des vertus et des vices, tous comprimés par la misère, étouffés par la nécessité, noyés dans le vin, usés par les liqueurs fortes. Vous ne sauriez imaginer combien d’aventures perdues, combien de drames oubliés dans cette ville de douleur ! Combien d’horribles et belles choses ! L’imagination n’atteindra jamais au vrai qui s’y cache et que personne ne peut aller découvrir ; il faut descendre trop bas pour trouver ces admirables scènes ou tragiques ou comiques, chefs-d’œuvre enfantés par le hasard. Je ne sais comment j’ai si long-temps gardé sans la dire l’histoire que je vais vous raconter, elle fait partie de ces récits curieux restés dans <pb n="63" xml:id="p63"/> le sac d’où la mémoire les tire capricieusement comme des numéros de loterie : j’en ai bien d’autres, aussi singuliers que celui-ci, également enfouis ; mais ils auront leur tour, croyez-le.</p>
       <p>Un jour ma femme de ménage, la femme d’un ouvrier, vint me prier d’honorer de ma présence la noce d’une de ses sœurs. Pour vous faire comprendre ce que pouvait être cette noce il faut vous dire que je donnais quarante sous par mois à cette pauvre créature, qui venait tous les matins faire mon lit, nettoyer mes souliers, brosser mes habits, balayer la chambre et préparer mon déjeuner ; elle allait pendant le reste du temps tourner la manivelle d’une mécanique, et gagnait à ce dur métier dix sous par jour. Son mari, un ébéniste, gagnait quatre francs. Mais comme ce ménage avait trois enfants, il pouvait à peine honnêtement manger du pain. Je n’ai jamais rencontré de probité plus solide que celle de cet homme et de cette femme. Quand j’eus quitté le quartier, pendant cinq ans, la mère Vaillant est venue me souhaiter ma fête en m’apportant un bouquet et des oranges, elle qui n’avait jamais dix sous d’économie. La misère nous avait rapprochés. Je n’ai jamais pu lui donner autre chose que dix francs, souvent empruntés pour cette circonstance. Ceci peut expliquer ma promesse d’aller à la noce, je comptais me blottir dans la joie de ces pauvres gens.</p>
