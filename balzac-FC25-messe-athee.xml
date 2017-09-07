@@ -36,11 +36,7 @@
           <name>Frédéric Glorieux</name>
           <resp>Informatique éditoriale</resp>
         </respStmt>
-        <respStmt>
-          <name>Jean-Denis Spinel</name>
-          <resp>Informatique</resp>
-        </respStmt>
-      </editionStmt>
+         </editionStmt>
       <publicationStmt>
         <publisher>ALITHILA (Université Lille III)</publisher>
         <publisher>CELLF (CNRS &amp; Université Paris IV Sorbonne)</publisher>
