@@ -1013,7 +1013,7 @@
             <hi rend="sc">Natalie de Manerville.</hi>
           </signed>
         </q>
-        <dateline><anchor xml:id="_GoBack"/>Paris, octobre 1835.</dateline>
+        <dateline rendition="end">Paris, octobre 1835.</dateline>
       </div>
     </body>
   </text>
