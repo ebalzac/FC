@@ -27,6 +27,10 @@
           <name>Frédéric Glorieux</name>
           <resp>Informatique éditoriale</resp>
         </respStmt>
+        <respStmt>
+          <name>Claire Carpentier</name>
+          <resp>Traitement des images</resp>
+        </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>eBalzac</publisher>
@@ -68,7 +72,7 @@
         <docTitle>
           <titlePart type="main">La Comédie humaine</titlePart>
           <titlePart type="sub">Études analytiques</titlePart>
-          <titlePart type="main">Physiologie du mariage ou Méditations de philosophie éclectique sur le bonheur et le malheur conjugal</titlePart>
+          <titlePart type="main">Physiologie du mariage<lb/>ou<lb/>Méditations de philosophie éclectique sur le bonheur et le malheur conjugal</titlePart>
         </docTitle>
       </titlePage>
       <div type="dedication">
