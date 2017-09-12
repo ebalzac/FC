@@ -37,15 +37,16 @@
           <resp>Informatique éditoriale</resp>
         </respStmt>
         <respStmt>
-          <name>Jean-Denis Spinel</name>
-          <resp>Informatique</resp>
+          <name>Claire Carpentier</name>
+          <resp>Traitement des images</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
+        <publisher>eBalzac</publisher>
         <publisher>ALITHILA (Université Lille III)</publisher>
         <publisher>CELLF (CNRS &amp; Université Paris IV Sorbonne)</publisher>
         <publisher>LIP6 (Université Paris VI)</publisher>
-        <date when="2016"/>
+        <date when="2017"/>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p> Copyright © 2016 Université Charles-de-Gaulle Lille 3, agissant pour le projet ANR
@@ -66,7 +67,7 @@
               la diffusion de versions modifiées de cette ressource n’est pas souhaitable. </p>
           </licence>
         </availability>
-        <idno>URL (à définir)</idno>
+        <idno>http://www.ebalzac.com/edition/24-pierre-grassou/furne-corrige</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl><title>SCÈNES / DE LA / VIE PARISIENNE,</title> / Tome XI. / <title>La Maison
@@ -102,7 +103,7 @@
         <docTitle>
           <titlePart type="main">La Comédie humaine</titlePart>
           <titlePart type="sub">Études de mœurs</titlePart>
-          <titlePart type="sub">Scènes de la vie privée</titlePart>
+          <titlePart type="sub">Scènes de la vie parisienne</titlePart>
           <titlePart type="main">Pierre Grassou</titlePart>
         </docTitle>
       </titlePage>
@@ -116,7 +117,7 @@
     </front>
     <body>
       <div>
-        <p>Toutes les fois que vous êtes sérieusement allé voir l’Exposition des ouvrages de
+        <p rend="noindent">Toutes les fois que vous êtes sérieusement allé voir l’Exposition des ouvrages de
           sculpture et de peinture, comme elle a lieu depuis la Révolution de 1830, n’avez-vous pas
           été pris d’un sentiment d’inquiétude, d’ennui, de tristesse, à l’aspect des longues
           galeries encombrées ? Depuis 1830, le Salon n’existe plus. Une seconde fois, le Louvre a
@@ -457,7 +458,10 @@
           Il n’y a que les gens médiocres pour penser à tout.</p>
         <p>En entendant le bruit de plusieurs pas dans l’escalier, Fougères se rehaussa le toupet,
           boutonna sa veste de velours vert-bouteille, et ne fut pas médiocrement surpris de voir
-          entrer une figure vulgairement appelée <hi rend="i">un melon</hi> dans les ateliers. [$ill. 000b] Ce
+          entrer une figure vulgairement appelée <hi rend="i">un melon</hi> dans les ateliers. <pb
+            n="ill." xml:id="p00b"
+            facs="https://www.ebalzac.com/romans/24-pierre-grassou/furne-corrige/scans/p00b.jpg"
+          /> Ce
           fruit surmontait une citrouille, vêtue de drap bleu, ornée d’un paquet de breloques
           tintinnabulant. Le melon soufflait comme un marsouin, la citrouille marchait sur des
           navets, improprement appelés des jambes. Un vrai peintre aurait fait ainsi la charge du
@@ -720,7 +724,7 @@
         <p>On connaît des médiocrités plus taquines et plus méchantes que celle de Pierre Grassou
           qui, d’ailleurs, est d’une bienfaisance anonyme et d’une obligeance parfaite.</p>
       <closer>
-        <dateline>Paris, décembre 1839.</dateline>
+        <dateline rendition="end">Paris, décembre 1839.</dateline>
       </closer>
       </div>
     </body>
