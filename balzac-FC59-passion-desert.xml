@@ -11,6 +11,7 @@
         <principal>Pierre Glaudes</principal>
         <principal>Jean-Gabriel Ganascia</principal>
         <editor>Maxime Perret</editor>
+        <editor>Tania Duclos</editor>
       </titleStmt>
       <editionStmt>
         <edition>Cette édition électronique de La Comédie humaine constitue la première édition en ligne de l’œuvre de Balzac dans la version dite du « Furne corrigé », qui intègre les corrections
@@ -33,11 +34,12 @@
           <resp>Informatique éditoriale</resp>
         </respStmt>
         <respStmt>
-          <name>Jean-Denis Spinel</name>
-          <resp>Informatique</resp>
+          <name>Claire Carpentier</name>
+          <resp>Traitement des images</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
+        <publisher>eBalzac</publisher>
         <publisher>ALITHILA (Université Lille III)</publisher>
         <publisher>CELLF (CNRS &amp; Université Paris IV Sorbonne)</publisher>
         <publisher>LIP6 (Université Paris VI)</publisher>
@@ -55,7 +57,7 @@
               versions modifiées de cette ressource n’est pas souhaitable. </p>
           </licence>
         </availability>
-        <idno>URL (à définir)</idno>
+        <idno>http://www.ebalzac.com/edition/59-passion-desert/furne-corrige</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl><title>SCÈNES / DE LA / VIE MILITAIRE / ET / SCÈNES DE LA VIE DE CAMPAGNE,</title> / Tome XIII. / Ve LIVRE.<title>Les Chouans. — Une passion dans le désert.</title> — VIe LIVRE.
@@ -279,9 +281,7 @@
           promené mon cadavre, je n’ai rien vu de semblable au désert… Ah ! c’est que cela est bien beau. – Qu’y sentiez-vous ?… lui ai-je demandé. – Oh ! cela ne se dit pas, jeune homme. D’ailleurs
           je ne regrette pas toujours mon bouquet de palmiers et ma panthère… il faut que je sois triste pour cela. Dans le désert, voyez-vous, il y a tout, et il n’y a rien… – Mais encore
           expliquez-moi ? – Eh ! bien, reprit-il en laissant échapper un geste d’impatience, c’est Dieu sans les hommes……………………………………………………………</p>
-        <closer>
-          <dateline>Paris, 1832.</dateline>
-        </closer>
+          <dateline rendition="end">Paris, 1832.</dateline>
       </div>
     </body>
   </text>
