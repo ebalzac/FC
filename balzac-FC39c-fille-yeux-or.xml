@@ -14,9 +14,7 @@
         <editor>Maxime Perret</editor>
       </titleStmt>
       <editionStmt>
-        <edition>Cette édition électronique de <hi rend="i">La Comédie humaine</hi> constitue la première édition en ligne de l’œuvre de Balzac dans la version dite du « Furne corrigé », qui intègre
-          les corrections manuscrites apportées par l’auteur sur son exemplaire personnel de la première édition de <hi rend="i">La Comédie humaine</hi> parue chez Furne de 1842 à 1847. Cette édition
-          a été établie dans le cadre du projet PHŒBUS, financé par l’Agence nationale de la recherche (2015-2019).</edition>
+        <edition>Cette édition électronique de <hi rend="i">La Comédie humaine</hi> constitue la première édition en ligne de l’œuvre de Balzac dans la version dite du « Furne corrigé », qui intègre les corrections manuscrites apportées par l’auteur sur son exemplaire personnel de la première édition de <hi rend="i">La Comédie humaine</hi> parue chez Furne de 1842 à 1847. Cette édition a été établie dans le cadre du projet PHŒBUS, financé par l’Agence nationale de la recherche (2015-2019).</edition>
         <respStmt>
           <name>Maxime Perret</name>
           <resp>Établissement du texte et stylage</resp>
@@ -29,6 +27,10 @@
           <name>Frédéric Glorieux</name>
           <resp>Informatique éditoriale</resp>
         </respStmt>
+        <respStmt>
+          <name>Claire Carpentier</name>
+          <resp>Traitement des images</resp>
+        </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>eBalzac</publisher>
@@ -38,29 +40,21 @@
         <date when="2017"/>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p> Copyright © 2017 Université Charles-de-Gaulle Lille 3, agissant pour le projet ANR « Projet d’hypertexte de l’œuvre de Balzac par l’utilisation de similarités » (ci-après dénommé ANR
-              Phœbus). </p>
-            <p> Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale
-              par l’ANR Phœbus, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ». </p>
-            <p> Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’ANR Phœbus et surtout l’adresse Internet de
-              la ressource. </p>
+            <p> Copyright © 2017 Université Charles-de-Gaulle Lille 3, agissant pour le projet ANR « Projet d’hypertexte de l’œuvre de Balzac par l’utilisation de similarités » (ci-après dénommé ANR Phœbus). </p>
+            <p> Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’ANR Phœbus, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ». </p>
+            <p> Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’ANR Phœbus et surtout l’adresse Internet de la ressource. </p>
             <p> Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite. </p>
-            <p> Pas de Modification : l’ANR Phœbus s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de
-              versions modifiées de cette ressource n’est pas souhaitable. </p>
+            <p> Pas de Modification : l’ANR Phœbus s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable. </p>
           </licence>
         </availability>
         <idno>https://www.ebalzac.com/38-illusions-perdues/furne-corrige</idno>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>SCÈNES DE LA VIE PARISIENNE</title> I <title>HISTOIRE DES TREIZE : Ferragus .– La Duchesse de Langeais .– La Fille aux yeux d'or. – LE PÈRE GORIOT.</title>. Vignettes PAR MM. FRANÇAIS, GAVARNI, GÉRARD-SÉGUIN, TONY JOHANNOT, MEISSONNIER, HENRI MONNIER, C. NANTEUIL ET PERLET. Paris, Furne, rue Saint-André-des-Arts, 55 ; J.-J.
-          Dubochet et cie, rue de Seine, 33 ; J. Hetzel, rue de Seine, 33. <date>1843</date>, p. 236-302.</bibl>
+        <bibl><title>SCÈNES DE LA VIE PARISIENNE</title> I <title>HISTOIRE DES TREIZE : Ferragus .– La Duchesse de Langeais .– La Fille aux yeux d'or. – LE PÈRE GORIOT.</title>. Vignettes PAR MM. FRANÇAIS, GAVARNI, GÉRARD-SÉGUIN, TONY JOHANNOT, MEISSONNIER, HENRI MONNIER, C. NANTEUIL ET PERLET. Paris, Furne, rue Saint-André-des-Arts, 55 ; J.-J. Dubochet et cie, rue de Seine, 33 ; J. Hetzel, rue de Seine, 33. <date>1843</date>, p. 236-302.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <p>Le texte que nous donnons à lire a pour ambition d’être le plus proche de l’édition du Furne : la ponctuation et l’orthographe ont été scrupuleusement respectées et sont conformes aux
-        habitudes de l’édition du <hi rend="sc">xix</hi><hi rend="sup">e</hi> siècle. Nous avons dès lors conservé la diversité des formes ortho-typographiques de l’édition d’origine. Seules les
-        coquilles manifestes ont été corrigées et sont signalées en note. Il s’agissait de rendre accessible le texte de <hi rend="i">La Comédie humaine</hi> dans son état du <hi rend="sc">xix</hi><hi
-          rend="sup">e</hi> siècle, en tenant compte des corrections et modifications apportées par l’auteur sur son exemplaire personnel.</p>
+      <p>Le texte que nous donnons à lire a pour ambition d’être le plus proche de l’édition du Furne : la ponctuation et l’orthographe ont été scrupuleusement respectées et sont conformes aux habitudes de l’édition du <hi rend="sc">xix</hi><hi rend="sup">e</hi> siècle. Nous avons dès lors conservé la diversité des formes ortho-typographiques de l’édition d’origine. Seules les coquilles manifestes ont été corrigées et sont signalées en note. Il s’agissait de rendre accessible le texte de <hi rend="i">La Comédie humaine</hi> dans son état du <hi rend="sc">xix</hi><hi rend="sup">e</hi> siècle, en tenant compte des corrections et modifications apportées par l’auteur sur son exemplaire personnel.</p>
     </encodingDesc>
     <profileDesc>
       <creation>
@@ -79,15 +73,17 @@
           <titlePart type="main">La Comédie humaine</titlePart>
           <titlePart type="sub">Études de mœurs</titlePart>
           <titlePart type="sub">Scènes de la vie parisienne</titlePart>
-          <titlePart type="main">Histoire des Treize : La Fille aux yeux d'or</titlePart>
+          <titlePart type="sub">Histoire des Treize</titlePart>
+          <titlePart type="main">La Fille aux yeux d'or</titlePart>
         </docTitle>
       </titlePage>
+      <div type="dedication">
+        <salute><pb n="236" xml:id="p236"/> À EUGÈNE DELACROIX, PEINTRE</salute>
+      </div>
     </front>
     <body>
       <div>
-        <head>La Fille aux yeux d’or</head>
-        <salute><pb n="236" xml:id="p236"/> À EUGÈNE DELACROIX, PEINTRE</salute>
-        <p>Un des spectacles où se rencontre le plus d’épouvantement est certes l’aspect général de la population parisienne, peuple horrible à voir, hâve, jaune, tanné. Paris n’est-il pas un vaste champ incessamment remué par une tempête d’intérêts sous laquelle tourbillonne une moisson d’hommes que la mort fauche plus souvent qu’ailleurs et qui renaissent toujours aussi serrés, dont les visages contournés, tordus, rendent par tous les pores l’esprit, les désirs, les poisons dont sont engrossés leurs cerveaux ; non pas des visages, mais bien des masques : masques de faiblesse, masques de force, masques de misère, masques de joie, masques d’hypocrisie ; tous exténués, tous empreints des signes ineffaçables d’une haletante avidité ? Que veulent-ils ? De l’or, ou du plaisir ?</p>
+        <p rend="noindent">Un des spectacles où se rencontre le plus d’épouvantement est certes l’aspect général de la population parisienne, peuple horrible à voir, hâve, jaune, tanné. Paris n’est-il pas un vaste champ incessamment remué par une tempête d’intérêts sous laquelle tourbillonne une moisson d’hommes que la mort fauche plus souvent qu’ailleurs et qui renaissent toujours aussi serrés, dont les visages contournés, tordus, rendent par tous les pores l’esprit, les désirs, les poisons dont sont engrossés leurs cerveaux ; non pas des visages, mais bien des masques : masques de faiblesse, masques de force, masques de misère, masques de joie, masques d’hypocrisie ; tous exténués, tous empreints des signes ineffaçables d’une haletante avidité ? Que veulent-ils ? De l’or, ou du plaisir ?</p>
         <p>Quelques observations sur l’âme de Paris peuvent expliquer les causes de sa physionomie cadavéreuse qui n’a que deux âges, ou la jeunesse ou la caducité : jeunesse blafarde et sans couleur, caducité fardée qui veut paraître jeune. En voyant ce peuple exhumé, les étrangers, qui ne sont pas tenus de réfléchir, éprouvent tout d’abord un mouvement de dégoût pour cette capitale, vaste atelier de jouissances, d’où bientôt eux-mêmes ils ne peuvent sortir, et restent à s’y déformer volontiers. Peu de mots suffiront pour justifier physiologiquement la teinte presque infernale des figures parisiennes, car ce n’est pas seulement par plaisanterie que Paris a été nommé un enfer. Tenez ce mot pour vrai. Là, tout fume, tout brûle, tout brille, tout bouillonne, tout flambe, s’évapore, s’éteint, se rallume, étincelle, pétille et se consume. Jamais vie en aucun pays ne fut plus ardente, ni plus cuisante. Cette nature sociale toujours en fusion semble se dire après chaque œuvre finie : – À une autre ! comme se le dit la nature elle-même. Comme la <pb n="237" xml:id="p237"/> nature, cette nature sociale s’occupe d’insectes, de fleurs d’un jour, de bagatelles, d’éphémères, et jette aussi feu et flamme par son éternel cratère. Peut-être avant d’analyser les causes qui font une physionomie spéciale à chaque tribu de cette nation intelligente et mouvante, doit-on signaler la cause générale qui en décolore, blêmit, bleuit et brunit plus ou moins les individus.</p>
         <p>À force de s’intéresser à tout, le Parisien finit par ne s’intéresser à rien. Aucun sentiment ne dominant sur sa face usée par le frottement, elle devient grise comme le plâtre des maisons qui a reçu toute espèce de poussière et de fumée. En effet, indifférent la veille à ce dont il s’enivrera le lendemain, le Parisien vit en enfant quel que soit son âge. Il murmure de tout, se console de tout, se moque de tout, oublie tout, veut tout, goûte à tout, prend tout avec passion, quitte tout avec insouciance ; ses rois, ses conquêtes, sa gloire, son idole, qu’elle soit de bronze ou de verre ; comme il jette ses bas, ses chapeaux et sa fortune. À Paris, aucun sentiment ne résiste au jet des choses, et leur courant oblige à une lutte qui détend les passions : l’amour y est un désir, et la haine une velléité ; il n’y a là de vrai parent que le billet de mille francs, d’autre ami que le Mont-de-Piété. Ce laissez-aller général porte ses fruits ; et, dans le salon, comme dans la rue, personne n’y est de trop, personne n’y est absolument utile, ni absolument nuisible : les sots et les fripons, comme les gens d’esprit ou de probité. Tout y est toléré, le gouvernement et la guillotine, la religion et le choléra. Vous convenez toujours à ce monde, vous n’y manquez jamais. Qui donc domine en ce pays sans mœurs, sans croyance, sans aucun sentiment ; mais d’où partent et où aboutissent tous les sentiments, toutes les croyances et toutes les mœurs ? L’or et le plaisir. Prenez ces deux mots comme une lumière et parcourez cette grande cage de plâtre, cette ruche à ruisseaux noirs, et suivez-y les serpenteaux de cette pensée qui l’agite, la soulève, la travaille ? Voyez. Examinez d’abord le monde qui n’a rien ?</p>
         <p>L’ouvrier, le prolétaire, l’homme qui remue ses pieds, ses mains, sa langue, son dos, son seul bras, ses cinq doigts pour vivre ; eh ! bien, celui-là qui, le premier, devrait économiser le principe de sa vie, il outrepasse ses forces, attelle sa femme à quelque machine, use son enfant et le cloue à un rouage. Le fabricant, le je ne sais quel fil secondaire dont le branle agite ce peuple qui, de ses mains sales, tourne et dore les porcelaines, coud les habits <pb n="238" xml:id="p238"/> et les robes, amincit le fer, amenuise le bois, tisse l’acier, solidifie le chanvre et le fil, satine les bronzes, festonne le cristal, imite les fleurs, brode la laine, dresse les chevaux, tresse les harnais et les galons, découpe le cuivre, peint les voitures, arrondit les vieux ormeaux, vaporise le coton, souffle les tulles, corrode le diamant, polit les métaux, transforme en feuilles le marbre, lèche les cailloux, toilette la pensée, colore, blanchit et noircit tout ; hé ! bien, ce sous-chef est venu promettre à ce monde de sueur et de volonté, d’étude et de patience, un salaire excessif, soit au nom des caprices de la ville, soit à la voix du monstre nommé Spéculation. Alors ces quadrumanes se sont mis à veiller, pâtir, travailler, jurer, jeûner, marcher ; tous se sont excédés pour gagner cet or qui les fascine. Puis, insouciants de l’avenir, avides de jouissances, comptant sur leurs bras comme le peintre sur sa palette, ils jettent, grands seigneurs d’un jour, leur argent le lundi dans les cabarets, qui font une enceinte de boue à la ville ; ceinture de la plus impudique des Vénus, incessamment pliée et dépliée, où se perd comme au jeu la fortune périodique de ce peuple, aussi féroce au plaisir qu’il est tranquille au travail. Pendant cinq jours donc, aucun repos pour cette partie agissante de Paris ! Elle se livre à des mouvements qui la font se gauchir, se grossir, maigrir, pâlir, jaillir en mille jets de volonté créatrice. Puis son plaisir, son repos est une lassante débauche, brune de peau, noire de tapes, blême d’ivresse, ou jaune d’indigestion, qui ne dure que deux jours, mais qui vole le pain de l’avenir, la soupe de la semaine, les robes de la femme, les langes de l’enfant tous en haillons. Ces hommes, nés sans doute pour être beaux, car toute créature a sa beauté relative, se sont enrégimentés, dès l’enfance, sous le commandement de la force, sous le règne du marteau, des cisailles, de la filature, et se sont promptement vulcanisés. Vulcain, avec sa laideur et sa force, n’est-il pas l’emblème de cette laide et forte nation, sublime d’intelligence mécanique, patiente à ses heures, terrible un jour par siècle, inflammable comme la poudre, et préparée à l’incendie révolutionnaire par l’eau-de-vie, enfin assez spirituelle pour prendre feu sur un mot captieux qui signifie toujours pour elle : or et plaisir ! En comprenant tous ceux qui tendent la main pour une aumône, pour de légitimes salaires ou pour les cinq francs accordés à tous les genres de prostitution parisienne, enfin pour tout argent bien ou mal gagné, ce peuple compte trois cent mille individus. <pb n="239" xml:id="p239"/> Sans les cabarets, le gouvernement ne serait-il pas renversé tous les mardis ? Heureusement, le mardi, ce peuple est engourdi, cuve son plaisir, n’a plus le sou, et retourne au travail, au pain sec, stimulé par un besoin de procréation matérielle qui, pour lui, devient une habitude. Néanmoins ce peuple a ses phénomènes de vertu, ses hommes complets, ses Napoléons inconnus, qui sont le type de ses forces portées à leur plus haute expression, et résument sa portée sociale dans une existence où la pensée et le mouvement se combinent moins pour y jeter de la joie que pour y régulariser l’action de la douleur.</p>
@@ -148,9 +144,8 @@
         <p>– Tenez, voici le nom de votre gibier, dit-il en prenant dans sa boîte de cuir une lettre qui portait le timbre de Londres et sur laquelle cette adresse :</p>
         <q type="letter">
           <p rend="right i">À mademoiselle </p>
-          <p><hi rend="sc"> Paquita Valdès</hi>,</p>
-          <p rend="i"><space rend="tab"> </space><space rend="tab"> </space>Rue Saint-Lazare, hôtel de San-Réal. </p>
-          <p rend="right"><hi rend="sc">Paris</hi>.</p>
+          <p rend="sc"> Paquita Valdès,</p>
+          <dateline><hi rend="i">Rue Saint-Lazare, hôtel de San-Réal.</hi><lb/><hi rend="sc">Paris</hi></dateline>
         </q>
         <p rend="noindent">était écrite en caractères allongés et menus qui annonçaient une main de femme.</p>
         <p>– Seriez-vous cruel à une bouteille de vin de Chablis, accompagnée d’un filet sauté aux champignons, et précédée de quelques douzaines d’huîtres ? dit Laurent qui voulait conquérir la précieuse amitié du facteur.</p>
@@ -423,8 +418,7 @@
         <p>– Elle est morte.</p>
         <p>– De quoi ?</p>
         <p>– De la poitrine.</p>
-        <dateline>Paris, mars 1834 – avril 1835.</dateline>
-        <p rend="sc">fin de l’histoire des treize </p>
+        <dateline rendition="end">Paris, mars 1834 – avril 1835.</dateline>
       </div>
     </body>
   </text>

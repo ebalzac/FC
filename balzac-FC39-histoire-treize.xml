@@ -20,6 +20,10 @@
           <resp>Établissement du texte et stylage</resp>
         </respStmt>
         <respStmt>
+          <name>Michaela Bjuggfält-Châteaux</name>
+          <resp>Correction OCR</resp>
+        </respStmt>
+        <respStmt>
           <name>Amélie Canu</name>
           <resp>Édition XML/TEI</resp>
         </respStmt>
@@ -27,6 +31,10 @@
           <name>Frédéric Glorieux</name>
           <resp>Informatique éditoriale</resp>
         </respStmt>
+<respStmt>
+  <name>Claire Carpentier</name>
+  <resp>Traitement des images</resp>
+</respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>eBalzac</publisher>
@@ -1315,9 +1323,8 @@
         <p>– Tenez, voici le nom de votre gibier, dit-il en prenant dans sa boîte de cuir une lettre qui portait le timbre de Londres et sur laquelle cette adresse :</p>
         <q type="letter">
           <p rend="right i">À mademoiselle </p>
-          <p><hi rend="sc"> Paquita Valdès</hi>,</p>
-          <p rend="i"><space rend="tab"> </space><space rend="tab"> </space>Rue Saint-Lazare, hôtel de San-Réal. </p>
-          <p rend="right"><hi rend="sc">Paris</hi>.</p>
+          <p rend="sc"> Paquita Valdès,</p>
+          <dateline><hi rend="i">Rue Saint-Lazare, hôtel de San-Réal.</hi><lb/><hi rend="sc">Paris</hi></dateline>
         </q>
         <p rend="noindent">était écrite en caractères allongés et menus qui annonçaient une main de femme.</p>
         <p>– Seriez-vous cruel à une bouteille de vin de Chablis, accompagnée d’un filet sauté aux champignons, et précédée de quelques douzaines d’huîtres ? dit Laurent qui voulait conquérir la précieuse amitié du facteur.</p>
