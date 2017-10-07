@@ -469,48 +469,22 @@
         <p>– Qu’as-tu ? lui dit Étienne.</p>
         <p>– Mais voici le plus joli roman du monde contenu dans une maculature qui enveloppait tes épreuves. Tiens, lis : <hi rend="i">Olympia ou les Vengeances romaines</hi>.</p>
         <p>– Voyons, dit Lousteau en prenant le fragment de maculature que lui tendit le docteur, et il lut à haute voix ceci :</p>
-        <q type="narrative">
-          <p>204<space rend="tab"> </space>OLYMPIA,</p>
-          <p>caverne. Rinaldo, s’indignant de la</p>
-          <p>lâcheté de ses compagnons, qui</p>
-          <p>n’avaient de courage qu’en plein air et</p>
-          <p>n’osaient s’aventurer dans Rome, jeta</p>
-          <p>sur eux un regard de mépris.</p>
+        <q type="narrative" rendition="olympia">
+          <fw type="header"><num>204</num><title>OLYMPIA,</title></fw>
+          <p rend="noindent">caverne. Rinaldo, s’indignant de la lâcheté de ses compagnons, qui n’avaient de courage qu’en plein air et n’osaient s’aventurer dans Rome, jeta sur eux un regard de mépris.</p>
           <p>– Je suis donc seul !… leur dit-il.</p>
-          <p>Il parut penser, puis il reprit : –</p>
-          <p>Vous êtes des misérables, j’irai seul,</p>
-          <p>et j’aurai seul cette riche proie… Vous</p>
-          <p>m’entendez !… Adieu.</p>
-          <p>– Mon capitaine !… dit Lamberti,</p>
-          <p>et si vous étiez pris sans avoir</p>
-          <p>réussi ?…</p>
-          <p>– Dieu me protège !… reprit Rinaldo</p>
-          <p>en montrant le ciel.</p>
-          <p>À ces mots, il sortit, et rencontra</p>
-          <p>sur la route l’intendant de Bracciano</p>
+          <p>Il parut penser, puis il reprit : – Vous êtes des misérables, j’irai seul, et j’aurai seul cette riche proie… Vous m’entendez !… Adieu.</p>
+          <p>– Mon capitaine !… dit Lamberti, et si vous étiez pris sans avoir réussi ?…</p>
+          <p>– Dieu me protège !… reprit Rinaldo en montrant le ciel.</p>
+          <p rendition="suite">À ces mots, il sortit, et rencontra sur la route l’intendant de Bracciano</p>
         </q>
         <p>– La page est finie, dit Lousteau que tout le monde avait religieusement écouté.</p>
         <p>– Il nous lit son ouvrage, dit Gatien au fils de madame Popinot-Chandier.</p>
         <p>– D’après les premiers mots, il est évident, mesdames, reprit le journaliste en saisissant cette occasion de mystifier les Sancerrois, que les brigands sont dans une caverne. Quelle négligence mettaient alors les romanciers dans les détails, aujourd’hui si curieusement, si longuement observés, sous prétexte de couleur locale ! Si les voleurs sont dans une caverne, au lieu de : <hi rend="i">en montrant le ciel</hi>, il aurait fallu : <hi rend="i">en montrant la voûte</hi>. Malgré cette incorrection, <hi rend="i">Rinaldo</hi> me semble un homme d’exécution, et son apostrophe à Dieu sent l’Italie. Il y avait dans ce roman <pb n="426" xml:id="p426"/> un soupçon de couleur locale. Peste ! des brigands, une caverne, un Lamberti qui sait calculer… Je vois tout un vaudeville dans cette page. Ajoutez à ces premiers éléments un bout d’intrigue, une jeune paysanne à chevelure relevée, à jupes courtes, et une centaine de couplets détestables… oh ! mon Dieu, le public viendra. Et puis, Rinaldo… comme ce nom-là convient à Lafont ! En lui supposant des favoris noirs, un pantalon collant, un manteau, des moustaches, un pistolet et un chapeau pointu ; si le directeur du Vaudeville a le courage de payer quelques articles de journaux, voilà cinquante représentations acquises au Vaudeville et six mille francs de droits d’auteur si je veux dire du bien de la pièce dans mon feuilleton. Continuons.</p>
-        <q type="narrative">
-          <p>OU LES VENGEANCES ROMAINES. 197</p>
-          <p>La duchesse de Bracciano retrouva</p>
-          <p>son gant. Certes, Adolphe, qui l’avait</p>
-          <p>ramenée au bosquet d’orangers, put</p>
-          <p>croire qu’il y avait de la coquetterie</p>
-          <p>dans cet oubli ; car alors le bosquet</p>
-          <p>était désert. Le bruit de la fête retentissait</p>
-          <p>vaguement au loin. Les</p>
-          <p><hi rend="i">fantoccini</hi> annoncés avaient attiré</p>
-          <p>tout le monde dans la galerie. Jamais</p>
-          <p>Olympia ne parut plus belle à</p>
-          <p>son amant. Leurs regards, animés</p>
-          <p>du même feu, se comprirent. Il y</p>
-          <p>eut un moment de silence délicieux</p>
-          <p>pour leurs âmes et impossible à rendre.</p>
-          <p>Ils s’assirent sur le même banc</p>
-          <p>où ils s’étaient trouvés en présence</p>
-          <p>du chevalier de Paluzzi et des rieurs</p>
+        <q type="narrative" rendition="olympia">
+          <fw type="header"><title>OU LES VENGEANCES ROMAINES.</title>
+            <num>197</num></fw>
+          <p rendition="suite">La duchesse de Bracciano retrouva son gant. Certes, Adolphe, qui l’avait ramenée au bosquet d’orangers, put croire qu’il y avait de la coquetterie dans cet oubli ; car alors le bosquet était désert. Le bruit de la fête retentissait vaguement au loin. Les <hi rend="i">fantoccini</hi> annoncés avaient attiré tout le monde dans la galerie. Jamais Olympia ne parut plus belle à son amant. Leurs regards, animés du même feu, se comprirent. Il y eut un moment de silence délicieux pour leurs âmes et impossible à rendre. Ils s’assirent sur le même banc où ils s’étaient trouvés en présence du chevalier de Paluzzi et des rieurs</p>
         </q>
         <p>– Malepeste ! je ne vois plus notre Rinaldo, s’écria Lousteau. Mais quels progrès dans la compréhension de l’intrigue un homme littéraire ne fera-t-il pas à cheval sur cette page ? La duchesse Olympia est une femme <hi rend="i">qui pouvait oublier à dessein ses gants dans un bosquet désert</hi> !</p>
         <p>– À moins d’être placé entre l’huître et le sous-chef de bureau, les deux créations les plus voisines du marbre dans le règne zoologique, il est impossible de ne pas reconnaître dans Olympia, dit Bianchon.</p>
@@ -522,25 +496,12 @@
         <p>La femme du Procureur du Roi, qui, selon l’expression de monsieur Gravier, aurait pu mettre en fuite un jeune Cosaque en 1814, se raffermit sur ses hanches comme un cavalier sur ses étriers, et fit une moue à sa voisine qui voulait dire : – On nous regarde ! sourions comme si nous comprenions.</p>
         <p>– C’est charmant ! dit la mairesse à Gatien. De grâce, monsieur Lousteau, continuez ?</p>
         <p>Lousteau regarda les deux femmes, deux vraies pagodes indiennes, et put tenir son sérieux. Il jugea nécessaire de s’écrier : Attention ! en reprenant ainsi :</p>
-        <q type="narrative">
-          <p>OU LES VENGEANCES ROMAINES. 209</p>
-          <p>robe frôla dans le silence. Tout à</p>
-          <p>coup le cardinal Borborigano parut</p>
-          <p>aux yeux de la duchesse. Il avait</p>
-          <p>un visage sombre ; son front semblait</p>
-          <p>chargé de nuages, et un sourire</p>
-          <p>amer se dessinait dans ses</p>
-          <p>rides.</p>
-          <p>– Madame, dit-il, vous êtes soupçonnée.</p>
-          <p>Si vous êtes coupable, fuyez ;</p>
-          <p>si vous ne l’êtes pas, fuyez encore :</p>
-          <p>parce que, vertueuse ou criminelle,</p>
-          <p>vous serez de loin bien mieux en état</p>
-          <p>de vous défendre…</p>
-          <p>– Je remercie Votre Éminence de</p>
-          <p>sa sollicitude, dit-elle, le duc de</p>
-          <p>Bracciano reparaîtra quand je jugerai</p>
-          <p>nécessaire de faire voir qu’il existe</p>
+        <q type="narrative" rendition="olympia">
+          <fw type="header"><title>OU LES VENGEANCES ROMAINES.</title>
+            <num>209</num></fw>
+          <p rend="noindent">robe frôla dans le silence. Tout à coup le cardinal Borborigano parut aux yeux de la duchesse. Il avait un visage sombre ; son front semblait chargé de nuages, et un sourire amer se dessinait dans ses rides.</p>
+          <p>– Madame, dit-il, vous êtes soupçonnée. Si vous êtes coupable, fuyez ; si vous ne l’êtes pas, fuyez encore : parce que, vertueuse ou criminelle, vous serez de loin bien mieux en état de vous défendre…</p>
+          <p rendition="suite">– Je remercie Votre Éminence de sa sollicitude, dit-elle, le duc de Bracciano reparaîtra quand je jugerai nécessaire de faire voir qu’il existe</p>
         </q>
         <p><pb n="428" xml:id="p428"/> – Le cardinal Borborigano ! s’écria Bianchon. Par les clefs du pape ! si vous ne m’accordez pas qu’il se trouve une magnifique création seulement dans le nom, si vous ne voyez pas à ces mots : <hi rend="i">robe frôla dans le silence</hi> ! toute la poésie du rôle de <hi rend="i">Schedoni</hi> inventé par madame Radcliffe dans <hi rend="i">le Confessionnal des Pénitents noirs</hi>, vous êtes indigne de lire des romans…</p>
         <p>– Pour moi, reprit Dinah qui eut pitié des dix-huit figures qui regardaient les deux Parisiens, la fable marche. Je connais tout : je suis à Rome, je vois le cadavre d’un mari assassiné dont la femme, audacieuse et perverse, a établi son lit sur un cratère. À chaque nuit, à chaque plaisir, elle se dit : Tout va se découvrir !…</p>
@@ -551,8 +512,9 @@
         <p>Tous les gens de Sancerre ouvraient des yeux grands comme des pièces de cent sous.</p>
         <p>– Continuez, de grâce, fit madame de La Baudraye.</p>
         <p>Lousteau continua.</p>
-        <q type="narrative">
-          <p>216<space rend="tab"> </space>OLYMPIA,</p>
+        <q type="narrative" rendition="olympia">
+          <fw type="header"><num>216</num>
+            <title>OLYMPIA,</title></fw>
           <p>– Votre clef !…</p>
           <p>– L’auriez-vous perdue ?…</p>
           <p>– Elle est dans le bosquet…</p>
@@ -560,29 +522,17 @@
           <p>– Le cardinal l’aurait-il prise ?…</p>
           <p>– Non… La voici…</p>
           <p>– De quel danger nous sortons !</p>
-          <p>Olympia regarda la clef, elle crut</p>
-          <p>reconnaître la sienne ; mais Rinaldo</p>
-          <p>l’avait changée : ses ruses avaient</p>
-          <p><pb n="429" xml:id="p429"/> réussi, il possédait la véritable clef.</p>
-          <p>Moderne Cartouche, il avait autant</p>
-          <p>d’habileté que de courage, et, soupçonnant</p>
-          <p>que des trésors considérables</p>
-          <p>pouvaient seuls obliger une duchesse</p>
-          <p>à toujours porter à sa ceinture</p>
+          <p rendition="suite">Olympia regarda la clef, elle crut reconnaître la sienne ; mais Rinaldo l’avait changée : ses ruses avaient <pb n="429" xml:id="p429"/> réussi, il possédait la véritable clef. Moderne Cartouche, il avait autant d’habileté que de courage, et, soupçonnant que des trésors considérables pouvaient seuls obliger une duchesse à toujours porter à sa ceinture</p>
         </q>
         <p>– Cherche !… s’écria Lousteau. La page qui faisait le recto suivant n’y est pas, il n’y a plus pour nous tirer d’inquiétude que la page 212.</p>
-        <q type="narrative">
-          <p>212<space rend="tab"> </space>OLYMPIA,</p>
+        <q type="narrative" rendition="olympia">
+          <fw type="header"><num>212</num><title>OLYMPIA,</title></fw>
           <p>– Si la clef avait été perdue !</p>
           <p>– Il serait mort…</p>
-          <p>– Mort ! ne devriez-vous pas accéder</p>
-          <p>à la dernière prière qu’il vous a</p>
-          <p>faite, et lui donner la liberté aux conditions</p>
-          <p>qu’il…</p>
+          <p>– Mort ! ne devriez-vous pas accéder à la dernière prière qu’il vous a faite, et lui donner la liberté aux conditions qu’il…</p>
           <p>– Vous ne le connaissez pas…</p>
           <p>– Mais…</p>
-          <p>– Tais-toi. Je t’ai pris pour amant,</p>
-          <p>et non pour confesseur.</p>
+          <p>– Tais-toi. Je t’ai pris pour amant, et non pour confesseur.</p>
           <p>Adolphe garda le silence.</p>
         </q>
         <p>– Puis voilà un Amour sur une chèvre au galop, une vignette dessinée par <hi rend="i">Normand</hi>, gravée par <hi rend="i">Duplat</hi>… Oh ! les noms y sont, dit Lousteau.</p>
@@ -595,30 +545,16 @@
         <p>– Vous n’avez pas la clef de cette plaisanterie, dit monsieur Gravier ; eh ! bien, ni moi non plus, belle dame, rassurez-vous.</p>
         <p>– Mais il y a une autre feuille, dit Bianchon qui regarda sur la table où se trouvaient les épreuves.</p>
         <p>– Bon, dit Lousteau, elle est saine et entière ! Elle est signée IV ; J, 2<hi rend="sup">e</hi> <hi rend="i">édition</hi>. Mesdames, le IV indique le quatrième volume. Le J, dixième lettre de l’alphabet, la dixième feuille. Il me paraît dès lors prouvé que ce roman en quatre volumes in-12 a joui, sauf les ruses du libraire, d’un grand succès, puisqu’il aurait eu deux éditions. Lisons et déchiffrons cette énigme ?</p>
-        <q type="narrative">
-          <p>OU LES VENGEANCES ROMAINES. 217</p>
-          <p>corridor ; mais, se sentant poursuivi</p>
-          <p>par les gens de la duchesse, Rinaldo</p>
+        <q type="narrative" rendition="olympia">
+          <fw type="header"><title>OU LES VENGEANCES ROMAINES.</title>
+            <num>217</num></fw>
+          <p rend="noindent" rendition="suite">corridor ; mais, se sentant poursuivi par les gens de la duchesse, Rinaldo</p>
         </q>
         <p>– Va te promener !</p>
         <p>– Oh ! dit madame de La Baudraye, il y a eu des événements importants entre votre fragment de maculature et cette page.</p>
         <p>– Dites, madame, cette précieuse <hi rend="i">bonne feuille</hi> ! Mais la maculature où la duchesse a oublié ses gants dans le bosquet appartient-elle au quatrième volume ? Au diable ! continuons :</p>
-        <q type="narrative">
-          <p>ne trouve pas d’asile plus sûr que d’aller</p>
-          <p>sur-le-champ dans le souterrain</p>
-          <p>où devaient être les trésors de la maison</p>
-          <p>de Bracciano. Léger comme la</p>
-          <p>Camille du poète latin, il courut vers</p>
-          <p>l’entrée mystérieuse des Bains de Vespasien.</p>
-          <p>Déjà les torches éclairaient les</p>
-          <p>murailles, lorsque l’adroit Rinaldo,</p>
-          <p>découvrant avec la perspicacité dont</p>
-          <p>l’avait doué la nature, la porte <pb n="431" xml:id="p431"/> cachée</p>
-          <p>dans le mur, disparut promptement.</p>
-          <p>Une horrible réflexion sillonna</p>
-          <p>l’âme de Rinaldo comme la</p>
-          <p>foudre quand elle déchire les nuages.</p>
-          <p>Il s’était emprisonné !… Il tâta le</p>
+        <q type="narrative" rendition="olympia">
+          <p rend="noindent" rendition="suite">ne trouve pas d’asile plus sûr que d’aller sur-le-champ dans le souterrain où devaient être les trésors de la maison de Bracciano. Léger comme la Camille du poète latin, il courut vers l’entrée mystérieuse des Bains de Vespasien. Déjà les torches éclairaient les murailles, lorsque l’adroit Rinaldo, découvrant avec la perspicacité dont l’avait doué la nature, la porte <pb n="431" xml:id="p431"/> cachée dans le mur, disparut promptement. Une horrible réflexion sillonna l’âme de Rinaldo comme la foudre quand elle déchire les nuages. Il s’était emprisonné !… Il tâta le</p>
         </q>
         <p>– Oh ! cette bonne feuille et le fragment de <hi rend="i">maculature</hi> se suivent ! La dernière page du fragment est la 212 et nous avons ici 217 ! Et, en effet, si, <hi rend="i">dans la maculature</hi>, Rinaldo, qui a volé la clef des trésors de la duchesse Olympia en lui en substituant une à peu près semblable, se trouve, <hi rend="i">dans la bonne feuille</hi>, au palais des ducs de Bracciano, le roman me paraît marcher à une conclusion quelconque. Je souhaite que ce soit aussi clair pour vous que cela le devient pour moi… Pour moi, la fête est finie, les deux amants sont revenus au palais Bracciano, il est nuit, il est une heure du matin. Rinaldo va faire un bon coup !</p>
         <p>– Et Adolphe ?… dit le Président Boirouge qui passait pour être un peu leste en paroles.</p>
@@ -635,25 +571,10 @@
         <p>– Ah !</p>
         <p>– Continuez, de grâce, dit madame de La Baudraye<note place="bottom">Erreur du Furne : « madame La Baudraye » au lieu de « madame de La Baudraye ».</note> à Lousteau.</p>
         <p><pb n="432" xml:id="p432"/> Lousteau reprit la lecture en disant : – Page 218 !</p>
-        <q type="narrative">
-          <p>218<space rend="tab"> </space>OLYMPIA,</p>
-          <p>mur avec une inquiète précipitation,</p>
-          <p>et jeta un cri de désespoir quand il</p>
-          <p>eut vainement cherché les traces de</p>
-          <p>la serrure à secret. Il lui fut impossible</p>
-          <p>de se refuser à reconnaître l’affreuse</p>
-          <p>vérité. La porte, habilement</p>
-          <p>construite pour servir les vengeances</p>
-          <p>de la duchesse, ne pouvait pas s’ouvrir</p>
-          <p>en dedans. Rinaldo colla sa joue</p>
-          <p>à divers endroits, et ne sentit nulle</p>
-          <p>part l’air chaud de la galerie. Il espérait</p>
-          <p>rencontrer une fente qui lui indiquerait</p>
-          <p>l’endroit où finissait le mur,</p>
-          <p>mais, rien, rien !… la paroi semblait</p>
-          <p>être d’un seul bloc de marbre…</p>
-          <p>Alors il lui échappa un sourd rugissement</p>
-          <p>d’hyène…</p>
+        <q type="narrative" rendition="olympia">
+          <fw type="header"><num>218</num>
+            <title>OLYMPIA,</title></fw>
+          <p rend="noindent">mur avec une inquiète précipitation, et jeta un cri de désespoir quand il eut vainement cherché les traces de la serrure à secret. Il lui fut impossible de se refuser à reconnaître l’affreuse vérité. La porte, habilement construite pour servir les vengeances de la duchesse, ne pouvait pas s’ouvrir en dedans. Rinaldo colla sa joue à divers endroits, et ne sentit nulle part l’air chaud de la galerie. Il espérait rencontrer une fente qui lui indiquerait l’endroit où finissait le mur, mais, rien, rien !… la paroi semblait être d’un seul bloc de marbre… Alors il lui échappa un sourd rugissement d’hyène…</p>
         </q>
         <p>– Hé ! bien, nous croyions avoir récemment inventé les cris de hyène ? dit Lousteau, la littérature de l’Empire les connaissait déjà, les mettait même en scène avec un certain talent d’histoire naturelle ; ce que prouve le mot <hi rend="i">sourd</hi>.</p>
         <p>– Ne faites plus de réflexions, monsieur, dit madame de La Baudraye.</p>
@@ -663,96 +584,55 @@
         <p>– Il veut flatter madame de La Baudraye, répondit le nouveau Sous-Préfet.</p>
         <p>– Eh ! bien, je lis de suite, dit solennellement Lousteau.</p>
         <p>On écouta le journaliste dans le plus profond silence.</p>
-        <q type="narrative">
-          <p>OU LES VENGEANCES ROMAINES. 219</p>
-          <p>Un gémissement profond répondit</p>
-          <p>au cri de Rinaldo ; mais, dans son</p>
-          <p>trouble, il le prit pour un écho, tant</p>
-          <p>ce gémissement était faible et creux !</p>
-          <p><pb n="433" xml:id="p433"/> il ne pouvait pas sortir d’une poitrine humaine…</p>
+        <q type="narrative" rendition="olympia">
+          <fw type="header"><title>OU LES VENGEANCES ROMAINES.</title>
+            <num>219</num></fw>
+          <p>Un gémissement profond répondit au cri de Rinaldo ; mais, dans son trouble, il le prit pour un écho, tant ce gémissement était faible et creux ! <pb n="433" xml:id="p433"/> il ne pouvait pas sortir d’une poitrine humaine…</p>
           <p>– Santa Maria ! dit l’inconnu.</p>
-          <p>– Si je quitte cette place, je ne</p>
-          <p>saurai plus la retrouver ! pensa Rinaldo</p>
-          <p>quand il reprit son sang-froid</p>
-          <p>accoutumé. Frapper, je serai reconnu :</p>
-          <p>que faire ?</p>
+          <p>– Si je quitte cette place, je ne saurai plus la retrouver ! pensa Rinaldo quand il reprit son sang-froid accoutumé. Frapper, je serai reconnu : que faire ?</p>
           <p>– Qui donc est là ? demanda la voix.</p>
-          <p>– Hein ! dit le brigand, les crapauds</p>
-          <p>parleraient-ils, ici ?</p>
-          <p>– Je suis le duc de Bracciano ! Qui</p>
-          <p/>
-          <p>220<space rend="tab"> </space><space rend="tab"> </space>OLYMPIA</p>
-          <p>que vous soyez, si vous n’appartenez</p>
-          <p>pas à la duchesse, venez, au nom de</p>
-          <p>tous les saints, venez à moi…</p>
-          <p>– Il faudrait savoir où tu es, monseigneur</p>
-          <p>le duc, répondit Rinaldo avec</p>
-          <p>l’impertinence d’un homme qui se voit</p>
-          <p>nécessaire.</p>
-          <p>– Je te vois, mon ami, car mes</p>
-          <p>yeux se sont accoutumés à l’obscurité.</p>
-          <p>Écoute, marche droit… bien… tourne</p>
-          <p>à gauche… viens… ici… Nous voilà</p>
-          <p>réunis.</p>
-          <p>Rinaldo, mettant ses mains en avant</p>
-          <p>par prudence, rencontra des barres de fer.</p>
+          <p>– Hein ! dit le brigand, les crapauds parleraient-ils, ici ?</p>
+          <p rendition="suite">– Je suis le duc de Bracciano ! Qui</p>
+        </q>
+        <q type="narrative" rendition="olympia">
+          <fw type="header"><num>220</num>
+            <title>OLYMPIA</title></fw>
+          <p rend="noindent">que vous soyez, si vous n’appartenez pas à la duchesse, venez, au nom de tous les saints, venez à moi…</p>
+          <p>– Il faudrait savoir où tu es, monseigneur le duc, répondit Rinaldo avec l’impertinence d’un homme qui se voit nécessaire.</p>
+          <p>– Je te vois, mon ami, car mes yeux se sont accoutumés à l’obscurité. Écoute, marche droit… bien… tourne à gauche… viens… ici… Nous voilà réunis.</p>
+          <p>Rinaldo, mettant ses mains en avant par prudence, rencontra des barres de fer.</p>
           <p>– On me trompe ! cria le bandit.</p>
-          <p>– Non, tu as touché ma cage…</p>
-          <p/>
-          <p>OU LES VENGEANCES ROMAINES. 221</p>
-          <p>Assieds-toi sur un fût de marbre qui</p>
-          <p>est là.</p>
-          <p>– Comment le duc de Bracciano</p>
-          <p>peut-il être dans une cage ? demanda</p>
-          <p>le bandit.</p>
-          <p>– Mon ami, j’y suis, depuis trente</p>
-          <p>mois, debout, sans avoir pu m’asseoir…</p>
-          <p>Mais qui es-tu, toi ?</p>
-          <p>– Je suis Rinaldo, le prince de la</p>
-          <p>campagne, le chef de quatre-vingts</p>
-          <p><pb n="434" xml:id="p434"/> braves que les lois nomment à tort</p>
-          <p>des scélérats, que toutes les dames</p>
-          <p>admirent et que les juges pendent par</p>
-          <p>une vieille habitude.</p>
+          <p rendition="suite">– Non, tu as touché ma cage…</p>
+        </q>
+        <q type="narrative" rendition="olympia">
+          <fw type="header"><title>OU LES VENGEANCES ROMAINES.</title>
+            <num>221</num></fw>
+          <p rend="noindent">Assieds-toi sur un fût de marbre qui est là.</p>
+          <p>– Comment le duc de Bracciano peut-il être dans une cage ? demanda le bandit.</p>
+          <p>– Mon ami, j’y suis, depuis trente mois, debout, sans avoir pu m’asseoir… Mais qui es-tu, toi ?</p>
+          <p>– Je suis Rinaldo, le prince de la campagne, le chef de quatre-vingts <pb n="434" xml:id="p434"/> braves que les lois nomment à tort des scélérats, que toutes les dames admirent et que les juges pendent par une vieille habitude.</p>
           <p>– Dieu soit loué !… Je suis sauvé…</p>
-          <p>Un honnête homme aurait eu peur ;</p>
-          <p>tandis que je suis sûr de pouvoir très-</p>
-          <p/>
-          <p>222<space rend="tab"> </space>OLYMPIA,</p>
-          <p>bien m’entendre avec toi, s’écria le</p>
-          <p>duc. Ô mon cher libérateur, tu dois</p>
-          <p>être armé jusqu’aux dents.</p>
+          <p rendition="suite">Un honnête homme aurait eu peur ; tandis que je suis sûr de pouvoir très-</p>
+        </q>
+        <q type="narrative" rendition="olympia">
+          <fw type="header"><num>222</num>
+            <title>OLYMPIA,</title></fw>
+          <p rend="noindent">bien m’entendre avec toi, s’écria le duc. Ô mon cher libérateur, tu dois être armé jusqu’aux dents.</p>
           <p>– <hi rend="i">E verissimo</hi> !</p>
           <p>– Aurais-tu des…</p>
-          <p>– Oui, des limes, des pinces…</p>
-          <p><hi rend="i">Corpo di Bacco</hi> ! je venais emprunter</p>
-          <p>indéfiniment les trésors des Bracciani.</p>
-          <p>– Tu en auras légitimement une</p>
-          <p>bonne part, mon cher Rinaldo, et</p>
-          <p>peut-être irai-je faire la chasse aux</p>
-          <p>hommes en ta compagnie…</p>
+          <p>– Oui, des limes, des pinces… <hi rend="i">Corpo di Bacco</hi> ! je venais emprunter indéfiniment les trésors des Bracciani.</p>
+          <p>– Tu en auras légitimement une bonne part, mon cher Rinaldo, et peut-être irai-je faire la chasse aux hommes en ta compagnie…</p>
           <p>– Vous m’étonnez, Excellence !…</p>
-          <p>– Écoute-moi, Rinaldo ! Je ne te</p>
-          <p>parlerai pas du désir de vengeance</p>
-          <p>qui me ronge le cœur : je suis là depuis</p>
-          <p>trente mois – tu es Italien – tu</p>
-          <p/>
-          <p>OU LES VENGEANCES ROMAINES. 223</p>
-          <p>me comprendras ! Ah ! mon ami, ma</p>
-          <p>fatigue et mon épouvantable captivité</p>
-          <p>ne sont rien en comparaison du mal</p>
-          <p>qui me ronge le cœur. La duchesse de</p>
-          <p>Bracciano est encore une des plus belles</p>
-          <p>femmes de Rome, je l’aimais assez pour en être jaloux…</p>
+          <p rendition="suite">– Écoute-moi, Rinaldo ! Je ne te parlerai pas du désir de vengeance qui me ronge le cœur : je suis là depuis trente mois – tu es Italien – tu</p>
+        </q>
+        <q type="narrative" rendition="olympia">
+          <fw type="header"><title>OU LES VENGEANCES ROMAINES.</title>
+            <num>223</num></fw>
+          <p rend="noindent">me comprendras ! Ah ! mon ami, ma fatigue et mon épouvantable captivité ne sont rien en comparaison du mal qui me ronge le cœur. La duchesse de Bracciano est encore une des plus belles femmes de Rome, je l’aimais assez pour en être jaloux…</p>
           <p>– Vous, son mari !…</p>
           <p>– Oui, j’avais tort peut-être !</p>
           <p>– Certes, cela ne se fait pas, dit Rinaldo.</p>
-          <p>– Ma jalousie fut excitée par la</p>
-          <p>conduite de la duchesse, reprit le duc.</p>
-          <p>L’événement a prouvé que j’avais raison.</p>
-          <p>Un jeune Français aimait Olympia,</p>
-          <p>il était aimé d’elle, j’eus des</p>
-          <p>preuves de leur mutuelle affection…</p>
+          <p>– Ma jalousie fut excitée par la conduite de la duchesse, reprit le duc. L’événement a prouvé que j’avais raison. Un jeune Français aimait Olympia, il était aimé d’elle, j’eus des preuves de leur mutuelle affection…</p>
         </q>
         <p><pb n="435" xml:id="p435"/> – Mille pardons ! mesdames, dit Lousteau ; mais, voyez-vous, il m’est impossible de ne pas vous faire observer combien la littérature de l’Empire allait droit au fait sans aucun détail, ce qui me semble le caractère des temps primitifs. La littérature de cette époque tenait le milieu entre le sommaire des chapitres du <hi rend="i">Télémaque</hi> et les réquisitoires du Ministère public. Elle avait des idées, mais elle ne les exprimait pas, la dédaigneuse ! elle observait, mais elle ne faisait part de ses observations à personne, l’avare ! il n’y avait que Fouché qui fît part de ses observations à quelqu’un. <hi rend="i">La littérature se contentait alors</hi>, suivant l’expression d’un des plus niais critiques de la Revue des Deux-Mondes, <hi rend="i">d’une assez pure esquisse et du contour bien net de toutes les figures à l’antique ; elle ne dansait pas sur les périodes</hi> ! Je le crois bien, elle n’avait pas de périodes, elle n’avait pas de mots à faire chatoyer ; elle vous disait Lubin aimait Toinette, Toinette n’aimait pas Lubin ; Lubin tua Toinette, et les gendarmes prirent Lubin qui fut mis en prison, mené à la Cour d’Assises et guillotiné. Forte esquisse, contour net ! Quel beau drame ! Eh ! bien, aujourd’hui, les barbares font chatoyer les mots.</p>
         <p>– Et quelquefois les morts, dit monsieur de Clagny.</p>
@@ -765,129 +645,68 @@
         <p>– C’est l’histoire de vos dernières querelles littéraires, fit observer Dinah.</p>
         <p>– De grâce ! s’écria monsieur de Clagny, revenons au duc de Bracciano.</p>
         <p>Au grand désespoir de l’assemblée, Lousteau reprit la lecture de la <hi rend="i">bonne feuille</hi>.</p>
-        <q type="narrative">
-          <p>224<space rend="tab"> </space>OLYMPIA,</p>
-          <p>Alors je voulus m’assurer de mon</p>
-          <p>malheur, afin de pouvoir me venger</p>
-          <p>sous l’aile de la Providence et de la</p>
-          <p>Loi. La duchesse avait deviné mes</p>
-          <p>projets. Nous nous combattions par la</p>
-          <p>pensée avant de nous combattre le poison</p>
-          <p>à la main. Nous voulions nous imposer</p>
-          <p>mutuellement une confiance que</p>
-          <p>nous n’avions pas ; moi pour lui faire</p>
-          <p>prendre un breuvage, elle pour s’emparer</p>
-          <p>de moi. Elle était femme, elle</p>
-          <p>l’emporta ; car les femmes ont un</p>
-          <p>piége de plus que nous autres à tendre,</p>
-          <p>et j’y tombai : je fus heureux ;</p>
-          <p>mais le lendemain matin je me réveillai</p>
-          <p>dans cette cage de fer. Je rugis pendant</p>
-          <p>toute la journée dans l’obscurité</p>
-          <p/>
-          <p>OU LES VENGEANCES ROMAINES, 225</p>
-          <p>de cette cave, située sous la chambre</p>
-          <p>à coucher de la duchesse. Le soir,</p>
-          <p>enlevé par un contre-poids habilement</p>
-          <p>ménagé, je traversai les planchers</p>
-          <p>et vis dans les bras de son amant</p>
-          <p>la duchesse qui me jeta un morceau</p>
-          <p>de pain, ma pitance de tous les soirs.</p>
-          <p><pb n="437" xml:id="p437"/> Voilà ma vie depuis trente mois ! Dans</p>
-          <p>cette prison de marbre, mes cris ne</p>
-          <p>peuvent parvenir à aucune oreille.</p>
-          <p>Pas de hasard pour moi. Je n’espérais</p>
-          <p>plus ! En effet, la chambre de</p>
-          <p>la duchesse est au fond du palais,</p>
-          <p>et ma voix, quand j’y monte, ne peut</p>
-          <p>être entendue de personne. Chaque</p>
-          <p>fois que je vois ma femme, elle me</p>
-          <p>montre le poison que j’avais préparé</p>
-          <p/>
-          <p>226<space rend="tab"> </space>OLYMPIA,</p>
-          <p>pour elle et pour son amant ; je le</p>
-          <p>demande pour moi, mais elle me refuse</p>
-          <p>la mort, elle me donne du pain</p>
-          <p>et je mange ! J’ai bien fait de manger,</p>
-          <p>de vivre, j’avais compté sans les</p>
-          <p>bandits !…</p>
-          <p>– Oui, Excellence, quand ces imbéciles</p>
-          <p>d’honnêtes gens sont endormis,</p>
-          <p>nous veillons, nous…</p>
-          <p>– Ah ! Rinaldo, tous mes trésors</p>
-          <p>sont à toi, nous les partagerons en frères,</p>
-          <p>et je voudrais te donner tout…</p>
-          <p>jusqu’à mon duché…</p>
-          <p>– Excellence, obtenez-moi du pape</p>
-          <p>une absolution <hi rend="i">in articulo mortis</hi>,</p>
-          <p>cela me vaudra mieux pour faire mon état.</p>
-          <p/>
-          <p>OU LES VENGEANCES ROMAINES. 227</p>
-          <p>– Tout ce que tu voudras ; mais</p>
-          <p>lime les barreaux de ma cage et prête-moi</p>
-          <p>ton poignard… Nous n’avons</p>
-          <p>guère de temps, va vite… Ah ! si mes</p>
-          <p>dents étaient des limes… J’ai essayé</p>
-          <p>de mâcher ce fer…</p>
-          <p>– Excellence, dit Rinaldo en écoutant</p>
-          <p>les dernières paroles du duc, j’ai</p>
-          <p>déjà scié un barreau.</p>
+        <q type="narrative" rendition="olympia">
+          <fw type="header"><num>224</num><title>OLYMPIA,</title></fw>
+          <p rendition="suite">Alors je voulus m’assurer de mon malheur, afin de pouvoir me venger sous l’aile de la Providence et de la Loi. La duchesse avait deviné mes projets. Nous nous combattions par la pensée avant de nous combattre le poison à la main. Nous voulions nous imposer mutuellement une confiance que nous n’avions pas ; moi pour lui faire prendre un breuvage, elle pour s’emparer de moi. Elle était femme, elle l’emporta ; car les femmes ont un piége de plus que nous autres à tendre, et j’y tombai : je fus heureux ; mais le lendemain matin je me réveillai dans cette cage de fer. Je rugis pendant toute la journée dans l’obscurité</p>
+        </q>
+        <q type="narrative" rendition="olympia">
+          <fw type="header"><title>OU LES VENGEANCES ROMAINES,</title>
+            <num>225</num></fw>
+          <p rend="noindent" rendition="suite">de cette cave, située sous la chambre à coucher de la duchesse. Le soir, enlevé par un contre-poids habilement ménagé, je traversai les planchers et vis dans les bras de son amant la duchesse qui me jeta un morceau de pain, ma pitance de tous les soirs. <pb n="437" xml:id="p437"/> Voilà ma vie depuis trente mois ! Dans cette prison de marbre, mes cris ne peuvent parvenir à aucune oreille. Pas de hasard pour moi. Je n’espérais plus ! En effet, la chambre de la duchesse est au fond du palais, et ma voix, quand j’y monte, ne peut être entendue de personne. Chaque fois que je vois ma femme, elle me montre le poison que j’avais préparé</p>
+        </q>
+        <q type="narrative" rendition="olympia">
+          <fw type="header"><num>226</num>
+            <title>OLYMPIA,</title></fw>
+          <p rend="noindent">pour elle et pour son amant ; je le demande pour moi, mais elle me refuse la mort, elle me donne du pain et je mange ! J’ai bien fait de manger, de vivre, j’avais compté sans les bandits !…</p>
+          <p>– Oui, Excellence, quand ces imbéciles d’honnêtes gens sont endormis, nous veillons, nous…</p>
+          <p>– Ah ! Rinaldo, tous mes trésors sont à toi, nous les partagerons en frères, et je voudrais te donner tout… jusqu’à mon duché…</p>
+          <p>– Excellence, obtenez-moi du pape une absolution <hi rend="i">in articulo mortis</hi>, cela me vaudra mieux pour faire mon état.</p>
+        </q>
+        <q type="narrative" rendition="olympia">
+          <fw type="header"><title>OU LES VENGEANCES ROMAINES.</title>
+            <num>227</num></fw>
+          <p>– Tout ce que tu voudras ; mais lime les barreaux de ma cage et prête-moi ton poignard… Nous n’avons guère de temps, va vite… Ah ! si mes dents étaient des limes… J’ai essayé de mâcher ce fer…</p>
+          <p>– Excellence, dit Rinaldo en écoutant les dernières paroles du duc, j’ai déjà scié un barreau.</p>
           <p>– Tu es un dieu !</p>
-          <p>– Votre femme était à la fête de la</p>
-          <p>princesse Villaviciosa ; elle est revenue</p>
-          <p>avec son petit Français, elle est</p>
-          <p><pb n="438" xml:id="p438"/> ivre d’amour, nous avons donc le temps.</p>
+          <p>– Votre femme était à la fête de la princesse Villaviciosa ; elle est revenue avec son petit Français, elle est <pb n="438" xml:id="p438"/> ivre d’amour, nous avons donc le temps.</p>
           <p>– As-tu fini ?</p>
           <p>– Oui…</p>
-          <p/>
-          <p>228<space rend="tab"> </space>OLYMPIA,</p>
-          <p>– Ton poignard ? demanda vivement</p>
-          <p>le duc au bandit.</p>
+        </q>
+        <q type="narrative" rendition="olympia">
+          <fw type="header"><num>228</num>
+            <title>OLYMPIA,</title></fw>
+          <p>– Ton poignard ? demanda vivement le duc au bandit.</p>
           <p>– Le voici.</p>
           <p>– Bien.</p>
           <p>– J’entends le bruit du ressort.</p>
-          <p>– Ne m’oubliez pas ! dit le bandit</p>
-          <p>qui se connaissait en reconnaissance.</p>
+          <p>– Ne m’oubliez pas ! dit le bandit qui se connaissait en reconnaissance.</p>
           <p>– Pas plus que mon père, dit le duc.</p>
-          <p>– Adieu ! lui dit Rinaldo. Tiens,</p>
-          <p>comme il s’envole ! ajouta le bandit</p>
-          <p>en voyant disparaître le duc. <hi rend="i">Pas plus</hi></p>
-          <p><hi rend="i">que son père</hi>, se dit-il, si c’est ainsi</p>
-          <p>qu’il compte se souvenir de moi…</p>
-          <p>Ah ! j’avais pourtant fait le serment</p>
-          <p>de ne jamais nuire aux femmes…</p>
-          <p>Mais laissons, pour un moment, le</p>
-          <p/>
-          <p>OU LES VENGEANCES ROMAINES. 229</p>
-          <p>bandit livré à ses réflexions, et montons</p>
-          <p>comme le duc dans les appartements</p>
-          <p>du palais.</p>
+          <p rendition="suite">– Adieu ! lui dit Rinaldo. Tiens, comme il s’envole ! ajouta le bandit en voyant disparaître le duc. <hi rend="i">Pas plus</hi>
+            <hi rend="i">que son père</hi>, se dit-il, si c’est ainsi qu’il compte se souvenir de moi… Ah ! j’avais pourtant fait le serment de ne jamais nuire aux femmes… Mais laissons, pour un moment, le</p>
+        </q>
+        <q type="narrative" rendition="olympia">
+          <fw type="header"><title>OU LES VENGEANCES ROMAINES.</title>
+            <num>229</num></fw>
+          <p rend="noindent">bandit livré à ses réflexions, et montons comme le duc dans les appartements du palais.</p>
         </q>
         <p>– Encore une vignette, un Amour sur un colimaçon ! Puis la 230 est une page blanche, dit le journaliste. Voici deux autres pages blanches prises par ce titre, si délicieux à écrire quand on a l’heureux malheur de faire des romans : <hi rend="i">Conclusion</hi> !</p>
-        <q type="narrative">
+        <q type="narrative" rendition="olympia">
           <label>CONCLUSION</label>
-          <p>Jamais la duchesse n’avait été si</p>
-          <p>jolie ; elle sortit de son bain vêtue</p>
-          <p>comme une déesse, et voyant Adolphe</p>
-          <p/>
-          <p>234<space rend="tab"> </space>OLYMPIA,</p>
-          <p>couché voluptueusement sur des piles</p>
-          <p>de coussins : – Tu es bien beau, lui</p>
-          <p>dit-elle.</p>
+          <p rendition="suite">Jamais la duchesse n’avait été si
+          jolie ; elle sortit de son bain vêtue
+          comme une déesse, et voyant Adolphe</p>
+        </q>
+        <q type="narrative" rendition="olympia">
+          <fw type="header"><num>234</num>
+            <title>OLYMPIA,</title></fw>
+          <p rend="noindent">couché voluptueusement sur des piles de coussins : – Tu es bien beau, lui dit-elle.</p>
           <p>– Et toi, Olympia ?…</p>
           <p><pb n="439" xml:id="p439"/> – Tu m’aimes toujours ?</p>
           <p>– Toujours mieux, dit-il…</p>
-          <p>– Ah ! il n’y a que les Français qui</p>
-          <p>sachent aimer ! s’écria la duchesse…</p>
-          <p>M’aimeras-tu bien ce soir ?</p>
+          <p>– Ah ! il n’y a que les Français qui sachent aimer ! s’écria la duchesse… M’aimeras-tu bien ce soir ?</p>
           <p>– Oui…</p>
           <p>– Viens donc ?</p>
-          <p>Et, par un mouvement de haine et</p>
-          <p>d’amour, soit que le cardinal Borborigano</p>
-          <p>lui eût remis plus vivement au</p>
-          <p>cœur son mari, soit qu’elle se sentît</p>
-          <p>plus d’amour à lui montrer, elle fit</p>
-          <p>partir le ressort, et tendit les bras à</p>
+          <p rendition="suite">Et, par un mouvement de haine et d’amour, soit que le cardinal Borborigano lui eût remis plus vivement au cœur son mari, soit qu’elle se sentît plus d’amour à lui montrer, elle fit partir le ressort, et tendit les bras à</p>
         </q>
         <p>– Voilà tout ! s’écria Lousteau, car le prote a déchiré le reste en enveloppant mon épreuve ; mais c’est bien assez pour nous prouver que l’auteur donnait des espérances.</p>
         <p>– Je n’y comprends rien, dit Gatien Boirouge qui rompit le premier le silence que gardaient les Sancerrois.</p>
