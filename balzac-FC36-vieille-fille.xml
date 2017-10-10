@@ -77,12 +77,6 @@
           <titlePart type="main">La Vieille Fille</titlePart>
         </docTitle>
       </titlePage>
-      <castList>
-        <castItem>
-          <role xml:id="valois"/>
-          <role xml:id="troisville"/>
-        </castItem>
-      </castList>
       <div type="dedication">
         <salute><pb n="1" xml:id="p1"/> À MONSIEUR EUGÈNE-AUGUSTE-GEORGES-LOUIS MIDY DE LA GRENERAYE SURVILLE <lb/>Ingénieur au Corps royal des Ponts-et-Chaussées</salute>
         <p rend="noindent">Comme un témoignage de l’affection de son beau-frère,</p>
@@ -417,19 +411,19 @@
         <p>Le chevalier le regarda d’un air qui voulait dire : – Bien joué.</p>
         <p>Mademoiselle Cormon apparut si radieuse, si triomphante, qu’on la trouva belle. Cet éclat extraordinaire n’était pas dû seulement au sentiment ; toute la masse de son sang tempêtait en elle-même depuis le matin, et ses nerfs étaient agités par le pressentiment d’une grande crise : il fallait toutes ces circonstances pour lui avoir permis de se ressembler si peu à elle-même. Avec quel bonheur ne fit-elle pas les solennelles présentations du vicomte au chevalier, du chevalier au vicomte, de tout Alençon à monsieur de Troisville, de monsieur de Troisville à ceux d’Alençon ! Par un hasard assez explicable, le vicomte et le chevalier, ces deux natures aristocratiques, se mirent à l’instant même à l’unisson ; elles se reconnurent ; et tous deux ils se regardèrent comme deux hommes de la même sphère. Ils se mirent à causer, debout devant la cheminée. Un cercle se forma devant eux et leur conversation, quoique faite <hi rend="i">sotto voce</hi>, fut écoutée dans un religieux silence. Pour bien saisir l’effet de cette scène, il faut se figurer mademoiselle Cormon occupée à cuisiner le café de son prétendu prétendu, le dos tourné à la cheminée.</p>
         <q type="drama">
-          <sp who="valois">
+          <sp>
             <speaker>M. de Valois</speaker>
             <p>Monsieur le vicomte vient, dit-on, s’établir ici ?</p>
           </sp>
-          <sp who="troisville">
+          <sp>
             <speaker>M. de Troisville</speaker>
             <p>Oui, monsieur, je viens y chercher une maison… (<stage>mademoiselle Cormon se retourne, la tasse à la main</stage>). Et il me la faut grande, pour loger… (<stage>mademoiselle Cormon tend la tasse</stage>) ma famille. (<stage>Les yeux de la vieille fille se troublent.</stage>)</p>
           </sp>
-          <sp who="valois">
+          <sp>
             <speaker>M. de Valois</speaker>
             <p>Vous êtes marié ?</p>
           </sp>
-          <sp who="troisville">
+          <sp>
             <speaker>M. de Troisville</speaker>
             <p>Depuis seize ans, avec la fille de la princesse Sherbelloff.</p>
           </sp>
