@@ -823,7 +823,7 @@
         <p>– Peut-être, monsieur, dit Dutocq. Si j’avais eu l’honneur de vous voir ce matin, vous n’auriez sans doute pas fait l’éloge du sieur Rabourdin après avoir lu le vôtre tracé par lui.</p>
         <p>Dutocq ouvrit sa redingote, prit un cahier de papier moulé sur ses côtes gauches, et le posa sur le bureau de des Lupeaulx, à un endroit marqué. Puis il alla pousser le verrou, craignant une explosion. Voici ce que lut le Secrétaire-général à son article pendant que Dutocq fermait la porte.</p>
         <q type="press">
-          <p rend="i"><hi rend="sc">Monsieur des Lupeaulx</hi> . Un gouvernement se déconsidère en employant ostensiblement un tel homme qui a sa spécialité dans la police diplomatique. On peut opposer ce personnage avec succès aux flibustiers politiques des autres cabinets, ce serait dommage de l’employer à la police intérieure : il est au-dessus de l’espion vulgaire, il comprend un plan, il saurait mener à bien une infamie nécessaire et savamment couvrir sa retraite. </p>
+          <p rend="i"><hi rend="sc">Monsieur des Lupeaulx.</hi> Un gouvernement se déconsidère en employant ostensiblement un tel homme qui a sa spécialité dans la police diplomatique. On peut opposer ce personnage avec succès aux flibustiers politiques des autres cabinets, ce serait dommage de l’employer à la police intérieure : il est au-dessus de l’espion vulgaire, il comprend un plan, il saurait mener à bien une infamie nécessaire et savamment couvrir sa retraite. </p>
         </q>
         <p>Des Lupeaulx était succinctement analysé en cinq ou six phrases, la quintessence du portrait biographique placé au commencement de cette histoire. Aux premiers mots, le Secrétaire-général se sentit jugé par un homme plus fort que lui ; mais il voulut se réserver d’examiner ce travail, qui allait loin et haut, sans livrer ses secrets à un homme comme Dutocq. Des Lupeaulx montra donc à l’espion un visage calme et grave. Le Secrétaire-général, comme les avoués et les magistrats, comme les diplomates et tous ceux qui sont obligés de fouiller le cœur humain, ne s’étonnait plus de rien. Rompu aux trahisons, aux ruses de la haine, aux piéges, il pouvait recevoir dans le dos une blessure, sans que son visage en parlât.</p>
         <p>– Comment vous êtes-vous procuré cette pièce ?</p>
@@ -838,7 +838,9 @@
         <p>– Je croyais Rabourdin un homme au-dessus des employés ordinaires, et le voilà qui, dix minutes après la mort de La Billardière, invente de me faire parvenir par La Brière un vrai billet de théâtre. Tenez, dit le ministre à des Lupeaulx en lui donnant un papier qu’il roulait entre ses doigts.</p>
         <p>Trop noble pour songer au sens honteux que la mort de monsieur La Billardière prêtait à sa lettre, Rabourdin ne l’avait pas retirée des mains de La Brière en apprenant par lui la nouvelle. Des Lupeaulx lut ce qui suit :</p>
         <q type="letter">
-          <salute><pb n="241" xml:id="p241" facs="https://www.ebalzac.com/romans/50-employes/furne-corrige/scans/p241.jpg"/> Monseigneur,</salute>
+          <opener>
+            <salute><pb n="241" xml:id="p241" facs="https://www.ebalzac.com/romans/50-employes/furne-corrige/scans/p241.jpg"/> Monseigneur,</salute>
+          </opener>
           <p>Si vingt-trois ans de services irréprochables peuvent mériter une faveur, je supplie Votre Excellence de m’accorder une audience aujourd’hui même, il s’agit d’une affaire où mon honneur se trouve engagé.</p>
         </q>
         <p>Suivaient les formules de respect.</p>
@@ -1592,11 +1594,12 @@
             <pb n="287" xml:id="p287" facs="https://www.ebalzac.com/romans/50-employes/furne-corrige/scans/p287.jpg"/>
             <hi rend="i">Contre mon habitude, j’attends dans une antichambre, et il n’y a pas un instant à perdre pour vous arranger avec</hi>
           </p>
-          <salute><hi rend="i">Votre serviteur</hi>, </salute>
-          <signed>
-            <figure>
-              <graphic url="50/balzac_50FC_287.jpg"/> <!-- [$ill dans le texte : signature Gobesck] -->
-            </figure></signed>
+          <closer>
+            <salute><hi rend="i">Votre serviteur</hi>, </salute>
+          </closer>
+          <figure xml:id="gobseck">
+            <graphic url="50/balzac_50FC_287.jpg"/>
+          </figure>
         </q>
         <p>Le Secrétaire-général frémit en reconnaissant cette signature qu’il eût été dommage de ne pas donner en autographe, elle est rare sur la place, et doit être précieuse pour ceux qui cherchent à deviner le caractère des gens d’après la physionomie de leur signature. Si jamais image hiéroglyphique exprima quelque animal, assurément c’est ce nom où l’initiale et la finale figurent une vorace gueule de requin, insatiable, toujours ouverte, accrochant et dévorant tout, le fort et le faible. Il a été impossible de typographier l’écriture, elle est trop fine, trop menue et trop serrée, quoique nette ; mais on peut l’imaginer, la phrase n’occupait qu’une ligne. L’esprit de l’Escompte, seul, pouvait inspirer une phrase si insolemment impérative et si cruellement irréprochable, claire et muette, qui disait tout et ne trahissait rien. Gobseck vous serait inconnu, qu’à l’aspect de cette ligne qui vous faisait venir sans être un ordre, vous eussiez deviné l’implacable argentier de la rue des Grès. Aussi, comme un chien que le chasseur a rappelé, des Lupeaulx quitta-t-il aussitôt la piste, et s’en alla-t-il chez lui, songeant à toute sa position compromise. Figurez-vous un général en chef à qui son aide-de-camp vient dire : « Il arrive à l’ennemi trente mille hommes de troupes fraîches qui nous prennent en flanc. » Un seul mot expliquera l’arrivée des sieurs Gigonnet et Gobseck sur le champ de bataille, car ils étaient tous deux chez des Lupeaulx. À huit heures du soir, Martin Falleix, venu sur l’aile des vents en vertu de trois francs de guides et d’un postillon en avant, avait apporté les actes d’acquisition à la date de la veille. Aussitôt portés au café Thémis par Mitral, les contrats avaient passé dans les mains des deux usuriers qui s’étaient empressés de se rendre au Ministère, mais à pied. Onze heures sonnaient. Des Lupeaulx tressaillit en voyant les deux sinistres figures émerillonnées<note place="bottom">Erreur du Furne : « émérillonnées » au lieu de « émerillonnées ».</note> par un <pb n="288" xml:id="p288" facs="https://www.ebalzac.com/romans/50-employes/furne-corrige/scans/p288.jpg"/> regard aussi direct que la balle d’un pistolet, et brillant comme la flamme du coup.</p>
         <p>– Hé ! bien, qu’y a-t-il, mes maîtres ?</p>
@@ -2359,7 +2362,9 @@
         <p>– Puisque je dois aller une dernière fois au Ministère pour retirer mes papiers et mettre Baudoyer au fait des affaires, tentons-y l’effet de ma démission, se dit-il.</p>
         <p>Il rédigea sa démission, médita les expressions de la lettre dans laquelle il la mit et que voici :</p>
         <q type="letter">
-          <salute>Monseigneur,</salute>
+          <opener>
+            <salute>Monseigneur,</salute>
+          </opener>
           <p>J’ai l’honneur d’adresser à Votre Excellence ma démission sous ce pli ; mais j’ose croire qu’elle se souviendra de m’avoir entendu lui dire que j’avais remis mon honneur entre ses mains, et qu’il dépendait d’une explication immédiate. Cette explication, je l’ai vainement implorée, et aujourd’hui peut-être serait-elle inutile, alors qu’un fragment de mes travaux sur l’Administration, surpris et défiguré, court dans les Bureaux, est mal interprété par la haine, et me force à me retirer devant la tacite réprobation du pouvoir. Votre Excellence, le matin où je voulais lui parler, a pu penser qu’il s’agissait d’avancement, quand je ne songeais qu’à la gloire de son ministère et au bien public ; il m’importait de rectifier ses idées à cet égard.</p>
         </q>
         <p>Suivaient les formules de respect.</p>
@@ -2377,9 +2382,9 @@
         <p>Quand à huit heures Rabourdin sortit, la portière lui remit les cartes railleuses de Baudoyer, de Bixiou, de Godard et autres. Néanmoins, il se rendit au Ministère, et y trouva Sébastien à la porte, qui le supplia de ne point venir dans les Bureaux, où il courait une infâme caricature sur lui.</p>
         <p><pb n="320" xml:id="p320" facs="https://www.ebalzac.com/romans/50-employes/furne-corrige/scans/p320.jpg"/> – Si vous voulez m’adoucir l’amertume de la chute, apportez-moi ce dessin, dit-il, car je vais porter ma démission moi-même à Ernest de La Brière afin qu’elle ne soit pas dénaturée en suivant la voie administrative. J’ai mes raisons en vous demandant la caricature.</p>
         <p>Quand après s’être assuré que sa lettre était entre les mains du ministre, Rabourdin revint dans la cour, il trouva Sébastien en larmes, qui lui présenta la lithographie, dont voici le principal trait rendu par ce léger croquis.</p>
-<figure>
-  <graphic url="50/balzac_50FC_320.jpg"/><!-- 50/balzac_50FC_287.jpg -->
-</figure>
+        <figure>
+          <graphic url="50/balzac_50FC_320.jpg"/>
+        </figure>
         <p>– Il y a là beaucoup d’esprit, dit Rabourdin en montrant au <pb n="321" xml:id="p321" facs="https://www.ebalzac.com/romans/50-employes/furne-corrige/scans/p321.jpg"/> surnuméraire un front serein comme le fut celui du Sauveur quand on lui mit sa couronne d’épines.</p>
         <p>Il entra dans les bureaux d’un air calme, et alla d’abord chez Baudoyer pour le prier de venir dans le cabinet de la Division recevoir de lui les instructions relatives aux affaires que ce routinier devait désormais diriger.</p>
         <p>– Dites à monsieur Baudoyer que ceci ne souffre pas de retard, ajouta-t-il devant Godard et les employés, ma démission est entre les mains du ministre, et je ne veux pas rester cinq minutes de plus qu’il ne le faut dans les Bureaux !</p>
