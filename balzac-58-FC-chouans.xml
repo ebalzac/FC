@@ -364,7 +364,9 @@
         <p>– En serait-il maintenant, disait le vieux chef à ses amis, en fait de gouvernement comme en fait d’argent, met-on néant à toutes les pétitions ?</p>
         <p>Mais le bruit du magique retour du général Bonaparte et des événements du Dix-huit Brumaire ne tarda pas à se répandre. Les commandants militaires de l’Ouest comprirent alors le silence des ministres. Néanmoins ces chefs n’en furent que plus impatients d’être délivrés de la responsabilité qui pesait sur eux, et devinrent assez curieux de connaître les mesures qu’allait prendre le nouveau gouvernement. En apprenant que le général Bonaparte avait été nommé premier consul de la République, les militaires éprouvèrent une joie très-vive : ils voyaient, pour la première fois, un des leurs arrivant au maniement des affaires. La France, qui avait fait une idole de ce jeune général, tressaillit d’espérance. L’énergie de la nation se renouvela. La capitale, fatiguée de sa sombre attitude, se livra aux fêtes et aux plaisirs desquels elle était depuis si longtemps sevrée. Les premiers actes du Consulat ne diminuèrent aucun espoir, et la Liberté ne s’en effaroucha pas. Le premier consul fit une proclamation aux habitants de l’Ouest. Ces éloquentes allocutions adressées aux masses et que Bonaparte avait, pour ainsi dire, inventées, produisaient, dans ces temps de patriotisme et de miracles, des effets prodigieux. Sa voix retentissait dans le monde comme la voix d’un prophète, car aucune de ses proclamations n’avait encore été démentie par la victoire.</p>
         <q type="legal">
-          <salute><hi rend="sc">Habitants</hi>, </salute>
+          <opener>
+            <salute><hi rend="sc">Habitants</hi>, </salute>
+          </opener>
           <p>Une guerre impie embrase une seconde fois les départements de l’Ouest.</p>
           <p>Les artisans de ces troubles sont des traîtres vendus à l’Anglais ou des brigands qui ne cherchent dans les discordes civiles que l’aliment et l’impunité de leurs forfaits.</p>
           <p>À de tels hommes le gouvernement ne doit ni ménagements, ni déclaration de ses principes.</p>
@@ -376,7 +378,9 @@
         <p>– Eh ! bien, disait Hulot après la lecture publique de ce discours consulaire, est-ce assez paternel ? Vous verrez cependant que pas un brigand royaliste ne changera d’opinion.</p>
         <p>Le commandant avait raison. Cette proclamation ne servit qu’à raffermir chacun dans son parti. Quelques jours après, Hulot et ses collègues reçurent des renforts. Le nouveau ministre de la guerre leur manda que le général Brune était désigné pour aller prendre le commandement des troupes dans l’ouest de la France. Hulot, dont l’expérience était connue, eut provisoirement l’autorité dans les départements de l’Orne et de la Mayenne. Une activité inconnue anima bientôt tous les ressorts du gouvernement. Une circulaire du ministre de la Guerre et du ministre de la Police Générale annonça que des mesures vigoureuses confiées aux chefs des commandements militaires avaient été prises pour étouffer l’insurrection <hi rend="i">dans son principe</hi>. Mais les Chouans et les Vendéens avaient déjà profité de l’inaction de la République pour soulever les campagnes et s’en emparer entièrement. Aussi, une nouvelle proclamation consulaire fut-elle adressée. Cette fois le général parlait aux troupes.</p>
         <q type="legal">
-          <salute><hi rend="sc">Soldats</hi>, </salute>
+          <opener>
+            <salute><hi rend="sc">Soldats</hi>, </salute>
+          </opener>
           <p>Il ne reste plus dans l’Ouest que des brigands, des émigrés, des stipendiés de l’Angleterre.</p>
           <p>L’armée est composée de plus de soixante mille braves ; que <pb n="53" xml:id="p53" facs="https://www.ebalzac.com/romans/58-chouans/furne-corrige/scans/p53.jpg"/> j’apprenne bientôt que les chefs des rebelles ont vécu. La gloire ne s’acquiert que par les fatigues ; si on pouvait l’acquérir en tenant son quartier général dans les grandes villes, qui n’en aurait pas ?…</p>
           <p>Soldats, quel que soit le rang que vous occupiez dans l’armée, la reconnaissance de la nation vous attend. Pour en être dignes, il faut braver l’intempérie des saisons, les glaces, les neiges, le froid excessif des nuits ; surprendre vos ennemis à la pointe du jour et exterminer ces misérables, le déshonneur du nom français.</p>
