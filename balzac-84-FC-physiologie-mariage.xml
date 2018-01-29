@@ -77,7 +77,7 @@
       </titlePage>
       <div type="dedication">
         <pb n="337" xml:id="p337"/>
-        <head>DÉDICACE</head>
+        <label>DÉDICACE</label>
         <p rend="noindent">Faites attention à ces mots (page 367) : « <hi rend="i">L’homme supérieur à qui ce livre est dédié</hi> » n’est-ce pas vous dire : – « C’est à vous ? »</p>
         <signed>
           <hi rend="sc">l’auteur.</hi>
@@ -123,8 +123,8 @@
         <head>Première partie <lb/>Considérations générales</head>
         <epigraph>
           <p><pb n="346" xml:id="p346"/> Nous parlerons contre les lois insensées jusqu’à ce qu’on les réforme, et en attendant nous nous y soumettrons aveuglément.</p>
+          <bibl>(<hi rend="sc">Diderot</hi>, <title>Supplément au Voyage de Bougainville</title>.)</bibl>
         </epigraph>
-        <bibl>(<hi rend="sc">Diderot</hi>, <title>Supplément au Voyage de Bougainville</title>.)</bibl>
         <div>
           <head>Méditation I <lb/>Le sujet</head>
           <p rend="noindent">Physiologie, que me veux-tu ?</p>
@@ -849,8 +849,8 @@
         <head>Deuxième partie <lb/>Des moyens de défense à l’intérieur et à l’extérieur</head>
         <epigraph>
           <p><hi rend="i">To be or not be… </hi><lb/>L’être ou ne pas l’être, voilà toute la question.</p>
+          <bibl><title>Shakespeare</title>, <hi rend="sc">Hamlet</hi>.</bibl>
         </epigraph>
-        <bibl><title>Shakespeare</title>, <hi rend="sc">Hamlet</hi>.</bibl>
         <div>
           <head>Méditation X <lb/>Traité de politique maritale</head>
           <p rend="noindent">Quand un homme arrive à la situation où le place la Première Partie de ce livre, nous supposons que l’idée de savoir sa femme possédée par un autre peut encore faire palpiter son cœur, et que sa passion se rallumera, soit par amour-propre ou par égoïsme, soit par intérêt, car s’il ne tenait plus à sa femme, ce serait l’avant-dernier des hommes, et il mériterait son sort.</p>
@@ -1572,10 +1572,9 @@
         <head>Troisième partie <lb/>De la guerre civile</head>
         <epigraph>
           <p>Belles comme les Séraphins de Klopstock, terribles comme les diables de Milton.</p>
+          <bibl><hi rend="sc">Diderot.</hi>
+          </bibl>
         </epigraph>
-        <bibl>
-          <hi rend="sc">Diderot.</hi>
-        </bibl>
         <div>
           <head>Méditation XXIII <lb/>Des manifestes</head>
           <p rend="noindent">Les préceptes préliminaires par lesquels la science peut armer ici un mari sont en petit nombre, il s’agit bien moins en effet de savoir s’il ne succombera pas, que d’examiner s’il peut résister.</p>
