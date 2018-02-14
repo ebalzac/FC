@@ -47,7 +47,7 @@
             <p> Pas de Modification : l’ANR Phœbus s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable. </p>
           </licence>
         </availability>
-        <idno>http://www.ebalzac.com/edition/60-paysans/eBalzac</idno>
+        <idno>http://www.ebalzac.com/edition/60-paysans/furne-corrige</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl><author key="Balzac, Honoré de (1799-1850)">Honoré de Balzac</author>, <title>Les Petits Bourgeois</title>, manuscrit et épreuves corrigées. Collection Lovenjoul, Lov A. 175 et Lov. A 176. Bibliothèque de l'Institut, 23, quai de Conti, 75006 Paris.</bibl>
@@ -60,7 +60,7 @@
     </encodingDesc>
     <profileDesc>
       <creation>
-        <date when="1846">1855</date>
+        <date when="1855">1855</date>
       </creation>
       <langUsage>
         <language ident="fre"/>
