@@ -77,13 +77,13 @@
           <titlePart type="main">La Comédie humaine</titlePart>
           <titlePart type="sub">Études de mœurs</titlePart>
           <titlePart type="sub">Scènes de la vie parisienne</titlePart>
-          <titlePart type="main">Un prince de la Bohème</titlePart>
+          <titlePart type="main">Un prince de la Bohême</titlePart>
         </docTitle>
       </titlePage>
       <div type="dedication">
         <salute><pb n="97" xml:id="p97" facs="https://www.ebalzac.com/romans/48-prince-boheme/furne-corrige/scans/p97.jpg"/> À HEINE</salute>
         <p rend="noindent">Mon cher Heine, à vous cette Étude, à vous qui représentez à Paris l’esprit et la poésie de l’Allemagne comme en Allemagne vous représentez la vive et spirituelle critique française, à vous qui savez mieux que personne ce qu’il peut y avoir ici de critique, de plaisanterie, d’amour et de vérité.</p>
-        <signed>de Balzac.</signed>
+        <signed rend="sc">de Balzac.</signed>
       </div>
     </front>
     <body>
