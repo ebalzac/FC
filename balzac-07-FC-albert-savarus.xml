@@ -6,6 +6,16 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
+        <title type="main">Albert Savarus</title>
+        <title ref="etudes">Études de mœurs</title>
+        <title ref="scenes">Scènes de la vie privée</title>
+        <author key="Balzac, Honoré de (1799-1850)">Honoré de Balzac</author>
+        <principal>Andrea Del Lungo</principal>
+        <principal>Pierre Glaudes</principal>
+        <principal>Jean-Gabriel Ganascia</principal>
+        <editor>Maxime Perret</editor>
+      </titleStmt>
+      <titleStmt>
         <title>Albert Savarus</title>
         <author key="Balzac, Honoré de (1799-1850)">Honoré de Balzac</author>
         <principal>Andrea Del Lungo</principal>

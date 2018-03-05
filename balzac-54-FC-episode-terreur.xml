@@ -5,7 +5,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Un épisode sous la Terreur</title>
+        <title type="main">Un épisode sous la Terreur</title>
+        <title ref="etudes">Études de mœurs</title>
+        <title ref="scenes">Scènes de la vie politique</title>
         <author key="Balzac, Honoré de (1799-1850)">Honoré de Balzac</author>
         <principal>Andrea Del Lungo</principal>
         <principal>Pierre Glaudes</principal>

@@ -6,7 +6,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Une double famille</title>
+        <title type="main">Une double famille</title>
+        <title ref="etudes">Études de mœurs</title>
+        <title ref="scenes">Scènes de la vie privée</title>
         <author key="Balzac, Honoré de (1799-1850)">Honoré de Balzac</author>
         <principal>Andrea Del Lungo</principal>
         <principal>Pierre Glaudes</principal>
@@ -47,7 +49,7 @@
             <p> Pas de Modification : l’ANR Phœbus s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable. </p>
           </licence>
         </availability>
-        <idno>URL (à définir)</idno>
+        <idno>https://www.ebalzac.com/edition/09-double-famille/furne-corrige</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl><title>SCÈNES / DE LA / VIE PRIVÉE,</title> / Tome I. / <title>La Maison du Chat-qui-pelote. — Le Bal de Sceaux. — / La Bourse. — La Vendetta. — Madame Firmiani. — Une double Famille. — / La Paix du Ménage. — La Fausse Maîtresse. — / Étude de Femme. — Albert Savarus.</title> / Paris, / Furne, / rue Saint-André-des-Arts, 55 ; / J.-J. Dubochet et cie, / rue de Seine, 33 ; / J. Hetzel et Paulin, / rue de Seine, 33. / <date>1842</date>, p. 251-315.</bibl>

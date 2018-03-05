@@ -6,7 +6,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Les Parents pauvres : La Cousine Bette</title>
+        <title type="main">Les Parents pauvres : La Cousine Bette</title>
+        <title ref="etudes">Études de mœurs</title>
+        <title ref="scenes">Scènes de la vie parisienne</title>
         <author key="Balzac, Honoré de (1799-1850)">Honoré de Balzac</author>
         <principal>Andrea Del Lungo</principal>
         <principal>Pierre Glaudes</principal>
