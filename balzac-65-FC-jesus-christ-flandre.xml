@@ -6,13 +6,14 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Jésus-Christ en Flandre</title>
+        <title type="main">Jésus-Christ en Flandre</title>
+        <title ref="etudes">Études philosophiques</title>
         <author key="Balzac, Honoré de (1799-1850)">Honoré de Balzac</author>
         <principal>Andrea Del Lungo</principal>
         <principal>Pierre Glaudes</principal>
         <principal>Jean-Gabriel Ganascia</principal>
-        <editor>Tania Duclos</editor>
         <editor>Maxime Perret</editor>
+        <editor>Tania Duclos</editor>
       </titleStmt>
       <editionStmt>
         <edition>Cette édition électronique de <hi rend="i">La Comédie humaine</hi> constitue la première édition en ligne de l’œuvre de Balzac dans la version dite du « Furne corrigé », qui intègre les corrections manuscrites apportées par l’auteur sur son exemplaire personnel de la première édition de <hi rend="i">La Comédie humaine</hi> parue chez Furne de 1842 à 1847. Cette édition a été établie dans le cadre du projet PHŒBUS, financé par l’Agence nationale de la recherche (2015-2019).</edition>

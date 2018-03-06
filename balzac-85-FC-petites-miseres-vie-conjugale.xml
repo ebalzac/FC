@@ -6,7 +6,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Petites misères de la vie conjugale</title>
+        <title type="main">Petites misères de la vie conjugale</title>
+        <title ref="etudes">Études analytiques</title>
         <author key="Balzac, Honoré de (1799-1850)">Honoré de Balzac</author>
         <principal>Andrea Del Lungo</principal>
         <principal>Pierre Glaudes</principal>
@@ -72,7 +73,7 @@
         <docTitle>
           <titlePart type="main">La Comédie humaine</titlePart>
           <titlePart type="sub">Études analytiques</titlePart>
-          <titlePart type="main">Petites Misères de la vie conjugale</titlePart>
+          <titlePart type="main">Petites misères de la vie conjugale</titlePart>
         </docTitle>
       </titlePage>
       <div type="preface">

@@ -6,7 +6,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Physiologie du mariage, ou Méditations de philosophie éclectique sur le bonheur et le malheur conjugal.</title>
+        <title type="main">Physiologie du mariage, ou Méditations de philosophie éclectique sur le bonheur et le malheur conjugal</title>
+        <title ref="etudes">Études analytiques</title>
         <author key="Balzac, Honoré de (1799-1850)">Honoré de Balzac</author>
         <principal>Andrea Del Lungo</principal>
         <principal>Pierre Glaudes</principal>

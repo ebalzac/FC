@@ -6,7 +6,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Pathologie de la vie sociale : Théorie de la démarche</title>
+        <title type="main">Pathologie de la vie sociale : Théorie de la démarche</title>
+        <title ref="etudes">Études analytiques</title>
         <author key="Balzac, Honoré de (1799-1850)">Honoré de Balzac</author>
         <principal>Andrea Del Lungo</principal>
         <principal>Pierre Glaudes</principal>
