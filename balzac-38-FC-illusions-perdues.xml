@@ -72,7 +72,7 @@
       <titlePage>
         <docAuthor>Honoré de Balzac</docAuthor>
         <docTitle>
-          <titlePart type="main">La Comédie humaine</titlePart>
+          <titlePart type="group">La Comédie humaine</titlePart>
           <titlePart type="sub">Études de mœurs</titlePart>
           <titlePart type="sub">Scènes de la vie de province</titlePart>
           <titlePart type="main">Illusions perdues</titlePart>
@@ -2783,7 +2783,7 @@
         <q type="legal">
           <pb n="436" xml:id="p436" facs="https://www.ebalzac.com/romans/38-illusions-perdues/furne-corrige/scans/p436.jpg"/>
           <label>Compte de retour et frais</label>
-          <p rend="i">À un effet de <hi rend="sc">mille francs</hi> , daté d’Angoulême le dix février mil huit cent vingt-deux, souscrit par <hi rend="sc">séchard fils</hi> , à l’ordre de <hi rend="sc">lucien chardon</hi> dit <hi rend="sc">de rubempré</hi>, passé à l’ordre de <hi rend="sc">métivier</hi> , et à notre ordre, échu le trente avril dernier, protesté par <hi rend="sc">doublon</hi> , huissier, le premier mai mil huit cent vingt-deux. </p>
+          <p rend="i">À un effet de <hi rend="sc">mille francs</hi> , daté d’Angoulême le dix février mil huit cent vingt-deux, souscrit par <hi rend="sc">séchard fils</hi> , à l’ordre de <hi rend="sc">lucien chardon</hi> dit <hi rend="sc">de rubempré</hi>, passé à l’ordre de <hi rend="sc">métivier</hi> , et à notre ordre, échu le trente avril dernier, protesté par <hi rend="sc">doublon</hi> , huissier, le premier mai mil huit cent vingt-deux.</p>
           <table rend="noborder">
             <row>
               <cell rend="i">Principal</cell>
