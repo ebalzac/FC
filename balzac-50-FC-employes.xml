@@ -422,7 +422,7 @@
             <p>Avez-vous fait celui de : <hi rend="i">Xavier Rabourdin, chef de bureau</hi> ?</p>
           </sp>
           <sp>
-            <speaker><pb n="227" xml:id="p227" facs="https://www.ebalzac.com/romans/50-employes/furne-corrige/scans/p227.jpg"/> Colleville.</speaker>
+            <speaker><pb n="226" xml:id="p226" facs="https://www.ebalzac.com/romans/50-employes/furne-corrige/scans/p226.jpg"/> Colleville.</speaker>
             <p>Parbleu !</p>
           </sp>
           <sp>
@@ -478,6 +478,7 @@
             <speaker>Dutocq (<stage>bas à Bixiou</stage>).</speaker>
             <p>J’ai quelque chose à vous dire.</p>
           </sp>
+          <pb n="227" xml:id="p227" facs="https://www.ebalzac.com/romans/50-employes/furne-corrige/scans/p227.jpg"/>
           <sp>
             <speaker>Bixiou (<stage>tâtant le gilet de Dutocq</stage>).</speaker>
             <p>Vous avez un joli gilet qui sans doute ne vous coûte presque rien. Est-ce là le secret ?</p>
@@ -888,11 +889,11 @@
             <p>À qui cela peut-il faire de la peine ? ce n’est pas à vous, vous deviendrez Sous-chef et du Bruel Chef. Monsieur Baudoyer passe à la Division.</p>
           </sp>
           <sp>
-            <speaker><pb n="247" xml:id="p247" facs="https://www.ebalzac.com/romans/50-employes/furne-corrige/scans/p247.jpg"/> Fleury.</speaker>
+            <speaker>Fleury.</speaker>
             <p>Je gage cent francs que Baudoyer ne sera jamais Chef de Division.</p>
           </sp>
           <sp>
-            <speaker>Vimeux.</speaker>
+            <speaker><pb n="247" xml:id="p247" facs="https://www.ebalzac.com/romans/50-employes/furne-corrige/scans/p247.jpg"/>Vimeux.</speaker>
             <p>Je me mets dans le pari. Vous y mettez-vous, monsieur Poiret ?</p>
           </sp>
           <sp>
@@ -2009,15 +2010,15 @@
             <speaker>Bixiou (<stage>en montrant du doigt un passage</stage>).</speaker>
             <p>Vous voilà, père Saillard.</p>
             <q type="press">
-              <p rend="i"><hi rend="sc">Saillard</hi> . La caisse est à supprimer dans tous les ministères qui doivent avoir leurs comptes courants au Trésor. Saillard est riche et n’a nul besoin de pension. </p>
+              <p rend="i"><hi rend="sc">Saillard</hi>. La caisse est à supprimer dans tous les ministères qui doivent avoir leurs comptes courants au Trésor. Saillard est riche et n’a nul besoin de pension. </p>
             </q>
             <p>Voulez-vous voir votre gendre ? (<stage>Il feuillette.</stage>) Voilà.</p>
             <q type="press">
-              <p rend="i"><hi rend="sc">Baudoyer</hi> . Complétement incapable. Remercié sans pension, il est riche. </p>
+              <p rend="i"><hi rend="sc">Baudoyer</hi>. Complétement incapable. Remercié sans pension, il est riche. </p>
             </q>
             <p>Et l’ami Godard ? (<stage>Il feuillette.</stage>)</p>
             <q type="press">
-              <p rend="i"><hi rend="sc">Godard</hi> . À renvoyer ! une pension du tiers de son traitement. </p>
+              <p rend="i"><hi rend="sc">Godard</hi>. À renvoyer ! une pension du tiers de son traitement. </p>
             </q>
             <p>Enfin nous y sommes tous. Moi je suis <hi rend="i">un artiste à faire employer par la Liste Civile, à l’Opéra, aux Menus-Plaisirs, au Muséum. Beaucoup de capacité, peu de tenue, incapable d’application, esprit remuant</hi>. Ah ! je t’en donnerai de l’artiste !</p>
           </sp>
@@ -2029,7 +2030,7 @@
             <speaker>Bixiou.</speaker>
             <p>Que dit-il de notre mystérieux Desroys ? (<stage>Il feuillette et lit.</stage>)</p>
             <q type="press">
-              <p rend="i"><hi rend="sc">Desroys</hi> . Homme dangereux en ce qu’il est inébranlable en des principes contraires à tout pouvoir monarchique. Fils de conventionnel, il admire la Convention, il peut devenir un pernicieux publiciste. </p>
+              <p rend="i"><hi rend="sc">Desroys</hi>. Homme dangereux en ce qu’il est inébranlable en des principes contraires à tout pouvoir monarchique. Fils de conventionnel, il admire la Convention, il peut devenir un pernicieux publiciste. </p>
             </q>
           </sp>
           <sp>
