@@ -1,2 +1,9 @@
 # FC
-Furne corrigé
+<p>Cette édition électronique de <i>La Comédie humaine</i> constitue la première édition en ligne de l’œuvre de Balzac dans la version dite du « Furne corrigé », qui intègre les corrections manuscrites apportées par l’auteur sur son exemplaire personnel de la première édition de <i>La Comédie humaine</i> parue chez Furne de 1842 à 1847. Cette édition a été établie dans le cadre du projet PHŒBUS, financé par l’Agence nationale de la recherche (2015-2019).</p>
+<p>Le texte que nous donnons à lire a pour ambition d’être le plus proche de l’édition du Furne : la ponctuation et l’orthographe ont été scrupuleusement respectées et sont conformes aux habitudes de l’édition du XIXe siècle. Nous avons dès lors conservé la diversité des formes ortho-typographiques de l’édition d’origine. Seules les coquilles manifestes ont été corrigées et sont signalées en note. Il s’agissait de rendre accessible le texte de <i>La Comédie humaine</i> dans son état du XIXe siècle, en tenant compte des corrections et modifications apportées par l’auteur sur son exemplaire personnel.</p>
+<p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’ANR Phœbus, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+<ul>
+<li>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’ANR Phœbus et surtout l’adresse Internet de la ressource.</li>
+<li>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</li>
+<li>Pas de Modification : l’ANR Phœbus s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures ; la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</li>
+</ul>
