@@ -709,6 +709,7 @@
         <q type="press">
           <pb n="303" xml:id="p303" facs="https://www.ebalzac.com/romans/40-cesar-birotteau/furne-corrige/scans/p303.jpg"/>
           <label>MÉDAILLE D’OR À L’EXPOSITION DE 1824</label>
+          <label rendition="nodisplay">Huile céphalique</label>
           <figure xml:id="balzac-40-FC-303">
             <graphic url="40/balzac_40FC_303.jpg"/>
           </figure>
