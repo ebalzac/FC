@@ -408,23 +408,23 @@
         </q>
         <p>Et voici, puisque les progrès de la Typographie le permettent, la musique de Modeste, à laquelle une expression délicieuse communiquait ce charme admiré dans les grands chanteurs, et qu’aucune typographie, fût-elle hiéroglyphique ou phonétique, ne pourra jamais rendre.</p>
         <pb n="203" xml:id="p203" facs="https://www.ebalzac.com/romans/05-modeste-mignon/furne-corrige/scans/p203.jpg"/>
-        <figure>
+        <figure xml:id="balzac-05-FC-203">
           <graphic url="05/balzac_05FC_203.jpg"/>
         </figure>
         <pb n="204" xml:id="p204" facs="https://www.ebalzac.com/romans/05-modeste-mignon/furne-corrige/scans/p204.jpg"/>
-        <figure>
+        <figure xml:id="balzac-05-FC-204">
           <graphic url="05/balzac_05FC_204.jpg"/>
         </figure>
         <pb n="205" xml:id="p205" facs="https://www.ebalzac.com/romans/05-modeste-mignon/furne-corrige/scans/p205.jpg"/>
-        <figure>
+        <figure xml:id="balzac-05-FC-205">
           <graphic url="05/balzac_05FC_205.jpg"/>
         </figure>
         <pb n="206" xml:id="p206" facs="https://www.ebalzac.com/romans/05-modeste-mignon/furne-corrige/scans/p206.jpg"/>
-        <figure>
+        <figure xml:id="balzac-05-FC-206">
           <graphic url="05/balzac_05FC_206.jpg"/>
         </figure>
         <pb n="207" xml:id="p207" facs="https://www.ebalzac.com/romans/05-modeste-mignon/furne-corrige/scans/p207.jpg"/>
-        <figure>
+        <figure xml:id="balzac-05-FC-207">
           <graphic url="05/balzac_05FC_207.jpg"/>
         </figure>
         <p> – C’est joli, dit madame Dumay, Modeste est musicienne, voilà tout…</p>

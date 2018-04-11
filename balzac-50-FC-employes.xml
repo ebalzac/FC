@@ -1600,7 +1600,7 @@
           <closer>
             <salute><hi rend="i">Votre serviteur</hi>, </salute>
           </closer>
-          <figure xml:id="gobseck">
+          <figure xml:id="balzac-50-FC-287">
             <graphic url="50/balzac_50FC_287.jpg"/>
           </figure>
         </q>
@@ -2385,7 +2385,7 @@
         <p>Quand à huit heures Rabourdin sortit, la portière lui remit les cartes railleuses de Baudoyer, de Bixiou, de Godard et autres. Néanmoins, il se rendit au Ministère, et y trouva Sébastien à la porte, qui le supplia de ne point venir dans les Bureaux, où il courait une infâme caricature sur lui.</p>
         <p><pb n="320" xml:id="p320" facs="https://www.ebalzac.com/romans/50-employes/furne-corrige/scans/p320.jpg"/> – Si vous voulez m’adoucir l’amertume de la chute, apportez-moi ce dessin, dit-il, car je vais porter ma démission moi-même à Ernest de La Brière afin qu’elle ne soit pas dénaturée en suivant la voie administrative. J’ai mes raisons en vous demandant la caricature.</p>
         <p>Quand après s’être assuré que sa lettre était entre les mains du ministre, Rabourdin revint dans la cour, il trouva Sébastien en larmes, qui lui présenta la lithographie, dont voici le principal trait rendu par ce léger croquis.</p>
-        <figure>
+        <figure xml:id="balzac-50-FC-320">
           <graphic url="50/balzac_50FC_320.jpg"/>
         </figure>
         <p>– Il y a là beaucoup d’esprit, dit Rabourdin en montrant au <pb n="321" xml:id="p321" facs="https://www.ebalzac.com/romans/50-employes/furne-corrige/scans/p321.jpg"/> surnuméraire un front serein comme le fut celui du Sauveur quand on lui mit sa couronne d’épines.</p>

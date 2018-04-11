@@ -84,7 +84,7 @@
       <div>
         <epigraph>
           <pb n="1" xml:id="p1" facs="https://www.ebalzac.com/romans/64-peau-chagrin/furne-corrige/scans/p1.jpg"/>
-          <figure>
+          <figure xml:id="balzac-64-FC-001">
             <graphic url="64/balzac_64FC_001.jpg"/>
           </figure>
           <bibl><hi rend="sc">Sterne</hi> (<title>Tristram Shandy</title>, ch. CCCXXII).</bibl>
@@ -179,7 +179,7 @@
         <p><pb n="26" xml:id="p26" facs="https://www.ebalzac.com/romans/64-peau-chagrin/furne-corrige/scans/p26.jpg"/> – L’industrie du Levant a des secrets qui lui sont réellement particuliers, dit-il en regardant la sentence orientale avec une sorte d’inquiétude.</p>
         <p>– Oui, répondit le vieillard, il vaut mieux s’en prendre aux hommes qu’à Dieu !</p>
         <p>Les paroles mystérieuses étaient disposées de la manière suivante :</p>
-        <figure>
+        <figure xml:id="balzac-64-FC-026">
           <graphic url="64/balzac_64FC_026.jpg"/>
         </figure>
         <p>Ce qui voulait dire en français :</p>
