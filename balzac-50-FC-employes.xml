@@ -467,9 +467,8 @@
             <speaker>Dutocq (<stage>bas à Bixiou</stage>).</speaker>
             <p>J’ai quelque chose à vous dire.</p>
           </sp>
-          <pb n="227" xml:id="p227" facs="https://www.ebalzac.com/romans/50-employes/furne-corrige/scans/p227.jpg"/>
           <sp>
-            <speaker>Bixiou (<stage>tâtant le gilet de Dutocq</stage>).</speaker>
+            <speaker><pb n="227" xml:id="p227" facs="https://www.ebalzac.com/romans/50-employes/furne-corrige/scans/p227.jpg"/> Bixiou (<stage>tâtant le gilet de Dutocq</stage>).</speaker>
             <p>Vous avez un joli gilet qui sans doute ne vous coûte presque rien. Est-ce là le secret ?</p>
           </sp>
           <sp>
@@ -881,7 +880,7 @@
             <p>Je gage cent francs que Baudoyer ne sera jamais Chef de Division.</p>
           </sp>
           <sp>
-            <speaker><pb n="247" xml:id="p247" facs="https://www.ebalzac.com/romans/50-employes/furne-corrige/scans/p247.jpg"/>Vimeux.</speaker>
+            <speaker><pb n="247" xml:id="p247" facs="https://www.ebalzac.com/romans/50-employes/furne-corrige/scans/p247.jpg"/> Vimeux.</speaker>
             <p>Je me mets dans le pari. Vous y mettez-vous, monsieur Poiret ?</p>
           </sp>
           <sp>
@@ -973,7 +972,7 @@
           </sp>
           <sp>
             <speaker>Du Bruel (<stage>lisant</stage>).</speaker>
-            <p rend="i">« Issu d’une vieille souche parlementaire… </p>
+            <p rend="i">« Issu d’une vieille souche parlementaire…</p>
           </sp>
           <sp>
             <speaker>Bixiou.</speaker>
@@ -981,7 +980,7 @@
           </sp>
           <sp>
             <speaker>Du Bruel (<stage>continuant</stage>).</speaker>
-            <p rend="i">« Où le dévouement pour le trône était héréditaire, aussi bien que l’attachement à la foi de nos pères, monsieur de La Billardière… </p>
+            <p rend="i">« Où le dévouement pour le trône était héréditaire, aussi bien que l’attachement à la foi de nos pères, monsieur de La Billardière…</p>
           </sp>
           <sp>
             <speaker>Bixiou.</speaker>
@@ -1006,7 +1005,7 @@
           <sp>
             <speaker>Du Bruel.</speaker>
             <p>Voyez-vous ?…</p>
-            <p rend="i">« En nommant monsieur de La Billardière baron, gentilhomme ordinaire… </p>
+            <p rend="i">« En nommant monsieur de La Billardière baron, gentilhomme ordinaire…</p>
           </sp>
           <sp>
             <speaker>Bixiou (<stage>à part</stage>).</speaker>
@@ -1014,7 +1013,7 @@
           </sp>
           <sp>
             <speaker>Du Bruel (<stage>continuant</stage>).</speaker>
-            <p rend="i">« De la chambre, etc., le roi récompensa tout ensemble les services rendus par le prévôt qui sut concilier la rigueur de ses fonctions avec la mansuétude ordinaire aux Bourbons, et le courage du Vendéen qui n’a pas plié le genou devant l’idole impériale. Il laisse un fils, héritier de son dévouement et de ses talents, etc. </p>
+            <p rend="i">« De la chambre, etc., le roi récompensa tout ensemble les services rendus par le prévôt qui sut concilier la rigueur de ses fonctions avec la mansuétude ordinaire aux Bourbons, et le courage du Vendéen qui n’a pas plié le genou devant l’idole impériale. Il laisse un fils, héritier de son dévouement et de ses talents, etc.</p>
           </sp>
           <sp>
             <speaker><pb n="250" xml:id="p250" facs="https://www.ebalzac.com/romans/50-employes/furne-corrige/scans/p250.jpg"/> Bixiou.</speaker>
@@ -1027,7 +1026,7 @@
           <sp>
             <speaker>Bixiou.</speaker>
             <p>Qu’as-tu mis sur Quiberon ? (<stage>Il lit.</stage>) Ce n’est pas cela ! Voilà comment je rédigerais :</p>
-            <p rend="i">« Il assuma sur lui, dans un ouvrage récemment publié, tous les malheurs de l’expédition de Quiberon, en donnant ainsi la mesure d’un dévouement qui ne reculait devant aucun sacrifice. </p>
+            <p rend="i">« Il assuma sur lui, dans un ouvrage récemment publié, tous les malheurs de l’expédition de Quiberon, en donnant ainsi la mesure d’un dévouement qui ne reculait devant aucun sacrifice.</p>
             <p>C’est fin, spirituel, et tu sauves La Billardière.</p>
           </sp>
           <sp>
@@ -1998,15 +1997,15 @@
             <speaker>Bixiou (<stage>en montrant du doigt un passage</stage>).</speaker>
             <p>Vous voilà, père Saillard.</p>
             <q type="press">
-              <p rend="i"><hi rend="sc">Saillard</hi>. La caisse est à supprimer dans tous les ministères qui doivent avoir leurs comptes courants au Trésor. Saillard est riche et n’a nul besoin de pension. </p>
+              <p rend="i"><hi rend="sc">Saillard</hi>. La caisse est à supprimer dans tous les ministères qui doivent avoir leurs comptes courants au Trésor. Saillard est riche et n’a nul besoin de pension.</p>
             </q>
             <p>Voulez-vous voir votre gendre ? (<stage>Il feuillette.</stage>) Voilà.</p>
             <q type="press">
-              <p rend="i"><hi rend="sc">Baudoyer</hi>. Complétement incapable. Remercié sans pension, il est riche. </p>
+              <p rend="i"><hi rend="sc">Baudoyer</hi>. Complétement incapable. Remercié sans pension, il est riche.</p>
             </q>
             <p>Et l’ami Godard ? (<stage>Il feuillette.</stage>)</p>
             <q type="press">
-              <p rend="i"><hi rend="sc">Godard</hi>. À renvoyer ! une pension du tiers de son traitement. </p>
+              <p rend="i"><hi rend="sc">Godard</hi>. À renvoyer ! une pension du tiers de son traitement.</p>
             </q>
             <p>Enfin nous y sommes tous. Moi je suis <hi rend="i">un artiste à faire employer par la Liste Civile, à l’Opéra, aux Menus-Plaisirs, au Muséum. Beaucoup de capacité, peu de tenue, incapable d’application, esprit remuant</hi>. Ah ! je t’en donnerai de l’artiste !</p>
           </sp>
@@ -2391,7 +2390,7 @@
           <sp>
             <speaker>Bixiou (<stage>voyant entrer Phellion</stage>).</speaker>
             <quote>
-              <p rend="i">Victrix causa diis placuit, sed victa Catoni. </p>
+              <p rend="i">Victrix causa diis placuit, sed victa Catoni.</p>
             </quote>
           </sp>
           <sp>
@@ -2631,7 +2630,7 @@
             <p>Il se rencontre cependant peu d’hommes d’État parmi les préfets. Le préfet serait alors un neutre des Genres supérieurs. Il se trouverait entre l’homme d’État et l’employé, comme le douanier se trouve entre le civil et le militaire. Continuons à débrouiller ces hautes questions. (<stage>Poiret devient rouge.</stage>) Ceci ne peut-il pas se formuler par ce théorème digne de Larochefoucault : Au-dessus de vingt mille francs d’appointements, il n’y a plus d’employés. Nous pouvons mathématiquement en tirer ce premier <hi rend="i">corollaire</hi> : L’homme d’État se déclare dans la sphère des traitements supérieurs. Et ce non moins important et logique deuxième <hi rend="i">corollaire</hi> : Les Directeurs généraux peuvent être des hommes d’État. Peut-être est-ce dans ce sens que plus d’un député se dit : – C’est un bel état que d’être directeur général ! Mais, dans l’intérêt de la langue française et de l’Académie…</p>
           </sp>
           <sp>
-            <speaker><pb n="328" xml:id="p328" facs="https://www.ebalzac.com/romans/50-employes/furne-corrige/scans/p328.jpg"/> POIRET (<stage>tout à fait fasciné par la fixité du regard de Bixiou</stage>).</speaker>
+            <speaker><pb n="328" xml:id="p328" facs="https://www.ebalzac.com/romans/50-employes/furne-corrige/scans/p328.jpg"/> Poiret (<stage>tout à fait fasciné par la fixité du regard de Bixiou</stage>).</speaker>
             <p>La langue française !… l’Académie !…</p>
           </sp>
           <sp>
@@ -2760,7 +2759,7 @@
           </sp>
           <sp>
             <speaker><pb n="333" xml:id="p333" facs="https://www.ebalzac.com/romans/50-employes/furne-corrige/scans/p333.jpg"/> Des Lupeaulx (<stage>après avoir regardé le ministre</stage>).</speaker>
-            <p>Il y a sans doute quelque chose à faire….</p>
+            <p>Il y a sans doute quelque chose à faire…</p>
           </sp>
           <sp>
             <speaker>De La Brière (<stage>timidement</stage>).</speaker>
